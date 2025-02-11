@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="sanzhi">
         <text t_name="patima" annotators="Diana Forker, Nils Schiborr" speaker="SD02">
-            <file f_name="mc_sanzhi_patima" audio="mc_sanzhi_patima.wav" updated="2019-05-11">
+            <file f_name="mc_sanzhi_patima" audio="mc_sanzhi_patima.wav" updated="2021-01-27">
                 <unit uid="0001" start_time="0" end_time="6900">
                     <utterance_id>sanzhi_patima_0001</utterance_id>
                     <utterance>hana dul bursulda χabar, qixːunajla bik'ʷan χabarcab.</utterance>
@@ -99,7 +99,7 @@
                             <gword>rursːi</gword>
                             <gloss>girl</gloss>
                             <graid>nc_np.h</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                             <isnref>new</isnref>
                         </segment>
                     </annotations>
@@ -118,7 +118,7 @@
                             <gword>il</gword>
                             <gloss>that</gloss>
                             <graid>dem_pro.h:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>kulpat-li-cːe-r</gword>
@@ -178,7 +178,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>hitːi-če-r-uq-un</gword>
@@ -211,7 +211,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:a_cps_in</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>qʷaˁrš</gword>
@@ -244,7 +244,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:a_cps_pc</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>qʷaˁrš</gword>
@@ -270,7 +270,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:ncs</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>b-arčː-ib</gword>
@@ -310,7 +310,7 @@
                             <gword>cin-ni</gword>
                             <gloss>REFL.SG-ERG</gloss>
                             <graid>refl.h:a_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>a-b-erkʷ-un-ne</gword>
@@ -332,7 +332,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:a_cpa</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>turba-le-r</gword>
@@ -399,7 +399,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:a</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>ʡaˁči</gword>
@@ -425,7 +425,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>či-r-ka-r-uq-un</gword>
@@ -591,7 +591,7 @@
                             <gword>il</gword>
                             <gloss>that</gloss>
                             <graid>dem_pro.h:s_ds_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>r-ik'-ul</gword>
@@ -633,7 +633,7 @@
                             <gword>du-l</gword>
                             <gloss>1SG-ERG</gloss>
                             <graid>pro.1:a_pc</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur-re</gword>
@@ -656,7 +656,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.1:a_pc</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>ka-d-iqː-an-da</gword>
@@ -711,7 +711,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:s_ds_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>r-ik'-ul</gword>
@@ -823,13 +823,18 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
+                            <graid>##</graid>
+                        </segment>
+                        <segment>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cv</graid>
                         </segment>
                         <segment>
                             <gword>pat'ima-l</gword>
                             <gloss>Patima-ERG</gloss>
                             <graid>pn_np.h:a_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>h-asː-ib-le</gword>
@@ -849,15 +854,15 @@
                             <graid>=other</graid>
                         </segment>
                         <segment>
-                            <gword>#</gword>
-                            <gloss>#</gloss>
-                            <graid>##</graid>
+                            <gword>%</gword>
+                            <gloss>%</gloss>
+                            <graid>%</graid>
                         </segment>
                         <segment>
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur</gword>
@@ -894,7 +899,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:ncs_cpa</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>suk</gword>
@@ -939,7 +944,7 @@
                             <gword>Pat'ima</gword>
                             <gloss>Patima</gloss>
                             <graid>pn_np.h:voc</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>b-ik'-ul</gword>
@@ -971,7 +976,7 @@
                             <gword>0</gword>
                             <gloss>0_you</gloss>
                             <graid>0.2:s_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>tːura-r-uq-un-ne-de</gword>
@@ -992,7 +997,7 @@
                             <gword>0</gword>
                             <gloss>0_you</gloss>
                             <graid>0.2:s_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>arg-ul-de</gword>
@@ -1015,7 +1020,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:a_ds</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>hel-itːe</gword>
@@ -1070,7 +1075,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.1:s_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>arg-ul-da</gword>
@@ -1146,7 +1151,7 @@
                             <gword>Pat'ima</gword>
                             <gloss>Patima</gloss>
                             <graid>pn_np.h:s_ds_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -1352,7 +1357,7 @@
                             <gword>Pat'ima</gword>
                             <gloss>Patima</gloss>
                             <graid>pn_np.h:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur</gword>
@@ -1426,7 +1431,7 @@
                             <gword>Pat'ima-la</gword>
                             <gloss>Patima-GEN</gloss>
                             <graid>ln_pn_np.h:poss</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>qili</gword>
@@ -1525,7 +1530,7 @@
                             <gword>hel-i-la</gword>
                             <gloss>that-OBL-GEN</gloss>
                             <graid>ln_dem_pro.h:poss</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>ruc-be</gword>
@@ -1559,7 +1564,7 @@
                             <gword>Pat'ima</gword>
                             <gloss>Patima</gloss>
                             <graid>pn_np.h:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>qili</gword>
@@ -1598,7 +1603,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:s_cps_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>er</gword>
@@ -1669,7 +1674,7 @@
                             <gword>il</gword>
                             <gloss>that</gloss>
                             <graid>dem_pro.h:s_cpa</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>šak</gword>
@@ -1747,7 +1752,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:s_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>ka-r-iž-ib-le</gword>
@@ -1763,7 +1768,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>r-isː-ul</gword>
@@ -1789,7 +1794,7 @@
                             <gword>hel-ka</gword>
                             <gloss>that-down</gloss>
                             <graid>dem_pro.h:other</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>satːi</gword>
@@ -1833,7 +1838,7 @@
                             <gword>hel</gword>
                             <gloss>that</gloss>
                             <graid>dem_pro.h:p</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -1856,7 +1861,7 @@
                             <gword>Pat'ima</gword>
                             <gloss>Patima</gloss>
                             <graid>pn_np.h:voc</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>b-ik'-ul</gword>
@@ -1888,7 +1893,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.2:s_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>r-isː-ul-de</gword>
@@ -1931,7 +1936,7 @@
                             <gword>Pat'ima</gword>
                             <gloss>Patima</gloss>
                             <graid>pn_np.h:a_ds</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>r-urs-ib</gword>
@@ -1995,7 +2000,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:s_ds_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>r-ik'-ul</gword>
@@ -2006,6 +2011,11 @@
                             <gword>ca-r</gword>
                             <gloss>be-F</gloss>
                             <graid>rv_aux</graid>
+                        </segment>
+                        <segment>
+                            <gword>%</gword>
+                            <gloss>%</gloss>
+                            <graid>%</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -2026,7 +2036,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>b-arq'-idel</gword>
@@ -2042,7 +2052,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:ncs_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>a-b-alχ-ul-da</gword>
@@ -2082,7 +2092,7 @@
                             <gword>at</gword>
                             <gloss>2SG.DAT</gloss>
                             <graid>pro.2:obl</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>kumek</gword>
@@ -2125,7 +2135,7 @@
                             <gword>0</gword>
                             <gloss>0_you</gloss>
                             <graid>0.2:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>ma-r-isː-utː-a</gword>
@@ -2372,7 +2382,7 @@
                             <gword>u</gword>
                             <gloss>2SG</gloss>
                             <graid>pro.2:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>%</gword>
@@ -2436,7 +2446,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:s_ds_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>r-ik'-ul</gword>
@@ -2457,7 +2467,7 @@
                             <gword>Pat'ima</gword>
                             <gloss>Patima</gloss>
                             <graid>pn_np.h:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>=ra</gword>
@@ -3377,7 +3387,7 @@
                 <unit uid="0035" start_time="254671" end_time="265582">
                     <utterance_id>sanzhi_patima_0035</utterance_id>
                     <utterance>kːaza k'at'a qixːunaj, kːaza k'at'a qixːunaj, c'il helka duc'rik'ul tːura ričibcar Pat'ima, kːaza k'at'ara haqːible.</utterance>
-                    <utterance_translation>“Fork, spade, qixunaj! Fork, spade, qixunaj!“, then Patima ran there, she showed up there carrying a fork and a spade.</utterance_translation>
+                    <utterance_translation>“Fork, spade, qixunaj! Fork, spade, qixunaj!“, then, running down there, Patima arrived carrying a fork and a spade.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3421,20 +3431,20 @@
                             <graid>##</graid>
                         </segment>
                         <segment>
-                            <gword>#</gword>
-                            <gloss>#</gloss>
-                            <graid>#cv</graid>
-                        </segment>
-                        <segment>
                             <gword>c'il</gword>
                             <gloss>then</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#cv</graid>
+                        </segment>
+                        <segment>
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
-                            <graid>0.h:s_cps_cv</graid>
-                            <refind>600</refind>
+                            <graid>0.h:s_cv</graid>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>hel-ka</gword>
@@ -3444,7 +3454,7 @@
                         <segment>
                             <gword>duc'</gword>
                             <gloss>run</gloss>
-                            <graid>other:lvc</graid>
+                            <graid>lv_v</graid>
                         </segment>
                         <segment>
                             <gword>r-ik'-ul</gword>
@@ -3470,7 +3480,7 @@
                             <gword>Pat'ima</gword>
                             <gloss>Patima</gloss>
                             <graid>pn_np.h:s</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -3481,7 +3491,7 @@
                             <gword>0</gword>
                             <gloss>0_Patima</gloss>
                             <graid>0.h:a_cv</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>kːaza</gword>
@@ -3500,7 +3510,7 @@
                         <segment>
                             <gword>=ra</gword>
                             <gloss>=and</gloss>
-                            <graid>=other</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>h-aqː-ib-le</gword>
@@ -3636,7 +3646,7 @@
                             <gword>cin-na</gword>
                             <gloss>REFL.SG-GEN</gloss>
                             <graid>ln_refl.h:poss</graid>
-                            <refind>600</refind>
+                            <refind>630</refind>
                         </segment>
                         <segment>
                             <gword>ruc-be</gword>

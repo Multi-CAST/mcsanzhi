@@ -1,6 +1,6 @@
 corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 sanzhi	asabali	0001	#	#	##	##				
-sanzhi	asabali	0001	χalq'	people	np.h:s	np	h	s	100	bridging
+sanzhi	asabali	0001	χalq'	people	np.h:s	np	h	s	172	bridging
 sanzhi	asabali	0001	kːuš-le-de	hungry-ADVZ-PST	other:pred	other		pred		
 sanzhi	asabali	0001	#	#	##	##				
 sanzhi	asabali	0001	0	0	0:s	0		s	167	bridging
@@ -545,7 +545,7 @@ sanzhi	asabali	0050	arc	money	np:p	np		p	155	new
 sanzhi	asabali	0050	ha-asː-ib-te-de	upwards-take.PFV-PRET-ATTR.PL-PST	v:pred	v		pred		
 sanzhi	asabali	0051	#	#	##neg	##neg				
 sanzhi	asabali	0051	nu	well	other	other				
-sanzhi	asabali	0051	0	0_I	pro.1:ncs	pro	1	ncs	103	
+sanzhi	asabali	0051	0	0_I	0.1:ncs	0	1	ncs	103	
 sanzhi	asabali	0051	hana	now	other	other				
 sanzhi	asabali	0051	han	remember	other:lvc	other		lvc		
 sanzhi	asabali	0051	d-il-akːu	NPL-remain.PFV-NEG	v:pred	v		pred		
@@ -602,8 +602,7 @@ sanzhi	asabali	0054	#	#	##	##
 sanzhi	asabali	0054	0	0_people	0.h:s	0	h	s	157	new
 sanzhi	asabali	0054	ha-b-eʁ-ib	upwards-HPL-go.PFV-PRET	v:pred	v		pred		
 sanzhi	asabali	0054	#	#	#cv	#cv				
-sanzhi	asabali	0054	#	#	#cv	#cv				
-sanzhi	asabali	0054	parkuror	procurator[R]	np.h:s_cps_ds_cv	np	h	s_cps_ds_cv	158	new
+sanzhi	asabali	0054	parkuror	procurator[R]	np.h:s_ds_cps_cv	np	h	s_ds_cps_cv	158	new
 sanzhi	asabali	0054	#	#	#ds_cv	#ds_cv				
 sanzhi	asabali	0054	wallah	by.God	other	other				
 sanzhi	asabali	0054	u	2SG	pro.2:s_cv	pro	2	s_cv	103	
@@ -614,7 +613,7 @@ sanzhi	asabali	0054	%	%	%	%
 sanzhi	asabali	0054	waˁw	call	other:lvc	other		lvc		
 sanzhi	asabali	0054	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
 sanzhi	asabali	0054	ca-b	be-N	rv_aux	rv_aux				
-sanzhi	asabali	0054	%	%	%	%				
+sanzhi	asabali	0054	#	#	#cv	#cv				
 sanzhi	asabali	0054	0	0_people	0.h:s_ds_cv	0	h	s_ds_cv	157	
 sanzhi	asabali	0054	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
 sanzhi	asabali	0054	#	#	##	##				

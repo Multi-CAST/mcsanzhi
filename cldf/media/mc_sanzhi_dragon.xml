@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="sanzhi">
         <text t_name="dragon" annotators="Diana Forker, Nils Schiborr" speaker="SD02">
-            <file f_name="mc_sanzhi_dragon" audio="mc_sanzhi_dragon.wav" updated="2019-05-26">
+            <file f_name="mc_sanzhi_dragon" audio="mc_sanzhi_dragon.wav" updated="2021-01-27">
                 <unit uid="0001" start_time="0" end_time="14891">
                     <utterance_id>sanzhi_dragon_0001</utterance_id>
                     <utterance>ca šːilcːeb ca kulpat, χula kulpat bužibcab, iltːacːer ca rursːi ružibcar har zamana kːušle aluqːan.</utterance>
@@ -22,7 +22,7 @@
                             <gword>šːi-l-cːe-b</gword>
                             <gloss>village-OBL-IN-N</gloss>
                             <graid>np:l</graid>
-                            <refind>300</refind>
+                            <refind>329</refind>
                             <isnref>new</isnref>
                         </segment>
                         <segment>
@@ -597,7 +597,7 @@
                             <gword>šːa</gword>
                             <gloss>village.ERG</gloss>
                             <graid>np:g</graid>
-                            <refind>300</refind>
+                            <refind>329</refind>
                         </segment>
                         <segment>
                             <gword>zunra</gword>
@@ -879,7 +879,7 @@
                             <gword>šːi-l-cːe-w</gword>
                             <gloss>village-OBL-IN-M</gloss>
                             <graid>np:l</graid>
-                            <refind>300</refind>
+                            <refind>329</refind>
                         </segment>
                         <segment>
                             <gword>er</gword>
@@ -1065,13 +1065,13 @@
                         <segment>
                             <gword>itːi</gword>
                             <gloss>3PL</gloss>
-                            <graid>dem_pro.h:s_ds_pc</graid>
-                            <refind>311</refind>
+                            <graid>ln_dem</graid>
                         </segment>
                         <segment>
                             <gword>χalq'</gword>
                             <gloss>people</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>np.h:s_ds_pc</graid>
+                            <refind>311</refind>
                         </segment>
                         <segment>
                             <gword>b-ik'ʷ-an</gword>
@@ -1098,6 +1098,11 @@
                             <gword>b-urkː-ar</gword>
                             <gloss>N-find.IPFV-PRS</gloss>
                             <graid>v:pred</graid>
+                        </segment>
+                        <segment>
+                            <gword>%</gword>
+                            <gloss>%</gloss>
+                            <graid>%</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -1146,6 +1151,11 @@
                             <gword>ha-ʔ-ib-le-kːu</gword>
                             <gloss>upwards-say.PFV-PRET-CVB-NEG</gloss>
                             <graid>v:pred</graid>
+                        </segment>
+                        <segment>
+                            <gword>%</gword>
+                            <gloss>%</gloss>
+                            <graid>%</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -2404,7 +2414,7 @@
                             <gword>šːi-l-cːe-d</gword>
                             <gloss>village-OBL-IN-NPL</gloss>
                             <graid>ln_np</graid>
-                            <refind>300</refind>
+                            <refind>329</refind>
                         </segment>
                         <segment>
                             <gword>χu-d-a-j</gword>
@@ -2776,7 +2786,7 @@
                         </segment>
                         <segment>
                             <gword>iltːi</gword>
-                            <gloss>3PL</gloss>
+                            <gloss>those</gloss>
                             <graid>ln_dem</graid>
                         </segment>
                         <segment>
@@ -3614,7 +3624,7 @@
                         <segment>
                             <gword>libil</gword>
                             <gloss>all&lt;HPL&gt;</gloss>
-                            <graid>np.h:s_cps_ds</graid>
+                            <graid>np.h:s_ds_cps</graid>
                             <refind>307</refind>
                         </segment>
                         <segment>

@@ -1,7 +1,7 @@
 corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 sanzhi	dragon	0001	#	#	##	##				
 sanzhi	dragon	0001	ca	one	ln_deti	ln_deti				
-sanzhi	dragon	0001	šːi-l-cːe-b	village-OBL-IN-N	np:l	np		l	300	new
+sanzhi	dragon	0001	šːi-l-cːe-b	village-OBL-IN-N	np:l	np		l	329	new
 sanzhi	dragon	0001	ca	one	ln_deti	ln_deti				
 sanzhi	dragon	0001	kulpat	family	np.h:s	np	h	s	301	new
 sanzhi	dragon	0001	χula	big	ln_adj	ln_adj				
@@ -100,7 +100,7 @@ sanzhi	dragon	0006	saˁ-q'-aˁn	hither-go-PTCP	v:pred	v		pred
 sanzhi	dragon	0006	%	%	%	%				
 sanzhi	dragon	0006	zamana	time	np:other	np		other		
 sanzhi	dragon	0006	ču-la	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss	310	
-sanzhi	dragon	0006	šːa	village.ERG	np:g	np		g	300	
+sanzhi	dragon	0006	šːa	village.ERG	np:g	np		g	329	
 sanzhi	dragon	0006	zunra	neighbour	ln	ln				
 sanzhi	dragon	0006	šːan-te	fellow.villager-PL	np.h:s_ds_cv	np	h	s_ds_cv	311	new
 sanzhi	dragon	0006	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
@@ -149,7 +149,7 @@ sanzhi	dragon	0008	ag-ur	go.PFV-PRET	v:pred	v		pred
 sanzhi	dragon	0008	ca-w	be-M	rv_aux	rv_aux				
 sanzhi	dragon	0009	#	#	#cv	#cv				
 sanzhi	dragon	0009	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
-sanzhi	dragon	0009	šːi-l-cːe-w	village-OBL-IN-M	np:l	np		l	300	
+sanzhi	dragon	0009	šːi-l-cːe-w	village-OBL-IN-M	np:l	np		l	329	
 sanzhi	dragon	0009	er	look	other:lvc	other		lvc		
 sanzhi	dragon	0009	ik'-ul	look.at.IPFV-ICVB	v:pred	v		pred		
 sanzhi	dragon	0009	ca-w	be-M	rv_aux	rv_aux				
@@ -182,13 +182,14 @@ sanzhi	dragon	0011	ič-ib	occur.PFV-PRET	v:pred	v		pred
 sanzhi	dragon	0011	ca-w	be-M	rv_aux	rv_aux				
 sanzhi	dragon	0011	#	#	#cc:p	#cc		p		
 sanzhi	dragon	0011	#	#	#cc_pc:p	#cc_pc		p		
-sanzhi	dragon	0011	itːi	3PL	dem_pro.h:s_ds_pc	dem_pro	h	s_ds_pc	311	
-sanzhi	dragon	0011	χalq'	people	np.h:poss	np	h	poss		
+sanzhi	dragon	0011	itːi	3PL	ln_dem	ln_dem				
+sanzhi	dragon	0011	χalq'	people	np.h:s_ds_pc	np	h	s_ds_pc	311	
 sanzhi	dragon	0011	b-ik'ʷ-an	HPL-say.IPFV-PTCP	v:pred	v		pred		
 sanzhi	dragon	0011	mar	truth	np:p	np		p		
 sanzhi	dragon	0011	%	%	%	%				
 sanzhi	dragon	0011	0	0_brother	0.h:ncs	0	h	ncs	310	
 sanzhi	dragon	0011	b-urkː-ar	N-find.IPFV-PRS	v:pred	v		pred		
+sanzhi	dragon	0011	%	%	%	%				
 sanzhi	dragon	0011	#	#	#cv.neg	#cv.neg				
 sanzhi	dragon	0011	#	#	#cv	#cv				
 sanzhi	dragon	0011	0	0_brother	0.h:s_ds_cv	0	h	s_ds_cv	310	
@@ -198,6 +199,7 @@ sanzhi	dragon	0011	0	0_brother	0.h:a_ds	0	h	a_ds	310
 sanzhi	dragon	0011	il-i-cːe	that-OBL-IN	dem_pro.h:g	dem_pro	h	g	302	
 sanzhi	dragon	0011	cik'al	something	indef_other:p	indef_other		p		
 sanzhi	dragon	0011	ha-ʔ-ib-le-kːu	upwards-say.PFV-PRET-CVB-NEG	v:pred	v		pred		
+sanzhi	dragon	0011	%	%	%	%				
 sanzhi	dragon	0012	#	#	#cv	#cv				
 sanzhi	dragon	0012	rucːi	sister	np.h:s	np	h	s	302	
 sanzhi	dragon	0012	razi	happy	other:pred	other		pred		
@@ -416,7 +418,7 @@ sanzhi	dragon	0025	%	%	%	%
 sanzhi	dragon	0025	0	0_brother	f0.h:s_cps_in	f0	h	s_cps_in	310	
 sanzhi	dragon	0025	waˁw	cry	other:lvc	other		lvc		
 sanzhi	dragon	0025	ik'ʷ-ij	say.IPFV-INF1	v:pred	v		pred		
-sanzhi	dragon	0025	šːi-l-cːe-d	village-OBL-IN-NPL	ln_np	ln_np			300	
+sanzhi	dragon	0025	šːi-l-cːe-d	village-OBL-IN-NPL	ln_np	ln_np			329	
 sanzhi	dragon	0025	χu-d-a-j	dog-PL-OBL-DAT	np:g	np		g	319	bridging
 sanzhi	dragon	0026	#	#	##	##				
 sanzhi	dragon	0026	kːalkːi	tree	np:s	np		s	318	
@@ -479,7 +481,7 @@ sanzhi	dragon	0030	=ra	=and	=other	=other
 sanzhi	dragon	0030	0	0_sound	0:p	0		p	328	bridging
 sanzhi	dragon	0030	t'am	sound	other:lvc	other		lvc		
 sanzhi	dragon	0030	b-aq'-ib-le-kːu	N-hear.PFV-PRET-CVB-NEG	v:pred	v		pred		
-sanzhi	dragon	0030	iltːi	3PL	ln_dem	ln_dem				
+sanzhi	dragon	0030	iltːi	those	ln_dem	ln_dem				
 sanzhi	dragon	0030	χu-d-a-j	dog-PL-OBL-DAT	np:ncs_cpa_pc	np		ncs_cpa_pc	319	
 sanzhi	dragon	0030	%	%	%	%				
 sanzhi	dragon	0030	il	that	ln_dem	ln_dem				
@@ -625,7 +627,7 @@ sanzhi	dragon	0039	hel-tːi	that-PL	ln_dem	ln_dem
 sanzhi	dragon	0039	šːan-te	fellow.villager-PL	np.h:p	np	h	p	307	
 sanzhi	dragon	0039	=ra	=and	=other	=other				
 sanzhi	dragon	0039	#	#	#ac	#ac				
-sanzhi	dragon	0039	libil	all<HPL>	np.h:s_cps_ds	np	h	s_cps_ds	307	
+sanzhi	dragon	0039	libil	all<HPL>	np.h:s_ds_cps	np	h	s_ds_cps	307	
 sanzhi	dragon	0039	razi-l	happy-ADVZ	other	other				
 sanzhi	dragon	0039	barkalla	thanks	other:lvc	other		lvc		
 sanzhi	dragon	0039	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		

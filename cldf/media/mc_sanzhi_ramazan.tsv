@@ -2,29 +2,29 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 sanzhi	ramazan	0001	#	#	##	##				
 sanzhi	ramazan	0001	ha-jʁ-ib	upwards-come.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0001	ca-w	be-M	rv_aux	rv_aux				
-sanzhi	ramazan	0001	karispendent	journalist[R]	np.h:s	np	h	s	700	new
+sanzhi	ramazan	0001	karispendent	journalist[R]	np.h:s	np	h	s	711	new
 sanzhi	ramazan	0001	kːazat-la	newspaper-GEN	rn_np:poss	rn_np		poss		
 sanzhi	ramazan	0001	#	#	#ac_in	#ac_in				
-sanzhi	ramazan	0001	0	0_journalist	0.h:a_in	0	h	a_in	700	
+sanzhi	ramazan	0001	0	0_journalist	0.h:a_in	0	h	a_in	711	
 sanzhi	ramazan	0001	Tawlu-j	Tawlu-DAT	pn_np.h:obl	pn_np	h	obl	701	bridging
 sanzhi	ramazan	0001	ce	what	intrg_other:p	intrg_other		p		
 sanzhi	ramazan	0001	b-arq'-ij	N-do.PFV-INF1	v:pred	v		pred		
 sanzhi	ramazan	0001	heχ	DEM.down	other	other				
 sanzhi	ramazan	0002	#	#	#cv	#cv				
-sanzhi	ramazan	0002	0	0_journalist	0.h:a_cv	0	h	a_cv	700	
+sanzhi	ramazan	0002	0	0_journalist	0.h:a_cv	0	h	a_cv	711	
 sanzhi	ramazan	0002	statja	article[R]	np:p	np		p	702	bridging
 sanzhi	ramazan	0002	b-elk'-un-ne	N-write.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0002	kak	as[R]	adp	adp				
 sanzhi	ramazan	0002	peredowik-li-j	leading[R]-OBL-DAT	np.h:other	np	h	other		
 sanzhi	ramazan	0003	#	#	##	##				
 sanzhi	ramazan	0003	nu	well	other	other				
-sanzhi	ramazan	0003	0	0_journalist	0.h:a	0	h	a	700	
+sanzhi	ramazan	0003	0	0_journalist	0.h:a	0	h	a	711	
 sanzhi	ramazan	0003	b-elk'-un	N-write.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0003	ca-b	be-N	rv_aux	rv_aux				
 sanzhi	ramazan	0003	qːuʁa-ce	beautiful-ATTR.SG	ln_adj	ln_adj				
 sanzhi	ramazan	0003	statja	article[R]	np:p	np		p	702	
 sanzhi	ramazan	0003	#	#	##	##				
-sanzhi	ramazan	0003	heχ-i-l	DEM.down-OBL-ERG	dem_pro.h:a_cpa	dem_pro	h	a_cpa	700	
+sanzhi	ramazan	0003	heχ-i-l	DEM.down-OBL-ERG	dem_pro.h:a_cpa	dem_pro	h	a_cpa	711	
 sanzhi	ramazan	0003	ħaˁdur	ready	other:lvc	other		lvc		
 sanzhi	ramazan	0003	b-arq'-ib	N-do.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0003	ca-b	be-N	rv_aux	rv_aux				
@@ -68,10 +68,10 @@ sanzhi	ramazan	0006	0	0_Tawlu	0.h:s_ds_cv	0	h	s_ds_cv	701
 sanzhi	ramazan	0006	familija	surname[R]	np:other	np		other	703	bridging
 sanzhi	ramazan	0006	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
 sanzhi	ramazan	0006	ca-w	be-M	rv_aux	rv_aux				
-sanzhi	ramazan	0006	heχ-i-cːe	DEM.down-OBL-IN	dem_pro.h:g	dem_pro	h	g	700	
+sanzhi	ramazan	0006	heχ-i-cːe	DEM.down-OBL-IN	dem_pro.h:g	dem_pro	h	g	711	
 sanzhi	ramazan	0006	iχ	DEM.down	other	other				
 sanzhi	ramazan	0007	#	#	#cv	#cv				
-sanzhi	ramazan	0007	iχ	DEM.down	dem_pro.h:g	dem_pro	h	g	700	
+sanzhi	ramazan	0007	iχ	DEM.down	dem_pro.h:g	dem_pro	h	g	711	
 sanzhi	ramazan	0007	Tawlu	Tawlu	pn_np.h:s_ds_cv	pn_np	h	s_ds_cv	701	
 sanzhi	ramazan	0007	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
 sanzhi	ramazan	0007	žaˁparow	Zhaparov	pn_np:other	pn_np		other		
@@ -87,58 +87,58 @@ sanzhi	ramazan	0010	iχ-ub-le	be.PFV-PRET-CVB	v:pred	v		pred
 sanzhi	ramazan	0010	#	#	#cv	#cv				
 sanzhi	ramazan	0010	#	#	#cc_pc	#cc_pc				
 sanzhi	ramazan	0010	0	0_Tawlu	0.h:a_pc	0	h	a_pc	701	
-sanzhi	ramazan	0010	ca-w	REFL-M	refl.h:p	refl	h	p	700	
+sanzhi	ramazan	0010	ca-w	REFL-M	refl.h:p	refl	h	p	711	
 sanzhi	ramazan	0010	dukal	smile	np:other	np		other		
 sanzhi	ramazan	0010	=tːi	=after	=adp	=adp				
 sanzhi	ramazan	0010	kerħ-aˁn	make.fun.IPFV.M-PTCP	v:pred	v		pred		
 sanzhi	ramazan	0010	ca-w	be-M	rv_aux	rv_aux				
 sanzhi	ramazan	0010	%	%	%	%				
-sanzhi	ramazan	0010	0	0_journalist	0.h:s_ds_cv	0	h	s_ds_cv	700	
+sanzhi	ramazan	0010	0	0_journalist	0.h:s_ds_cv	0	h	s_ds_cv	711	
 sanzhi	ramazan	0010	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
 sanzhi	ramazan	0010	#	#	##	##				
-sanzhi	ramazan	0010	0	0_journalist	0.h:a	0	h	a	700	
+sanzhi	ramazan	0010	0	0_journalist	0.h:a	0	h	a	711	
 sanzhi	ramazan	0010	žaˁndaruw	Zhandaruv	ln_pn_np	ln_pn_np				
 sanzhi	ramazan	0010	Tawlu	Tawlu	ln_pn_np	ln_pn_np				
 sanzhi	ramazan	0010	Tawluewič	Tawluevich	pn_np:p	pn_np		p		
 sanzhi	ramazan	0010	b-elk'-un-ne-de	N-write.PFV-PRET-CVB-PST	v:pred	v		pred		
 sanzhi	ramazan	0011	#	#	##	##				
-sanzhi	ramazan	0011	0	0_journalist	0.h:a	0	h	a	700	
+sanzhi	ramazan	0011	0	0_journalist	0.h:a	0	h	a	711	
 sanzhi	ramazan	0011	Tawlu	Tawlu	ln_pn_np	ln_pn_np				
 sanzhi	ramazan	0011	žaˁndaruwič	Zhandarovich	pn_np:p	pn_np		p		
 sanzhi	ramazan	0011	b-elk'-un-ne-de	N-write.PFV-PRET-CVB-PST	v:pred	v		pred		
 sanzhi	ramazan	0012	[AUD]	[AUD]	[AUD]	[AUD]				
 sanzhi	ramazan	0012	#	#	#nc	#nc				
-sanzhi	ramazan	0012	ca-w	REFL-M	nc_refl.h	nc_refl	h		700	
+sanzhi	ramazan	0012	ca-w	REFL-M	nc_refl.h	nc_refl	h		711	
 sanzhi	ramazan	0012	qːumuqlan-de	Kumyk-PST	nc	nc				
 sanzhi	ramazan	0012	=w	=Q	nc	nc				
 sanzhi	ramazan	0013	#	#	#nc	#nc				
 sanzhi	ramazan	0013	aʔa	no	nc	nc				
-sanzhi	ramazan	0013	0	0_journalist	nc_0.h	nc_0	h		700	
+sanzhi	ramazan	0013	0	0_journalist	nc_0.h	nc_0	h		711	
 sanzhi	ramazan	0013	darkːʷan-de	Dargwa-PST	nc	nc				
 sanzhi	ramazan	0014	#	#	#cv	#cv				
 sanzhi	ramazan	0014	c'il	then	other	other				
 sanzhi	ramazan	0014	0	0_Tawlu	0.h:ncs_cv	0	h	ncs_cv	701	
-sanzhi	ramazan	0014	0	0_journalist	0.h:p	0	h	p	700	
+sanzhi	ramazan	0014	0	0_journalist	0.h:p	0	h	p	711	
 sanzhi	ramazan	0014	w-arčː-ib-le	M-find.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0014	#	#	#cv	#cv				
 sanzhi	ramazan	0014	0	0_they	0.h:a_cv	0	h	a_cv	796	bridging
 sanzhi	ramazan	0014	hel	that	ln_dem	ln_dem			701	
 sanzhi	ramazan	0014	wstreča	meet[R]	np:p	np		p		
 sanzhi	ramazan	0014	b-arq'-ib-le	N-do.PFV-PRET-CVB	v:pred	v		pred		
-sanzhi	ramazan	0014	hel-i-cːella	that-OBL-COMIT	dem_pro.h:obl	dem_pro	h	obl	700	
+sanzhi	ramazan	0014	hel-i-cːella	that-OBL-COMIT	dem_pro.h:obl	dem_pro	h	obl	711	
 sanzhi	ramazan	0015	#	#	##ds	##ds				
 sanzhi	ramazan	0015	cellij	why	other	other				
-sanzhi	ramazan	0015	0	0_journalist	0.2:s	0	2	s	700	
+sanzhi	ramazan	0015	0	0_journalist	0.2:s	0	2	s	711	
 sanzhi	ramazan	0015	ik'-ul-de	say.IPFV-ICVB-PST	v:pred	v		pred		
 sanzhi	ramazan	0015	heχ	DEM.down	dem_pro:other	dem_pro		other		
 sanzhi	ramazan	0015	=ʁuna	=EQ	=other	=other				
 sanzhi	ramazan	0015	#	#	##ds	##ds				
 sanzhi	ramazan	0015	0	0_this	0:p	0		p	704	bridging
 sanzhi	ramazan	0015	b-arq'-ib-de	N-do.PFV-PRET-PST	v:pred	v		pred		
-sanzhi	ramazan	0015	u-l	2SG-ERG	pro.2:a	pro	2	a	700	
+sanzhi	ramazan	0015	u-l	2SG-ERG	pro.2:a	pro	2	a	711	
 sanzhi	ramazan	0016	#	#	##ds	##ds				
 sanzhi	ramazan	0016	cellij	why	other	other				
-sanzhi	ramazan	0016	0	0_journalist	0.2:a_cpa	0	2	a_cpa	700	
+sanzhi	ramazan	0016	0	0_journalist	0.2:a_cpa	0	2	a_cpa	711	
 sanzhi	ramazan	0016	oskorbit	insult[R]	other:lvc	other		lvc		
 sanzhi	ramazan	0016	w-arq'-ib-de	M-do.PFV-PRET-PST	v:pred	v		pred		
 sanzhi	ramazan	0016	admi-la	person-GEN	ln_np.h:poss	ln_np	h	poss		
@@ -148,35 +148,35 @@ sanzhi	ramazan	0018	#	#	#ds_cv	#ds_cv
 sanzhi	ramazan	0018	waħ	wah	other	other				
 sanzhi	ramazan	0018	cin-ni	REFL.SG-ERG	refl.h:a_cv	refl	h	a_cv	701	
 sanzhi	ramazan	0018	#	#	##	##				
-sanzhi	ramazan	0018	0	0_journalist	0.h:s_ds	0	h	s_ds	700	
+sanzhi	ramazan	0018	0	0_journalist	0.h:s_ds	0	h	s_ds	711	
 sanzhi	ramazan	0018	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
 sanzhi	ramazan	0018	%	%	%	%				
 sanzhi	ramazan	0018	0	0_Tawlu	0.h:a	0	h	a	701	
-sanzhi	ramazan	0018	du	1SG	pro.1:p	pro	1	p	700	
+sanzhi	ramazan	0018	du	1SG	pro.1:p	pro	1	p	711	
 sanzhi	ramazan	0018	ce	what	other	other				
 sanzhi	ramazan	0018	w-arq'-ib-le	M-do.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0018	#	#	#ds_cv.neg	#ds_cv.neg				
-sanzhi	ramazan	0018	du-l	1SG-ERG	pro.1:a_cv	pro	1	a_cv	700	
+sanzhi	ramazan	0018	du-l	1SG-ERG	pro.1:a_cv	pro	1	a_cv	711	
 sanzhi	ramazan	0018	cel	why	other	other				
 sanzhi	ramazan	0018	0	0_that	0:p	0		p	797	bridging
 sanzhi	ramazan	0018	a-w-arq'-an-ne	NEG-M-do.PFV-PTCP-CVB	v:pred	v		pred		
 sanzhi	ramazan	0018	ca-w	be-M	rv_aux	rv_aux				
 sanzhi	ramazan	0019	#	#	#cv	#cv				
 sanzhi	ramazan	0019	0	0_Tawlu	0.h:a_cv	0	h	a_cv	701	
-sanzhi	ramazan	0019	0	0_journalist	0.h:obl	0	h	obl	700	
+sanzhi	ramazan	0019	0	0_journalist	0.h:obl	0	h	obl	711	
 sanzhi	ramazan	0019	pasport	passport[R]	np:p	np		p	705	bridging
 sanzhi	ramazan	0019	či-w-až-aq-ib-le	SPR-M-see.PFV-CAUS-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0019	#	#	##	##				
-sanzhi	ramazan	0019	0	0_journalist	0.h:s_cps	0	h	s_cps	700	
+sanzhi	ramazan	0019	0	0_journalist	0.h:s_cps	0	h	s_cps	711	
 sanzhi	ramazan	0019	izwinitsja	apologize[R]	other:lvc	other		lvc		
 sanzhi	ramazan	0019	iχ-ub	become.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0019	c'il	then	other	other				
 sanzhi	ramazan	0020	#	#	##ds	##ds				
-sanzhi	ramazan	0020	du	1SG	pro.1:s_cps	pro	1	s_cps	700	
+sanzhi	ramazan	0020	du	1SG	pro.1:s_cps	pro	1	s_cps	711	
 sanzhi	ramazan	0020	ʡaˁsi	angry	other:lvc	other		lvc		
 sanzhi	ramazan	0020	iχ-ub-da	be.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0020	#	#	##	##				
-sanzhi	ramazan	0020	0	0_journalist	0.h:s_ds	0	h	s_ds	700	
+sanzhi	ramazan	0020	0	0_journalist	0.h:s_ds	0	h	s_ds	711	
 sanzhi	ramazan	0020	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
 sanzhi	ramazan	0020	#	#	#ds_ac_pc	#ds_ac_pc				
 sanzhi	ramazan	0020	heχ	DEM.down	dem_pro:p	dem_pro		p	706	bridging
@@ -184,12 +184,12 @@ sanzhi	ramazan	0020	Tawlu	Tawlu	pn_np.h:s_ds	pn_np	h	s_ds	701
 sanzhi	ramazan	0020	b-ik'ʷ-an	N-say.IPFV-PTCP	v:pred	v		pred		
 sanzhi	ramazan	0020	=qːella	=when	=adp	=adp				
 sanzhi	ramazan	0020	#	#	##	##				
-sanzhi	ramazan	0020	0	0_journalist	0.h:s_ds	0	h	s_ds	700	
+sanzhi	ramazan	0020	0	0_journalist	0.h:s_ds	0	h	s_ds	711	
 sanzhi	ramazan	0020	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
 sanzhi	ramazan	0021	#	#	#cv	#cv				
 sanzhi	ramazan	0021	nacijonalist	nationalist[R]	np.h:pred	np	h	pred		
 sanzhi	ramazan	0021	gu-r-sa-jč-ib-le	down-ABL-hither-occur.PFV-PRET-CVB	cop	cop				
-sanzhi	ramazan	0021	hel	that	dem_pro.h:s_cv	dem_pro	h	s_cv	700	
+sanzhi	ramazan	0021	hel	that	dem_pro.h:s_cv	dem_pro	h	s_cv	711	
 sanzhi	ramazan	0022	#	#	##	##				
 sanzhi	ramazan	0022	hel	that	ln_dem	ln_dem				
 sanzhi	ramazan	0022	=ʁuna	=EQ	=ln	=ln				
@@ -197,7 +197,7 @@ sanzhi	ramazan	0022	t'amahama	story	np:s	np		s	707	bridging
 sanzhi	ramazan	0022	ag-ur-te-de	go.PFV-PRET-ATTR.PL-PST	v:pred	v		pred		
 sanzhi	ramazan	0022	Tawlu-la	Tawlu-GEN	pn_np.h:obl	pn_np	h	obl	701	
 sanzhi	ramazan	0022	=ra	=and	=rn	=rn				
-sanzhi	ramazan	0022	heχ-i-la	DEM.down-OBL-GEN	rn_dem_pro.h	rn_dem_pro	h		700	
+sanzhi	ramazan	0022	heχ-i-la	DEM.down-OBL-GEN	rn_dem_pro.h	rn_dem_pro	h		711	
 sanzhi	ramazan	0022	=ra	=and	=rn	=rn				
 sanzhi	ramazan	0023	#	#	##	##				
 sanzhi	ramazan	0023	heχ	DEM.down	other	other				
@@ -209,7 +209,7 @@ sanzhi	ramazan	0023	t'amahama	story	np:s	np		s	708	bridging
 sanzhi	ramazan	0024	NC	NC	nc	nc				
 sanzhi	ramazan	0025	#	#	#nc	#nc				
 sanzhi	ramazan	0025	heštːu	here	nc	nc				
-sanzhi	ramazan	0025	0	0_you	nc	nc				
+sanzhi	ramazan	0025	0	0_you	nc_0.2	nc_0	2			
 sanzhi	ramazan	0025	b-elk'ʷ-ij	N-write.PFV-INF1	nc	nc				
 sanzhi	ramazan	0025	#	#	#nc	#nc				
 sanzhi	ramazan	0025	b-ikː-ul-de	N-want.IPFV-ICVB-2SG	nc	nc				
@@ -218,7 +218,7 @@ sanzhi	ramazan	0025	at	2SG.DAT	nc	nc
 sanzhi	ramazan	0026	NC	NC	nc	nc				
 sanzhi	ramazan	0027	#	#	#nc	#nc				
 sanzhi	ramazan	0027	nu	well	nc	nc				
-sanzhi	ramazan	0027	0	0_I	nc_0.1	nc_0	1		711	bridging
+sanzhi	ramazan	0027	0	0_I	nc_0.1	nc_0	1		700	bridging
 sanzhi	ramazan	0027	šest	six[R]	nc	nc				
 sanzhi	ramazan	0027	lidil	all<PL>	nc	nc				
 sanzhi	ramazan	0027	=ra	=and	nc	nc				
@@ -240,7 +240,7 @@ sanzhi	ramazan	0029	bah	most	ln	ln
 sanzhi	ramazan	0029	qːuʁa-ce	beautiful-ATTR.SG	np:s_pc	np		s_pc	709	new
 sanzhi	ramazan	0029	dunja	world	rn_np	rn_np			710	unused
 sanzhi	ramazan	0029	ka-b-icː-ur-il	down-N-stand.PFV-PRET-PTCP	other	other				
-sanzhi	ramazan	0029	dam	1SG.DAT	pro.1:obl	pro	1	obl	711	
+sanzhi	ramazan	0029	dam	1SG.DAT	pro.1:obl	pro	1	obl	700	
 sanzhi	ramazan	0029	dejstwitelno	really[R]	other	other				
 sanzhi	ramazan	0029	Latwija-de	Latvia-PST	pn_np:pred	pn_np		pred	712	bridging
 sanzhi	ramazan	0030	#	#	#nc	#nc				
@@ -271,7 +271,7 @@ sanzhi	ramazan	0033	=ra	=and	nc	nc
 sanzhi	ramazan	0034	#	#	##	##				
 sanzhi	ramazan	0034	#	#	#ac	#ac				
 sanzhi	ramazan	0034	hetːu	there	other	other			712	
-sanzhi	ramazan	0034	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0034	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0034	w-ituq-un	M-cross.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0034	=qːella	=when-OBL-IN	=adp	=adp				
 sanzhi	ramazan	0034	Latwija-l-cːe	Latvia-OBL-IN	pn_np:g	pn_np		g	712	
@@ -279,14 +279,14 @@ sanzhi	ramazan	0034	%	%	%	%
 sanzhi	ramazan	0034	plitačnyj	slabbed[R]	ln_adj	ln_adj				
 sanzhi	ramazan	0034	xun-be	road-PL	np:pred	np		pred	715	new
 sanzhi	ramazan	0034	#	#	##	##				
-sanzhi	ramazan	0034	dam	1SG.DAT	pro.1:ncs_cpa	pro	1	ncs_cpa	711	
+sanzhi	ramazan	0034	dam	1SG.DAT	pro.1:ncs_cpa	pro	1	ncs_cpa	700	
 sanzhi	ramazan	0034	han	remember	other:lvc	other		lvc		
 sanzhi	ramazan	0034	b-ič-ib	N-occur.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0034	na	now	other	other				
 sanzhi	ramazan	0034	libil	all<N>	np:p	np		p		
 sanzhi	ramazan	0034	#	#	#cv	#cv				
 sanzhi	ramazan	0034	mašin	car	np:s_ds	np		s_ds	716	bridging
-sanzhi	ramazan	0034	di-la	1SG-GEN	rn_pro.1:poss	rn_pro	1	poss	711	
+sanzhi	ramazan	0034	di-la	1SG-GEN	rn_pro.1:poss	rn_pro	1	poss	700	
 sanzhi	ramazan	0034	parapara	parapara	other	other				
 sanzhi	ramazan	0034	ha-b-irk-an-ne	upwards-N-occur.IPFV-PTCP-PRS.3	v:pred	v		pred		
 sanzhi	ramazan	0034	ik'-ul	say.IPFV-ICVB	rv_v	rv_v				
@@ -337,7 +337,7 @@ sanzhi	ramazan	0038	heltːu-b	there-N	other:l	other		l
 sanzhi	ramazan	0039	wot	well	other	other				
 sanzhi	ramazan	0040	#	#	##	##				
 sanzhi	ramazan	0040	c'ili	then	other	other				
-sanzhi	ramazan	0040	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0040	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0040	daˁrχaˁlla	dinner	np:other	np		other		
 sanzhi	ramazan	0040	dučːi	night	np:other	np		other		
 sanzhi	ramazan	0040	qili-w	home-M	np:l	np		l	722	new
@@ -346,19 +346,19 @@ sanzhi	ramazan	0040	nu	well	other	other
 sanzhi	ramazan	0040	hetːu	there	other	other				
 sanzhi	ramazan	0040	#	#	#cv	#cv				
 sanzhi	ramazan	0040	#	#	#ac_pc	#ac_pc				
-sanzhi	ramazan	0040	0	0_I	0.1:s_pc	0	1	s_pc	711	
+sanzhi	ramazan	0040	0	0_I	0.1:s_pc	0	1	s_pc	700	
 sanzhi	ramazan	0040	w-it-ulq-an	M-thither-direct.IPFV-PTCP	v:pred	v		pred		
 sanzhi	ramazan	0040	=qːella	=when	=adp	=adp				
 sanzhi	ramazan	0040	Latwija-l-cːe	Latvia-OBL-IN	pn_np:l	pn_np		l	712	
 sanzhi	ramazan	0040	%	%	%	%				
-sanzhi	ramazan	0040	0	0_I	0.1:a_cv	0	1	a_cv	711	
+sanzhi	ramazan	0040	0	0_I	0.1:a_cv	0	1	a_cv	700	
 sanzhi	ramazan	0040	aswalt'-la	asphalt[R]-GEN	ln_np:poss	ln_np		poss		
 sanzhi	ramazan	0040	but'a	piece	np:p	np		p	723	new
 sanzhi	ramazan	0040	sitːa	chewing.gum	rn_np	rn_np			724	new
 sanzhi	ramazan	0040	aswalt'-le-r	asphalt[R]-SPR-ABL	np:obl	np		obl	725	bridging
 sanzhi	ramazan	0040	ha-b-ertː-ib-le	upwards-N-take.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0040	#	#	##	##				
-sanzhi	ramazan	0040	0	0_I	0.1:a	0	1	a	711	
+sanzhi	ramazan	0040	0	0_I	0.1:a	0	1	a	700	
 sanzhi	ramazan	0040	či-b-aˁq-ib-da	SPR-N-hit.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0040	het	that	dem_pro:p	dem_pro		p		
 sanzhi	ramazan	0041	#	#	##	##				
@@ -372,10 +372,10 @@ sanzhi	ramazan	0041	či-b-it-arq'-ib-da	SPR-N-thither-do.PFV-PRET-1	v:pred	v		pr
 sanzhi	ramazan	0041	sala	front	np:l	np		l	729	bridging
 sanzhi	ramazan	0042	#	#	#nc	#nc				
 sanzhi	ramazan	0042	hetːu	there	nc	nc				
-sanzhi	ramazan	0042	0	0_I	nc_0.1:s	nc_0	1	s	711	
+sanzhi	ramazan	0042	0	0_I	nc_0.1:s	nc_0	1	s	700	
 sanzhi	ramazan	0042	či-w-it-ag-ur-daj	SPR-M-thither-go.PFV-PRET-NC	nc	nc				
 sanzhi	ramazan	0042	#	#	##neg	##neg				
-sanzhi	ramazan	0042	0	0_I	0.1:p	0	1	p	711	
+sanzhi	ramazan	0042	0	0_I	0.1:p	0	1	p	700	
 sanzhi	ramazan	0042	t'aš	stop	other:lvc	other		lvc		
 sanzhi	ramazan	0042	a-aʁ-ib-da	NEG-do.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0042	ca-l-li	one-OBL-ERG	indef_other.h:a_cpa	indef_other	h	a_cpa		
@@ -396,11 +396,11 @@ sanzhi	ramazan	0043	q'ʷila-q'ʷila	a.little-a.little	other	other
 sanzhi	ramazan	0043	ʡaˁmal-te	talent-PL	np:s	np		s	730	bridging
 sanzhi	ramazan	0043	kam	little	rn_adj	rn_adj				
 sanzhi	ramazan	0043	a-d-irχʷ-i	NEG-NPL-become.IPFV-HAB.PST	v:pred	v		pred		
-sanzhi	ramazan	0043	di-la	1SG-GEN	pro.1:obl	pro	1	obl	711	
+sanzhi	ramazan	0043	di-la	1SG-GEN	pro.1:obl	pro	1	obl	700	
 sanzhi	ramazan	0044	#	#	##	##				
 sanzhi	ramazan	0044	#	#	#ac	#ac				
 sanzhi	ramazan	0044	dučːi	night	np:other	np		other		
-sanzhi	ramazan	0044	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0044	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0044	sa-jʁ-ib	hither-come.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0044	=qːella	=when	=adp	=adp				
 sanzhi	ramazan	0044	ʡuˁrus	Russian	ln_adj	ln_adj				
@@ -419,36 +419,36 @@ sanzhi	ramazan	0045	d-ič-ib-le	NPL-occur.PFV-PRET-CVB	v:pred	v		pred
 sanzhi	ramazan	0045	dučːi-lla	night-GEN	np:other	np		other		
 sanzhi	ramazan	0045	%	%	%	%				
 sanzhi	ramazan	0045	sa-jʁ-ib-ce-de	hither-come.PFV-PRET-ATTR.SG-PST	v:pred	v		pred		
-sanzhi	ramazan	0045	du	1SG	pro.1:s	pro	1	s	711	
+sanzhi	ramazan	0045	du	1SG	pro.1:s	pro	1	s	700	
 sanzhi	ramazan	0046	#	#	#cv	#cv				
-sanzhi	ramazan	0046	0	0_I	0.1:a_cv	0	1	a_cv	711	
+sanzhi	ramazan	0046	0	0_I	0.1:a_cv	0	1	a_cv	700	
 sanzhi	ramazan	0046	mašin	car	np:p	np		p	716	
 sanzhi	ramazan	0046	ka-b-at-ur-re	down-N-let.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0046	#	#	##	##				
-sanzhi	ramazan	0046	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0046	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0046	ha-jʁ-i	upwards-come.PFV-HAB.PST	v:pred	v		pred		
 sanzhi	ramazan	0046	#	#	##	##				
 sanzhi	ramazan	0046	k'ʷi	two	np:s	np		s		
 sanzhi	ramazan	0046	d-ič-ib	NPL-occur.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0047	#	#	#cv	#cv				
 sanzhi	ramazan	0047	0	0_host	0.h:a_cpa_cv	0	h	a_cpa_cv	731	
-sanzhi	ramazan	0047	w-ag-la	M-waist-GEN	ln_np:p	ln_np		p	703	bridging
-sanzhi	ramazan	0047	qar	up	adp	adp				
+sanzhi	ramazan	0047	w-ag-la	M-waist-GEN	ln_np:poss	ln_np		poss		
+sanzhi	ramazan	0047	qar	up	np:p	np		p	733	bridging
 sanzhi	ramazan	0047	amzu	clean	other:lvc	other		lvc		
 sanzhi	ramazan	0047	w-arq'-ib-le	M-do.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0047	#	#	#cv	#cv				
 sanzhi	ramazan	0047	w-irc-ib-le	M-wash.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0047	het	that	ln_dem	ln_dem				
 sanzhi	ramazan	0047	xunul-li	woman-ERG	np.h:a	np	h	a	731	
-sanzhi	ramazan	0047	du	1SG	pro.1:p	pro	1	p	711	
+sanzhi	ramazan	0047	du	1SG	pro.1:p	pro	1	p	700	
 sanzhi	ramazan	0048	#	#	#cv	#cv				
 sanzhi	ramazan	0048	0	0_host	0.h:a_cv	0	h	a_cv	731	
-sanzhi	ramazan	0048	0	0_I	0.1:g	0	1	g	711	
+sanzhi	ramazan	0048	0	0_I	0.1:g	0	1	g	700	
 sanzhi	ramazan	0048	w-aχː-un-ne	M-feed.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0048	daˁrχaˁlla	dinner	np:p	np		p		
 sanzhi	ramazan	0049	#	#	##	##				
 sanzhi	ramazan	0049	0	0_host	0.h:a	0	h	a	731	
-sanzhi	ramazan	0049	0	0_I	0.1:p	0	1	p	711	
+sanzhi	ramazan	0049	0	0_I	0.1:p	0	1	p	700	
 sanzhi	ramazan	0049	kʷi-r	in.the.hands-ABL	np:obl	np		obl		
 sanzhi	ramazan	0049	w-arq'-ib-da	M-do.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0050	#	#	##	##				
@@ -461,10 +461,10 @@ sanzhi	ramazan	0050	d-ik-ar-aj	NPL-occur.PFV-PRS-INF2.3	v:pred	v		pred
 sanzhi	ramazan	0050	%	%	%	%				
 sanzhi	ramazan	0050	usː-un-ne	sleep.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0050	kelg-un-da	remain.PFV-PRET-1	rv_v	rv_v				
-sanzhi	ramazan	0050	du	1SG	pro.1:s	pro	1	s	711	
+sanzhi	ramazan	0050	du	1SG	pro.1:s	pro	1	s	700	
 sanzhi	ramazan	0051	#	#	##neg	##neg				
 sanzhi	ramazan	0051	#	#	#ac	#ac				
-sanzhi	ramazan	0051	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0051	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0051	či-s-alh-un	SPR-hither-wake.up.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0051	=qːella	=when	=adp	=adp				
 sanzhi	ramazan	0051	%	%	%	%				
@@ -516,11 +516,11 @@ sanzhi	ramazan	0055	sa-ka-b-arq'-ib-le	hither-down-N-do.PFV-PRET-CVB	v:pred	v		p
 sanzhi	ramazan	0055	heltːu-sa	there-ANTE	other:l	other		l		
 sanzhi	ramazan	0056	#	#	##	##				
 sanzhi	ramazan	0056	hel-i-j	that-OBL-DAT	dem_pro:obl	dem_pro		obl	742	bridging
-sanzhi	ramazan	0056	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0056	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0056	qːaʁ	unconscious	other:pred	other		pred		
 sanzhi	ramazan	0056	iχ-ub-da	be.PFV-PRET-1	cop	cop				
 sanzhi	ramazan	0056	#	#	##	##				
-sanzhi	ramazan	0056	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0056	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0056	baˁħ	crazy	other:pred	other		pred		
 sanzhi	ramazan	0056	iχ-ub-da	be.PFV-PRET-1	cop	cop				
 sanzhi	ramazan	0056	#	#	##neg	##neg				
@@ -529,11 +529,11 @@ sanzhi	ramazan	0056	w-akːu	M-NEG	cop	cop
 sanzhi	ramazan	0056	qili-w	home-M	np:pred_l	np		pred_l	722	
 sanzhi	ramazan	0056	#	#	#cv	#cv				
 sanzhi	ramazan	0056	ja	neither	other	other				
-sanzhi	ramazan	0056	0	0_I	0.1:a_cv	0	1	a_cv	711	
+sanzhi	ramazan	0056	0	0_I	0.1:a_cv	0	1	a_cv	700	
 sanzhi	ramazan	0056	gu-p-p-at-ur-re	down-N-N-let.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0056	qal	house	np:p	np		p	722	
 sanzhi	ramazan	0056	#	#	#ac_in	#ac_in				
-sanzhi	ramazan	0056	0	0_I	0.1:ncs_in	0	1	ncs_in	711	
+sanzhi	ramazan	0056	0	0_I	0.1:ncs_in	0	1	ncs_in	700	
 sanzhi	ramazan	0056	gu-r-až-ij	down-ABL-see.PFV-INF1	v:pred	v		pred		
 sanzhi	ramazan	0056	bala	misfortune	np:p	np		p		
 sanzhi	ramazan	0056	#	#	#ac	#ac				
@@ -564,21 +564,21 @@ sanzhi	ramazan	0057	b-ark-le-r-ka	N-inside-SPR-ABL-down	other:l	other		l
 sanzhi	ramazan	0058	#	#	##	##				
 sanzhi	ramazan	0058	ca	one	ln_deti	ln_deti				
 sanzhi	ramazan	0058	zunra-šːu	neighbour-ALLAT	np.h:g	np	h	g	744	bridging
-sanzhi	ramazan	0058	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0058	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0058	ag-ur-da	go.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0058	k'ʷi-ibil	two-ORD	ln_adj	ln_adj				
 sanzhi	ramazan	0058	ʡaˁb-ibil	three-ORD	ln_adj	ln_adj				
 sanzhi	ramazan	0058	zunra	neighbour	np.h:g	np	h	g	745	bridging
 sanzhi	ramazan	0058	#	#	##	##				
-sanzhi	ramazan	0058	0	0_I	0.1:ncs	0	1	ncs	711	
+sanzhi	ramazan	0058	0	0_I	0.1:ncs	0	1	ncs	700	
 sanzhi	ramazan	0058	0	0_host	0.h:p	0	h	p	731	
 sanzhi	ramazan	0058	r-arčː-ib-da	F-find.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0059	#	#	#cv	#cv				
-sanzhi	ramazan	0059	0	0_I	0.1:a_cv	0	1	a_cv	711	
+sanzhi	ramazan	0059	0	0_I	0.1:a_cv	0	1	a_cv	700	
 sanzhi	ramazan	0059	0	0_host	0.h:p	0	h	p	731	
 sanzhi	ramazan	0059	ha-č-ib-le	upwards-lead.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0059	#	#	##	##				
-sanzhi	ramazan	0059	0	0_I	0.1:a	0	1	a	711	
+sanzhi	ramazan	0059	0	0_I	0.1:a	0	1	a	700	
 sanzhi	ramazan	0059	0	0_host	0.h:obl	0	h	obl	731	
 sanzhi	ramazan	0059	či-d-až-aq-ib-da	SPR-NPL-see.PFV-CAUS-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0059	lidil	all<PL>	ln	ln				
@@ -597,32 +597,32 @@ sanzhi	ramazan	0060	#	#	##	##
 sanzhi	ramazan	0060	0	0_host	0.h:s_ds	0	h	s_ds	731	
 sanzhi	ramazan	0060	r-ik'ʷ-ar	F-say.IPFV-PRS	v:pred	v		pred		
 sanzhi	ramazan	0061	#	#	##ds	##ds				
-sanzhi	ramazan	0061	0	0_I	0.2:s	0	2	s	711	
+sanzhi	ramazan	0061	0	0_I	0.2:s	0	2	s	700	
 sanzhi	ramazan	0061	uˁq'-en	go-IMP	v:pred	v		pred		
 sanzhi	ramazan	0061	#	#	##	##				
 sanzhi	ramazan	0061	0	0_host	0.h:s_ds	0	h	s_ds	731	
 sanzhi	ramazan	0061	r-ik'ʷ-ar	F-say.IPFV-PRS	v:pred	v		pred		
 sanzhi	ramazan	0061	%	%	%	%				
 sanzhi	ramazan	0061	bahla-l	slow-ADVZ	other	other				
-sanzhi	ramazan	0061	ala	2SG.GEN	other	other			711	
+sanzhi	ramazan	0061	ala	2SG.GEN	other	other			700	
 sanzhi	ramazan	0062	#	#	##	##				
 sanzhi	ramazan	0062	#	#	#ac_in	#ac_in				
 sanzhi	ramazan	0062	na	now	other	other				
-sanzhi	ramazan	0062	du-l	1SG-ERG	pro.1:a_in	pro	1	a_in	711	
-sanzhi	ramazan	0062	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	711	
+sanzhi	ramazan	0062	du-l	1SG-ERG	pro.1:a_in	pro	1	a_in	700	
+sanzhi	ramazan	0062	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	700	
 sanzhi	ramazan	0062	daˁʡ-la	face-GEN	np:obl	np		obl	747	bridging
 sanzhi	ramazan	0062	amzu-dex	clean-NMLZ	np:p	np		p		
 sanzhi	ramazan	0062	b-arčː-ij	N-find.PFV-INF1	v:pred	v		pred		
 sanzhi	ramazan	0062	#	#	#ac_in	#ac_in				
 sanzhi	ramazan	0062	bahanne	therefore	other	other				
-sanzhi	ramazan	0062	0	0_I	0.1:a_cpa_in	0	1	a_cpa_in	711	
-sanzhi	ramazan	0062	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	711	
+sanzhi	ramazan	0062	0	0_I	0.1:a_cpa_in	0	1	a_cpa_in	700	
+sanzhi	ramazan	0062	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	700	
 sanzhi	ramazan	0062	sowest	conscience[R]	np:p	np		p	748	bridging
 sanzhi	ramazan	0062	očistit	clear[R]	other:lvc	other		lvc		
 sanzhi	ramazan	0062	b-arq'-ij	N-do.PFV-INF1	v:pred	v		pred		
 sanzhi	ramazan	0062	bahandan	because.of	adp	adp				
 sanzhi	ramazan	0062	%	%	%	%				
-sanzhi	ramazan	0062	0	0_I	0.1:a	0	1	a	711	
+sanzhi	ramazan	0062	0	0_I	0.1:a	0	1	a	700	
 sanzhi	ramazan	0062	0	0_host	0.h:p	0	h	p	731	
 sanzhi	ramazan	0062	ha-č-ib-il-de	upwards-lead.PFV-PRET-PTCP-PST	v:pred	v		pred		
 sanzhi	ramazan	0062	hetːu	there	other:g	other		g	749	bridging
@@ -631,20 +631,20 @@ sanzhi	ramazan	0063	#	#	#ac.neg	#ac.neg
 sanzhi	ramazan	0063	akːʷ-ar	NEG-PRS	other:predex	other		predex		
 sanzhi	ramazan	0063	=xːar	=CONC	=rv	=rv				
 sanzhi	ramazan	0063	%	%	%	%				
-sanzhi	ramazan	0063	0	0_I	0.1:s_cpa	0	1	s_cpa	711	
+sanzhi	ramazan	0063	0	0_I	0.1:s_cpa	0	1	s_cpa	700	
 sanzhi	ramazan	0063	0	0_stuff	0:obl	0		obl	740	
 sanzhi	ramazan	0063	qːuc	touch	other:lvc	other		lvc		
 sanzhi	ramazan	0063	a-ič-i	NEG-occur.PFV-HAB.PST	v:pred	v		pred		
 sanzhi	ramazan	0063	#	#	#pc.neg	#pc.neg				
 sanzhi	ramazan	0063	ʡuˁnru-le-b	life-SPR-N	np:other	np		other		
-sanzhi	ramazan	0063	du-l	1SG-ERG	pro.1:a_pc	pro	1	a_pc	711	
+sanzhi	ramazan	0063	du-l	1SG-ERG	pro.1:a_pc	pro	1	a_pc	700	
 sanzhi	ramazan	0063	h-asː-ib-il	upwards-take.PFV-PRET-PTCP	v:pred	v		pred		
 sanzhi	ramazan	0063	akːu	NEG	rv	rv				
 sanzhi	ramazan	0063	urra	foreign	ln_adj	ln_adj				
 sanzhi	ramazan	0063	cik'al	thing	np:p	np		p	750	bridging
 sanzhi	ramazan	0064	#	#	##	##				
 sanzhi	ramazan	0064	hel-i-j	that-OBL-DAT	dem_pro:obl	dem_pro		obl	751	bridging
-sanzhi	ramazan	0064	0	0_I	0.1:s_cps	0	1	s_cps	711	
+sanzhi	ramazan	0064	0	0_I	0.1:s_cps	0	1	s_cps	700	
 sanzhi	ramazan	0064	urk'-či-w	fright-SPR-M	other:lvc	other		lvc		
 sanzhi	ramazan	0064	uq-un-da	go.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0065	#	#	#nc	#nc				
@@ -664,7 +664,7 @@ sanzhi	ramazan	0065	p'ap'rus	cigarette	np:p	np		p	754	bridging
 sanzhi	ramazan	0065	b-erčː-ib-le	N-smoke.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0065	hitːi	after	adp	adp				
 sanzhi	ramazan	0066	#	#	##ds	##ds				
-sanzhi	ramazan	0066	0	0	0.2:a	0	2	a	711	
+sanzhi	ramazan	0066	0	0	0.2:a	0	2	a	700	
 sanzhi	ramazan	0066	0	0_match	0:p	0		p	752	
 sanzhi	ramazan	0066	gu-r-h-asː-a	down-ABL-upwards-take.PFV-IMP	v:pred	v		pred		
 sanzhi	ramazan	0066	#	#	##	##				
@@ -675,7 +675,7 @@ sanzhi	ramazan	0067	#	#	#pc.neg	#pc.neg
 sanzhi	ramazan	0067	itːa-la	3PL.OBL-GEN	ln_poss_pro.h	ln_poss_pro	h		755	
 sanzhi	ramazan	0067	=ʁuna	=EQ	=ln	=ln				
 sanzhi	ramazan	0067	amzu-dex	clean-NMLZ	np:p	np		p	756	bridging
-sanzhi	ramazan	0067	du-l	1SG-ERG	pro.1:a_pc	pro	1	a_pc	711	
+sanzhi	ramazan	0067	du-l	1SG-ERG	pro.1:a_pc	pro	1	a_pc	700	
 sanzhi	ramazan	0067	nalla	until.then	other	other				
 sanzhi	ramazan	0067	či-b-až-ib-il	SPR-N-see.PFV-PRET-PTCP	v:pred	v		pred		
 sanzhi	ramazan	0067	akːu	NEG	rv	rv				
@@ -733,7 +733,7 @@ sanzhi	ramazan	0073	wahi-dex	evil-NMLZ	nc	nc
 sanzhi	ramazan	0073	=ra	=and	nc	nc				
 sanzhi	ramazan	0074	#	#	#pc.neg	#pc.neg				
 sanzhi	ramazan	0074	#	#	#rc.neg	#rc.neg				
-sanzhi	ramazan	0074	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0074	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0074	0	0_place	rel_f0:g	rel_f0		g		
 sanzhi	ramazan	0074	a-jteʁ-ib	NEG-reach.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0074	%	%	%	%				
@@ -749,7 +749,7 @@ sanzhi	ramazan	0074	Rassija-la	Russia-GEN	ln_pn_np:poss	ln_pn_np		poss	763	bridg
 sanzhi	ramazan	0074	šahar-ri-cːe	town-OBL-IN	np:g	np		g	762	
 sanzhi	ramazan	0074	primerno	about[R]	other	other				
 sanzhi	ramazan	0074	či-w-iteʁ-ib-il-da	SPR-M-reach.PFV-PRET-PTCP-1	v:pred	v		pred		
-sanzhi	ramazan	0074	du	1SG	pro.1:s_pc	pro	1	s_pc	711	
+sanzhi	ramazan	0074	du	1SG	pro.1:s_pc	pro	1	s_pc	700	
 sanzhi	ramazan	0075	#	#	#nc	#nc				
 sanzhi	ramazan	0075	bikːan	NC	nc	nc				
 sanzhi	ramazan	0075	reket	racket[R]	nc_np	nc_np			764	new
@@ -770,33 +770,33 @@ sanzhi	ramazan	0077	hila-w-a	behind-M-SPR	nc	nc
 sanzhi	ramazan	0077	čar	back	nc	nc				
 sanzhi	ramazan	0077	iχ-ub-le	be.PFV-PRET-CVB	nc	nc				
 sanzhi	ramazan	0077	#	#	#cv	#cv				
-sanzhi	ramazan	0077	0	0_I	0.1:s_cv	0	1	s_cv	711	
+sanzhi	ramazan	0077	0	0_I	0.1:s_cv	0	1	s_cv	700	
 sanzhi	ramazan	0077	tːura-saˁ-q'-un-ne	outside-hither-go-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0077	#	#	##	##				
 sanzhi	ramazan	0077	salaˁrk'a	diesel.fuel	np:s	np		s	766	bridging
 sanzhi	ramazan	0077	ha-b-erχː-ur	upwards-N-fulfil.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0077	pojem-le-b	rise[R]-SPR-N	np:l	np		l	767	new
-sanzhi	ramazan	0077	di-la	1SG-GEN	rn_pro.1:poss	rn_pro	1	poss	711	
+sanzhi	ramazan	0077	di-la	1SG-GEN	rn_pro.1:poss	rn_pro	1	poss	700	
 sanzhi	ramazan	0078	#	#	#cv	#cv				
 sanzhi	ramazan	0078	uže	already	other	other				
-sanzhi	ramazan	0078	0	0_I	0.1:ncs_cv	0	1	ncs_cv	711	
+sanzhi	ramazan	0078	0	0_I	0.1:ncs_cv	0	1	ncs_cv	700	
 sanzhi	ramazan	0078	či-b-ig-ul	SPR-N-see.IPFV-ICVB	v:pred	v		pred		
 sanzhi	ramazan	0078	#	#	#cc:p	#cc		p		
 sanzhi	ramazan	0078	zaprawka	fueling[R]	np:s	np		s	768	new
 sanzhi	ramazan	0078	le-b-de	exist-N-PST	other:predex	other		predex		
 sanzhi	ramazan	0078	#	#	##	##				
 sanzhi	ramazan	0078	#	#	#cv	#cv				
-sanzhi	ramazan	0078	0	0_I	0.1:s_cv	0	1	s_cv	711	
+sanzhi	ramazan	0078	0	0_I	0.1:s_cv	0	1	s_cv	700	
 sanzhi	ramazan	0078	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0078	heltːu-rka	there-ABL	other:obl	other		obl	768	
 sanzhi	ramazan	0078	%	%	%	%				
-sanzhi	ramazan	0078	0	0_I	0.1:a	0	1	a	711	
+sanzhi	ramazan	0078	0	0_I	0.1:a	0	1	a	700	
 sanzhi	ramazan	0078	badra	bucket	np:p	np		p	769	new
 sanzhi	ramazan	0078	salaˁrk'a-la	diesel.fuel-GEN	rn_np:poss	rn_np		poss		
 sanzhi	ramazan	0078	k-aqː-ib-da	down-carry-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0079	#	#	##	##				
 sanzhi	ramazan	0079	0	0_attendants	0.h:a	0	h	a	770	bridging
-sanzhi	ramazan	0079	0	0_I	0.1:g	0	1	g	711	
+sanzhi	ramazan	0079	0	0_I	0.1:g	0	1	g	700	
 sanzhi	ramazan	0079	0	0_bucket	0:p	0		p	769	
 sanzhi	ramazan	0079	b-ičː-ib	N-give.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0079	#	#	##neg	##neg				
@@ -808,12 +808,12 @@ sanzhi	ramazan	0079	a-s-asː-ib	NEG-hither-take.PFV-PRET	v:pred	v		pred
 sanzhi	ramazan	0079	cinna	pause.filler	other	other				
 sanzhi	ramazan	0079	#	#	#ds	#ds				
 sanzhi	ramazan	0079	#	#	#ds_ac	#ds_ac				
-sanzhi	ramazan	0079	0	0_I	0.2:a_cps	0	2	a_cps	711	
+sanzhi	ramazan	0079	0	0_I	0.2:a_cps	0	2	a_cps	700	
 sanzhi	ramazan	0079	zaprawit	refuel[R]	other:lvc	other		lvc		
 sanzhi	ramazan	0079	b-arq'-ib	N-do.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0079	=qːel	=when	=adp	=adp				
 sanzhi	ramazan	0079	%	%	%	%				
-sanzhi	ramazan	0079	0	0_I	0.2:a	0	2	a	711	
+sanzhi	ramazan	0079	0	0_I	0.2:a	0	2	a	700	
 sanzhi	ramazan	0079	0	0_money	0:p	0		p	771	
 sanzhi	ramazan	0079	b-at-ij	N-let.PFV-INF1	v:pred	v		pred		
 sanzhi	ramazan	0079	arg-an-ne	go.IPFV-PTCP-PRS.3	rv_aux	rv_aux				
@@ -822,7 +822,7 @@ sanzhi	ramazan	0079	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred
 sanzhi	ramazan	0079	zaprawšica	refueler[R]	np.h:s_ds_cv	np	h	s_ds_cv	770	
 sanzhi	ramazan	0080	#	#	##	##				
 sanzhi	ramazan	0080	i	and	other	other				
-sanzhi	ramazan	0080	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0080	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0080	srazu	at.once[R]	other	other				
 sanzhi	ramazan	0080	w-arx-le	M-direct-ADVZ	other	other				
 sanzhi	ramazan	0080	wi-h-ač'-ib-da	in(side)-upwards-come.PFV-PRET-1	v:pred	v		pred		
@@ -835,22 +835,22 @@ sanzhi	ramazan	0080	kirpič	brick[R]	np:s_cv	np		s_cv	772
 sanzhi	ramazan	0081	#	#	#cv	#cv				
 sanzhi	ramazan	0081	pod	under[R]	adp	adp				
 sanzhi	ramazan	0081	kirpič	brick[R]	np:obl	np		obl	772	
-sanzhi	ramazan	0081	0	0_I	0.1:s_cv	0	1	s_cv	711	
+sanzhi	ramazan	0081	0	0_I	0.1:s_cv	0	1	s_cv	700	
 sanzhi	ramazan	0081	wi-ag-ur-re	in(side)-go.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0081	#	#	#nc	#nc				
-sanzhi	ramazan	0081	di-la	1SG-GEN	nc_pro.1	nc_pro	1		711	
+sanzhi	ramazan	0081	di-la	1SG-GEN	nc_pro.1	nc_pro	1		700	
 sanzhi	ramazan	0081	b-akːʷ-ar	N-NEG-PRS	nc	nc				
 sanzhi	ramazan	0081	=qːella	=when	nc	nc				
 sanzhi	ramazan	0081	#	#	#cv	#cv				
 sanzhi	ramazan	0081	ha-b-urχː-ul	upwards-N-finish.IPFV-ICVB	v:pred	v		pred		
 sanzhi	ramazan	0081	salaˁrk'a	diesel.fuel	np:s_cv	np		s_cv	766	
 sanzhi	ramazan	0081	#	#	#ac_in.neg	#ac_in.neg				
-sanzhi	ramazan	0081	0	0_I	0.1:a_cv	0	1	a_cv	711	
+sanzhi	ramazan	0081	0	0_I	0.1:a_cv	0	1	a_cv	700	
 sanzhi	ramazan	0081	0	0_fuel	0:p	0		p	766	
 sanzhi	ramazan	0081	a-ha-b-erχːʷ-aq-ij	NEG-upwards-N-fulfil.PFV-CAUS-INF1	v:pred	v		pred		
 sanzhi	ramazan	0082	#	#	##ds	##ds				
 sanzhi	ramazan	0082	hel	that	other	other				
-sanzhi	ramazan	0082	0	0_I	0.2:s	0	2	s	711	
+sanzhi	ramazan	0082	0	0_I	0.2:s	0	2	s	700	
 sanzhi	ramazan	0082	tːura	outside	other:g	other		g		
 sanzhi	ramazan	0082	uq'-aˁn	go-IMP	v:pred	v		pred		
 sanzhi	ramazan	0082	#	#	#cv	#cv				
@@ -858,7 +858,7 @@ sanzhi	ramazan	0082	0	0_drivers	0.h:s_ds_cv	0	h	s_ds_cv	773	bridging
 sanzhi	ramazan	0082	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
 sanzhi	ramazan	0082	#	#	##	##				
 sanzhi	ramazan	0082	šupir-t-a-l	driver-PL-OBL-ERG	np.h:a	np	h	a	773	
-sanzhi	ramazan	0082	0	0_I	0.1:p	0	1	p	711	
+sanzhi	ramazan	0082	0	0_I	0.1:p	0	1	p	700	
 sanzhi	ramazan	0082	tːura-aʁ-ib-da	outside-do.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0082	#	#	#nc	#nc				
 sanzhi	ramazan	0082	hel-ka	that-down	nc	nc				
@@ -899,60 +899,60 @@ sanzhi	ramazan	0085	#	#	##	##
 sanzhi	ramazan	0085	0	0_attendant	0.h:s_ds	0	h	s_ds	770	
 sanzhi	ramazan	0085	r-ik'ʷ-ar	F-say.IPFV-PRS	v:pred	v		pred		
 sanzhi	ramazan	0085	#	#	#ds_cv	#ds_cv				
-sanzhi	ramazan	0085	0	0_I	0.2:a_cv	0	2	a_cv	711	
+sanzhi	ramazan	0085	0	0_I	0.2:a_cv	0	2	a_cv	700	
 sanzhi	ramazan	0085	cara	other	ln_adj	ln_adj				
 sanzhi	ramazan	0085	=ra	=and	=other	=other				
 sanzhi	ramazan	0085	badra	bucket	np:p	np		p	776	bridging
 sanzhi	ramazan	0085	bi-k-at'-ib-le	in(side)-down-pour.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0085	#	#	##ds	##ds				
-sanzhi	ramazan	0085	0	0_I	0.2:s	0	2	s	711	
+sanzhi	ramazan	0085	0	0_I	0.2:s	0	2	s	700	
 sanzhi	ramazan	0085	čar-sa-b-arq'-a	back-hither-N-do.PFV-IMP	v:pred	v		pred		
 sanzhi	ramazan	0085	χalq'-li	people-ERG	np.h:other	np	h	other		
 sanzhi	ramazan	0085	daˁʡle	as	adp	adp				
 sanzhi	ramazan	0085	#	#	##ds	##ds				
 sanzhi	ramazan	0085	c'il	then	other	other				
-sanzhi	ramazan	0085	0	0_I	0.2:a	0	2	a	711	
+sanzhi	ramazan	0085	0	0_I	0.2:a	0	2	a	700	
 sanzhi	ramazan	0085	0	0_lorry	0:p	0		p	716	
 sanzhi	ramazan	0085	b-ic'-a	N-fill.PFV-IMP	v:pred	v		pred		
 sanzhi	ramazan	0086	#	#	##	##				
 sanzhi	ramazan	0086	#	#	#cc_in:s	#cc_in		s		
-sanzhi	ramazan	0086	0	0_I	0.1:a_in	0	1	a_in	711	
+sanzhi	ramazan	0086	0	0_I	0.1:a_in	0	1	a_in	700	
 sanzhi	ramazan	0086	hel	that	dem_pro:p	dem_pro		p	777	bridging
 sanzhi	ramazan	0086	b-arq'-ij	N-do.PFV-INF1	v:pred	v		pred		
 sanzhi	ramazan	0086	%	%	%	%				
 sanzhi	ramazan	0086	či-b-ič-ib	SPR-N-occur.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0086	#	#	##	##				
 sanzhi	ramazan	0086	c'il	then	other	other				
-sanzhi	ramazan	0086	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0086	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0086	uruc	embarrassed	other:pred	other		pred		
 sanzhi	ramazan	0086	iχ-ub-da	be.PFV-PRET-1	cop	cop				
 sanzhi	ramazan	0086	#	#	#ac	#ac				
-sanzhi	ramazan	0086	du-l	1SG-ERG	pro.1:a	pro	1	a	711	
+sanzhi	ramazan	0086	du-l	1SG-ERG	pro.1:a	pro	1	a	700	
 sanzhi	ramazan	0086	0	0_that	0:p	0		p	778	bridging
 sanzhi	ramazan	0086	b-arq'-ib-il-li-j	N-do.PFV-PRET-PTCP-OBL-DAT	v:pred	v		pred		
 sanzhi	ramazan	0086	#	#	##	##				
-sanzhi	ramazan	0086	du	1SG	pro.1:dt_ncs	pro	1	dt_ncs	711	
+sanzhi	ramazan	0086	du	1SG	pro.1:dt_ncs	pro	1	dt_ncs	700	
 sanzhi	ramazan	0086	c'aχ	shame	other:lvc	other		lvc		
 sanzhi	ramazan	0086	ka-b-icː-ur	down-HPL-stand.PFV-PRET	v:pred	v		pred		
-sanzhi	ramazan	0086	dam	1SG.DAT	pro.1:ncs_cps	pro	1	ncs_cps	711	
+sanzhi	ramazan	0086	dam	1SG.DAT	pro.1:ncs_cps	pro	1	ncs_cps	700	
 sanzhi	ramazan	0087	#	#	##	##				
-sanzhi	ramazan	0087	0	0_I	0.1:s_cps	0	1	s_cps	711	
+sanzhi	ramazan	0087	0	0_I	0.1:s_cps	0	1	s_cps	700	
 sanzhi	ramazan	0087	ʁaj-či	word-SPR	np:lvc	np		lvc		
 sanzhi	ramazan	0087	=ra	=and	=other	=other				
 sanzhi	ramazan	0087	uq-un-da	go.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0087	#	#	##	##				
-sanzhi	ramazan	0087	0	0_I	0.1:s_cps	0	1	s_cps	711	
+sanzhi	ramazan	0087	0	0_I	0.1:s_cps	0	1	s_cps	700	
 sanzhi	ramazan	0087	majmaj-či	condemnation-SPR	np:lvc	np		lvc		
 sanzhi	ramazan	0087	=ra	=and	=other	=other				
 sanzhi	ramazan	0087	uq-un-da	go.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0087	hel-tː-a-j	that-PL-OBL-DAT	dem_pro.h:obl	dem_pro	h	obl	779	bridging
 sanzhi	ramazan	0087	#	#	#nc	#nc				
-sanzhi	ramazan	0087	du	1SG	nc	nc			711	
+sanzhi	ramazan	0087	du	1SG	nc	nc			700	
 sanzhi	ramazan	0087	winawat	blame[R]	nc	nc				
 sanzhi	ramazan	0087	=xːar	=CONC	nc	nc				
 sanzhi	ramazan	0088	#	#	##	##				
 sanzhi	ramazan	0088	c'il	then	other	other				
-sanzhi	ramazan	0088	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0088	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0088	izwinica	apologize[R]	other:lvc	other		lvc		
 sanzhi	ramazan	0088	=ra	=and	=other	=other				
 sanzhi	ramazan	0088	iχʷ-ij	be.PFV-INF1	v:pred	v		pred		
@@ -967,24 +967,24 @@ sanzhi	ramazan	0088	b-arq'-ib-da	N-do.PFV-PRET-1	nc	nc
 sanzhi	ramazan	0088	či-r-ka-d-erχːʷ-aja	SPR-ABL-down-NPL-apologize.PFV-IMP.PL	nc	nc				
 sanzhi	ramazan	0088	ik'-ul	say.IPFV-ICVB	nc	nc				
 sanzhi	ramazan	0089	#	#	#cv	#cv				
-sanzhi	ramazan	0089	0	0_I	0.1:a_cv	0	1	a_cv	711	
+sanzhi	ramazan	0089	0	0_I	0.1:a_cv	0	1	a_cv	700	
 sanzhi	ramazan	0089	0	0_lorry	0:p	0		p	716	
 sanzhi	ramazan	0089	tːura-k-aʁ-ib-le	outside-down-do.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0089	#	#	#cv	#cv				
-sanzhi	ramazan	0089	0	0_I	0.1:a_cv	0	1	a_cv	711	
+sanzhi	ramazan	0089	0	0_I	0.1:a_cv	0	1	a_cv	700	
 sanzhi	ramazan	0089	0	0_lorry	0:p	0		p	716	
 sanzhi	ramazan	0089	čar-sa-b-arq'-ib-le	back-hither-N-do.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0089	#	#	#cv	#cv				
-sanzhi	ramazan	0089	0	0_I	0.1:a_cv	0	1	a_cv	711	
+sanzhi	ramazan	0089	0	0_I	0.1:a_cv	0	1	a_cv	700	
 sanzhi	ramazan	0089	0	0_lorry	0:p	0		p	716	
 sanzhi	ramazan	0089	ha-č-ib-le	upwards-lead.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0089	#	#	##	##				
-sanzhi	ramazan	0089	0	0_I	0.1:a_cv	0	1	a_cv	711	
+sanzhi	ramazan	0089	0	0_I	0.1:a_cv	0	1	a_cv	700	
 sanzhi	ramazan	0089	qːuʁa-l	beautiful-ADVZ	other	other				
 sanzhi	ramazan	0089	0	0_lorry	0:p	0		p	716	
 sanzhi	ramazan	0089	b-ic'-ib-le	N-fill.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0089	#	#	##	##				
-sanzhi	ramazan	0089	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0089	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0089	ag-ur-da	go.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0089	dalše	farther[R]	other	other				
 sanzhi	ramazan	0090	#	#	##	##				
@@ -1060,10 +1060,10 @@ sanzhi	ramazan	0094	#	#	#ds_cv	#ds_cv
 sanzhi	ramazan	0094	0	0_person	0.1:s_cv	0	1	s_cv	786	
 sanzhi	ramazan	0094	wi-ka-jž-ib-le	in(side)-down-be.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0094	#	#	#cv	#cv				
-sanzhi	ramazan	0094	du	1SG	0.1:s	0	1	s	711	
+sanzhi	ramazan	0094	du	1SG	pro.1:s	pro	1	s	700	
 sanzhi	ramazan	0094	či-ka-jʁ-aq-ib-le	SPR-down-come.PFV-CAUS-PRET-CVB	v:pred	v		pred		
 sanzhi	ramazan	0094	#	#	##	##				
-sanzhi	ramazan	0094	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0094	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0094	heχtːu	there.down	other	other				
 sanzhi	ramazan	0094	rinok-le	market[R]-SPR	np:other	np		other	789	bridging
 sanzhi	ramazan	0094	heχ	DEM.down	other	other				
@@ -1072,7 +1072,7 @@ sanzhi	ramazan	0094	w	at[R]	other	other
 sanzhi	ramazan	0094	osnownom	mostly[R]	other	other				
 sanzhi	ramazan	0094	rinok-le-w-de	market[R]-SPR-M-PST	np:pred_l	np		pred_l	789	
 sanzhi	ramazan	0094	#	#	##	##				
-sanzhi	ramazan	0094	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0094	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0094	w-ax-a-di	M-go-HAB.PST-1	v:pred	v		pred		
 sanzhi	ramazan	0094	hetːu	there	other:g	other		g	789	
 sanzhi	ramazan	0094	#	#	#cv	#cv				
@@ -1089,7 +1089,7 @@ sanzhi	ramazan	0095	0	0_person	0.2:s	0	2	s	786
 sanzhi	ramazan	0095	k-ač'-ib-de	down-come.PFV-PRET-2SG	v:pred	v		pred		
 sanzhi	ramazan	0096	#	#	##ds	##ds				
 sanzhi	ramazan	0096	a	but	other	other				
-sanzhi	ramazan	0096	u	2SG	pro.2:s	pro	2	s	711	
+sanzhi	ramazan	0096	u	2SG	pro.2:s	pro	2	s	700	
 sanzhi	ramazan	0096	#	#	##	##				
 sanzhi	ramazan	0096	0	0_person	0.h:s_ds	0	h	s_ds	786	
 sanzhi	ramazan	0096	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
@@ -1098,7 +1098,7 @@ sanzhi	ramazan	0096	w-itiq-utːe	M-get.lost.IPFV-2SG.PRS	v:pred	v		pred
 sanzhi	ramazan	0096	heštːu-w	here-M	other:l	other		l	791	bridging
 sanzhi	ramazan	0096	šahar-ri-cːe-w	town-OBL-IN-M	np:l	np		l	791	
 sanzhi	ramazan	0096	#	#	#rc_pc.neg	#rc_pc.neg				
-sanzhi	ramazan	0096	0	0_I	0.1:ncs_pc	0	1	ncs_pc	711	
+sanzhi	ramazan	0096	0	0_I	0.1:ncs_pc	0	1	ncs_pc	700	
 sanzhi	ramazan	0096	0	0_town	rel_f0:p	rel_f0		p	791	
 sanzhi	ramazan	0096	a-b-alχ-an	NEG-N-know.IPFV-PTCP	v:pred	v		pred		
 sanzhi	ramazan	0096	%	%	%	%				
@@ -1143,7 +1143,7 @@ sanzhi	ramazan	0099	a	but	other	other
 sanzhi	ramazan	0099	hex-tːi	DEM.up-PL	ln_dem	ln_dem				
 sanzhi	ramazan	0099	estonca-be	Estonian[R]-PL	np.h:dt	np	h	dt	787	
 sanzhi	ramazan	0099	#	#	#cv	#cv				
-sanzhi	ramazan	0099	0	0_I	0.1:s_ds_cv	0	1	s_ds_cv	711	
+sanzhi	ramazan	0099	0	0_I	0.1:s_ds_cv	0	1	s_ds_cv	700	
 sanzhi	ramazan	0099	ik'-ul-da	say.IPFV-ICVB-1	v:pred	v		pred		
 sanzhi	ramazan	0099	%	%	%	%				
 sanzhi	ramazan	0099	dik'ar-dex	different-NMLZ	np:s	np		s		
@@ -1153,11 +1153,11 @@ sanzhi	ramazan	0099	0	0_Estonians	0.h:s	0	h	s	787
 sanzhi	ramazan	0099	uc'ran-t-a-j	Icari-PL-OBL-DAT	np.h:obl	np	h	obl	788	
 sanzhi	ramazan	0099	miši	similar	other	other				
 sanzhi	ramazan	0099	ka-b-icː-ur	down-HPL-stand.PFV-PRET	v:pred	v		pred		
-sanzhi	ramazan	0099	dam	1SG.DAT	pro.1:obl	pro	1	obl	711	
+sanzhi	ramazan	0099	dam	1SG.DAT	pro.1:obl	pro	1	obl	700	
 sanzhi	ramazan	0099	#	#	##	##				
 sanzhi	ramazan	0099	čujna	how.often	other	other				
 sanzhi	ramazan	0099	=ra	=and	=other	=other				
-sanzhi	ramazan	0099	0	0_I	0.1:s	0	1	s	711	
+sanzhi	ramazan	0099	0	0_I	0.1:s	0	1	s	700	
 sanzhi	ramazan	0099	ag-ur-da	go.PFV-PRET-1	v:pred	v		pred		
 sanzhi	ramazan	0099	hetːu	there	other:g	other		g	785	
 sanzhi	ramazan	0100	#	#	##	##				
@@ -1222,7 +1222,7 @@ sanzhi	ramazan	0105	=ra	=and	=other	=other
 sanzhi	ramazan	0106	#	#	#pc	#pc				
 sanzhi	ramazan	0106	moldawija	Moldova[R]	pn_np:g	pn_np		g	794	
 sanzhi	ramazan	0106	hetːu	there	other:g	other		g	794	
-sanzhi	ramazan	0106	0	0_I	0.1:s_pc	0	1	s_pc	711	
+sanzhi	ramazan	0106	0	0_I	0.1:s_pc	0	1	s_pc	700	
 sanzhi	ramazan	0106	ag-ur-il-da	go.PFV-PRET-PTCP-1	v:pred	v		pred		
 sanzhi	ramazan	0107	#	#	##neg	##neg				
 sanzhi	ramazan	0107	b-učː-ni	HPL-drink.IPFV-MSD	np:other	np		other		
@@ -1244,7 +1244,7 @@ sanzhi	ramazan	0107	=ʁuna-de	=EQ-PST	=rv_other	=rv_other
 sanzhi	ramazan	0108	#	#	##	##				
 sanzhi	ramazan	0108	nu	well	other	other				
 sanzhi	ramazan	0108	Ukrajna-l-ce-w	Ukraine-OBL-ATTR.SG-M	pn_np:other	pn_np		other		
-sanzhi	ramazan	0108	du	1SG	pro.1:s	pro	1	s	711	
+sanzhi	ramazan	0108	du	1SG	pro.1:s	pro	1	s	700	
 sanzhi	ramazan	0108	χaχul-de	khokhol[R]-PST	np.h:pred	np	h	pred		
 sanzhi	ramazan	0109	#	#	#nc	#nc				
 sanzhi	ramazan	0109	Ukrajna-l-ce-w	Ukraine-OBL-ATTR.SG-M	nc	nc				

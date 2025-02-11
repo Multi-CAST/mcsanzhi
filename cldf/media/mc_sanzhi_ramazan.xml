@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="sanzhi">
         <text t_name="ramazan" annotators="Diana Forker, Nils Schiborr" speaker="SD04">
-            <file f_name="mc_sanzhi_ramazan" audio="mc_sanzhi_ramazan.wav" updated="2019-08-15">
+            <file f_name="mc_sanzhi_ramazan" audio="mc_sanzhi_ramazan.wav" updated="2021-01-27">
                 <unit uid="0001" start_time="0" end_time="7388">
                     <utterance_id>sanzhi_ramazan_0001</utterance_id>
                     <utterance>hajʁib caw karispendent kːazatla Tawluj ce barq'ij heχ</utterance>
@@ -27,7 +27,7 @@
                             <gword>karispendent</gword>
                             <gloss>journalist[R]</gloss>
                             <graid>np.h:s</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                             <isnref>new</isnref>
                         </segment>
                         <segment>
@@ -44,7 +44,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:a_in</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>Tawlu-j</gword>
@@ -84,7 +84,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:a_cv</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>statja</gword>
@@ -129,7 +129,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:a</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>b-elk'-un</gword>
@@ -161,7 +161,7 @@
                             <gword>heχ-i-l</gword>
                             <gloss>DEM.down-OBL-ERG</gloss>
                             <graid>dem_pro.h:a_cpa</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>ħaˁdur</gword>
@@ -411,7 +411,7 @@
                             <gword>heχ-i-cːe</gword>
                             <gloss>DEM.down-OBL-IN</gloss>
                             <graid>dem_pro.h:g</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>iχ</gword>
@@ -434,7 +434,7 @@
                             <gword>iχ</gword>
                             <gloss>DEM.down</gloss>
                             <graid>dem_pro.h:g</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>Tawlu</gword>
@@ -540,7 +540,7 @@
                             <gword>ca-w</gword>
                             <gloss>REFL-M</gloss>
                             <graid>refl.h:p</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>dukal</gword>
@@ -571,7 +571,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:s_ds_cv</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>ik'-ul</gword>
@@ -587,7 +587,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:a</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>žaˁndaruw</gword>
@@ -625,7 +625,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:a</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>Tawlu</gword>
@@ -663,7 +663,7 @@
                             <gword>ca-w</gword>
                             <gloss>REFL-M</gloss>
                             <graid>nc_refl.h</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>qːumuqlan-de</gword>
@@ -696,7 +696,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>nc_0.h</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>darkːʷan-de</gword>
@@ -730,7 +730,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:p</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>w-arčː-ib-le</gword>
@@ -769,7 +769,7 @@
                             <gword>hel-i-cːella</gword>
                             <gloss>that-OBL-COMIT</gloss>
                             <graid>dem_pro.h:obl</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -792,7 +792,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.2:s</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>ik'-ul-de</gword>
@@ -830,7 +830,7 @@
                             <gword>u-l</gword>
                             <gloss>2SG-ERG</gloss>
                             <graid>pro.2:a</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -854,7 +854,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.2:a_cpa</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>oskorbit</gword>
@@ -921,7 +921,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:s_ds</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>ik'ʷ-ar</gword>
@@ -943,7 +943,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:p</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>ce</gword>
@@ -964,7 +964,7 @@
                             <gword>du-l</gword>
                             <gloss>1SG-ERG</gloss>
                             <graid>pro.1:a_cv</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>cel</gword>
@@ -1010,7 +1010,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:obl</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>pasport</gword>
@@ -1033,7 +1033,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:s_cps</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>izwinitsja</gword>
@@ -1066,7 +1066,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:s_cps</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>ʡaˁsi</gword>
@@ -1087,7 +1087,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:s_ds</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>ik'ʷ-ar</gword>
@@ -1131,7 +1131,7 @@
                             <gword>0</gword>
                             <gloss>0_journalist</gloss>
                             <graid>0.h:s_ds</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>ik'ʷ-ar</gword>
@@ -1164,7 +1164,7 @@
                             <gword>hel</gword>
                             <gloss>that</gloss>
                             <graid>dem_pro.h:s_cv</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -1215,7 +1215,7 @@
                             <gword>heχ-i-la</gword>
                             <gloss>DEM.down-OBL-GEN</gloss>
                             <graid>rn_dem_pro.h</graid>
-                            <refind>700</refind>
+                            <refind>711</refind>
                         </segment>
                         <segment>
                             <gword>=ra</gword>
@@ -1299,7 +1299,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_you</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_0.2</graid>
                         </segment>
                         <segment>
                             <gword>b-elk'ʷ-ij</gword>
@@ -1359,7 +1359,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>nc_0.1</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                             <isnref>bridging</isnref>
                         </segment>
                         <segment>
@@ -1489,7 +1489,7 @@
                             <gword>dam</gword>
                             <gloss>1SG.DAT</gloss>
                             <graid>pro.1:obl</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>dejstwitelno</gword>
@@ -1691,7 +1691,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>w-ituq-un</gword>
@@ -1735,7 +1735,7 @@
                             <gword>dam</gword>
                             <gloss>1SG.DAT</gloss>
                             <graid>pro.1:ncs_cpa</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>han</gword>
@@ -1773,7 +1773,7 @@
                             <gword>di-la</gword>
                             <gloss>1SG-GEN</gloss>
                             <graid>rn_pro.1:poss</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>parapara</gword>
@@ -2088,7 +2088,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>daˁrχaˁlla</gword>
@@ -2136,7 +2136,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_pc</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>w-it-ulq-an</gword>
@@ -2163,7 +2163,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>aswalt'-la</gword>
@@ -2205,7 +2205,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>či-b-aˁq-ib-da</gword>
@@ -2299,7 +2299,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>nc_0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>či-w-it-ag-ur-daj</gword>
@@ -2315,7 +2315,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:p</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>t'aš</gword>
@@ -2431,7 +2431,7 @@
                             <gword>di-la</gword>
                             <gloss>1SG-GEN</gloss>
                             <graid>pro.1:obl</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -2459,7 +2459,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>sa-jʁ-ib</gword>
@@ -2567,7 +2567,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -2585,7 +2585,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>mašin</gword>
@@ -2607,7 +2607,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>ha-jʁ-i</gword>
@@ -2650,14 +2650,14 @@
                         <segment>
                             <gword>w-ag-la</gword>
                             <gloss>M-waist-GEN</gloss>
-                            <graid>ln_np:p</graid>
-                            <refind>703</refind>
-                            <isnref>bridging</isnref>
+                            <graid>ln_np:poss</graid>
                         </segment>
                         <segment>
                             <gword>qar</gword>
                             <gloss>up</gloss>
-                            <graid>adp</graid>
+                            <graid>np:p</graid>
+                            <refind>733</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>amzu</gword>
@@ -2694,7 +2694,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:p</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -2718,7 +2718,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:g</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>w-aχː-un-ne</gword>
@@ -2753,7 +2753,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:p</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>kʷi-r</gword>
@@ -2826,7 +2826,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -2849,7 +2849,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>či-s-alh-un</gword>
@@ -3169,7 +3169,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>qːaʁ</gword>
@@ -3190,7 +3190,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>baˁħ</gword>
@@ -3237,7 +3237,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>gu-p-p-at-ur-re</gword>
@@ -3259,7 +3259,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:ncs_in</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>gu-r-až-ij</gword>
@@ -3433,7 +3433,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur-da</gword>
@@ -3466,7 +3466,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:ncs</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -3495,7 +3495,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -3517,7 +3517,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -3633,7 +3633,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.2:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>uˁq'-en</gword>
@@ -3670,7 +3670,7 @@
                             <gword>ala</gword>
                             <gloss>2SG.GEN</gloss>
                             <graid>other</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -3698,13 +3698,13 @@
                             <gword>du-l</gword>
                             <gloss>1SG-ERG</gloss>
                             <graid>pro.1:a_in</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>di-la</gword>
                             <gloss>1SG-GEN</gloss>
                             <graid>ln_pro.1:poss</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>daˁʡ-la</gword>
@@ -3737,13 +3737,13 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_cpa_in</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>di-la</gword>
                             <gloss>1SG-GEN</gloss>
                             <graid>ln_pro.1:poss</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>sowest</gword>
@@ -3776,7 +3776,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -3832,7 +3832,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_cpa</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -3864,7 +3864,7 @@
                             <gword>du-l</gword>
                             <gloss>1SG-ERG</gloss>
                             <graid>pro.1:a_pc</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>h-asː-ib-il</gword>
@@ -3911,7 +3911,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_cps</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>urk'-či-w</gword>
@@ -4035,7 +4035,7 @@
                             <gword>0</gword>
                             <gloss>0</gloss>
                             <graid>0.2:a</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -4104,7 +4104,7 @@
                             <gword>du-l</gword>
                             <gloss>1SG-ERG</gloss>
                             <graid>pro.1:a_pc</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>nalla</gword>
@@ -4459,7 +4459,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -4545,7 +4545,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:s_pc</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -4676,7 +4676,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>tːura-saˁ-q'-un-ne</gword>
@@ -4711,7 +4711,7 @@
                             <gword>di-la</gword>
                             <gloss>1SG-GEN</gloss>
                             <graid>rn_pro.1:poss</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -4734,7 +4734,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:ncs_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>či-b-ig-ul</gword>
@@ -4772,7 +4772,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur-re</gword>
@@ -4794,7 +4794,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>badra</gword>
@@ -4836,7 +4836,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:g</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -4901,7 +4901,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.2:a_cps</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>zaprawit</gword>
@@ -4927,7 +4927,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.2:a</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -4983,7 +4983,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>srazu</gword>
@@ -5060,7 +5060,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>wi-ag-ur-re</gword>
@@ -5076,7 +5076,7 @@
                             <gword>di-la</gword>
                             <gloss>1SG-GEN</gloss>
                             <graid>nc_pro.1</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>b-akːʷ-ar</gword>
@@ -5113,7 +5113,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -5147,7 +5147,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.2:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>tːura</gword>
@@ -5191,7 +5191,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:p</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>tːura-aʁ-ib-da</gword>
@@ -5430,7 +5430,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.2:a_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>cara</gword>
@@ -5463,7 +5463,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.2:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>čar-sa-b-arq'-a</gword>
@@ -5494,7 +5494,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.2:a</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -5528,7 +5528,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_in</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>hel</gword>
@@ -5566,7 +5566,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>uruc</gword>
@@ -5587,7 +5587,7 @@
                             <gword>du-l</gword>
                             <gloss>1SG-ERG</gloss>
                             <graid>pro.1:a</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -5610,7 +5610,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:dt_ncs</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>c'aχ</gword>
@@ -5626,7 +5626,7 @@
                             <gword>dam</gword>
                             <gloss>1SG.DAT</gloss>
                             <graid>pro.1:ncs_cps</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -5644,7 +5644,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_cps</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>ʁaj-či</gword>
@@ -5670,7 +5670,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_cps</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>majmaj-či</gword>
@@ -5703,7 +5703,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>nc</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>winawat</gword>
@@ -5736,7 +5736,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>izwinica</gword>
@@ -5821,7 +5821,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -5843,7 +5843,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -5865,7 +5865,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -5887,7 +5887,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>qːuʁa-l</gword>
@@ -5914,7 +5914,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur-da</gword>
@@ -6354,8 +6354,8 @@
                         <segment>
                             <gword>du</gword>
                             <gloss>1SG</gloss>
-                            <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <graid>pro.1:s</graid>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>či-ka-jʁ-aq-ib-le</gword>
@@ -6371,7 +6371,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>heχtːu</gword>
@@ -6420,7 +6420,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>w-ax-a-di</gword>
@@ -6526,7 +6526,7 @@
                             <gword>u</gword>
                             <gloss>2SG</gloss>
                             <graid>pro.2:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -6576,7 +6576,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:ncs_pc</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -6837,7 +6837,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_ds_cv</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>ik'-ul-da</gword>
@@ -6890,7 +6890,7 @@
                             <gword>dam</gword>
                             <gloss>1SG.DAT</gloss>
                             <graid>pro.1:obl</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -6911,7 +6911,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur-da</gword>
@@ -7303,7 +7303,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_pc</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur-il-da</gword>
@@ -7430,7 +7430,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:s</graid>
-                            <refind>711</refind>
+                            <refind>700</refind>
                         </segment>
                         <segment>
                             <gword>χaχul-de</gword>

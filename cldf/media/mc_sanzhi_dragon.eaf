@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-05-26T19:40:30+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2021-01-27T15:02:33+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_sanzhi_dragon.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:93eb769c-9446-4b96-89c6-25e13d6bdddd</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">4641</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">4648</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -1455,7 +1455,12 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1705" ANNOTATION_REF="a216" PREVIOUS_ANNOTATION="a370">
+            <REF_ANNOTATION ANNOTATION_ID="a4643" ANNOTATION_REF="a216" PREVIOUS_ANNOTATION="a370">
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1705" ANNOTATION_REF="a216" PREVIOUS_ANNOTATION="a4643">
                 <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -1497,6 +1502,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a374" ANNOTATION_REF="a216" PREVIOUS_ANNOTATION="a373">
                 <ANNOTATION_VALUE>ha-ʔ-ib-le-kːu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4644" ANNOTATION_REF="a216" PREVIOUS_ANNOTATION="a374">
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4742,6 +4752,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4645" ANNOTATION_REF="a4643">
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1927" ANNOTATION_REF="a1705">
                 <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -4784,6 +4799,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a805" ANNOTATION_REF="a374">
                 <ANNOTATION_VALUE>upwards-say.PFV-PRET-CVB-NEG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4646" ANNOTATION_REF="a4644">
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6193,7 +6213,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a986" ANNOTATION_REF="a556">
-                <ANNOTATION_VALUE>3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>those</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7995,12 +8015,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1227" ANNOTATION_REF="a797">
-                <ANNOTATION_VALUE>dem_pro.h:s_ds_pc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln_dem</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1228" ANNOTATION_REF="a798">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>np.h:s_ds_pc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8026,6 +8046,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1231" ANNOTATION_REF="a801">
                 <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4647" ANNOTATION_REF="a4645">
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8071,6 +8096,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1235" ANNOTATION_REF="a805">
                 <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4648" ANNOTATION_REF="a4646">
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10210,7 +10240,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1515" ANNOTATION_REF="a1085">
-                <ANNOTATION_VALUE>np.h:s_cps_ds</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>np.h:s_ds_cps</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10367,7 +10397,7 @@
     <TIER ANNOTATOR="Diana Forker, Nils Schiborr" LINGUISTIC_TYPE_REF="symbolic_association" PARENT_REF="graid" PARTICIPANT="SD02" TIER_ID="refind">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3224" ANNOTATION_REF="a1109">
-                <ANNOTATION_VALUE>300</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>329</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10537,7 +10567,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3326" ANNOTATION_REF="a1176">
-                <ANNOTATION_VALUE>300</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>329</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10612,7 +10642,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3376" ANNOTATION_REF="a1204">
-                <ANNOTATION_VALUE>300</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>329</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10646,7 +10676,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4640" ANNOTATION_REF="a1227">
+            <REF_ANNOTATION ANNOTATION_ID="a4642" ANNOTATION_REF="a1228">
                 <ANNOTATION_VALUE>311</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -10967,7 +10997,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3643" ANNOTATION_REF="a1375">
-                <ANNOTATION_VALUE>300</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>329</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

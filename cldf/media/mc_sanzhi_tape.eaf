@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-09-21T15:53:18+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2021-01-27T15:08:03+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_sanzhi_tape.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:63aa9783-d3cb-4d56-9254-b7dbe72069ad</PROPERTY>
@@ -5741,7 +5741,7 @@
     <TIER ANNOTATOR="Diana Forker, Nils Schiborr" LINGUISTIC_TYPE_REF="symbolic_association" PARENT_REF="graid" PARTICIPANT="SD03" TIER_ID="refind">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1727" ANNOTATION_REF="a741">
-                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5761,7 +5761,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1732" ANNOTATION_REF="a749">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5781,7 +5781,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2181" ANNOTATION_REF="a757">
-                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5816,7 +5816,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1007" ANNOTATION_REF="a781">
-                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5911,7 +5911,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1805" ANNOTATION_REF="a839">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6046,12 +6046,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1459" ANNOTATION_REF="a1355">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1462" ANNOTATION_REF="a1358">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6066,7 +6066,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1466" ANNOTATION_REF="a1362">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6086,7 +6086,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1886" ANNOTATION_REF="a930">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6096,7 +6096,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1477" ANNOTATION_REF="a1373">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6116,7 +6116,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1481" ANNOTATION_REF="a1377">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6141,7 +6141,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1909" ANNOTATION_REF="a954">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6151,12 +6151,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2227" ANNOTATION_REF="a2224">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1912" ANNOTATION_REF="a957">
-                <ANNOTATION_VALUE>804</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>800</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

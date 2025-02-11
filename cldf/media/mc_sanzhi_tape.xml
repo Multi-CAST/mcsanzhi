@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="sanzhi">
         <text t_name="tape" annotators="Diana Forker, Nils Schiborr" speaker="SD03">
-            <file f_name="mc_sanzhi_tape" audio="mc_sanzhi_tape.wav" updated="2019-09-21">
+            <file f_name="mc_sanzhi_tape" audio="mc_sanzhi_tape.wav" updated="2021-01-27">
                 <unit uid="0001" start_time="0" end_time="8306">
                     <utterance_id>sanzhi_tape_0001</utterance_id>
                     <utterance>qːajakentlij hejkaguda agurda ʡaˁbdulχaliq'ra ʡisaq'adira, dura nišːala qːulluqaj</utterance>
@@ -17,7 +17,7 @@
                             <gword>qːajakent-li-j</gword>
                             <gloss>Kajakent-OBL-DAT</gloss>
                             <graid>pn_np:l</graid>
-                            <refind>800</refind>
+                            <refind>804</refind>
                             <isnref>bridging</isnref>
                         </segment>
                         <segment>
@@ -65,7 +65,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>rn_pro.1</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                             <isnref>bridging</isnref>
                         </segment>
                         <segment>
@@ -118,7 +118,7 @@
                             <gword>itːu</gword>
                             <gloss>there</gloss>
                             <graid>other:g</graid>
-                            <refind>800</refind>
+                            <refind>804</refind>
                         </segment>
                         <segment>
                             <gword>d-ič-ib-da</gword>
@@ -249,7 +249,7 @@
                             <gword>qːajakent-la</gword>
                             <gloss>Kajakent-GEN</gloss>
                             <graid>ln_pn_np:poss</graid>
-                            <refind>800</refind>
+                            <refind>804</refind>
                         </segment>
                         <segment>
                             <gword>kolcewoj-la</gword>
@@ -687,7 +687,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>rn_pro.1</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                         </segment>
                         <segment>
                             <gword>=ra</gword>
@@ -1385,7 +1385,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_ds</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                         </segment>
                         <segment>
                             <gword>ʔ-ib-da</gword>
@@ -1411,7 +1411,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_ds</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                         </segment>
                         <segment>
                             <gword>ʔ-ib-da</gword>
@@ -1455,7 +1455,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:s_ds</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                         </segment>
                         <segment>
                             <gword>ʔ-ib-da</gword>
@@ -1553,7 +1553,7 @@
                             <gword>du-l</gword>
                             <gloss>1SG-ERG</gloss>
                             <graid>pro.1:a_ds</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                         </segment>
                         <segment>
                             <gword>ha-ʔ-ib-da</gword>
@@ -1615,7 +1615,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_ds</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                         </segment>
                         <segment>
                             <gword>ha-ʔ-ib-da</gword>
@@ -1665,7 +1665,7 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.1:a_ds</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                         </segment>
                         <segment>
                             <gword>ha-ʔ-ib-da</gword>
@@ -1782,7 +1782,7 @@
                             <gword>u</gword>
                             <gloss>2SG</gloss>
                             <graid>pro.2:s_cv</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                         </segment>
                         <segment>
                             <gword>trezvyj</gword>
@@ -1819,13 +1819,13 @@
                             <gword>0</gword>
                             <gloss>0_I</gloss>
                             <graid>0.2:a</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                         </segment>
                         <segment>
                             <gword>at</gword>
                             <gloss>2SG.DAT</gloss>
                             <graid>pro.2:s_ds</graid>
-                            <refind>804</refind>
+                            <refind>800</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>

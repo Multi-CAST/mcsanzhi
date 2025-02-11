@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="sanzhi">
         <text t_name="bazhuk" annotators="Diana Forker, Nils Schiborr" speaker="SD02">
-            <file f_name="mc_sanzhi_bazhuk" audio="mc_sanzhi_bazhuk.wav" updated="2019-05-11">
+            <file f_name="mc_sanzhi_bazhuk" audio="mc_sanzhi_bazhuk.wav" updated="2021-01-27">
                 <unit uid="0001" start_time="0" end_time="4154">
                     <utterance_id>sanzhi_bazhuk_0001</utterance_id>
                     <utterance>užibcaw užiblekːu ca durħuˁ.</utterance>
@@ -37,7 +37,7 @@
                             <gword>durħuˁ</gword>
                             <gloss>boy</gloss>
                             <graid>nc_np.h</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                             <isnref>new</isnref>
                         </segment>
                     </annotations>
@@ -56,7 +56,7 @@
                             <gword>il-i-la</gword>
                             <gloss>that-OBL-GEN</gloss>
                             <graid>ln_dem_pro.h:poss</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>atːa-la</gword>
@@ -119,7 +119,7 @@
                             <gword>durħuˁ-cːe</gword>
                             <gloss>boy-IN</gloss>
                             <graid>np.h:g</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -156,7 +156,7 @@
                             <gword>u</gword>
                             <gloss>2SG</gloss>
                             <graid>pro.2:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ʡaˁbal</gword>
@@ -264,7 +264,7 @@
                             <gword>u</gword>
                             <gloss>2SG</gloss>
                             <graid>pro.2:s_cps</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>iχ-tː-a-j</gword>
@@ -313,7 +313,7 @@
                             <gword>durħuˁ</gword>
                             <gloss>boy</gloss>
                             <graid>np.h:s_ds_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -324,7 +324,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur</gword>
@@ -360,7 +360,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s_cps_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>er</gword>
@@ -397,7 +397,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ka-jʁ-ib</gword>
@@ -442,7 +442,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur</gword>
@@ -495,8 +495,8 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
-                            <graid>0.h:s_cps_ds</graid>
-                            <refind>200</refind>
+                            <graid>0.h:s_ds_cps</graid>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ik'-ul</gword>
@@ -539,7 +539,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.2:s_cps</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>kːalk-m-a-j</gword>
@@ -566,7 +566,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s_ds_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ik'-ul</gword>
@@ -582,7 +582,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s_cps_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>er</gword>
@@ -603,7 +603,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:a_cps_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>jaˁħ</gword>
@@ -641,7 +641,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur</gword>
@@ -672,7 +672,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s_cps_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>hati</gword>
@@ -773,7 +773,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s_ds_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ik'-ul</gword>
@@ -801,7 +801,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>už-ij</gword>
@@ -822,7 +822,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s_cps</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>er</gword>
@@ -855,7 +855,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:ncs</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>či-d-až-ib</gword>
@@ -913,7 +913,7 @@
                             <gword>hel</gword>
                             <gloss>that</gloss>
                             <graid>dem_pro.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>či-ha-w-q-un</gword>
@@ -946,7 +946,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s_in</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>w-elqː-ij</gword>
@@ -967,7 +967,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:a</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>uk-un</gword>
@@ -998,7 +998,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:a_pc</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>d-alli</gword>
@@ -1046,7 +1046,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:a_pc</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>dukla</gword>
@@ -1138,7 +1138,7 @@
                             <gword>hež</gword>
                             <gloss>this</gloss>
                             <graid>dem_pro.h:other</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>=uw</gword>
@@ -1149,7 +1149,7 @@
                             <gword>ij</gword>
                             <gloss>this</gloss>
                             <graid>dem_pro.h:a_pc</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>di-la</gword>
@@ -1208,7 +1208,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:p</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -1225,7 +1225,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:p</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>qːap-le</gword>
@@ -1292,13 +1292,13 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:p</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>dam</gword>
                             <gloss>1SG.DAT</gloss>
                             <graid>pro.1:obl</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>arilla-li-j</gword>
@@ -1458,7 +1458,7 @@
                             <gword>durħuˁ</gword>
                             <gloss>boy</gloss>
                             <graid>np:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>tːura-ha-w-q-un</gword>
@@ -1495,7 +1495,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s_cps</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>daˁʡaˁna</gword>
@@ -1628,7 +1628,7 @@
                             <gword>il</gword>
                             <gloss>that</gloss>
                             <graid>dem_pro:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>dek'ʷ</gword>
@@ -1676,13 +1676,13 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>cin-na</gword>
                             <gloss>REFL.SG-GEN</gloss>
                             <graid>ln_refl.h:poss</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>uruχ-dex-li-j</gword>
@@ -2090,7 +2090,7 @@
                         <segment>
                             <gword>il</gword>
                             <gloss>that</gloss>
-                            <graid>dem_pro.h:s_cps_ds_cv</graid>
+                            <graid>dem_pro.h:s_ds_cps_cv</graid>
                             <refind>209</refind>
                         </segment>
                         <segment>
@@ -2124,7 +2124,7 @@
                             <gword>u</gword>
                             <gloss>2SG</gloss>
                             <graid>pro.2:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -2156,7 +2156,7 @@
                             <gword>at</gword>
                             <gloss>2SG.DAT</gloss>
                             <graid>pro.2:obl</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>du-l</gword>
@@ -2188,7 +2188,7 @@
                             <gword>durħuˁ-cːe</gword>
                             <gloss>boy-IN</gloss>
                             <graid>np.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>w-aš-e</gword>
@@ -2211,7 +2211,7 @@
                             <gword>durħuˁ</gword>
                             <gloss>boy</gloss>
                             <graid>np.h:s_ds_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ik'-ul</gword>
@@ -2232,7 +2232,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ala</gword>
@@ -2336,7 +2336,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>w-akːu</gword>
@@ -2395,13 +2395,13 @@
                             <gword>durħuˁ</gword>
                             <gloss>boy</gloss>
                             <graid>np.h:voc</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>at</gword>
                             <gloss>2SG.DAT</gloss>
                             <graid>pro.2:obl</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>du-l</gword>
@@ -2435,7 +2435,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.2:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>w-aš-e</gword>
@@ -2451,7 +2451,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.2:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>tːura-w-aš-e</gword>
@@ -2482,7 +2482,7 @@
                             <gword>u</gword>
                             <gloss>2SG</gloss>
                             <graid>pro.2:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>%</gword>
@@ -2493,7 +2493,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.2:a</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>b-urs-a</gword>
@@ -2516,7 +2516,7 @@
                             <gword>durħuˁ</gword>
                             <gloss>boy</gloss>
                             <graid>np.h:s_ds_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ik'-ul</gword>
@@ -2537,7 +2537,7 @@
                             <gword>du</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ala</gword>
@@ -2621,7 +2621,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>w-akːu</gword>
@@ -2721,7 +2721,7 @@
                             <gword>u</gword>
                             <gloss>2SG</gloss>
                             <graid>pro.2:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>%</gword>
@@ -2731,8 +2731,8 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
-                            <graid>pro.2:a</graid>
-                            <refind>200</refind>
+                            <graid>0.2:a</graid>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>b-urs-a</gword>
@@ -2755,7 +2755,7 @@
                             <gword>durħuˁ</gword>
                             <gloss>boy</gloss>
                             <graid>np.h:s_ds_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ik'-ul</gword>
@@ -2776,7 +2776,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.1:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ala</gword>
@@ -2816,7 +2816,7 @@
                             <gword>0</gword>
                             <gloss>0_bazhuk</gloss>
                             <graid>0.h:s_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ħaˁšukː-a</gword>
@@ -2838,7 +2838,7 @@
                             <gword>it</gword>
                             <gloss>that</gloss>
                             <graid>dem_pro:s_cps_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>er</gword>
@@ -2864,7 +2864,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>wi-w</gword>
@@ -2922,7 +2922,7 @@
                             <gword>durħuˁ</gword>
                             <gloss>boy</gloss>
                             <graid>np.h:s_cps_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>%</gword>
@@ -2933,7 +2933,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:a_cpa</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>qːurt</gword>
@@ -3039,7 +3039,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:a_cv</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>d-erč-ib-le</gword>
@@ -3050,7 +3050,7 @@
                             <gword>cin-na</gword>
                             <gloss>REFL.SG-GEN</gloss>
                             <graid>ln_refl.h:poss</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>macːa</gword>
@@ -3072,7 +3072,7 @@
                             <gword>0</gword>
                             <gloss>0_boy</gloss>
                             <graid>0.h:s</graid>
-                            <refind>200</refind>
+                            <refind>220</refind>
                         </segment>
                         <segment>
                             <gword>ag-ur</gword>

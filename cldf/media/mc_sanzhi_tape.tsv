@@ -1,6 +1,6 @@
 corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 sanzhi	tape	0001	#	#	##	##				
-sanzhi	tape	0001	qːajakent-li-j	Kajakent-OBL-DAT	pn_np:l	pn_np		l	800	bridging
+sanzhi	tape	0001	qːajakent-li-j	Kajakent-OBL-DAT	pn_np:l	pn_np		l	804	bridging
 sanzhi	tape	0001	hej-ka-gu-d-a	this-down-SUB-1/2PL-SPR	dem_pro:obl	dem_pro		obl		
 sanzhi	tape	0001	0	0_we	0.1:s	0	1	s	801	bridging
 sanzhi	tape	0001	ag-ur-da	go.PFV-PRET-1	v:pred	v		pred		
@@ -8,7 +8,7 @@ sanzhi	tape	0001	ʡaˁbdulχaliq'	Abdulkhalik	pn_np.h:appos	pn_np	h	appos	802	br
 sanzhi	tape	0001	=ra	=and	=rn	=rn				
 sanzhi	tape	0001	ʡisaq'adi	Isakadi	rn_pn_np.h	rn_pn_np	h		803	bridging
 sanzhi	tape	0001	=ra	=and	=rn	=rn				
-sanzhi	tape	0001	du	1SG	rn_pro.1	rn_pro	1		804	bridging
+sanzhi	tape	0001	du	1SG	rn_pro.1	rn_pro	1		800	bridging
 sanzhi	tape	0001	=ra	=and	=rn	=rn				
 sanzhi	tape	0001	nišːa-la	1PL-GEN	ln_pro.1:poss	ln_pro	1	poss	801	
 sanzhi	tape	0001	qːulluqː-a-j	matter-OBL-DAT	np:other	np		other	805	bridging
@@ -16,7 +16,7 @@ sanzhi	tape	0002	#	#	##	##
 sanzhi	tape	0002	c'il	then	other	other				
 sanzhi	tape	0002	0	0_we	0.1:s	0	1	s	801	
 sanzhi	tape	0002	heχtːu-d	there.down-1/2PL	other:g	other		g		
-sanzhi	tape	0002	itːu	there	other:g	other		g	800	
+sanzhi	tape	0002	itːu	there	other:g	other		g	804	
 sanzhi	tape	0002	d-ič-ib-da	1/2PL-occur.PFV-PRET-1	v:pred	v		pred		
 sanzhi	tape	0002	#	#	##	##				
 sanzhi	tape	0002	0	0_we	0.1:s	0	1	s	801	
@@ -39,7 +39,7 @@ sanzhi	tape	0003	b-irq'-an	N-do.IPFV-PTCP	v:pred	v		pred
 sanzhi	tape	0003	#	#	##	##				
 sanzhi	tape	0003	ce	what	intrg_other:s	intrg_other		s		
 sanzhi	tape	0003	hehe	NC	other	other				
-sanzhi	tape	0003	qːajakent-la	Kajakent-GEN	ln_pn_np:poss	ln_pn_np		poss	800	
+sanzhi	tape	0003	qːajakent-la	Kajakent-GEN	ln_pn_np:poss	ln_pn_np		poss	804	
 sanzhi	tape	0003	kolcewoj-la	roundabout[R]-GEN	ln_np:poss	ln_np		poss	807	new
 sanzhi	tape	0003	hej	this	ln_dem	ln_dem				
 sanzhi	tape	0003	šːal-le-b	side-SPR-N	np:pred_l	np		pred_l	808	bridging
@@ -116,7 +116,7 @@ sanzhi	tape	0006	du	1SG	pro.1:s	pro	1	s	803
 sanzhi	tape	0007	#	#	##	##				
 sanzhi	tape	0007	ij	this	dem_pro.h:s	dem_pro	h	s	802	
 sanzhi	tape	0007	=ra	=and	=rn	=rn				
-sanzhi	tape	0007	du	1SG	rn_pro.1	rn_pro	1		804	
+sanzhi	tape	0007	du	1SG	rn_pro.1	rn_pro	1		800	
 sanzhi	tape	0007	=ra	=and	=rn	=rn				
 sanzhi	tape	0007	tːura-d	outside-1/2PL	other:l	other		l		
 sanzhi	tape	0007	k-elg-un-da	down-remain.PFV-PRET-1	v:pred	v		pred		
@@ -237,12 +237,12 @@ sanzhi	tape	0015	le-d-de	exist-NPL-PST	cop	cop
 sanzhi	tape	0016	#	#	##	##				
 sanzhi	tape	0016	hari	let's	other	other				
 sanzhi	tape	0016	=kːʷa	=PRT	=other	=other				
-sanzhi	tape	0016	0	0_I	0.1:s_ds	0	1	s_ds	804	
+sanzhi	tape	0016	0	0_I	0.1:s_ds	0	1	s_ds	800	
 sanzhi	tape	0016	ʔ-ib-da	say.PFV-PRET-1	v:pred	v		pred		
 sanzhi	tape	0016	#	#	#nc	#nc				
 sanzhi	tape	0016	a-b-uχ-ar-re	NEG-N-be.PFV-COND.3-COND	nc	nc				
 sanzhi	tape	0016	#	#	##	##				
-sanzhi	tape	0016	0	0_I	0.1:s_ds	0	1	s_ds	804	
+sanzhi	tape	0016	0	0_I	0.1:s_ds	0	1	s_ds	800	
 sanzhi	tape	0016	ʔ-ib-da	say.PFV-PRET-1	v:pred	v		pred		
 sanzhi	tape	0016	#	#	##ds	##ds				
 sanzhi	tape	0016	0	0_Abdulkhalik	0.2:a	0	2	a	802	
@@ -250,7 +250,7 @@ sanzhi	tape	0016	ca	one	ln_num	ln_num
 sanzhi	tape	0016	skuč	scotch	np:p	np		p	816	bridging
 sanzhi	tape	0016	asː-a	buy.PFV-IMP	v:pred	v		pred		
 sanzhi	tape	0016	#	#	##	##				
-sanzhi	tape	0016	0	0_I	0.1:s_ds	0	1	s_ds	804	
+sanzhi	tape	0016	0	0_I	0.1:s_ds	0	1	s_ds	800	
 sanzhi	tape	0016	ʔ-ib-da	say.PFV-PRET-1	v:pred	v		pred		
 sanzhi	tape	0016	%	%	%	%				
 sanzhi	tape	0016	at	2SG.DAT	pro.2:obl	pro	2	obl	802	
@@ -266,7 +266,7 @@ sanzhi	tape	0017	0	0_Abdukhalik	0.h:s_ds	0	h	s_ds	802
 sanzhi	tape	0017	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
 sanzhi	tape	0017	heχ	DEM.down	other	other				
 sanzhi	tape	0018	#	#	##	##				
-sanzhi	tape	0018	du-l	1SG-ERG	pro.1:a_ds	pro	1	a_ds	804	
+sanzhi	tape	0018	du-l	1SG-ERG	pro.1:a_ds	pro	1	a_ds	800	
 sanzhi	tape	0018	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
 sanzhi	tape	0018	#	#	#ds_ac	#ds_ac				
 sanzhi	tape	0018	hel	that	nc	nc				
@@ -278,7 +278,7 @@ sanzhi	tape	0018	0	0_Abdukhalik	0.1:s_ds_cps_cv	0	1	s_ds_cps_cv	802
 sanzhi	tape	0018	t'irt'ir	chatter	other:lvc	other		lvc		
 sanzhi	tape	0018	ik'-ul-de	say.IPFV-ICVB-2SG	v:pred	v		pred		
 sanzhi	tape	0018	#	#	##	##				
-sanzhi	tape	0018	0	0_I	0.1:a_ds	0	1	a_ds	804	
+sanzhi	tape	0018	0	0_I	0.1:a_ds	0	1	a_ds	800	
 sanzhi	tape	0018	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
 sanzhi	tape	0018	#	#	#ds_in	#ds_in				
 sanzhi	tape	0018	0	0_Abdulkhalik	0.2:a_in	0	2	a_in	802	
@@ -287,7 +287,7 @@ sanzhi	tape	0018	cek'u	whatsit	other	other
 sanzhi	tape	0018	tːutːu-le	beak-SPR	np:g	np		g	817	bridging
 sanzhi	tape	0018	či-b-asː-ij	SPR-N-glue.PFV-INF1	v:pred	v		pred		
 sanzhi	tape	0018	#	#	##	##				
-sanzhi	tape	0018	0	0_I	0.1:a_ds	0	1	a_ds	804	
+sanzhi	tape	0018	0	0_I	0.1:a_ds	0	1	a_ds	800	
 sanzhi	tape	0018	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
 sanzhi	tape	0018	heχ	DEM.down	other	other				
 sanzhi	tape	0019	#	#	##	##				
@@ -308,15 +308,15 @@ sanzhi	tape	0019	#	#	##	##
 sanzhi	tape	0019	0	0_Abdulkhalik	0.h:s_ds	0	h	s_ds	802	
 sanzhi	tape	0019	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
 sanzhi	tape	0019	#	#	#ds_cv	#ds_cv				
-sanzhi	tape	0019	u	2SG	pro.2:s_cv	pro	2	s_cv	804	
+sanzhi	tape	0019	u	2SG	pro.2:s_cv	pro	2	s_cv	800	
 sanzhi	tape	0019	trezvyj	sober[R]	other	other				
 sanzhi	tape	0019	ik'-ul-de	say.IPFV-ICVB-2SG	v:pred	v		pred		
 sanzhi	tape	0019	#	#	##	##				
 sanzhi	tape	0019	0	0_Abdulkhalik	0.h:s_ds	0	h	s_ds	802	
 sanzhi	tape	0019	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
 sanzhi	tape	0019	#	#	##ds	##ds				
-sanzhi	tape	0019	0	0_I	0.2:a	0	2	a	804	
-sanzhi	tape	0019	at	2SG.DAT	pro.2:s_ds	pro	2	s_ds	804	
+sanzhi	tape	0019	0	0_I	0.2:a	0	2	a	800	
+sanzhi	tape	0019	at	2SG.DAT	pro.2:s_ds	pro	2	s_ds	800	
 sanzhi	tape	0019	0	0_tape	0:p	0		p	816	
 sanzhi	tape	0019	asː-a	buy.PFV-IMP	v:pred	v		pred		
 sanzhi	tape	0019	#	#	##	##				

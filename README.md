@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Forker, Diana & Schiborr, Nils N. 2020. Multi-CAST Sanzhi Dargwa. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2001. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#sanzhi) (date accessed)
+  > Forker, Diana & Schiborr, Nils N. 2021. Multi-CAST Sanzhi Dargwa. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#sanzhi) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -111,27 +111,27 @@ information on all annotated categories, including those not listed here.
 
 | GRAID | ⟨:s⟩ | ⟨:a⟩ | ⟨:ncs⟩ | ⟨:p⟩ | ⟨:obl⟩ | ⟨:g⟩ | ⟨:l⟩ | ⟨:pred⟩ | ⟨:poss⟩ | ⟨:other⟩ | totals |
 |:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
-| **⟨0.1⟩** | 96 | 67 | 13 | 13 | 0 | 4 | 0 | 0 | 0 | 0 | 193 |
-| **⟨0.2⟩** | 26 | 26 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 53 |
-| **⟨0.h⟩** | 198 | 136 | 13 | 20 | 6 | 10 | 0 | 0 | 0 | 0 | 383 |
+| **⟨0.1⟩** | 95 | 67 | 14 | 13 | 0 | 4 | 0 | 0 | 0 | 0 | 193 |
+| **⟨0.2⟩** | 26 | 27 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 54 |
+| **⟨0.h⟩** | 197 | 136 | 13 | 20 | 6 | 10 | 0 | 0 | 0 | 0 | 382 |
 | **⟨0.d⟩** | 14 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 18 |
 | **⟨0⟩** | 32 | 5 | 0 | 47 | 1 | 2 | 0 | 0 | 0 | 2 | 89 |
-| **⟨pro.1⟩** | 33 | 19 | 13 | 5 | 10 | 3 | 0 | 0 | 25 | 1 | 109 |
-| **⟨pro.2⟩** | 19 | 12 | 3 | 2 | 6 | 2 | 0 | 0 | 8 | 1 | 53 |
+| **⟨pro.1⟩** | 34 | 19 | 12 | 5 | 10 | 3 | 0 | 0 | 25 | 1 | 109 |
+| **⟨pro.2⟩** | 19 | 11 | 3 | 2 | 6 | 2 | 0 | 0 | 8 | 1 | 52 |
 | **⟨pro.h⟩** | 36 | 18 | 2 | 5 | 9 | 9 | 1 | 0 | 5 | 2 | 87 |
 | **⟨pro.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨pro⟩** | 12 | 0 | 0 | 16 | 6 | 3 | 4 | 1 | 0 | 7 | 49 |
 | **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨np.h⟩** | 100 | 15 | 3 | 27 | 16 | 8 | 0 | 18 | 10 | 8 | 205 |
+| **⟨np.h⟩** | 101 | 15 | 3 | 27 | 16 | 8 | 0 | 18 | 9 | 8 | 205 |
 | **⟨np.d⟩** | 13 | 3 | 1 | 5 | 0 | 2 | 3 | 0 | 0 | 0 | 27 |
-| **⟨np⟩** | 90 | 4 | 3 | 123 | 39 | 57 | 49 | 26 | 36 | 84 | 511 |
+| **⟨np⟩** | 90 | 4 | 3 | 123 | 39 | 57 | 49 | 26 | 37 | 84 | 512 |
 | **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.h⟩** | 7 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 11 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨other⟩** | 6 | 0 | 0 | 18 | 6 | 26 | 22 | 46 | 0 | 0 | 124 |
-| | 682 | 310 | 53 | 282 | 99 | 126 | 79 | 92 | 84 | 105 | 1912 |
+| **⟨other⟩** | 6 | 0 | 0 | 18 | 6 | 26 | 22 | 45 | 0 | 0 | 123 |
+| | 682 | 310 | 53 | 282 | 99 | 126 | 79 | 91 | 84 | 105 | 1911 |
 
 
 **Clause boundaries**

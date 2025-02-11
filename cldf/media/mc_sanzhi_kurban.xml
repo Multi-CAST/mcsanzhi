@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="sanzhi">
         <text t_name="kurban" annotators="Diana Forker, Nils Schiborr" speaker="SD03">
-            <file f_name="mc_sanzhi_kurban" audio="mc_sanzhi_kurban.wav" updated="2019-05-26">
+            <file f_name="mc_sanzhi_kurban" audio="mc_sanzhi_kurban.wav" updated="2020-06-16">
                 <unit uid="0001" start_time="0" end_time="5971">
                     <utterance_id>sanzhi_kurban_0001</utterance_id>
                     <utterance>ca zamana durħne, heχ ašːij χabar bursille, [CROSSTALK] hila</utterance>
@@ -4276,7 +4276,7 @@
                         <segment>
                             <gword>hel</gword>
                             <gloss>that</gloss>
-                            <graid>0.h:s_ds_cv</graid>
+                            <graid>dem_pro.h:s_ds_cv</graid>
                             <refind>408</refind>
                         </segment>
                         <segment>

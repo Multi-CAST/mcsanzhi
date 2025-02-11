@@ -52,7 +52,7 @@ sanzhi	mill	0005	nišːa-la	1PL-GEN	pro.1:obl	pro	1	obl
 sanzhi	mill	0005	musːa	place	np:s	np		s		
 sanzhi	mill	0005	k'e-b	exist.up-N	other:predex	other		predex		
 sanzhi	mill	0006	#	#	#cv.neg	#cv.neg				
-sanzhi	mill	0006	urχːab	mill	np:s	np		s	500	new
+sanzhi	mill	0006	urχːab	mill	np:s	np		s	538	new
 sanzhi	mill	0006	akːʷ-ar-re	NEG-PRS-CVB	other:predex	other		predex		
 sanzhi	mill	0006	ču-la	REFL.PL-GEN	refl.h:obl	refl	h	obl	501	bridging
 sanzhi	mill	0006	#	#	#cv	#cv				
@@ -613,13 +613,13 @@ sanzhi	mill	0034	b-irʁ-ul	N-ask.IPFV-ICVB	v:pred	v		pred
 sanzhi	mill	0034	ca-b	be-N	rv_aux	rv_aux				
 sanzhi	mill	0034	iltːa-l	3PL-ERG	dem_pro.h:a_ds_cps_cv	dem_pro	h	a_ds_cps_cv	501	
 sanzhi	mill	0035	#	#	##ds	##ds				
-sanzhi	mill	0035	#	#	#ds_cc_in:s	#ds_cc_in		s		
+sanzhi	mill	0035	#	#	#ds_in	#ds_in				
 sanzhi	mill	0035	cet'-le	how-ADVZ	other	other				
 sanzhi	mill	0035	0	0_people	0.h:a	0	h	a	501	
 sanzhi	mill	0035	0	0_that	0:p	0		p		
 sanzhi	mill	0035	b-arq'-ij	N-do.PFV-INF1	v:pred	v		pred		
+sanzhi	mill	0035	ʡaˁʁuni-le	needed-ADVZ	other	other				
 sanzhi	mill	0035	%	%	%	%				
-sanzhi	mill	0035	ʡaˁʁuni-le	needed-ADVZ	other:pred	other		pred		
 sanzhi	mill	0035	#	#	#cv	#cv				
 sanzhi	mill	0035	wallah	by.God	other	other				
 sanzhi	mill	0035	0	0_people	0.h:s_ds_cv	0	h	s_ds_cv	501	
