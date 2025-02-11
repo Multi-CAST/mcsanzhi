@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="1907">
     <corpus c_name="sanzhi">
         <text t_name="mill" annotators="Diana Forker, Nils Schiborr" speaker="SD01">
-            <file f_name="mc_sanzhi_mill" audio="mc_sanzhi_mill.wav" updated="2019-05-11">
+            <file f_name="mc_sanzhi_mill" audio="mc_sanzhi_mill.wav" updated="2019-05-26">
                 <unit uid="0001" start_time="0" end_time="10529">
                     <utterance_id>sanzhi_mill_0001</utterance_id>
                     <utterance>nišːala sunglantalla leb χabar</utterance>
@@ -1214,7 +1214,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_people</gloss>
-                            <graid>rc_f0.1:s</graid>
+                            <graid>rel_f0.1:s</graid>
                             <refind>534</refind>
                         </segment>
                         <segment>
@@ -1484,7 +1484,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_mill</gloss>
-                            <graid>rc_f0.h:obl</graid>
+                            <graid>rel_f0.h:obl</graid>
                             <refind>503</refind>
                         </segment>
                         <segment>
@@ -1575,7 +1575,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_mill</gloss>
-                            <graid>rc_f0.h:obl</graid>
+                            <graid>rel_f0.h:obl</graid>
                             <refind>503</refind>
                         </segment>
                         <segment>
@@ -1765,7 +1765,7 @@
                         <segment>
                             <gword>itːi</gword>
                             <gloss>3PL</gloss>
-                            <graid>pro.h:g</graid>
+                            <graid>dem_pro.h:g</graid>
                             <refind>534</refind>
                         </segment>
                         <segment>
@@ -2467,7 +2467,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_bride</gloss>
-                            <graid>rc_f0.h:s</graid>
+                            <graid>rel_f0.h:s</graid>
                             <refind>533</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -2612,7 +2612,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_bride</gloss>
-                            <graid>rc_f0.h:s_cps_pc</graid>
+                            <graid>rel_f0.h:s_cps_pc</graid>
                             <refind>524</refind>
                         </segment>
                         <segment>

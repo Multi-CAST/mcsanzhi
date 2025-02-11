@@ -311,7 +311,7 @@ sanzhi	patima	0019	#	#	#cv	#cv
 sanzhi	patima	0019	hel-ka	that-down	dem_pro.h:other	dem_pro	h	other	600	
 sanzhi	patima	0019	satːi	as.soon.as	adp	adp				
 sanzhi	patima	0019	#	#	#rc_pc	#rc_pc				
-sanzhi	patima	0019	0	0_fox	rc_f0.d:s_pc	rc_f0	d	s_pc	615	new
+sanzhi	patima	0019	0	0_fox	rel_f0.d:s_pc	rel_f0	d	s_pc	615	new
 sanzhi	patima	0019	arg-an	go.IPFV-PTCP	v:pred	v		pred		
 sanzhi	patima	0019	%	%	%	%				
 sanzhi	patima	0019	kːurtːa-j	fox-DAT	np.d:ncs_cv	np	d	ncs_cv	615	

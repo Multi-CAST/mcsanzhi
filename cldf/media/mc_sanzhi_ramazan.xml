@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="1907">
     <corpus c_name="sanzhi">
         <text t_name="ramazan" annotators="Diana Forker, Nils Schiborr" speaker="SD04">
             <file f_name="mc_sanzhi_ramazan" audio="mc_sanzhi_ramazan.wav" updated="2019-05-13">
@@ -4321,7 +4321,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_place</gloss>
-                            <graid>rc_f0:s_cps</graid>
+                            <graid>rel_f0:s_cps</graid>
                             <refind>712</refind>
                         </segment>
                         <segment>
@@ -4464,7 +4464,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_place</gloss>
-                            <graid>rc_f0:g</graid>
+                            <graid>rel_f0:g</graid>
                         </segment>
                         <segment>
                             <gword>a-jteʁ-ib</gword>
@@ -6581,7 +6581,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_town</gloss>
-                            <graid>rc_f0:p</graid>
+                            <graid>rel_f0:p</graid>
                             <refind>791</refind>
                         </segment>
                         <segment>
@@ -6766,7 +6766,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0</gloss>
-                            <graid>rc_f0.h:a</graid>
+                            <graid>rel_f0.h:a</graid>
                             <refind>793</refind>
                         </segment>
                         <segment>

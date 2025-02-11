@@ -58,7 +58,7 @@ sanzhi	kurban	0004	iχtilat-li-j	talk-OBL-DAT	np:obl	np		obl
 sanzhi	kurban	0005	#	#	##	##				
 sanzhi	kurban	0005	dila	1SG.GEN	ln_pro.1:poss	ln_pro	1	poss	400	
 sanzhi	kurban	0005	#	#	#rc	#rc				
-sanzhi	kurban	0005	0	0_Ramazan	rc_f0.h:s	rc_f0	h	s	408	new
+sanzhi	kurban	0005	0	0_Ramazan	rel_f0.h:s	rel_f0	h	s	408	new
 sanzhi	kurban	0005	ka-jʁ-ib	down-come.PFV-PRET	v:pred	v		pred		
 sanzhi	kurban	0005	%	%	%	%				
 sanzhi	kurban	0005	juldaš	friend	np.h:s	np	h	s	408	
@@ -128,7 +128,7 @@ sanzhi	kurban	0008	administracija-la	administration-GEN	rn_np:poss	rn_np		poss
 sanzhi	kurban	0008	le-w-de	exist-M-PST	cop	cop				
 sanzhi	kurban	0009	#	#	#nc	#nc				
 sanzhi	kurban	0009	c'ili	then	nc	nc				
-sanzhi	kurban	0009	hel	that	nc_pro.h	nc_pro	h		408	
+sanzhi	kurban	0009	hel	that	nc_dem_pro.h	nc_dem_pro	h		408	
 sanzhi	kurban	0009	ik'ʷ-ar	say.IPFV-PRS	nc	nc				
 sanzhi	kurban	0009	#	#	##	##				
 sanzhi	kurban	0009	du-l	1SG-ERG	pro.1:a_ds	pro	1	a_ds	400	
@@ -498,7 +498,7 @@ sanzhi	kurban	0033	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	400
 sanzhi	kurban	0033	ucːi	brother	np.h:appos	np	h	appos	423	
 sanzhi	kurban	0033	=ra	=and	=other	=other				
 sanzhi	kurban	0033	#	#	#rc	#rc				
-sanzhi	kurban	0033	0	0_other.Ramazan	rc_f0.h:obl	rc_f0	h	obl	423	
+sanzhi	kurban	0033	0	0_other.Ramazan	rel_f0.h:obl	rel_f0	h	obl	423	
 sanzhi	kurban	0033	q'ʷila	a.little	other	other				
 sanzhi	kurban	0033	tːutːu-la	beak-GEN	ln_np	ln_np				
 sanzhi	kurban	0033	barkat	patience	np:s	np		s		

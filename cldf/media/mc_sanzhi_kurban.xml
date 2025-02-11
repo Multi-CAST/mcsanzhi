@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="1907">
     <corpus c_name="sanzhi">
         <text t_name="kurban" annotators="Diana Forker, Nils Schiborr" speaker="SD03">
-            <file f_name="mc_sanzhi_kurban" audio="mc_sanzhi_kurban.wav" updated="2019-05-13">
+            <file f_name="mc_sanzhi_kurban" audio="mc_sanzhi_kurban.wav" updated="2019-05-26">
                 <unit uid="0001" start_time="0" end_time="5971">
                     <utterance_id>sanzhi_kurban_0001</utterance_id>
                     <utterance>ca zamana durħne, heχ ašːij χabar bursille, [CROSSTALK] hila</utterance>
@@ -360,7 +360,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_Ramazan</gloss>
-                            <graid>rc_f0.h:s</graid>
+                            <graid>rel_f0.h:s</graid>
                             <refind>408</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -760,7 +760,7 @@
                         <segment>
                             <gword>hel</gword>
                             <gloss>that</gloss>
-                            <graid>nc_pro.h</graid>
+                            <graid>nc_dem_pro.h</graid>
                             <refind>408</refind>
                         </segment>
                         <segment>
@@ -2895,7 +2895,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_other.Ramazan</gloss>
-                            <graid>rc_f0.h:obl</graid>
+                            <graid>rel_f0.h:obl</graid>
                             <refind>423</refind>
                         </segment>
                         <segment>

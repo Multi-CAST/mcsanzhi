@@ -26,7 +26,7 @@ sanzhi	dragon	0002	0	0	0.h:a	0	h	a
 sanzhi	dragon	0002	ču-la	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss		
 sanzhi	dragon	0002	χu-d-a-j	dog-PL-OBL-DAT	np:g	np		g	303	new
 sanzhi	dragon	0002	lukː-an	give.IPFV-PTCP	v:pred	v		pred		
-sanzhi	dragon	0002	0	0_food	rc_f0:p	rc_f0		p	304	new
+sanzhi	dragon	0002	0	0_food	rel_f0:p	rel_f0		p	304	new
 sanzhi	dragon	0002	%	%	%	%				
 sanzhi	dragon	0002	χurejg	food	np:dt_p	np		dt_p	304	
 sanzhi	dragon	0002	il-i-l	that-OBL-ERG	dem_pro.h:a	dem_pro	h	a	302	
@@ -182,7 +182,7 @@ sanzhi	dragon	0011	ič-ib	occur.PFV-PRET	v:pred	v		pred
 sanzhi	dragon	0011	ca-w	be-M	rv_aux	rv_aux				
 sanzhi	dragon	0011	#	#	#cc:p	#cc		p		
 sanzhi	dragon	0011	#	#	#cc_pc:p	#cc_pc		p		
-sanzhi	dragon	0011	itːi	3PL	pro.h:s_ds_pc	pro	h	s_ds_pc	311	
+sanzhi	dragon	0011	itːi	3PL	dem_pro.h:s_ds_pc	dem_pro	h	s_ds_pc	311	
 sanzhi	dragon	0011	χalq'	people	np.h:poss	np	h	poss		
 sanzhi	dragon	0011	b-ik'ʷ-an	HPL-say.IPFV-PTCP	v:pred	v		pred		
 sanzhi	dragon	0011	mar	truth	np:p	np		p		

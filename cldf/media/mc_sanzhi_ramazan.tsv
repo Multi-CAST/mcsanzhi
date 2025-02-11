@@ -711,7 +711,7 @@ sanzhi	ramazan	0071	bahla-la	quiet-GEN	other	other
 sanzhi	ramazan	0071	porjadok-li-cːe-b	order[R]-OBL-IN-N	other	other				
 sanzhi	ramazan	0071	qːuʁa-ce	beautiful-ATTR.SG	ln_adj	ln_adj				
 sanzhi	ramazan	0071	#	#	#rc	#rc				
-sanzhi	ramazan	0071	0	0_place	rc_f0:s_cps	rc_f0		s_cps	712	
+sanzhi	ramazan	0071	0	0_place	rel_f0:s_cps	rel_f0		s_cps	712	
 sanzhi	ramazan	0071	ʡaˁħ	good	other:lvc	other		lvc		
 sanzhi	ramazan	0071	ka-b-icː-ur	down-N-stand.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0071	%	%	%	%				
@@ -734,7 +734,7 @@ sanzhi	ramazan	0073	=ra	=and	nc	nc
 sanzhi	ramazan	0074	#	#	#pc.neg	#pc.neg				
 sanzhi	ramazan	0074	#	#	#rc.neg	#rc.neg				
 sanzhi	ramazan	0074	0	0_I	0.1:s	0	1	s	711	
-sanzhi	ramazan	0074	0	0_place	rc_f0:g	rc_f0		g		
+sanzhi	ramazan	0074	0	0_place	rel_f0:g	rel_f0		g		
 sanzhi	ramazan	0074	a-jteʁ-ib	NEG-reach.PFV-PRET	v:pred	v		pred		
 sanzhi	ramazan	0074	%	%	%	%				
 sanzhi	ramazan	0074	musːa	place	np:s_pc	np		s_pc		
@@ -1099,7 +1099,7 @@ sanzhi	ramazan	0096	heštːu-w	here-M	other:l	other		l	791	bridging
 sanzhi	ramazan	0096	šahar-ri-cːe-w	town-OBL-IN-M	np:l	np		l	791	
 sanzhi	ramazan	0096	#	#	#rc_pc.neg	#rc_pc.neg				
 sanzhi	ramazan	0096	0	0_I	0.1:ncs_pc	0	1	ncs_pc	711	
-sanzhi	ramazan	0096	0	0_town	rc_f0:p	rc_f0		p	791	
+sanzhi	ramazan	0096	0	0_town	rel_f0:p	rel_f0		p	791	
 sanzhi	ramazan	0096	a-b-alχ-an	NEG-N-know.IPFV-PTCP	v:pred	v		pred		
 sanzhi	ramazan	0096	%	%	%	%				
 sanzhi	ramazan	0096	šahar-ri-cːe-w	town-OBL-IN-M	np:l	np		l	791	
@@ -1131,7 +1131,7 @@ sanzhi	ramazan	0098	ʡaˁsi-l	angry-ADVZ	other	other
 sanzhi	ramazan	0098	b-určː-i	N-find.IPFV-HAB.PST	v:pred	v		pred		
 sanzhi	ramazan	0098	hetːi	those	dem_pro:p	dem_pro		p	793	bridging
 sanzhi	ramazan	0098	#	#	#rc.neg	#rc.neg				
-sanzhi	ramazan	0098	0	0	rc_f0.h:a	rc_f0	h	a	793	
+sanzhi	ramazan	0098	0	0	rel_f0.h:a	rel_f0	h	a	793	
 sanzhi	ramazan	0098	ʁaj	language	np:p	np		p		
 sanzhi	ramazan	0098	a-b-ik'ʷ-i	NEG-N-say.IPFV-HAB.PST	v:pred	v		pred		
 sanzhi	ramazan	0098	#	#	##neg	##neg				

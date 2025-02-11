@@ -230,8 +230,8 @@ sanzhi	asabali	0023	0	0_I	0.1:a_cv	0	1	a_cv	103
 sanzhi	asabali	0023	b-abq'i	N-half	np:p	np		p	132	bridging
 sanzhi	asabali	0023	a-b-erkʷ-un-ne	NEG-N-eat.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	asabali	0023	#	#	##	##				
-sanzhi	asabali	0023	0	0_us	0.1:p	0	1	p		
-sanzhi	asabali	0023	gu-r-ha-d-erč'-ib-da	down-ABL-upwards-1/2PL-drive.PFV-PRET-1	v:pred	v		pred	128	
+sanzhi	asabali	0023	0	0_us	0.1:p	0	1	p	128	
+sanzhi	asabali	0023	gu-r-ha-d-erč'-ib-da	down-ABL-upwards-1/2PL-drive.PFV-PRET-1	v:pred	v		pred		
 sanzhi	asabali	0023	hel-i-l	that-OBL-ERG	dem_pro.h:a	dem_pro	h	a	123	
 sanzhi	asabali	0024	#	#	##	##				
 sanzhi	asabali	0024	hel	that	ln_dem	ln_dem				
@@ -452,7 +452,7 @@ sanzhi	asabali	0041	dabrawulca-be	volunteer[R]-PL	nc	nc
 sanzhi	asabali	0041	dawaj	let's	nc	nc				
 sanzhi	asabali	0042	#	#	##	##				
 sanzhi	asabali	0042	na	now	other	other				
-sanzhi	asabali	0042	dam	1SG.DAT	pro.1:nca_cpa	pro	1	nca_cpa	103	
+sanzhi	asabali	0042	dam	1SG.DAT	pro.1:ncs_cpa	pro	1	ncs_cpa	103	
 sanzhi	asabali	0042	=ra	=and	=other	=other				
 sanzhi	asabali	0042	han	remember	other:lvc	other		lvc		
 sanzhi	asabali	0042	b-ič-ib	N-occur.PFV-PRET	v:pred	v		pred		

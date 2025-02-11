@@ -209,7 +209,7 @@ sanzhi	mill	0014	#	#	##ds	##ds
 sanzhi	mill	0014	nušːa	1PL	pro.1:s	pro	1	s	534	
 sanzhi	mill	0014	χalq'	people	np.h:appos	np	h	appos		
 sanzhi	mill	0014	#	#	#rc_pc	#rc_pc				
-sanzhi	mill	0014	0	0_people	rc_f0.1:s	rc_f0	1	s	534	
+sanzhi	mill	0014	0	0_people	rel_f0.1:s	rel_f0	1	s	534	
 sanzhi	mill	0014	ʡaˁči-l	work-ERG	np:obl	np		obl		
 sanzhi	mill	0014	d-irq'-an	1/2PL-do.IPFV-PTCP	v:pred	v		pred		
 sanzhi	mill	0014	%	%	%	%				
@@ -256,7 +256,7 @@ sanzhi	mill	0017	ik'-ul	say.IPFV-ICVB	v:pred	v		pred
 sanzhi	mill	0017	ca-w	be-M	rv_aux	rv_aux				
 sanzhi	mill	0017	#	#	#ds.neg	#ds.neg				
 sanzhi	mill	0017	#	#	#ds_rc_pc.neg	#ds_rc_pc.neg				
-sanzhi	mill	0017	0	0_mill	rc_f0.h:obl	rc_f0	h	obl	503	
+sanzhi	mill	0017	0	0_mill	rel_f0.h:obl	rel_f0	h	obl	503	
 sanzhi	mill	0017	hin	water	np:s_pc	np		s_pc		
 sanzhi	mill	0017	akːʷ-ar-il-le-b	NEG-PRS-PTCP-SPR-N	other:predex	other		predex		
 sanzhi	mill	0017	%	%	%	%				
@@ -273,7 +273,7 @@ sanzhi	mill	0017	ik'-ul	say.IPFV-ICVB	v:pred	v		pred
 sanzhi	mill	0017	ca-w	be-M	rv_aux	rv_aux				
 sanzhi	mill	0017	#	#	#ds_cc.neg:p	#ds_cc.neg		p		
 sanzhi	mill	0017	#	#	#ds_rc_pc.neg	#ds_rc_pc.neg				
-sanzhi	mill	0017	0	0_mill	rc_f0.h:obl	rc_f0	h	obl	503	
+sanzhi	mill	0017	0	0_mill	rel_f0.h:obl	rel_f0	h	obl	503	
 sanzhi	mill	0017	hin	water	np:s	np		s		
 sanzhi	mill	0017	akːʷ-ar-il-le-b	NEG-PRS-PTCP-SPR-N	other:predex	other		predex		
 sanzhi	mill	0017	%	%	%	%				
@@ -305,7 +305,7 @@ sanzhi	mill	0020	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred
 sanzhi	mill	0020	#	#	##	##				
 sanzhi	mill	0020	b-urs-ib	N-tell-PRET	v:pred	v		pred		
 sanzhi	mill	0020	ca-b	be-N	rv_aux	rv_aux				
-sanzhi	mill	0020	itːi	3PL	pro.h:g	pro	h	g	534	
+sanzhi	mill	0020	itːi	3PL	dem_pro.h:g	dem_pro	h	g	534	
 sanzhi	mill	0020	χːula-t-a-cːe	big-PL-OBL-IN	other	other				
 sanzhi	mill	0020	iltːa-li	3PL-ERG	dem_pro.h:a_ds	dem_pro	h	a_ds	510	
 sanzhi	mill	0020	#	#	##ds	##ds				
@@ -427,7 +427,7 @@ sanzhi	mill	0026	#	#	##ds	##ds
 sanzhi	mill	0026	#	#	#ds_ac	#ds_ac				
 sanzhi	mill	0026	#	#	#ds_rc	#ds_rc				
 sanzhi	mill	0026	hana	now	other	other				
-sanzhi	mill	0026	0	0_bride	rc_f0.h:s	rc_f0	h	s	533	new
+sanzhi	mill	0026	0	0_bride	rel_f0.h:s	rel_f0	h	s	533	new
 sanzhi	mill	0026	ka-r-iž-ib	down-F-sit.PFV-PRET	v:pred	v		pred		
 sanzhi	mill	0026	%	%	%	%				
 sanzhi	mill	0026	c'ikuri-li	bride-ERG	np.h:a	np	h	a	533	
@@ -453,7 +453,7 @@ sanzhi	mill	0027	r-arčː-ib	F-find.PFV-PRET	v:pred	v		pred
 sanzhi	mill	0027	cari	be.F	rv_aux	rv_aux				
 sanzhi	mill	0027	#	#	#rc_pc	#rc_pc				
 sanzhi	mill	0027	hana	now	other	other				
-sanzhi	mill	0027	0	0_bride	rc_f0.h:s_cps_pc	rc_f0	h	s_cps_pc	524	
+sanzhi	mill	0027	0	0_bride	rel_f0.h:s_cps_pc	rel_f0	h	s_cps_pc	524	
 sanzhi	mill	0027	xadi	married	other:lvc	other		lvc		
 sanzhi	mill	0027	ka-r-iž-ib-il	down-F-be.PFV-PRET-PTCP	v:pred	v		pred		
 sanzhi	mill	0027	#	#	#ds_pc	#ds_pc				
