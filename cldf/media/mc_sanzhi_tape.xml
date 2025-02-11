@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="sanzhi">
         <text t_name="tape" annotators="Diana Forker, Nils Schiborr" speaker="SD03">
-            <file f_name="mc_sanzhi_tape" audio="mc_sanzhi_tape.wav" updated="2019-05-26">
+            <file f_name="mc_sanzhi_tape" audio="mc_sanzhi_tape.wav" updated="2019-09-21">
                 <unit uid="0001" start_time="0" end_time="8306">
                     <utterance_id>sanzhi_tape_0001</utterance_id>
                     <utterance>qːajakentlij hejkaguda agurda ʡaˁbdulχaliq'ra ʡisaq'adira, dura nišːala qːulluqaj</utterance>
@@ -1314,8 +1314,8 @@
                             <graid>np:other</graid>
                         </segment>
                         <segment>
-                            <gword>NA</gword>
-                            <gloss>NA</gloss>
+                            <gword>NC</gword>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>

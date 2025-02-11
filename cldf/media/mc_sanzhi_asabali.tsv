@@ -20,7 +20,7 @@ sanzhi	asabali	0003	kelg-un-da	remain.PFV-PRET-1	v:pred	v		pred
 sanzhi	asabali	0003	xu-c'a-nu	five-tenth-PRT	ln	ln				
 sanzhi	asabali	0003	ʡaˁb-ra	three-NUM	ln	ln				
 sanzhi	asabali	0003	dus	year	np:other	np		other		
-sanzhi	asabali	0003	di	NA	nc	nc				
+sanzhi	asabali	0003	di	NC	nc	nc				
 sanzhi	asabali	0003	ʡaˁb-ra	three-NUM	ln	ln				
 sanzhi	asabali	0003	dus-si-cːe-w	year-OBL-IN-M	np:other	np		other	107	unused
 sanzhi	asabali	0004	#	#	#cv	#cv				
@@ -253,7 +253,7 @@ sanzhi	asabali	0025	#	#	##	##
 sanzhi	asabali	0025	nu	well	other	other				
 sanzhi	asabali	0025	vse	all[R]	other	other				
 sanzhi	asabali	0025	rawno	the.same[R]	other	other				
-sanzhi	asabali	0025	0	0_porridge	0.h:s	0	h	s	132	
+sanzhi	asabali	0025	0	0_porridge	0:s	0		s	132	
 sanzhi	asabali	0025	kelg-un	remain.PFV-PRET	v:pred	v		pred		
 sanzhi	asabali	0026	#	#	#cv	#cv				
 sanzhi	asabali	0026	0	0_captain	0.h:a_cv	0	h	a_cv	123	
@@ -314,7 +314,7 @@ sanzhi	asabali	0029	d-erč-ib-da	1/2PL-lead.PFV-PRET-1	v:pred	v		pred
 sanzhi	asabali	0029	kazarma-le	barracks-SPR	np:g	np		g	139	new
 sanzhi	asabali	0030	#	#	#nc	#nc				
 sanzhi	asabali	0030	nu	well	nc	nc				
-sanzhi	asabali	0030	kanišno	NA	nc	nc				
+sanzhi	asabali	0030	kanišno	NC	nc	nc				
 sanzhi	asabali	0030	di-la	1SG-GEN	nc_pro.1	nc_pro	1		103	
 sanzhi	asabali	0030	gu-b	down-N	nc	nc				
 sanzhi	asabali	0030	kelg-un	remain.PFV-PRET	nc	nc				
@@ -356,13 +356,13 @@ sanzhi	asabali	0034	c'il	then	other	other
 sanzhi	asabali	0034	=ra	=and	=other	=other				
 sanzhi	asabali	0034	0	0_I	0.1:ncs_cv	0	1	ncs_cv	103	
 sanzhi	asabali	0034	hel-tːi	that-PL	ln_dem	ln_dem				
-sanzhi	asabali	0034	bahla-bahlal	NA	nc	nc				
+sanzhi	asabali	0034	bahla-bahlal	NC	nc	nc				
 sanzhi	asabali	0034	ʁaj	language	np:p	np		p	140	
 sanzhi	asabali	0034	=ra	=and	=other	=other				
 sanzhi	asabali	0034	d-aχ-ur-re	NPL-know.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	asabali	0034	#	#	#cv	#cv				
 sanzhi	asabali	0034	0	0_I	0.1:a	0	1	a	103	
-sanzhi	asabali	0034	bahla-bahlal	NA	nc	nc				
+sanzhi	asabali	0034	bahla-bahlal	NC	nc	nc				
 sanzhi	asabali	0034	islužba	service	np:p	np		p	171	bridging
 sanzhi	asabali	0034	=ra	=and	=other	=other				
 sanzhi	asabali	0034	b-iqː-ul	N-carry.IPFV-ICVB	v:pred	v		pred		

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="sanzhi">
         <text t_name="asabali" annotators="Diana Forker, Nils Schiborr" speaker="SD01">
-            <file f_name="mc_sanzhi_asabali" audio="mc_sanzhi_asabali.wav" updated="2019-06-22">
+            <file f_name="mc_sanzhi_asabali" audio="mc_sanzhi_asabali.wav" updated="2019-09-21">
                 <unit uid="0001" start_time="0" end_time="4394">
                     <utterance_id>sanzhi_asabali_0001</utterance_id>
                     <utterance>χalq' kːušlede daˁwila dusmacːebde</utterance>
@@ -146,7 +146,7 @@
                         </segment>
                         <segment>
                             <gword>di</gword>
-                            <gloss>NA</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -1576,7 +1576,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_porridge</gloss>
-                            <graid>0.h:s</graid>
+                            <graid>0:s</graid>
                             <refind>132</refind>
                         </segment>
                         <segment>
@@ -1944,7 +1944,7 @@
                         </segment>
                         <segment>
                             <gword>kanišno</gword>
-                            <gloss>NA</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -2196,7 +2196,7 @@
                         </segment>
                         <segment>
                             <gword>bahla-bahlal</gword>
-                            <gloss>NA</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -2228,7 +2228,7 @@
                         </segment>
                         <segment>
                             <gword>bahla-bahlal</gword>
-                            <gloss>NA</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>

@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Forker, Diana & Schiborr, Nils N. 2019. Multi-CAST Sanzhi Dargwa. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1908. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#sanzhi) (date accessed)",
+    "dc:bibliographicCitation": "Forker, Diana & Schiborr, Nils N. 2020. Multi-CAST Sanzhi Dargwa. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2001. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#sanzhi) (date accessed)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
     "dc:description": "**Sanzhi Dargwa** ([sanz1248](https://glottolog.org/resource/languoid/id/sanz1248)) is a Nakh-Daghestanian (Caucasian) language from the Dargwa subbranch. From 1968 onwards, over a relatively short time span, all Sanzhi speakers left their village of Sanzhi in the mountains of central Daghestan, Russia, to move to linguistically and ethnically heterogeneous settlements in the lowlands. Today Sanzhi is spoken by approximately 250 speakers and heavily endangered.\n\nThe eight texts in this corpus represent a small subset of the material that was recorded, transcribed, translated, and glossed by Diana Forker with the assistance of Gadzhimurad Gadzhimuradov, a native speaker, as part of a [DOBES language documentation project](http://dobes.mpi.nl/projects/shiri_sanzhi/) (2012\u20132019), which has culminated in a grammar of Sanzhi Dargwa ([Forker 2020](Source#cldf:forker2020)).\n\nThe texts presented here are a mixture of autobiographical and traditional narratives. They were annotated for Multi-CAST by Nils Schiborr.\n\nThe texts in this corpus (version 2207) are part of the [Sanzhi Dargwa data set](https://doreco.huma-num.fr/languages/sanz1248) in [DoReCo](https://doreco.huma-num.fr/), which has been time-aligned at the phone level.",
     "dc:identifier": "https://multicast.aspra.uni-bamberg.de/#sanzhi",
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Multi-CAST/mcsanzhi",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1907",
+            "dc:created": "v1908",
             "dc:title": "Repository"
         },
         {
