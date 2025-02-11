@@ -184,7 +184,7 @@ sanzhi	bazhuk	0012	0	0_boy	0.h:a_pc	0	h	a_pc	220
 sanzhi	bazhuk	0012	dukla	into.apron	np:g	np		g		
 sanzhi	bazhuk	0012	=ra	=and	=other	=other				
 sanzhi	bazhuk	0012	d-irc'-an	NPL-fill.IPFV-PTCP	v:pred	v		pred		
-sanzhi	bazhuk	0012	0	0_apples	0.h:p	0	h	p	208	
+sanzhi	bazhuk	0012	0	0_apples	0:p	0		p	208	
 sanzhi	bazhuk	0012	%	%	%	%				
 sanzhi	bazhuk	0012	zamana	time	np:other	np		other		
 sanzhi	bazhuk	0012	sa-r-eʁ-ib	hither-F-go.PFV-PRET	v:pred	v		pred		

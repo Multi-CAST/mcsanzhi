@@ -3,7 +3,7 @@ sanzhi	kurban	0001	#	#	##	##
 sanzhi	kurban	0001	ca	one	ln_deti	ln_deti				
 sanzhi	kurban	0001	zamana	time	np:other	np		other		
 sanzhi	kurban	0001	durħ-ne	boy-PL	np.h:voc	np	h	voc	402	bridging
-sanzhi	kurban	0001	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0001	0	0_I	0.1:a_ds	0	1	a_ds	400	bridging
 sanzhi	kurban	0001	heχ	DEM.down	other	other				
 sanzhi	kurban	0001	ašːi-j	2PL-DAT	pro.2:g	pro	2	g	402	
 sanzhi	kurban	0001	χabar	story	np:p	np		p		
@@ -18,7 +18,7 @@ sanzhi	kurban	0002	Mamma-la	Mamma-GEN	ln_pn_np.h:poss	ln_pn_np	h	poss
 sanzhi	kurban	0002	Q'urban	Kurban	pn_np.h:other	pn_np	h	other	401	
 sanzhi	kurban	0002	b-ik'ʷ-ul	N-say-ICVB	other	other				
 sanzhi	kurban	0002	#	#	##	##				
-sanzhi	kurban	0002	ašːi-j	2PL-DAT	pro.2:ncs	pro	2	ncs	402	bridging
+sanzhi	kurban	0002	ašːi-j	2PL-DAT	pro.2:ncs	pro	2	ncs	402	
 sanzhi	kurban	0002	0	0_Kurban	0.h:p	0	h	p	401	
 sanzhi	kurban	0002	w-alχ-a-tːa	M-know.IPFV-HAB.PST-2PL	v:pred	v		pred		
 sanzhi	kurban	0003	#	#	##	##				
@@ -794,7 +794,7 @@ sanzhi	kurban	0048	ce	what	intrg_other:p	intrg_other		p
 sanzhi	kurban	0048	b-irq'-ul	N-do.IPFV-ICVB	v:pred	v		pred		
 sanzhi	kurban	0048	=e	=Q	=other	=other				
 sanzhi	kurban	0049	#	#	#cv	#cv				
-sanzhi	kurban	0049	0	0	0.h:a_cv	0	h	a_cv	444	
+sanzhi	kurban	0049	0	0	0.h:a_cv	0	h	a_cv	444	bridging
 sanzhi	kurban	0049	aʁʷc'alla	forty.days	np:p	np		p	404	
 sanzhi	kurban	0049	=ra	=and	=other	=other				
 sanzhi	kurban	0049	d-arq'-ib-le	NPL-do.PFV-PRET-CVB	v:pred	v		pred		
@@ -862,7 +862,7 @@ sanzhi	kurban	0052	ca-w	REFL-M	refl.h:s_cv	refl	h	s_cv	401
 sanzhi	kurban	0052	=ra	=and	=other	=other				
 sanzhi	kurban	0052	čar-iχ-ub-le	back-be.PFV-PRET-CVB	v:pred	v		pred		
 sanzhi	kurban	0052	#	#	#pc	#pc				
-sanzhi	kurban	0052	0	0_they	0.h:s_pc	0	h	s_pc	445	
+sanzhi	kurban	0052	0	0_they	0.h:s_pc	0	h	s_pc	445	bridging
 sanzhi	kurban	0052	w-it-ag-ur-il	M-thither-go.PFV-PRET-PTCP	rv_v	rv_v				
 sanzhi	kurban	0052	ca-w	be-M	rv_aux	rv_aux				
 sanzhi	kurban	0053	#	#	##	##				
