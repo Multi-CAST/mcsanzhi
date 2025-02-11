@@ -1,0 +1,364 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sanzhi	tape	0001	#	#	##	##				
+sanzhi	tape	0001	qːajakent-li-j	Kajakent-OBL-DAT	pn_np:l	pn_np		l	800	bridging
+sanzhi	tape	0001	hej-ka-gu-d-a	this-down-SUB-1/2PL-SPR	dem_pro:obl	dem_pro		obl		
+sanzhi	tape	0001	0	0_we	0.1:s	0	1	s	801	bridging
+sanzhi	tape	0001	ag-ur-da	go.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0001	ʡaˁbdulχaliq'	Abdulkhalik	pn_np.h:appos	pn_np	h	appos	802	bridging
+sanzhi	tape	0001	=ra	=and	=rn	=rn				
+sanzhi	tape	0001	ʡisaq'adi	Isakadi	rn_pn_np.h	rn_pn_np	h		803	bridging
+sanzhi	tape	0001	=ra	=and	=rn	=rn				
+sanzhi	tape	0001	du	1SG	rn_pro.1	rn_pro	1		804	bridging
+sanzhi	tape	0001	=ra	=and	=rn	=rn				
+sanzhi	tape	0001	nišːa-la	1PL-GEN	ln_pro.1:poss	ln_pro	1	poss	801	
+sanzhi	tape	0001	qːulluqː-a-j	matter-OBL-DAT	np:other	np		other	805	bridging
+sanzhi	tape	0002	#	#	##	##				
+sanzhi	tape	0002	c'il	then	other	other				
+sanzhi	tape	0002	0	0_we	0.1:s	0	1	s	801	
+sanzhi	tape	0002	heχtːu-d	there.down-1/2PL	other:g	other		g		
+sanzhi	tape	0002	itːu	there	other:g	other		g	800	
+sanzhi	tape	0002	d-ič-ib-da	1/2PL-occur.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0002	#	#	##	##				
+sanzhi	tape	0002	0	0_we	0.1:s	0	1	s	801	
+sanzhi	tape	0002	ištːu	here	other:g	other		g		
+sanzhi	tape	0002	d-ič-ib-da	1/2PL-occur.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0002	#	#	##	##				
+sanzhi	tape	0002	0	0_we	0.1:a	0	1	a		
+sanzhi	tape	0002	nišːa-lla	1PL-GEN	ln_pro.1:poss	ln_pro	1	poss	801	
+sanzhi	tape	0002	qːulluqː-e	matter-PL	np:p	np		p	805	
+sanzhi	tape	0002	d-arq'-ib-da	NPL-do.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0003	#	#	#cv	#cv				
+sanzhi	tape	0003	0	0_we	0.1:s_cv	0	1	s_cv	801	
+sanzhi	tape	0003	heχ-ka-de	DEM.down-down	other:obl	other		obl		
+sanzhi	tape	0003	tːura-ha-d-eʁ-ib-le	outside-upwards-1/2PL-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	tape	0003	#	#	#ac_pc	#ac_pc				
+sanzhi	tape	0003	heštːi	these	dem_pro.h:a	dem_pro	h	a	818	new
+sanzhi	tape	0003	qul-b-a-lla	house-PL-OBL-GEN	ln_np:poss	ln_np		poss		
+sanzhi	tape	0003	meržewanie	topographical.survey	np:p	np		p	806	new
+sanzhi	tape	0003	b-irq'-an	N-do.IPFV-PTCP	v:pred	v		pred		
+sanzhi	tape	0003	#	#	##	##				
+sanzhi	tape	0003	ce	what	intrg_other:s	intrg_other		s		
+sanzhi	tape	0003	hehe	NC	other	other				
+sanzhi	tape	0003	qːajakent-la	Kajakent-GEN	ln_pn_np:poss	ln_pn_np		poss	800	
+sanzhi	tape	0003	kolcewoj-la	roundabout[R]-GEN	ln_np:poss	ln_np		poss	807	new
+sanzhi	tape	0003	hej	this	ln_dem	ln_dem				
+sanzhi	tape	0003	šːal-le-b	side-SPR-N	np:pred_l	np		pred_l	808	bridging
+sanzhi	tape	0003	ca-b	be-N	cop	cop				
+sanzhi	tape	0003	#	#	##	##				
+sanzhi	tape	0003	#	#	#rc_pc	#rc_pc				
+sanzhi	tape	0003	hej	this	other	other				
+sanzhi	tape	0003	0	0_surveyors	0.h:a_pc	0	h	a_pc	818	
+sanzhi	tape	0003	palan-t-a-lla	parcel-PL-OBL-GEN	ln_np:poss	ln_np		poss		
+sanzhi	tape	0003	dokument-e	document[R]-PL	np:p	np		p		
+sanzhi	tape	0003	d-irq'-an	NPL-do.IPFV-PTCP	v:pred	v		pred		
+sanzhi	tape	0003	#	#	#rc_pc	#rc_pc				
+sanzhi	tape	0003	0	0_surveyors	0.h:a_cps_pc	0	h	a_cps_pc	818	
+sanzhi	tape	0003	meržewanie	topographical.survey[R]	other:lvc	other		lvc		
+sanzhi	tape	0003	b-irq'-an	N-do.IPFV-PTCP	v:pred	v		pred		
+sanzhi	tape	0003	%	%	%	%				
+sanzhi	tape	0003	musːa	place	np:s	np		s	809	new
+sanzhi	tape	0003	hextːu-b	there.up-N	other:pred_l	other		pred_l		
+sanzhi	tape	0003	ca-b	be-N	cop	cop				
+sanzhi	tape	0004	#	#	#nc	#nc				
+sanzhi	tape	0004	ʡisaq'adi	Isakadi	nc_pn_np.h	nc_pn_np	h		803	
+sanzhi	tape	0004	ik'ʷ-ar	say.IPFV-PRS	nc	nc				
+sanzhi	tape	0004	#	#	##	##				
+sanzhi	tape	0004	ʡisaq'adi-la	Isakadi-GEN	ln_pn_np.h:poss	ln_pn_np	h	poss	803	
+sanzhi	tape	0004	itwaj	like.this	other	other				
+sanzhi	tape	0004	=ra	=and	=other	=other				
+sanzhi	tape	0004	qːulluqː-e	matter-PL	np:s	np		s		
+sanzhi	tape	0004	a-ha-d-urχː-u	NEG-upwards-NPL-finish.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0004	#	#	#ac	#ac				
+sanzhi	tape	0004	it	that	pro.1:s	pro	1	s	803	
+sanzhi	tape	0004	wečna	forever	other	other				
+sanzhi	tape	0004	čina-k'al	where-INDEF	indef_other:g	indef_other		g		
+sanzhi	tape	0004	tːura-w-q-utːel	outside-M-go.PFV-COND.PST	v:pred	v		pred		
+sanzhi	tape	0004	#	#	##neg	##neg				
+sanzhi	tape	0004	ja	or	ln	ln				
+sanzhi	tape	0004	juldašː-e	friend-PL	np.h:s	np	h	s		
+sanzhi	tape	0004	ja	or	rn	rn				
+sanzhi	tape	0004	qːulluqː-e	matter-PL	rn_np	rn_np				
+sanzhi	tape	0004	kam	little	other	other				
+sanzhi	tape	0004	a-b-irχʷ-ar	NEG-N-become.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0005	#	#	##	##				
+sanzhi	tape	0005	c'il	then	other	other				
+sanzhi	tape	0005	ca-w	REFL-M	refl.h:s	refl	h	s	803	
+sanzhi	tape	0005	ʡaˁħ	good	ln_adj	ln_adj				
+sanzhi	tape	0005	juldaš	friend	np.h:pred	np	h	pred		
+sanzhi	tape	0005	ca<wi>	be<M>	cop	cop				
+sanzhi	tape	0005	nišːa-lla	1PL-GEN	rn_pro.1:poss	rn_pro	1	poss	810	bridging
+sanzhi	tape	0005	#	#	#ac	#ac				
+sanzhi	tape	0005	nu	well	other	other				
+sanzhi	tape	0005	heχ	DEM.down	other	other				
+sanzhi	tape	0005	q'ʷila	a.little	other	other				
+sanzhi	tape	0005	q'ʷila	a.little	other	other				
+sanzhi	tape	0005	iχ-i-cːe-b	DEM.down-OBL-IN-N	dem_pro.h:obl	dem_pro	h	obl		
+sanzhi	tape	0005	χasijat	habit	np:s	np		s		
+sanzhi	tape	0005	χe-b-il	exist.down-N-ADJVZ	other:predex	other		predex		
+sanzhi	tape	0005	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	tape	0006	#	#	##ds	##ds				
+sanzhi	tape	0006	heštːu	here	other:l	other		l	811	bridging
+sanzhi	tape	0006	0	0_you	0.2:a	0	2	a	810	
+sanzhi	tape	0006	mašin	car	np:p	np		p	812	bridging
+sanzhi	tape	0006	t'aš	stop	other:lvc	other		lvc		
+sanzhi	tape	0006	aʁ-a	do.PFV-IMP	v:pred	v		pred		
+sanzhi	tape	0006	#	#	##	##				
+sanzhi	tape	0006	0	0_Isakadi	0.h:s_ds	0	h	s_ds	803	
+sanzhi	tape	0006	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0006	#	#	#ds_cv	#ds_cv				
+sanzhi	tape	0006	hextːu	there.up	other:g	other		g	809	
+sanzhi	tape	0006	w-erg-ul-da	M-enter.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	tape	0006	#	#	##	##				
+sanzhi	tape	0006	0	0_Isakadi	0.h:s_ds	0	h	s_ds	803	
+sanzhi	tape	0006	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0006	%	%	%	%				
+sanzhi	tape	0006	du	1SG	pro.1:s	pro	1	s	803	
+sanzhi	tape	0007	#	#	##	##				
+sanzhi	tape	0007	ij	this	dem_pro.h:s	dem_pro	h	s	802	
+sanzhi	tape	0007	=ra	=and	=rn	=rn				
+sanzhi	tape	0007	du	1SG	rn_pro.1	rn_pro	1		804	
+sanzhi	tape	0007	=ra	=and	=rn	=rn				
+sanzhi	tape	0007	tːura-d	outside-1/2PL	other:l	other		l		
+sanzhi	tape	0007	k-elg-un-da	down-remain.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0007	#	#	#cv	#cv				
+sanzhi	tape	0007	0	0_we	0.1:s_cv	0	1	s_cv	810	
+sanzhi	tape	0007	heχtːu	there.down	other:l	other		l	808	
+sanzhi	tape	0007	ka-d-icː-ur-re	down-1/2PL-stand.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	tape	0008	#	#	#cv	#cv				
+sanzhi	tape	0008	0	0_we	0.1:s_cps_cv	0	1	s_cps_cv	810	
+sanzhi	tape	0008	er	look	other:lvc	other		lvc		
+sanzhi	tape	0008	d-ik'-ul-da	1/2PL-look.at.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	tape	0008	#	#	##	##				
+sanzhi	tape	0008	χuzmag	household.shop	np:s	np		s	813	new
+sanzhi	tape	0008	le-b-de	exist-N-PST	other:predex	other		predex		
+sanzhi	tape	0008	#	#	#cv	#cv				
+sanzhi	tape	0008	0	0_shop	0:s_cv	0		s_cv	813	
+sanzhi	tape	0008	qːuʁa-ce	beautiful-ATTR.SG	other	other				
+sanzhi	tape	0008	ka-b-icː-ur-re	down-N-stand.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	tape	0009	#	#	##ds	##ds				
+sanzhi	tape	0009	0	0	0.2:s	0	2	s	810	
+sanzhi	tape	0009	w-aš-e	M-go-IMP	v:pred	v		pred		
+sanzhi	tape	0009	=kːʷa	=PRT	=other	=other				
+sanzhi	tape	0009	#	#	##	##				
+sanzhi	tape	0009	0	0_Abdukhalik	0.h:s_ds	0	h	s_ds	802	
+sanzhi	tape	0009	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0009	#	#	#ds_pc	#ds_pc				
+sanzhi	tape	0009	#	#	#ds_cc_pc:p	#ds_cc_pc		p		
+sanzhi	tape	0009	ce	what	intrg_other:s	intrg_other		s		
+sanzhi	tape	0009	k'e-b-il	exist.up-N-PTCP	other:predex	other		predex		
+sanzhi	tape	0009	%	%	%	%				
+sanzhi	tape	0009	0	0_we	0.1:s_cpa_pc	0	1	s_cpa_pc	810	
+sanzhi	tape	0009	er	look	other:lvc	other		lvc		
+sanzhi	tape	0009	d-urk'-an-da	1/2PL-look.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	tape	0009	#	#	##	##				
+sanzhi	tape	0009	0	0_Abdukhalik	0.h:s_ds	0	h	s_ds	802	
+sanzhi	tape	0009	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0009	%	%	%	%				
+sanzhi	tape	0009	tuken-ne-b	shop-SPR-N	np:l	np		l	813	
+sanzhi	tape	0010	#	#	##	##				
+sanzhi	tape	0010	w-aš	M-go	other	other				
+sanzhi	tape	0010	w-aš	M-go	other	other				
+sanzhi	tape	0010	0	0_we	0.1:s	0	1	s	810	
+sanzhi	tape	0010	di-ha-d-uq-un-da	in(side)-upwards-1/2PL-go.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0011	#	#	##	##				
+sanzhi	tape	0011	na	now	other	other				
+sanzhi	tape	0011	hel	that	ln_dem	ln_dem				
+sanzhi	tape	0011	tuken-či	shop-NMLZ	np.h:s	np	h	s	813	
+sanzhi	tape	0011	=ra	=and	=other	=other				
+sanzhi	tape	0011	ʡaˁħ-ce	good-ATTR.SG	ln_adj	ln_adj				
+sanzhi	tape	0011	xunul	woman	ln	ln				
+sanzhi	tape	0011	admi	person	np.h:pred	np	h	pred	814	new
+sanzhi	tape	0011	le-r-de	exist-F-PST	cop	cop				
+sanzhi	tape	0011	qːuʁa-ce	beautiful-ATTR.SG	other	other				
+sanzhi	tape	0012	#	#	#cv	#cv				
+sanzhi	tape	0012	nu	well	other	other				
+sanzhi	tape	0012	0	0_assistant	0.h:s_ds_cps_cv	0	h	s_ds_cps_cv	814	
+sanzhi	tape	0012	ʁaj	language	other:lvc	other		lvc		
+sanzhi	tape	0012	ka-r-ik'-ul	down-F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	tape	0012	#	#	#pc	#pc				
+sanzhi	tape	0012	#	#	#ac	#ac				
+sanzhi	tape	0012	heχ	DEM.down	other	other				
+sanzhi	tape	0012	ʡuˁrus	Russian	other	other				
+sanzhi	tape	0012	ʁaj-la-de	word-GEN-PST	np:other	np		other		
+sanzhi	tape	0012	ʁaj	language	other:lvc	other		lvc		
+sanzhi	tape	0012	ka-r-ik'ʷ-an	down-F-say.IPFV-PTCP	v:pred	v		pred		
+sanzhi	tape	0012	ca-r	REFL-F	refl.h:s_ds_cps	refl	h	s_ds_cps	814	
+sanzhi	tape	0012	=ra	=and	=other	=other				
+sanzhi	tape	0012	#	#	#cv.neg	#cv.neg				
+sanzhi	tape	0012	nišːi-j	1PL-DAT	pro.1:ncs	pro	1	ncs	810	
+sanzhi	tape	0012	b-alχ-ul	N-know.IPFV-ICVB	v:pred	v		pred		
+sanzhi	tape	0012	akːu	NEG	rv	rv				
+sanzhi	tape	0012	#	#	#cc:p	#cc		p		
+sanzhi	tape	0012	ča-de	who-PST	intrg_other.h:pred	intrg_other	h	pred		
+sanzhi	tape	0012	=l	=PRT	=other	=other				
+sanzhi	tape	0012	it	that	dem_pro.h:s	dem_pro	h	s	814	
+sanzhi	tape	0012	#	#	##	##				
+sanzhi	tape	0012	k'araqan-de	Avar-PST	other:pred	other		pred		
+sanzhi	tape	0012	=l	=PRT	=other	=other				
+sanzhi	tape	0012	it	that	dem_pro.h:s	dem_pro	h	s	814	
+sanzhi	tape	0012	#	#	##	##				
+sanzhi	tape	0012	qːumuqlan-de	Kumyk-PST	other:pred	other		pred		
+sanzhi	tape	0012	=l	=PRT	=other	=other				
+sanzhi	tape	0012	it	that	dem_pro.h:s	dem_pro	h	s	814	
+sanzhi	tape	0013	[AUD]	[AUD]	[AUD]	[AUD]				
+sanzhi	tape	0013	#	#	#nc	#nc				
+sanzhi	tape	0013	0	0_shop	nc_0:s	nc_0		s	813	
+sanzhi	tape	0013	xozjajstvennyj	economic[R]	nc	nc				
+sanzhi	tape	0013	magazin-de	shop-PST	nc	nc				
+sanzhi	tape	0013	#	#	#nc	#nc				
+sanzhi	tape	0013	0	0_we	nc_0.1:s	nc_0	1	s	810	
+sanzhi	tape	0013	di-ha-d-uq-un-ne	in(side)-upwards-1/2PL-go.PFV-PRET-CVB	nc	nc				
+sanzhi	tape	0013	#	#	#nc	#nc				
+sanzhi	tape	0013	0	0_we	nc_0.1	nc_0	1		810	
+sanzhi	tape	0013	iχtilat	talk	nc	nc				
+sanzhi	tape	0013	d-ik'-ul-da	1/2PL-say.IPFV-ICVB-1	nc	nc				
+sanzhi	tape	0014	#	#	##	##				
+sanzhi	tape	0014	#	#	#cv	#cv				
+sanzhi	tape	0014	na	now	other	other				
+sanzhi	tape	0014	heltːu-d	there-NPL	other:l	other		l	813	
+sanzhi	tape	0014	0	0_tape	0:s_cv	0		s_cv	815	new
+sanzhi	tape	0014	ka-d-išː-ib-le	down-NPL-put.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	tape	0014	%	%	%	%				
+sanzhi	tape	0014	qːuʁa-te	beautiful-ATTR.PL	ln_adj	ln_adj				
+sanzhi	tape	0014	skuč-e	scotch-PL	np:s	np		s	815	
+sanzhi	tape	0014	le-d-de	exist-NPL-PST	other:predex	other		predex		
+sanzhi	tape	0015	nu	well	other	other				
+sanzhi	tape	0015	raznyj	different[R]	ln_adj	ln_adj				
+sanzhi	tape	0015	cwet-la	color-GEN	np:other	np		other		
+sanzhi	tape	0015	NA	NA	nc	nc				
+sanzhi	tape	0015	#	#	##	##				
+sanzhi	tape	0015	na	now	other	other				
+sanzhi	tape	0015	0	0_tape	0:s	0		s	815	
+sanzhi	tape	0015	hež	this	dem_pro:pred_other	dem_pro		pred_other		
+sanzhi	tape	0015	=ʁunab-te	=EQ-ATTR.PL	=rn	=rn				
+sanzhi	tape	0015	rug-te	round-ATTR.PL	other	other				
+sanzhi	tape	0015	=ra	=and	=other	=other				
+sanzhi	tape	0015	le-d-de	exist-NPL-PST	cop	cop				
+sanzhi	tape	0016	#	#	##	##				
+sanzhi	tape	0016	hari	let's	other	other				
+sanzhi	tape	0016	=kːʷa	=PRT	=other	=other				
+sanzhi	tape	0016	0	0_I	0.1:s_ds	0	1	s_ds	804	
+sanzhi	tape	0016	ʔ-ib-da	say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0016	#	#	#nc	#nc				
+sanzhi	tape	0016	a-b-uχ-ar-re	NEG-N-be.PFV-COND.3-COND	nc	nc				
+sanzhi	tape	0016	#	#	##	##				
+sanzhi	tape	0016	0	0_I	0.1:s_ds	0	1	s_ds	804	
+sanzhi	tape	0016	ʔ-ib-da	say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0016	#	#	##ds	##ds				
+sanzhi	tape	0016	0	0_Abdulkhalik	0.2:a	0	2	a	802	
+sanzhi	tape	0016	ca	one	ln_num	ln_num				
+sanzhi	tape	0016	skuč	scotch	np:p	np		p	816	bridging
+sanzhi	tape	0016	asː-a	buy.PFV-IMP	v:pred	v		pred		
+sanzhi	tape	0016	#	#	##	##				
+sanzhi	tape	0016	0	0_I	0.1:s_ds	0	1	s_ds	804	
+sanzhi	tape	0016	ʔ-ib-da	say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0016	%	%	%	%				
+sanzhi	tape	0016	at	2SG.DAT	pro.2:obl	pro	2	obl	802	
+sanzhi	tape	0017	#	#	##	##				
+sanzhi	tape	0017	c'ili	then	other	other				
+sanzhi	tape	0017	#	#	##ds	##ds				
+sanzhi	tape	0017	dam	1SG.DAT	pro.1:ncs	pro	1	ncs	802	
+sanzhi	tape	0017	ce	what	intrg_other:p	intrg_other		p		
+sanzhi	tape	0017	b-arq'-ida	N-do.PFV-1MODAL	v:pred	v		pred		
+sanzhi	tape	0017	=ja	=Q	=other	=other				
+sanzhi	tape	0017	%	%	%	%				
+sanzhi	tape	0017	0	0_Abdukhalik	0.h:s_ds	0	h	s_ds	802	
+sanzhi	tape	0017	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0017	heχ	DEM.down	other	other				
+sanzhi	tape	0018	#	#	##	##				
+sanzhi	tape	0018	du-l	1SG-ERG	pro.1:a_ds	pro	1	a_ds	804	
+sanzhi	tape	0018	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0018	#	#	#ds_ac	#ds_ac				
+sanzhi	tape	0018	hel	that	nc	nc				
+sanzhi	tape	0018	0	0_Abdulkhalik	0.2:s	0	2	s		
+sanzhi	tape	0018	b-erčː-ib	N-drink.PFV-PRET	v:pred	v		pred		
+sanzhi	tape	0018	=qːel	=when	=adp	=adp				
+sanzhi	tape	0018	#	#	#ds_cv	#ds_cv				
+sanzhi	tape	0018	0	0_Abdukhalik	0.1:s_ds_cps_cv	0	1	s_ds_cps_cv	802	
+sanzhi	tape	0018	t'irt'ir	chatter	other:lvc	other		lvc		
+sanzhi	tape	0018	ik'-ul-de	say.IPFV-ICVB-2SG	v:pred	v		pred		
+sanzhi	tape	0018	#	#	##	##				
+sanzhi	tape	0018	0	0_I	0.1:a_ds	0	1	a_ds	804	
+sanzhi	tape	0018	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0018	#	#	#ds_in	#ds_in				
+sanzhi	tape	0018	0	0_Abdulkhalik	0.2:a_in	0	2	a_in	802	
+sanzhi	tape	0018	het	that	dem_pro:p	dem_pro		p	816	
+sanzhi	tape	0018	cek'u	whatsit	other	other				
+sanzhi	tape	0018	tːutːu-le	beak-SPR	np:g	np		g	817	bridging
+sanzhi	tape	0018	či-b-asː-ij	SPR-N-glue.PFV-INF1	v:pred	v		pred		
+sanzhi	tape	0018	#	#	##	##				
+sanzhi	tape	0018	0	0_I	0.1:a_ds	0	1	a_ds	804	
+sanzhi	tape	0018	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	tape	0018	heχ	DEM.down	other	other				
+sanzhi	tape	0019	#	#	##	##				
+sanzhi	tape	0019	c'il	then	other	other				
+sanzhi	tape	0019	c'il	then	other	other				
+sanzhi	tape	0019	#	#	##ds	##ds				
+sanzhi	tape	0019	du	1SG	pro.1:s	pro	1	s	802	
+sanzhi	tape	0019	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0019	#	#	#ds_cv	#ds_cv				
+sanzhi	tape	0019	0	0_Abdulkhalik	0.1:s_cv	0	1	s_cv	802	
+sanzhi	tape	0019	b-erčː-ib-le	N-drink.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	tape	0019	#	#	#ds_cv	#ds_cv				
+sanzhi	tape	0019	0	0_I	0.1:s_ds_cps_cv	0	1	s_ds_cps_cv	802	
+sanzhi	tape	0019	t'ir	chatter	other:lvc	other		lvc		
+sanzhi	tape	0019	t'ir	chatter	other:lvc	other		lvc		
+sanzhi	tape	0019	ik'-ul-da	say.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	tape	0019	#	#	##	##				
+sanzhi	tape	0019	0	0_Abdulkhalik	0.h:s_ds	0	h	s_ds	802	
+sanzhi	tape	0019	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0019	#	#	#ds_cv	#ds_cv				
+sanzhi	tape	0019	u	2SG	pro.2:s_cv	pro	2	s_cv	804	
+sanzhi	tape	0019	trezvyj	sober[R]	other	other				
+sanzhi	tape	0019	ik'-ul-de	say.IPFV-ICVB-2SG	v:pred	v		pred		
+sanzhi	tape	0019	#	#	##	##				
+sanzhi	tape	0019	0	0_Abdulkhalik	0.h:s_ds	0	h	s_ds	802	
+sanzhi	tape	0019	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0019	#	#	##ds	##ds				
+sanzhi	tape	0019	0	0_I	0.2:a	0	2	a	804	
+sanzhi	tape	0019	at	2SG.DAT	pro.2:s_ds	pro	2	s_ds	804	
+sanzhi	tape	0019	0	0_tape	0:p	0		p	816	
+sanzhi	tape	0019	asː-a	buy.PFV-IMP	v:pred	v		pred		
+sanzhi	tape	0019	#	#	##	##				
+sanzhi	tape	0019	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0019	il	that	dem_pro.h:s_ds	dem_pro	h	s_ds	802	
+sanzhi	tape	0020	#	#	#cv	#cv				
+sanzhi	tape	0020	hel	that	ln_dem	ln_dem				
+sanzhi	tape	0020	zamana	time	np:other	np		other		
+sanzhi	tape	0020	hel	that	ln_dem	ln_dem				
+sanzhi	tape	0020	xunul	woman	np.h:s_cv	np	h	s_cv	814	
+sanzhi	tape	0020	darkːʷan	Dargwa	other:pred	other		pred		
+sanzhi	tape	0020	r-už-ib-le	F-be-PRET-CVB	cop	cop				
+sanzhi	tape	0020	hel	that	ln_dem	ln_dem				
+sanzhi	tape	0020	tukan-či	shop-NMLZ	np.h:appos	np	h	appos	814	
+sanzhi	tape	0021	#	#	#nc	#nc				
+sanzhi	tape	0021	it-i-l	that-OBL-ERG	nc_pro.h	nc_pro	h		814	
+sanzhi	tape	0021	d-arq'-ib	NPL-do.PFV-PRET	nc	nc				
+sanzhi	tape	0021	#	#	##	##				
+sanzhi	tape	0021	0	0_assistant	0.h:s_cps	0	h	s_cps	814	
+sanzhi	tape	0021	ħaˁħaˁ	laughter	other:lvc	other		lvc		
+sanzhi	tape	0021	ha-d-irʁ-an-ne	upwards-1/2PL-be.enough.IPFV-PTCP-PRS.3	v:pred	v		pred		
+sanzhi	tape	0021	c'il	then	other	other				
+sanzhi	tape	0022	#	#	##	##				
+sanzhi	tape	0022	hellelej	pooh	other	other				
+sanzhi	tape	0022	0	0_assistant	0.h:s_ds	0	h	s_ds	814	
+sanzhi	tape	0022	r-ik'ʷ-ar	F-say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0022	#	#	##ds	##ds				
+sanzhi	tape	0022	ʡaˁžib	surprising	other:pred	other		pred		
+sanzhi	tape	0022	ʡaˁħ	good	ln_adj	ln_adj				
+sanzhi	tape	0022	χalq'	people	np.h:s	np	h	s	810	
+sanzhi	tape	0022	le-d-da	exist-1/2PL-1	cop	cop				
+sanzhi	tape	0022	=q'al	=MOD	=other	=other				
+sanzhi	tape	0022	#	#	##	##				
+sanzhi	tape	0022	0	0_assistant	0.h:s_ds	0	h	s_ds	814	
+sanzhi	tape	0022	r-ik'ʷ-ar	F-say.IPFV-PRS	v:pred	v		pred		
+sanzhi	tape	0023	#	#	##	##				
+sanzhi	tape	0023	wallah	by.God	other	other				
+sanzhi	tape	0023	ʁubza	EMPH	other	other				
+sanzhi	tape	0023	hel	that	ln_dem	ln_dem				
+sanzhi	tape	0023	xunul	woman	ln	ln				
+sanzhi	tape	0023	admi-l	person-ERG	np.h:a_cps	np	h	a_cps	814	
+sanzhi	tape	0023	c'aq'-le	very-ADVZ	other	other				
+sanzhi	tape	0023	ħaˁħaˁ	laughter	other:lvc	other		lvc		
+sanzhi	tape	0023	d-arq'-ib	NPL-do.PFV-PRET	v:pred	v		pred		
+sanzhi	tape	0023	it-i-l	that-OBL-ERG	dem_pro.h:appos	dem_pro	h	appos	814	

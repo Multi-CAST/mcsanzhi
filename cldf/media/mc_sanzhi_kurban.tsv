@@ -1,0 +1,918 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sanzhi	kurban	0001	#	#	##	##				
+sanzhi	kurban	0001	ca	one	ln_deti	ln_deti				
+sanzhi	kurban	0001	zamana	time	np:other	np		other		
+sanzhi	kurban	0001	durħ-ne	boy-PL	np.h:voc	np	h	voc	402	bridging
+sanzhi	kurban	0001	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0001	heχ	DEM.down	other	other				
+sanzhi	kurban	0001	ašːi-j	2PL-DAT	pro.2:g	pro	2	g	402	
+sanzhi	kurban	0001	χabar	story	np:p	np		p		
+sanzhi	kurban	0001	b-urs-ille	N-tell-COND.1.PRS	v:pred	v		pred		
+sanzhi	kurban	0001	hi-la	who.OBL-GEN	rn_np.h:poss	rn_np	h	poss		
+sanzhi	kurban	0002	#	#	##	##				
+sanzhi	kurban	0002	iž	this	ln_dem	ln_dem				
+sanzhi	kurban	0002	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	400	
+sanzhi	kurban	0002	ucːiq'ar	cousin	np.h:s	np	h	s	401	new
+sanzhi	kurban	0002	χe-w	exist.down-M	other:predex	other		predex		
+sanzhi	kurban	0002	Mamma-la	Mamma-GEN	ln_pn_np.h:poss	ln_pn_np	h	poss		
+sanzhi	kurban	0002	Q'urban	Kurban	pn_np.h:other	pn_np	h	other	401	
+sanzhi	kurban	0002	b-ik'ʷ-ul	N-say-ICVB	other	other				
+sanzhi	kurban	0002	#	#	##	##				
+sanzhi	kurban	0002	ašːi-j	2PL-DAT	pro.2:ncs	pro	2	ncs	402	bridging
+sanzhi	kurban	0002	0	0_Kurban	0.h:p	0	h	p	401	
+sanzhi	kurban	0002	w-alχ-a-tːa	M-know.IPFV-HAB.PST-2PL	v:pred	v		pred		
+sanzhi	kurban	0003	#	#	##	##				
+sanzhi	kurban	0003	#	#	#cv	#cv				
+sanzhi	kurban	0003	c'ili	then	other	other				
+sanzhi	kurban	0003	r-ebč'-ib-le	F-die.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0003	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	400	
+sanzhi	kurban	0003	rucːi	sister	np.h:s_cv	np	h	s_cv	403	bridging
+sanzhi	kurban	0003	#	#	#cv	#cv				
+sanzhi	kurban	0003	aʁʷc'alla	forty.days	np:s_cv	np		s_cv	404	bridging
+sanzhi	kurban	0003	d-ič-ib-le	NPL-occur.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0003	%	%	%	%				
+sanzhi	kurban	0003	aʁʷc'alla-li-j	forty.days-OBL-DAT	np:other	np		other		
+sanzhi	kurban	0003	gu-či-b-ič-ib	down-SPR-HPL-occur.PFV-PRET	v:pred	v		pred		
+sanzhi	kurban	0003	libil	all<HPL>	np.h:s	np	h	s	405	bridging
+sanzhi	kurban	0003	=ra	=and	=other	=other				
+sanzhi	kurban	0003	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	400	
+sanzhi	kurban	0003	qili	home	np:l	np		l	406	bridging
+sanzhi	kurban	0004	#	#	##	##				
+sanzhi	kurban	0004	wallah	by.God	other	other				
+sanzhi	kurban	0004	b-ik'ʷ-ar	HPL-say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0004	na	now	other	other				
+sanzhi	kurban	0004	hel-tːi	that-PL	dem_pro.h:s_ds	dem_pro	h	s_ds	407	bridging
+sanzhi	kurban	0004	masqara-lla	joke-GEN	np:obl	np		obl		
+sanzhi	kurban	0004	#	#	#ac_in	#ac_in				
+sanzhi	kurban	0004	0	0_people	0.h:a	0	h	a	407	
+sanzhi	kurban	0004	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0004	dučːi	night	np:p	np		p		
+sanzhi	kurban	0004	b-uq'-aˁq-ij	N-go-CAUS-INF1	v:pred	v		pred		
+sanzhi	kurban	0004	#	#	#ac_in	#ac_in				
+sanzhi	kurban	0004	0	0_people	0.h:a	0	h	a	407	
+sanzhi	kurban	0004	zamana	time	np:p	np		p		
+sanzhi	kurban	0004	b-uq'-aˁq-ij	N-go-CAUS-INF1	v:pred	v		pred		
+sanzhi	kurban	0004	%	%	%	%				
+sanzhi	kurban	0004	χalq'-li-cːella	people-OBL-COMIT	np.h:obl	np	h	obl		
+sanzhi	kurban	0004	iχtilat-li-j	talk-OBL-DAT	np:obl	np		obl		
+sanzhi	kurban	0005	#	#	##	##				
+sanzhi	kurban	0005	dila	1SG.GEN	ln_pro.1:poss	ln_pro	1	poss	400	
+sanzhi	kurban	0005	#	#	#rc	#rc				
+sanzhi	kurban	0005	0	0_Ramazan	rc_f0.h:s	rc_f0	h	s	408	new
+sanzhi	kurban	0005	ka-jʁ-ib	down-come.PFV-PRET	v:pred	v		pred		
+sanzhi	kurban	0005	%	%	%	%				
+sanzhi	kurban	0005	juldaš	friend	np.h:s	np	h	s	408	
+sanzhi	kurban	0005	le-w-de	exist-M-PST	v:pred	v		pred		
+sanzhi	kurban	0005	cːilibk'an	Cilibkin	np.h:pred	np	h	pred		
+sanzhi	kurban	0006	#	#	##	##				
+sanzhi	kurban	0006	wallah	by.God	other	other				
+sanzhi	kurban	0006	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0006	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0006	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0006	cːilibk'an-ni-cːe	Cilibkin-OBL-IN	np.h:g	np	h	g	408	
+sanzhi	kurban	0006	#	#	##ds	##ds				
+sanzhi	kurban	0006	hari	let's!	other	other				
+sanzhi	kurban	0006	=kːʷa	=PRT	=other	=other				
+sanzhi	kurban	0006	b-urs-a	N-tell-IMP	v:pred	v		pred		
+sanzhi	kurban	0006	#	#	##	##				
+sanzhi	kurban	0006	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0006	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0006	%	%	%	%				
+sanzhi	kurban	0006	u-l	2SG-ERG	pro.2:a_ds	pro	2	a_ds	408	
+sanzhi	kurban	0006	#	#	##ds	##ds				
+sanzhi	kurban	0006	d-aq	NPL-much	ln	ln				
+sanzhi	kurban	0006	ħaˁkim-dex	official-NMLZ	np:p	np		p		
+sanzhi	kurban	0006	d-ičː-aq-un	1/2PL-want.IPFV-CAUS-PRET	v:pred	v		pred		
+sanzhi	kurban	0006	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	400	
+sanzhi	kurban	0006	ucːiq'ar-li-j	cousin-OBL-DAT	np.h:ncs	np	h	ncs	401	
+sanzhi	kurban	0007	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0007	heχ-itːe	DEM.down-ADVZ	other	other				
+sanzhi	kurban	0007	pirsidatil	head	np.h:s	np	h	s		
+sanzhi	kurban	0007	šːi-lla	village-GEN	rn_np:poss	rn_np		poss		
+sanzhi	kurban	0007	akːʷ-ar	NEG-PRS	other:predex	other		predex		
+sanzhi	kurban	0007	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0007	šːi-lla	village-GEN	ln_np:poss	ln_np		poss		
+sanzhi	kurban	0007	pirsidatil	head	np.h:s	np	h	s		
+sanzhi	kurban	0007	akːʷ-ar	NEG-PRS	other:predex	other		predex		
+sanzhi	kurban	0007	#	#	##ds	##ds				
+sanzhi	kurban	0007	0	0_Ramazan	0.2:ncs	0	2	ncs	408	
+sanzhi	kurban	0007	0	0_village.head	0.h:p	0	h	p	410	bridging
+sanzhi	kurban	0007	w-arkː-a	M-find.PFV-IMP	v:pred	v		pred		
+sanzhi	kurban	0007	#	#	#ds_cv	#ds_cv				
+sanzhi	kurban	0007	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0007	glawa	head	ln	ln				
+sanzhi	kurban	0007	administracija-li	administration-ERG	np.h:s_ds_cv	np	h	s_ds_cv	411	bridging
+sanzhi	kurban	0007	rajun-na	district-GEN	rn_np.h:poss	rn_np	h	poss		
+sanzhi	kurban	0007	#	#	#nc	#nc				
+sanzhi	kurban	0007	w-at-aʁ-ib-il-da	M-free-do.PFV-PRET-PTCP-1	nc	nc				
+sanzhi	kurban	0007	#	#	#cv	#cv				
+sanzhi	kurban	0007	0	0_I	0.1:a_ds_cv	0	1	a_ds_cv	400	
+sanzhi	kurban	0007	ha-ʔ-ib-le	upwards-say.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0007	#	#	##ds	##ds				
+sanzhi	kurban	0007	b-urs-a	N-tell-IMP	v:pred	v		pred		
+sanzhi	kurban	0007	=kːʷa	=PRT	=rv	=rv				
+sanzhi	kurban	0007	0	0_that	0:p	0		p	412	bridging
+sanzhi	kurban	0007	0	0_Kurban	0.h:g	0	h	g	401	
+sanzhi	kurban	0007	#	#	##	##				
+sanzhi	kurban	0007	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0007	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0007	%	%	%	%				
+sanzhi	kurban	0007	u-l	2SG-ERG	pro.2:a_ds	pro	2	a_ds	408	
+sanzhi	kurban	0008	#	#	##	##				
+sanzhi	kurban	0008	c'ili	then	other	other				
+sanzhi	kurban	0008	Ramazan	Ramazan	ln_pn_np.h	ln_pn_np	h			
+sanzhi	kurban	0008	b-ik'-ul	HPL-say.IPFV-ICVB	ln_other	ln_other				
+sanzhi	kurban	0008	cːilibk'an	Cilibkin	np.h:s	np	h	s	408	
+sanzhi	kurban	0008	glawa	head	np.h:pred	np	h	pred	411	
+sanzhi	kurban	0008	administracija-la	administration-GEN	rn_np:poss	rn_np		poss		
+sanzhi	kurban	0008	le-w-de	exist-M-PST	cop	cop				
+sanzhi	kurban	0009	#	#	#nc	#nc				
+sanzhi	kurban	0009	c'ili	then	nc	nc				
+sanzhi	kurban	0009	hel	that	nc_pro.h	nc_pro	h		408	
+sanzhi	kurban	0009	ik'ʷ-ar	say.IPFV-PRS	nc	nc				
+sanzhi	kurban	0009	#	#	##	##				
+sanzhi	kurban	0009	du-l	1SG-ERG	pro.1:a_ds	pro	1	a_ds	400	
+sanzhi	kurban	0009	hel-i-cːe	that-OBL-IN	dem_pro.h:g	dem_pro	h	g	408	
+sanzhi	kurban	0009	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0009	#	#	#ds	#ds				
+sanzhi	kurban	0009	0	0_Ramazan	0.2:a_ds	0	2	a_ds	408	
+sanzhi	kurban	0009	0	0_that	0:p	0		p	412	
+sanzhi	kurban	0009	0	0_Kurban	0.h:g	0	h	g	401	
+sanzhi	kurban	0009	hel-itːe	that-ADVZ	dem_pro:other	dem_pro		other		
+sanzhi	kurban	0009	b-urs-a	N-tell-IMP	v:pred	v		pred		
+sanzhi	kurban	0009	%	%	%	%				
+sanzhi	kurban	0009	daˁʡaˁn-ne	secret-ADVZ	other	other				
+sanzhi	kurban	0009	#	#	##neg	##neg				
+sanzhi	kurban	0009	hel	that	other	other				
+sanzhi	kurban	0009	ča-k'al	who-INDEF	indef_other.h:s	indef_other	h	s		
+sanzhi	kurban	0009	akːʷ-ar-il	NEG-PRS-PTCP	v:pred	v		pred		
+sanzhi	kurban	0009	le-w	exist-M	rv_aux	rv_aux				
+sanzhi	kurban	0010	#	#	##	##				
+sanzhi	kurban	0010	c'ili	then	other	other				
+sanzhi	kurban	0010	hati	more	other	other				
+sanzhi	kurban	0010	=ra	=and	=other	=other				
+sanzhi	kurban	0010	#	#	##ds	##ds				
+sanzhi	kurban	0010	qːuʁa-l	beautiful-ADVZ	other	other				
+sanzhi	kurban	0010	0	0_we	0.1:a	0	1	a	413	bridging
+sanzhi	kurban	0010	0	0_Kurban	0.h:p	0	h	p	408	
+sanzhi	kurban	0010	d-al-hitːi-d-irč-aq-ad	1/2PL-together-behind-1/2PL-occur.IPFV-CAUS-PRS.1	v:pred	v		pred		
+sanzhi	kurban	0010	%	%	%	%				
+sanzhi	kurban	0010	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0010	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0010	#	#	#nc	#nc				
+sanzhi	kurban	0010	heχ-itːe	DEM.down-ADVZ	other	other				
+sanzhi	kurban	0010	w-at-aʁ-ib-il-da	M-free-do.PFV-PRET-PTCP-1	nc	nc				
+sanzhi	kurban	0010	#	#	##	##				
+sanzhi	kurban	0010	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0010	ha-ʔ-ib-le	upwards-say.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0010	%	%	%	%				
+sanzhi	kurban	0010	0	0_Ramazan	0.2:a_ds	0	2	a_ds	408	
+sanzhi	kurban	0010	b-urs-a	N-tell-IMP	v:pred	v		pred		
+sanzhi	kurban	0010	#	#	##	##				
+sanzhi	kurban	0010	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0010	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0011	#	#	##	##				
+sanzhi	kurban	0011	il-i-l	that-OBL-ERG	dem_pro.h:a_ds	dem_pro	h	a_ds	408	
+sanzhi	kurban	0011	0	0_that	0:p	0		p	414	bridging
+sanzhi	kurban	0011	0	0_Kurban	0.h:g	0	h	g	401	
+sanzhi	kurban	0011	b-urs-ib	N-tell-PRET	v:pred	v		pred		
+sanzhi	kurban	0011	#	#	##	##				
+sanzhi	kurban	0011	wallah	by.God	other	other				
+sanzhi	kurban	0011	heχ-itːe	DEM.down-ADVZ	other	other				
+sanzhi	kurban	0011	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0011	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0011	#	#	##ds	##ds				
+sanzhi	kurban	0011	hana	now	other	other				
+sanzhi	kurban	0011	čina-w	where-M	intrg_other:l	intrg_other		l		
+sanzhi	kurban	0011	0	0	0.h:ncs	0	h	ncs		
+sanzhi	kurban	0011	urkː-an-ne	find.IPFV-PTCP-PRS.3	v:pred	v		pred		
+sanzhi	kurban	0011	#	#	##	##				
+sanzhi	kurban	0011	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0011	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0011	%	%	%	%				
+sanzhi	kurban	0011	texničeskij	technical	ln_adj	ln_adj				
+sanzhi	kurban	0011	obrazovanie-la	education-GEN	ln_np:poss	ln_np		poss		
+sanzhi	kurban	0011	w-ah	M-owner	np.h:p	np	h	p	415	new
+sanzhi	kurban	0011	#	#	##ds	##ds				
+sanzhi	kurban	0011	agranum	agronomist	np.h:s	np	h	s	415	
+sanzhi	kurban	0011	k'e-w	exist.up-M	other:predex	other		predex		
+sanzhi	kurban	0011	#	#	##	##				
+sanzhi	kurban	0011	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0011	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0012	#	#	##	##				
+sanzhi	kurban	0012	c'il	then	other	other				
+sanzhi	kurban	0012	#	#	##ds	##ds				
+sanzhi	kurban	0012	zautexnik	livestock.expert	np.h:s	np	h	s	416	new
+sanzhi	kurban	0012	k'e-w	exist.up-M	other:predex	other		predex		
+sanzhi	kurban	0012	%	%	%	%				
+sanzhi	kurban	0012	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0012	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0012	#	#	##ds	##ds				
+sanzhi	kurban	0012	vetvrač	veterinarian	np.h:s	np	h	s	417	new
+sanzhi	kurban	0012	k'e-w	exist.up-M	other:predex	other		predex		
+sanzhi	kurban	0012	#	#	##	##				
+sanzhi	kurban	0012	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0012	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0012	%	%	%	%				
+sanzhi	kurban	0012	tːulka	only[R]	other	other				
+sanzhi	kurban	0013	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0013	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0013	texničeskij	technical	ln_adj	ln_adj				
+sanzhi	kurban	0013	obrazovanie-la	education-GEN	ln_np:poss	ln_np		poss		
+sanzhi	kurban	0013	w-ah	M-owner	ln_np.h	ln_np	h			
+sanzhi	kurban	0013	admi	person	np.h:s	np	h	s	415	
+sanzhi	kurban	0013	nišːa-la	1PL-GEN	ln_pro.1:poss	ln_pro	1	poss	418	bridging
+sanzhi	kurban	0013	šːi-li-cːe-w	village-OBL-IN-M	np:l	np		l	409	bridging
+sanzhi	kurban	0013	k'e-w-akːu	exist.up-M-NEG	other:predex	other		predex		
+sanzhi	kurban	0013	#	#	##	##				
+sanzhi	kurban	0013	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0013	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0014	#	#	##ds	##ds				
+sanzhi	kurban	0014	0	0_Ramazan	0.2:a	0	2	a	408	
+sanzhi	kurban	0014	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0014	admi	person	np.h:p	np	h	p	415	
+sanzhi	kurban	0014	w-arkː-a	M-find.PFV-IMP	v:pred	v		pred		
+sanzhi	kurban	0014	#	#	#ds_cv	#ds_cv				
+sanzhi	kurban	0014	0	0_admin	0.h:s_ds_cv	0	h	s_ds_cv	411	
+sanzhi	kurban	0014	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0014	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	kurban	0014	#	#	##	##				
+sanzhi	kurban	0014	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0014	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0014	#	#	#ds_ac_in	#ds_ac_in				
+sanzhi	kurban	0014	0	0_Ramazan	0.1:a_in	0	1	a_in	408	
+sanzhi	kurban	0014	0	0_person	0.h:p	0	h	p	415	
+sanzhi	kurban	0014	direktur	director	np.h:obl	np	h	obl	411	
+sanzhi	kurban	0014	w-arq'-ij	M-do.PFV-INF1	v:pred	v		pred		
+sanzhi	kurban	0014	#	#	#ds_ac_in	#ds_ac_in				
+sanzhi	kurban	0014	0	0_Ramazan	0.1:a_in	0	1	a_in	408	
+sanzhi	kurban	0014	0	0_person	0.h:p	0	h	p	415	
+sanzhi	kurban	0014	šːi-lla	village-GEN	ln_np:poss	ln_np		poss	409	
+sanzhi	kurban	0014	pirsidatil	head	np.h:obl	np	h	obl	410	
+sanzhi	kurban	0014	w-arq'-ij	M-do.PFV-INF1	v:pred	v		pred		
+sanzhi	kurban	0015	#	#	#cv	#cv				
+sanzhi	kurban	0015	c'il	then	other	other				
+sanzhi	kurban	0015	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0015	zamana	time	np:other	np		other		
+sanzhi	kurban	0015	il	that	ln_dem	ln_dem				
+sanzhi	kurban	0015	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	400	
+sanzhi	kurban	0015	ucːiq'ar	cousin	np.h:s_cv	np	h	s_cv	401	
+sanzhi	kurban	0015	bahla	quiet	other	other				
+sanzhi	kurban	0015	bahla-l	quiet-ADVZ	other	other				
+sanzhi	kurban	0015	ha-jcː-ur-re	upwards-get.up.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0015	#	#	#cv	#cv				
+sanzhi	kurban	0015	0	0_Kurban	0.h:s_cps_cv	0	h	s_cps_cv	401	
+sanzhi	kurban	0015	zuq'	swinging.back.and.forth	other:lvc	other		lvc		
+sanzhi	kurban	0015	sa-jk'-ul	hither-move.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0016	#	#	#cv	#cv				
+sanzhi	kurban	0016	na	now	other	other				
+sanzhi	kurban	0016	il-i-j	that-OBL-DAT	dem_pro.h:ncs_cv	dem_pro	h	ncs_cv	401	
+sanzhi	kurban	0016	=q'ar	=MOD	=other	=other				
+sanzhi	kurban	0016	b-ikː-ul	N-want.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0016	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	kurban	0016	#	#	#cc_in:p	#cc_in		p		
+sanzhi	kurban	0016	0	0_Kurban	f0.h:s_in	f0	h	s_in	401	
+sanzhi	kurban	0016	direktur	director	np.h:obl	np	h	obl		
+sanzhi	kurban	0016	ag-ar-aj	go.PFV-PRS-INF2.3	v:pred	v		pred		
+sanzhi	kurban	0017	#	#	#cv	#cv				
+sanzhi	kurban	0017	c'il	then	other	other				
+sanzhi	kurban	0017	0	0_Kurban	0.h:s_cps_cv	0	h	s_cps_cv	401	
+sanzhi	kurban	0017	zuruq	bend	other:lvc	other		lvc		
+sanzhi	kurban	0017	sa-jk'-ul	hither-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0017	#	#	##	##				
+sanzhi	kurban	0017	0	0_Kurban	0.h:s	0	h	s	401	
+sanzhi	kurban	0017	ha-jcː-ur	upwards-get.up.PFV-PRET	v:pred	v		pred		
+sanzhi	kurban	0017	#	#	##	##				
+sanzhi	kurban	0017	na	now	other	other				
+sanzhi	kurban	0017	hel-ka	that-down	other	other				
+sanzhi	kurban	0017	0	0_Kurban	0.h:a	0	h	a	401	
+sanzhi	kurban	0017	il	that	dem_pro.h:p	dem_pro	h	p	408	
+sanzhi	kurban	0017	caj-na	one-time	other	other				
+sanzhi	kurban	0017	tːura-w-erč-ib	outside-M-lead.PFV-PRET	v:pred	v		pred		
+sanzhi	kurban	0017	daˁʡaˁn-ne	secret-ADVZ	other	other				
+sanzhi	kurban	0018	#	#	##	##				
+sanzhi	kurban	0018	k'ʷi-j-na	two-DAT-time	other	other				
+sanzhi	kurban	0018	0	0_Kurban	0.h:a	0	h	a	401	
+sanzhi	kurban	0018	tːura-w-erč-ib	outside-M-lead.PFV-PRET	v:pred	v		pred		
+sanzhi	kurban	0018	il	that	dem_pro.h:p	dem_pro	h	p	408	
+sanzhi	kurban	0018	nišː-ala	1PL-GEN	ln_pro.1:poss	ln_pro	1	poss	400	
+sanzhi	kurban	0018	qili-rka	home-ABL	np:obl	np		obl	406	
+sanzhi	kurban	0018	#	#	##	##				
+sanzhi	kurban	0018	ʡaˁj-na-la-li-j	three-time-ORD-OBL-DAT	other	other				
+sanzhi	kurban	0018	0	0_Kurban	0.h:a	0	h	a	401	
+sanzhi	kurban	0018	0	0_Ramazan	0.h:p	0	h	p	408	
+sanzhi	kurban	0018	tːura-w-erč-ib	outside-M-lead.PFV-PRET	v:pred	v		pred		
+sanzhi	kurban	0019	[AUD]	[AUD]	[AUD]	[AUD]				
+sanzhi	kurban	0019	Rabazan	Ramazan	nc	nc				
+sanzhi	kurban	0020	Rabazan.	Ramazan.	nc	nc				
+sanzhi	kurban	0021	#	#	#cv	#cv				
+sanzhi	kurban	0021	hana	now	other	other				
+sanzhi	kurban	0021	na	now	other	other				
+sanzhi	kurban	0021	Rabazan	Ramazan	pn_np.h:s_ds_cv	pn_np	h	s_ds_cv	408	
+sanzhi	kurban	0021	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0021	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	kurban	0021	di-cːe	1SG-IN	pro.1:g	pro	1	g	400	
+sanzhi	kurban	0021	#	#	#ds_cv.neg	#ds_cv.neg				
+sanzhi	kurban	0021	na	now	other	other				
+sanzhi	kurban	0021	0	0_Kurban	0.h:s_cv	0	h	s_cv	401	
+sanzhi	kurban	0021	hitːi-r-irk-ul-akːu	behind-ABL-occur.IPFV-ICVB-NEG	v:pred	v		pred		
+sanzhi	kurban	0021	#	#	##ds	##ds				
+sanzhi	kurban	0021	ce	what	intrg_other:p	intrg_other		p		
+sanzhi	kurban	0021	b-arq'-ida	N-do.PFV-1MODAL	v:pred	v		pred		
+sanzhi	kurban	0021	=ja	=Q	=other	=other				
+sanzhi	kurban	0021	it-i-j	that-OBL-DAT	dem_pro.h:obl	dem_pro	h	obl	401	
+sanzhi	kurban	0021	du-l	1SG-ERG	pro.1:a	pro	1	a	408	
+sanzhi	kurban	0022	#	#	##ds	##ds				
+sanzhi	kurban	0022	hana	now	other	other				
+sanzhi	kurban	0022	cet'-le	how-ADVZ	other	other				
+sanzhi	kurban	0022	ce	what	intrg_other:p	intrg_other		p		
+sanzhi	kurban	0022	ha-ʔ-ide	upwards-say.PFV-MODQ	v:pred	v		pred		
+sanzhi	kurban	0022	het-i-cːe	that-OBL-IN	dem_pro.h:g	dem_pro	h	g	401	
+sanzhi	kurban	0022	du-l	1SG-ERG	pro.1:a_ds	pro	1	a_ds	408	
+sanzhi	kurban	0023	#	#	##ds	##ds				
+sanzhi	kurban	0023	u-l	2SG-ERG	pro.2:a_ds	pro	2	a_ds	408	
+sanzhi	kurban	0023	0	0_Kurban	0.h:g	0	h	g	408	
+sanzhi	kurban	0023	b-urs-a	N-tell-IMP	v:pred	v		pred		
+sanzhi	kurban	0023	#	#	##	##				
+sanzhi	kurban	0023	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0023	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0023	qːant'-le	short-ADVZ	other	other				
+sanzhi	kurban	0023	caj-na	one-time	other	other				
+sanzhi	kurban	0023	cara	other	other	other				
+sanzhi	kurban	0023	daˁʡaˁn-ne	secret-ADVZ	other	other				
+sanzhi	kurban	0023	#	#	#ac_in.neg	#ac_in.neg				
+sanzhi	kurban	0023	Q'urban-ni	Kurban-ERG	pn_np.h:a_in	pn_np	h	a_in	401	
+sanzhi	kurban	0023	t'am	sound	np:p	np		p		
+sanzhi	kurban	0023	a-d-aq'-ij-li-j	NEG-NPL-hear.PFV-INF1-OBL-DAT	v:pred	v		pred		
+sanzhi	kurban	0023	%	%	%	%				
+sanzhi	kurban	0023	heχ-itːe	DEM.down-ADVZ	other	other				
+sanzhi	kurban	0024	#	#	##ds	##ds				
+sanzhi	kurban	0024	čːaˁʡaˁl	tomorrow	other:s	other		s		
+sanzhi	kurban	0024	nišːa-la	1PL-GEN	np:l	np		l	406	
+sanzhi	kurban	0024	d-irq'-an-te	NPL-do.IPFV-PTCP-ATTR.PL	other	other				
+sanzhi	kurban	0024	aʁʷc'alla-de	forty.days-PST	np:pred	np		pred	404	
+sanzhi	kurban	0024	#	#	#nc	#nc				
+sanzhi	kurban	0024	aʁʷc'alla	forty.days	nc	nc				
+sanzhi	kurban	0024	gu-d-d-at-ur-re	down-NPL-NPL-let.PFV-PRET-CVB	nc	nc				
+sanzhi	kurban	0024	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0024	a-w-ax-an-ne	NEG-M-go-PTCP-PRS.3	v:pred	v		pred		
+sanzhi	kurban	0024	=nu	=but	=other	=other				
+sanzhi	kurban	0024	Wammala	Wammala	ln_pn_np.h:poss	ln_pn_np	h	poss		
+sanzhi	kurban	0024	Q'urban	Kurban	pn_np.h:s	pn_np	h	s	401	
+sanzhi	kurban	0025	#	#	##ds	##ds				
+sanzhi	kurban	0025	u-l	2SG-ERG	nc	nc				
+sanzhi	kurban	0025	u-l	2SG-ERG	pro.2:a_ds	pro	2	a_ds	408	
+sanzhi	kurban	0025	b-urs-a	N-tell-IMP	v:pred	v		pred		
+sanzhi	kurban	0025	qːuʁa-l	beautiful-ADVZ	other	other				
+sanzhi	kurban	0025	hek'-i-cːe	DEM.up-OBL-IN	dem_pro.h:g	dem_pro	h	g		
+sanzhi	kurban	0025	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0025	Q'urban-ni-cːe	Kurban-OBL-IN	pn_np.h:g	pn_np	h	g	401	
+sanzhi	kurban	0025	#	#	#ds_cc:p	#ds_cc		p		
+sanzhi	kurban	0025	#	#	#ds_cc_in:s	#ds_cc_in		s		
+sanzhi	kurban	0025	wallah	by.God	other	other				
+sanzhi	kurban	0025	čːaˁʡaˁl-li-j	morning-OBL-DAT	np:other	np		other		
+sanzhi	kurban	0025	abizatelna	absolutely[R]	other	other				
+sanzhi	kurban	0025	0	0_Kurban	0.h:s_cv	0	h	s_cv	401	
+sanzhi	kurban	0025	či-ha-jʁ-ij	SPR-upwards-come.PFV-INF1	v:pred	v		pred		
+sanzhi	kurban	0025	%	%	%	%				
+sanzhi	kurban	0025	ʡaˁʁuni-l	needed-ADVZ	other:pred	other		pred		
+sanzhi	kurban	0025	ca-b	be-N	cop	cop				
+sanzhi	kurban	0025	%	%	%	%				
+sanzhi	kurban	0025	hextːu	there.up	other:g	other		g	409	
+sanzhi	kurban	0025	#	#	#cv	#cv				
+sanzhi	kurban	0025	0	0_I	0.1:a_ds_cv	0	1	a_ds_cv	400	
+sanzhi	kurban	0025	ha-ʔ-ib-le	upwards-say.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0026	#	#	##ds	##ds				
+sanzhi	kurban	0026	#	#	#ds_cc_in:s	#ds_cc_in		s		
+sanzhi	kurban	0026	sːaˁʡaˁt	hour	ln_np	ln_np				
+sanzhi	kurban	0026	kːaʔal-le-w	eight-SPR-M	np:other	np		other		
+sanzhi	kurban	0026	hextːu	there.up	other:g	other		g	409	
+sanzhi	kurban	0026	0	0_Kurban	0.h:s_cv	0	h	s_cv	401	
+sanzhi	kurban	0026	či-ha-jʁ-ij	SPR-upwards-come.PFV-INF1	v:pred	v		pred		
+sanzhi	kurban	0026	%	%	%	%				
+sanzhi	kurban	0026	ʡaˁʁuni-l	needed-ADVZ	other:pred	other		pred		
+sanzhi	kurban	0026	ca-b	be-N	cop	cop				
+sanzhi	kurban	0026	#	#	#cv	#cv				
+sanzhi	kurban	0026	0	0_I	0.1:a_ds_cv	0	1	a_ds_cv	400	
+sanzhi	kurban	0026	ha-ʔ-ib-le	upwards-say.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0026	#	#	#ds	#ds				
+sanzhi	kurban	0026	0	0_that	0:p	0		p	419	bridging
+sanzhi	kurban	0026	0	0_Kurban	0.h:g	0	h	g	408	
+sanzhi	kurban	0026	b-urs-a	N-tell-IMP	v:pred	v		pred		
+sanzhi	kurban	0026	#	#	##	##				
+sanzhi	kurban	0026	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0026	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0026	%	%	%	%				
+sanzhi	kurban	0026	u-l	2SG-ERG	pro.2:a_ds	pro	2	a_ds	408	
+sanzhi	kurban	0027	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0027	#	#	#rc_in	#rc_in				
+sanzhi	kurban	0027	0	0_Kurban	0.h:s_in	0	h	s_in	401	
+sanzhi	kurban	0027	hextːu	there.up	other:g	other		g	409	
+sanzhi	kurban	0027	uq'-ij	go-INF1	v:pred	v		pred		
+sanzhi	kurban	0027	%	%	%	%				
+sanzhi	kurban	0027	zamana	time	np:s	np		s	420	bridging
+sanzhi	kurban	0027	b-akː-u	N-NEG-PRS	other:predex	other		predex		
+sanzhi	kurban	0027	#	#	##	##				
+sanzhi	kurban	0027	0	0_I	0.1:a_ds	0	1	a_ds	400	
+sanzhi	kurban	0027	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0027	%	%	%	%				
+sanzhi	kurban	0027	heχ-i-la	DEM.down-OBL-GEN	dem_pro.h:obl	dem_pro	h	obl	401	
+sanzhi	kurban	0027	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0027	0	0_Kurban	0.h:s	0	h	s	401	
+sanzhi	kurban	0027	a-ax-an-ne	NEG-go-PTCP-PRS.3	v:pred	v		pred		
+sanzhi	kurban	0027	heχ	DEM.down	other:g	other		g	409	
+sanzhi	kurban	0028	#	#	#cv	#cv				
+sanzhi	kurban	0028	na	now	other	other				
+sanzhi	kurban	0028	wi-sa-jʁ-ib-le	in(side)-hither-come.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0028	il	that	dem_pro.h:s	dem_pro	h	s	408	
+sanzhi	kurban	0028	#	#	##	##				
+sanzhi	kurban	0028	0	0_they	0.h:s	0	h	s	421	bridging
+sanzhi	kurban	0028	ka-b-iž-ib	down-HPL-be.PFV-PRET	v:pred	v		pred		
+sanzhi	kurban	0028	abratna	back[R]	other	other				
+sanzhi	kurban	0029	#	#	#cv	#cv				
+sanzhi	kurban	0029	ka-b-iž-ib-le	down-HPL-be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0029	hel-tːi	that-PL	dem_pro.h:s_cv	dem_pro	h	s_cv	421	
+sanzhi	kurban	0029	#	#	##	##				
+sanzhi	kurban	0029	wallah	by.God	other	other				
+sanzhi	kurban	0029	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0029	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0029	#	#	##	##				
+sanzhi	kurban	0029	heχ-itːe	DEM.down-ADVZ	other	other				
+sanzhi	kurban	0029	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0029	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0029	#	#	##	##				
+sanzhi	kurban	0029	jaʁari	PRT	other	other				
+sanzhi	kurban	0029	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0029	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0029	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0029	#	#	#ds_cc:p	#ds_cc		p		
+sanzhi	kurban	0029	0	0_Ramazan	0.1:a	0	1	a	408	
+sanzhi	kurban	0029	ce	what	intrg_other:p	intrg_other		p		
+sanzhi	kurban	0029	b-arq'-idel	N-do.PFV-MODQ	v:pred	v		pred		
+sanzhi	kurban	0029	%	%	%	%				
+sanzhi	kurban	0029	0	0_Ramazan	0.1:a	0	1	a	408	
+sanzhi	kurban	0029	aχːu	not.know	v:pred	v		pred		
+sanzhi	kurban	0029	=q'al	=MOD	=other	=other				
+sanzhi	kurban	0029	hana	now	other	other				
+sanzhi	kurban	0029	#	#	##	##				
+sanzhi	kurban	0029	0	0_Ramazan	0.h:s_ds	0	h	s_ds	408	
+sanzhi	kurban	0029	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0030	#	#	##ds	##ds				
+sanzhi	kurban	0030	#	#	#ds_cc_in:s	#ds_cc_in		s		
+sanzhi	kurban	0030	ixtːu-b	there.up-N	other:l	other		l	409	
+sanzhi	kurban	0030	čːaˁʡaˁl-li-j	morning-OBL-DAT	np:other	np		other		
+sanzhi	kurban	0030	sːaˁʡaˁt	hour	ln_np	ln_np				
+sanzhi	kurban	0030	kːaʔal-li-j	eight-OBL-DAT	np:other	np		other		
+sanzhi	kurban	0030	w-iχʷ-ij	M-be.PFV-INF1	v:pred	v		pred		
+sanzhi	kurban	0030	%	%	%	%				
+sanzhi	kurban	0030	ʡaˁʁuni-l	needed-ADVZ	other:pred	other		pred		
+sanzhi	kurban	0030	ca-w	be-M	cop	cop				
+sanzhi	kurban	0030	%	%	%	%				
+sanzhi	kurban	0030	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0030	admi	person	np.h:s_in	np	h	s_in	415	
+sanzhi	kurban	0031	#	#	##	##				
+sanzhi	kurban	0031	nu	well	other	other				
+sanzhi	kurban	0031	čto	what	other	other				
+sanzhi	kurban	0031	že	after.all	other	other				
+sanzhi	kurban	0031	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0031	Q'urban	Kurban	pn_np.h:s_ds	pn_np	h	s_ds	401	
+sanzhi	kurban	0032	#	#	#ds_pc	#ds_pc				
+sanzhi	kurban	0032	nu	well	other	other				
+sanzhi	kurban	0032	hel-itːe	that-ADVZ	other	other				
+sanzhi	kurban	0032	#	#	#ds_ac	#ds_ac				
+sanzhi	kurban	0032	du	1SG	pro.1:s	pro	1	s	401	
+sanzhi	kurban	0032	w-akːʷ-ar	M-NEG-COND.3	other:predex	other		predex		
+sanzhi	kurban	0032	=xːar	=CONC	=rv	=rv				
+sanzhi	kurban	0032	%	%	%	%				
+sanzhi	kurban	0032	aʁʷc'alla	forty.days	other:lvc	other		lvc	404	
+sanzhi	kurban	0032	d-arq'-ij	1/2PL-do.PFV-INF1	v:pred	v		pred		
+sanzhi	kurban	0032	d-irχ-an-da	1/2PL-be.able.IPFV-PTCP-2PL	rv_aux	rv_aux				
+sanzhi	kurban	0032	ušːa-l	2PL-ERG	pro.2:a_cps	pro	2	a_cps	422	bridging
+sanzhi	kurban	0032	nawerna	probably	other	other				
+sanzhi	kurban	0033	#	#	##	##				
+sanzhi	kurban	0033	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0033	zamana	time	np:other	np		other		
+sanzhi	kurban	0033	Rabazan	Ramazan	pn_np.h:s_cps	pn_np	h	s_cps	423	new
+sanzhi	kurban	0033	=ra	=and	=other	=other				
+sanzhi	kurban	0033	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	400	
+sanzhi	kurban	0033	ucːi	brother	np.h:appos	np	h	appos	423	
+sanzhi	kurban	0033	=ra	=and	=other	=other				
+sanzhi	kurban	0033	#	#	#rc	#rc				
+sanzhi	kurban	0033	0	0_other.Ramazan	rc_f0.h:obl	rc_f0	h	obl	423	
+sanzhi	kurban	0033	q'ʷila	a.little	other	other				
+sanzhi	kurban	0033	tːutːu-la	beak-GEN	ln_np	ln_np				
+sanzhi	kurban	0033	barkat	patience	np:s	np		s		
+sanzhi	kurban	0033	akːʷ-ar-ce	NEG-PRS-ATTR.SG	other:predex	other		predex		
+sanzhi	kurban	0033	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	kurban	0034	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0034	u	2SG	pro.2:s	pro	2	s	401	
+sanzhi	kurban	0034	akːʷ-ar	NEG-PRS	other:predex	other		predex		
+sanzhi	kurban	0034	#	#	##ds	##ds				
+sanzhi	kurban	0034	0	0_we	0.1:a	0	1	a	422	
+sanzhi	kurban	0034	aʁʷc'alla	forty.days	other:p	other		p	404	
+sanzhi	kurban	0034	=ra	=and	=other	=other				
+sanzhi	kurban	0034	d-arq'-ib-da	NPL-do.PFV-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0034	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0034	u	2SG	pro.2:s	pro	2	s	401	
+sanzhi	kurban	0034	akːʷ-ar	NEG-PRS	other:predex	other		predex		
+sanzhi	kurban	0034	#	#	##ds	##ds				
+sanzhi	kurban	0034	0	0_we	0.1:s	0	1	s	422	
+sanzhi	kurban	0034	q'ulhu-le	qulhu-SPR	np:g	np		g	424	bridging
+sanzhi	kurban	0034	=ra	=and	=other	=other				
+sanzhi	kurban	0034	d-aš-ib-da	1/2PL-go-PRET-1	v:pred	v		pred		
+sanzhi	kurban	0034	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0034	u	2SG	pro.2:s	pro	2	s	401	
+sanzhi	kurban	0034	akːʷ-ar	NEG-PRS	other:predex	other		predex		
+sanzhi	kurban	0034	#	#	#ds_pc	#ds_pc				
+sanzhi	kurban	0034	0	0_we	0.1:a_pc	0	1	a_pc	422	
+sanzhi	kurban	0034	aʁʷc'alla	forty.days	np:p	np		p	404	
+sanzhi	kurban	0034	=ra	=and	=other	=other				
+sanzhi	kurban	0034	d-irq'-an-da	NPL-do.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	kurban	0034	#	#	##ds	##ds				
+sanzhi	kurban	0034	0	0_Kurban	0.2:s	0	2	s	401	
+sanzhi	kurban	0034	uq'-aˁn	go-IMP	v:pred	v		pred		
+sanzhi	kurban	0034	%	%	%	%				
+sanzhi	kurban	0034	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0035	#	#	##	##				
+sanzhi	kurban	0035	c'il	then	other	other				
+sanzhi	kurban	0035	net	no	other	other				
+sanzhi	kurban	0035	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	kurban	0035	Q'urban	Kurban	pn_np.h:s_ds	pn_np	h	s_ds	401	
+sanzhi	kurban	0035	#	#	##neg	##neg				
+sanzhi	kurban	0035	#	#	#cc_in	#cc_in				
+sanzhi	kurban	0035	0	0_Kurban	0.h:s_in	0	h	s_in	401	
+sanzhi	kurban	0035	uq'-ij	go-INF1	v:pred	v		pred		
+sanzhi	kurban	0035	%	%	%	%				
+sanzhi	kurban	0035	abdal	fool	np.h:pred	np	h	pred		
+sanzhi	kurban	0035	iχ-ub-le-kːʷi	be.PFV-PRET-CVB-NEG.PST	cop	cop				
+sanzhi	kurban	0035	iž	this	dem_pro.h:s	dem_pro	h	s	401	
+sanzhi	kurban	0036	#	#	##ds	##ds				
+sanzhi	kurban	0036	hari	let's!	lv_aux	lv_aux				
+sanzhi	kurban	0036	Ramazan	Ramazan	pn_np.h:voc	pn_np	h	voc	408	
+sanzhi	kurban	0036	#	#	#cv	#cv				
+sanzhi	kurban	0036	0	0_Kurban	0.h:s_ds_cv	0	h	s_ds_cv	401	
+sanzhi	kurban	0036	w-ik'-ul	M-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0036	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	kurban	0036	%	%	%	%				
+sanzhi	kurban	0036	selsawet-li-cːe	village.head-OBL-IN	np.h:obl	np	h	obl	411	
+sanzhi	kurban	0036	ca	one	ln_num	ln_num				
+sanzhi	kurban	0036	bar	day	np:other	np		other		
+sanzhi	kurban	0036	0	0_Ramazan	0.2:a_cps	0	2	a_cps	408	
+sanzhi	kurban	0036	t'aš	stop	other:lvc	other		lvc		
+sanzhi	kurban	0036	icː-aq-a	stand.PFV-CAUS-IMP	v:pred	v		pred		
+sanzhi	kurban	0036	#	#	##	##				
+sanzhi	kurban	0036	hek'	DEM.up	other	other				
+sanzhi	kurban	0036	ašːa-la	2PL-GEN	ln_pro.2:poss	ln_pro	2	poss	408	
+sanzhi	kurban	0036	glawa	head	np.h:p	np	h	p	411	
+sanzhi	kurban	0036	ca	one	ln_num	ln_num				
+sanzhi	kurban	0036	bar	day	np:other	np		other		
+sanzhi	kurban	0036	#	#	#ds_ac_in	#ds_ac_in				
+sanzhi	kurban	0036	0	0_we	0.1:a_in	0	1	a_in	425	bridging
+sanzhi	kurban	0036	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0036	aʁʷc'alla	forty.days	np:p	np		p	404	
+sanzhi	kurban	0036	d-arq'-ij	NPL-do.PFV-INF1	v:pred	v		pred		
+sanzhi	kurban	0036	=sat	=until	=adp	=adp				
+sanzhi	kurban	0036	%	%	%	%				
+sanzhi	kurban	0036	0	0_Ramazan	0.2:a_cpa	0	2	a_cpa	408	
+sanzhi	kurban	0036	t'aš	stop	other:lvc	other		lvc		
+sanzhi	kurban	0036	icː-aq-a	stand.PFV-CAUS-IMP	v:pred	v		pred		
+sanzhi	kurban	0037	#	#	##	##				
+sanzhi	kurban	0037	c'il	then	other	other				
+sanzhi	kurban	0037	du	1SG	pro.1:s	pro	1	s	401	
+sanzhi	kurban	0037	hextːu-w	there.up-M	other:l	other		l	409	
+sanzhi	kurban	0037	w-irχʷ-u-d	M-become.IPFV-PRS-1.PRS	v:pred	v		pred		
+sanzhi	kurban	0037	hek'-i-la	DEM.up-OBL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	411	
+sanzhi	kurban	0037	kabinet-le-w	office-SPR-M	np:l	np		l	426	bridging
+sanzhi	kurban	0038	#	#	#cv	#cv				
+sanzhi	kurban	0038	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0038	zamana	time	np:other	np		other		
+sanzhi	kurban	0038	na	now	other	other				
+sanzhi	kurban	0038	c'il	then	other	other				
+sanzhi	kurban	0038	=ra	=and	=other	=other				
+sanzhi	kurban	0038	uruχ	fear	other:lvc	other		lvc		
+sanzhi	kurban	0038	iχ-ub-le	be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0038	it	that	ln_dem	ln_dem				
+sanzhi	kurban	0038	selsawet	village.head	ln_np.h	ln_np	h			
+sanzhi	kurban	0038	Ramazan	Ramazan	pn_np.h:s_cps	pn_np	h	s_cps	408	
+sanzhi	kurban	0038	#	#	#cv	#cv				
+sanzhi	kurban	0038	wallah	by.God	other	other				
+sanzhi	kurban	0038	0	0_Ramazan	0.1:s_ds_cv	0	1	s_ds_cv	408	
+sanzhi	kurban	0038	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0038	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	kurban	0038	#	#	##ds	##ds				
+sanzhi	kurban	0038	na	now	other	other				
+sanzhi	kurban	0038	0	0_Ramazan	0.1:a	0	1	a	408	
+sanzhi	kurban	0038	ce	what	intrg_other:p	intrg_other		p		
+sanzhi	kurban	0038	b-arq'-ide	N-do.PFV-MODQ	v:pred	v		pred		
+sanzhi	kurban	0038	#	#	#cv	#cv				
+sanzhi	kurban	0038	0	0_Ramazan	0.1:s_ds_cv	0	1	s_ds_cv	408	
+sanzhi	kurban	0038	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0038	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	kurban	0038	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0038	du	1SG	pro.1:p	pro	1	p	408	
+sanzhi	kurban	0038	a-w-alt-ul	NEG-M-let.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0038	iχ-ulle	be.PFV-COND.1.PRS	rv_aux	rv_aux				
+sanzhi	kurban	0038	hež-i-l	this-OBL-ERG	dem_pro.h:a	dem_pro	h	a	401	
+sanzhi	kurban	0039	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0039	wallah	by.God	other	other				
+sanzhi	kurban	0039	0	0_Ramazan	0.2:a	0	2	a	408	
+sanzhi	kurban	0039	0	0_I	0.1:p	0	1	p	400	
+sanzhi	kurban	0039	a-alt-aχː-at	NEG-let.IPFV-COND-2	v:pred	v		pred		
+sanzhi	kurban	0039	#	#	#cv	#cv				
+sanzhi	kurban	0039	w-ik'-ul-da	M-say.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	kurban	0039	du	1SG	pro.1:s_ds_cv	pro	1	s_ds_cv	400	
+sanzhi	kurban	0039	abratna	again[R]	other	other				
+sanzhi	kurban	0039	#	#	##ds.neg	##ds.neg				
+sanzhi	kurban	0039	0	0_Ramazan	0.2:a	0	2	a	408	
+sanzhi	kurban	0039	0	0_I	0.1:p	0	1	p	400	
+sanzhi	kurban	0039	a-alt-aχː-at	NEG-let.IPFV-COND-2	v:pred	v		pred		
+sanzhi	kurban	0039	#	#	#cv	#cv				
+sanzhi	kurban	0039	0	0_I	0.1:s_ds_cv	0	1	s_ds_cv	400	
+sanzhi	kurban	0039	ik'-ul-da	say.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	kurban	0039	#	#	#ds	#ds				
+sanzhi	kurban	0039	0	0_Ramazan	0.2:a_ds	0	2	a_ds	408	
+sanzhi	kurban	0039	0	0_Kurban	0.h:g	0	h	g	401	
+sanzhi	kurban	0039	b-urs-a	N-tell-IMP	v:pred	v		pred		
+sanzhi	kurban	0039	#	#	#cv	#cv				
+sanzhi	kurban	0039	0	0_I	0.1:s_ds_cv	0	1	s_ds_cv	400	
+sanzhi	kurban	0039	ik'-ul-da	say.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	kurban	0039	hek'-i-cːe	DEM.up-OBL-IN	dem_pro.h:g	dem_pro	h	g	408	
+sanzhi	kurban	0039	#	#	#ds_cc:p	#ds_cc		p		
+sanzhi	kurban	0039	#	#	#ds_cc_in:s	#ds_cc_in		s		
+sanzhi	kurban	0039	ja	or	other	other				
+sanzhi	kurban	0039	sub	husband	np.h:s_in	np	h	s_in	427	new
+sanzhi	kurban	0039	cːilibk'an	Cilibkin	np.h:pred	np	h	pred		
+sanzhi	kurban	0039	iχʷ-ij	be.PFV-INF1	cop	cop				
+sanzhi	kurban	0039	%	%	%	%				
+sanzhi	kurban	0039	ʡaˁʁuni-l	needed-ADVZ	other:pred	other		pred		
+sanzhi	kurban	0039	ca-b	be-N	cop	cop				
+sanzhi	kurban	0039	%	%	%	%				
+sanzhi	kurban	0039	ja	or	rn	rn				
+sanzhi	kurban	0039	xunul	woman	rn_np.h	rn_np	h		428	bridging
+sanzhi	kurban	0040	#	#	##ds	##ds				
+sanzhi	kurban	0040	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0040	cara-te	other-PL	ln_adj	ln_adj				
+sanzhi	kurban	0040	šːan-te	fellow.villager-PL	np.h:s	np	h	s	429	bridging
+sanzhi	kurban	0040	cara-te	other-PL	rn_adj	rn_adj				
+sanzhi	kurban	0040	inžener-te	engineer-PL	rn_np.h	rn_np	h		430	bridging
+sanzhi	kurban	0040	=ra	=and	=rn	=rn				
+sanzhi	kurban	0040	meχanekːa-be	mechanic-PL	rn_np.h	rn_np	h		431	bridging
+sanzhi	kurban	0040	=ra	=and	=rn	=rn				
+sanzhi	kurban	0040	cara-te	other-ATTR.PL	rn_adj	rn_adj				
+sanzhi	kurban	0040	šːan-te	fellow.villager-PL	rn_np.h	rn_np	h		432	bridging
+sanzhi	kurban	0040	k'e-b	exist.up-HPL	other:predex	other		predex		
+sanzhi	kurban	0040	ʡaˁbra-b-azi-b	much-HPL-ADJZV-HPL	other	other				
+sanzhi	kurban	0040	hextːu-b	there.up-HPL	other:l	other		l	409	
+sanzhi	kurban	0040	=ra	=and	=other	=other				
+sanzhi	kurban	0041	#	#	##ds	##ds				
+sanzhi	kurban	0041	#	#	#ds_cc_in:s	#ds_cc_in		s		
+sanzhi	kurban	0041	nu	well	other	other				
+sanzhi	kurban	0041	tːulka	only[R]	other	other				
+sanzhi	kurban	0041	hel	that	other	other				
+sanzhi	kurban	0041	ča-k'a	who-INDEF	other	other				
+sanzhi	kurban	0041	b-iχʷ-ar	N-be.PFV-COND.3	other	other				
+sanzhi	kurban	0041	=ra	=and	=other	=other				
+sanzhi	kurban	0041	ja	or	ln	ln				
+sanzhi	kurban	0041	sub	husband	np.h:s	np	h	s	427	
+sanzhi	kurban	0041	ja	or	rn	rn				
+sanzhi	kurban	0041	xunul	woman	rn_np.h	rn_np	h		428	
+sanzhi	kurban	0041	w-iχʷ-ij	M-be.PFV-INF1	cop	cop				
+sanzhi	kurban	0041	%	%	%	%				
+sanzhi	kurban	0041	ʡaˁʁuni-l	needed-ADVZ	other:pred	other		pred		
+sanzhi	kurban	0041	ca-b	be-N	cop	cop				
+sanzhi	kurban	0041	#	#	##ds	##ds				
+sanzhi	kurban	0041	#	#	#ds_cc_in:s	#ds_cc_in		s		
+sanzhi	kurban	0041	0	0_one.of.them	0.h:s_in	0	h	s_in	433	bridging
+sanzhi	kurban	0041	cːilibk'an	Cilibkin	np.h:pred	np	h	pred		
+sanzhi	kurban	0041	w-iχʷ-ij	M-be.PFV-INF1	cop	cop				
+sanzhi	kurban	0041	%	%	%	%				
+sanzhi	kurban	0041	ʡaˁʁuni-l	needed-ADVZ	other:pred	other		pred		
+sanzhi	kurban	0041	ca-b	be-N	cop	cop				
+sanzhi	kurban	0041	#	#	#ds_cv.neg	#ds_cv.neg				
+sanzhi	kurban	0041	šːan-te	fellow.villager-PL	np.h:s_cps_cv	np	h	s_cps_cv	434	bridging
+sanzhi	kurban	0041	razi	agreement	other:lvc	other		lvc		
+sanzhi	kurban	0041	b-irχʷ-ul-akːu	N-become.IPFV-ICVB-NEG	v:pred	v		pred		
+sanzhi	kurban	0041	carat'le	differently	other	other				
+sanzhi	kurban	0042	#	#	##ds	##ds				
+sanzhi	kurban	0042	c'il	then	other	other				
+sanzhi	kurban	0042	hel-itːe	that-ADVZ	other	other				
+sanzhi	kurban	0042	0	0_Kurban	0.h:g	0	h	g	401	
+sanzhi	kurban	0042	ha-ʔ-a	upwards-say.PFV-IMP	v:pred	v		pred		
+sanzhi	kurban	0042	#	#	#cv	#cv				
+sanzhi	kurban	0042	0	0_I	0.1:s_ds_cv	0	1	s_ds_cv	400	
+sanzhi	kurban	0042	ik'-ul-da	say.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	kurban	0042	%	%	%	%				
+sanzhi	kurban	0042	u-l	2SG-ERG	pro.2:a_ds	pro	2	a_ds	408	
+sanzhi	kurban	0043	#	#	#cv	#cv				
+sanzhi	kurban	0043	hel	that	ln_dem	ln_dem				
+sanzhi	kurban	0043	zamana	time	np:other	np		other		
+sanzhi	kurban	0043	il-i-l	that-OBL-ERG	dem_pro.h:a	dem_pro	h	a	408	
+sanzhi	kurban	0043	0	0_story	0:p	0		p	442	bridging
+sanzhi	kurban	0043	hati	more	other	other				
+sanzhi	kurban	0043	=ra	=and	=other	=other				
+sanzhi	kurban	0043	qːuʁa-l	beautiful-ADVZ	other	other				
+sanzhi	kurban	0043	d-al-d-ič-aq-ib-le	NPL-together-NPL-occur.PFV-CAUS-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0044	#	#	##	##				
+sanzhi	kurban	0044	jaʁari	PRT	other	other				
+sanzhi	kurban	0044	Q'urban	Kurban	pn_np.h:voc	pn_np	h	voc	401	
+sanzhi	kurban	0044	dam	1SG.DAT	pro.1:ncs	pro	1	ncs	408	
+sanzhi	kurban	0044	a-sa-r-ka	2SG-ANTE-ABL-down	pro.2:obl	pro	2	obl	401	
+sanzhi	kurban	0044	c'aχ-le	shame-ADVZ	other	other				
+sanzhi	kurban	0044	=ra	=and	=other	=other				
+sanzhi	kurban	0044	ca-b	be-N	v:pred	v		pred		
+sanzhi	kurban	0044	=q'al-nu	=MOD-PRT	=rv	=rv				
+sanzhi	kurban	0044	#	#	#nc	#nc				
+sanzhi	kurban	0044	hana	now	nc	nc				
+sanzhi	kurban	0044	u	2SG	nc_pro.2	nc_pro	2		401	
+sanzhi	kurban	0044	xul-či	wish-SPR	nc	nc				
+sanzhi	kurban	0044	=ra	=and	nc	nc				
+sanzhi	kurban	0044	w-arq'-ib-le	M-do.PFV-PRET-CVB	nc	nc				
+sanzhi	kurban	0044	itːi	3PL	nc	nc				
+sanzhi	kurban	0044	iš-tːi	this-PL	nc	nc				
+sanzhi	kurban	0044	#	#	##	##				
+sanzhi	kurban	0044	0	0_Ramazan	0.h:a_ds	0	h	a_ds		
+sanzhi	kurban	0044	ha-ʔ-ib-le	upwards-say.PFV-PRET-CVB	nc	nc				
+sanzhi	kurban	0045	#	#	#cv	#cv				
+sanzhi	kurban	0045	0	0_Ramazan	0.h:a_cv	0	h	a_cv	408	
+sanzhi	kurban	0045	0	0_story	0:p	0		p	442	
+sanzhi	kurban	0045	hati	more	other	other				
+sanzhi	kurban	0045	=ra	=and	=other	=other				
+sanzhi	kurban	0045	qːuʁa-l	beautiful-ADVZ	other	other				
+sanzhi	kurban	0045	d-al-d-ič-aq-ib-le	NPL-together-NPL-occur.PFV-CAUS-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0045	#	#	#cv	#cv				
+sanzhi	kurban	0045	w-ik'-ul	M-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0045	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	kurban	0045	hel	that	0.h:s_ds_cv	0	h	s_ds_cv	408	
+sanzhi	kurban	0045	#	#	##ds	##ds				
+sanzhi	kurban	0045	wallah	by.God	other	other				
+sanzhi	kurban	0045	#	#	#ds_cc_in:s	#ds_cc_in		s		
+sanzhi	kurban	0045	ja	or	ln	ln				
+sanzhi	kurban	0045	sub	husband	np.h:s	np	h	s	427	
+sanzhi	kurban	0045	w-iχʷ-ij	M-be.PFV-INF1	v:pred	v		pred		
+sanzhi	kurban	0045	%	%	%	%				
+sanzhi	kurban	0045	ʡaˁʁuni-l	needed-ADVZ	other:pred	other		pred		
+sanzhi	kurban	0045	ca-w	be-M	cop	cop				
+sanzhi	kurban	0045	%	%	%	%				
+sanzhi	kurban	0045	ja	or	rn	rn				
+sanzhi	kurban	0045	xunul	woman	rn_np.h	rn_np	h		428	
+sanzhi	kurban	0046	#	#	#cv	#cv				
+sanzhi	kurban	0046	takoms	such[R]	other	other			435	bridging
+sanzhi	kurban	0046	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0046	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	kurban	0046	Q'urban	Kurban	pn_np.h:s_ds_cv	pn_np	h	s_ds_cv	401	
+sanzhi	kurban	0046	#	#	#ds_pc	#ds_pc				
+sanzhi	kurban	0046	takms	such[R]	other	other			435	
+sanzhi	kurban	0046	0	0_Kurban	0.1:a_pc	0	1	a_pc	401	
+sanzhi	kurban	0046	il	that	ln_dem	ln_dem				
+sanzhi	kurban	0046	qːulluqː	matter	np:p	np		p	436	bridging
+sanzhi	kurban	0046	=ra	=and	=other	=other				
+sanzhi	kurban	0046	arz-aq-an-da	solve.IPFV-CAUS-PTCP-1	v:pred	v		pred		
+sanzhi	kurban	0047	#	#	##	##				
+sanzhi	kurban	0047	na	now	other	other				
+sanzhi	kurban	0047	tembolee	the.more	other	other				
+sanzhi	kurban	0047	kːama-l	widower-ADVZ	other:pred	other		pred		
+sanzhi	kurban	0047	=q'al	=MOD	=other	=other				
+sanzhi	kurban	0047	il	that	dem_pro.h:s	dem_pro	h	s	401	
+sanzhi	kurban	0047	uže	already	other	other				
+sanzhi	kurban	0047	hana	now	other	other				
+sanzhi	kurban	0047	#	#	#cv	#cv				
+sanzhi	kurban	0047	0	0_Kurban	0.h:a_cv	0	h	a_cv	401	
+sanzhi	kurban	0047	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	400	
+sanzhi	kurban	0047	rucːi	sister	np.h:p	np	h	p	443	bridging
+sanzhi	kurban	0047	=ra	=and	=other	=other				
+sanzhi	kurban	0047	χːaˁb-la	grave-GEN	np:g	np		g		
+sanzhi	kurban	0047	r-arq'-ib-le-da	F-do.PFV-PRET-CVB-1	v:pred	v		pred		
+sanzhi	kurban	0047	#	#	##	##				
+sanzhi	kurban	0047	uže	already	other	other				
+sanzhi	kurban	0047	lidil	all<PL>	np:s	np		s		
+sanzhi	kurban	0047	cik'al	nothing	indef_other:pred	indef_other		pred		
+sanzhi	kurban	0047	d-iχ-ub	NPL-be.PFV-PRET	cop	cop				
+sanzhi	kurban	0047	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	kurban	0048	#	#	#cv	#cv				
+sanzhi	kurban	0048	il-i-l	that-OBL-ERG	dem_pro.h:a_cv	dem_pro	h	a_cv	401	
+sanzhi	kurban	0048	ce	what	intrg_other:p	intrg_other		p		
+sanzhi	kurban	0048	b-irq'-ul	N-do.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0048	=e	=Q	=other	=other				
+sanzhi	kurban	0049	#	#	#cv	#cv				
+sanzhi	kurban	0049	0	0	0.h:a_cv	0	h	a_cv	444	
+sanzhi	kurban	0049	aʁʷc'alla	forty.days	np:p	np		p	404	
+sanzhi	kurban	0049	=ra	=and	=other	=other				
+sanzhi	kurban	0049	d-arq'-ib-le	NPL-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0049	#	#	#cv	#cv				
+sanzhi	kurban	0049	0	0_Kurban	0.h:s_cv	0	h	s_cv	401	
+sanzhi	kurban	0049	čar-iχ-ub-le	back-be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0049	#	#	#cv	#cv				
+sanzhi	kurban	0049	0	0	0.h:a_cv	0	h	a_cv	444	
+sanzhi	kurban	0049	aʁʷc'alla	forty.days	np:p	np		p	404	
+sanzhi	kurban	0049	d-arq'-ib-le	NPL-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0049	#	#	#cv	#cv				
+sanzhi	kurban	0049	xu-ibil	five-ORD	ln_adj	ln_adj				
+sanzhi	kurban	0049	bar	day	np:other	np		other	437	bridging
+sanzhi	kurban	0049	0	0_Kurban	0.h:s_cv	0	h	s_cv	401	
+sanzhi	kurban	0049	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0049	cːilibč'i	Cilibki.LAT	np.h:g	np	h	g	409	
+sanzhi	kurban	0050	#	#	##	##				
+sanzhi	kurban	0050	het	that	dem_pro.h:s	dem_pro	h	s		
+sanzhi	kurban	0050	Nuʁajskij	Noghay	ln_pn_np	ln_pn_np				
+sanzhi	kurban	0050	rajun-ni-ce	district-OBL-LAT	np:g	np		g	438	bridging
+sanzhi	kurban	0050	#	#	#cv	#cv				
+sanzhi	kurban	0050	0	0_Kurban	0.h:ncs_cv	0	h	ncs_cv	401	
+sanzhi	kurban	0050	r-arčː-ib-le	F-find.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0050	cːilibk'an	Cilibkin	np.h:p	np	h	p	439	new
+sanzhi	kurban	0050	#	#	#	#				
+sanzhi	kurban	0050	0	0_Kurban	0.h:a_cv	0	h	a_cv	401	
+sanzhi	kurban	0050	0	0_woman	0.h:p	0	h	p	439	
+sanzhi	kurban	0050	xadi	married	other:lvc	other		lvc		
+sanzhi	kurban	0050	ka-r-iž-ib-le	down-F-be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0050	#	#	##	##				
+sanzhi	kurban	0050	het	that	dem_pro.h:s	dem_pro	h	s	439	
+sanzhi	kurban	0050	=ra	=and	=rn	=rn				
+sanzhi	kurban	0050	ca-w	REFL-M	=rn_refl.h	=rn_refl	h		401	
+sanzhi	kurban	0050	=ra	=and	=rn	=rn				
+sanzhi	kurban	0050	w-arx-le	M-direct-ADVZ	other	other				
+sanzhi	kurban	0050	cːilibč'i	Cilibki.LAT	pn_np:g	pn_np		g	409	
+sanzhi	kurban	0051	#	#	#cv	#cv				
+sanzhi	kurban	0051	nu	well	other	other				
+sanzhi	kurban	0051	ixtːu-w	there.up-M	other:l	other		l	409	
+sanzhi	kurban	0051	0	0_villagers	0.h:a	0	h	a	434	
+sanzhi	kurban	0051	cara	other	np.h:p	np	h	p	440	new
+sanzhi	kurban	0051	uže	already	other	other				
+sanzhi	kurban	0051	pirsidatil	head	np:obl	np		obl		
+sanzhi	kurban	0051	w-arq'-ib-le	M-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0051	#	#	#cv	#cv				
+sanzhi	kurban	0051	0	0_villagers	0.h:s_cps	0	h	s_cps	432	
+sanzhi	kurban	0051	ink	meet	other:lvc	other		lvc		
+sanzhi	kurban	0051	w-aˁq-ib-le	M-assemble.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0051	#	#	#cv	#cv				
+sanzhi	kurban	0051	proklinal	cursed[R]	other	other				
+sanzhi	kurban	0051	0	0_Kurban	0.h:s_ds_cv	0	h	s_ds_cv	401	
+sanzhi	kurban	0051	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	kurban	0051	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	kurban	0051	do	to[R]	other	other				
+sanzhi	kurban	0051	poslednego	the.last[R]	other	other				
+sanzhi	kurban	0052	#	#	#	#				
+sanzhi	kurban	0052	heχ	DEM.down	other	other				
+sanzhi	kurban	0052	0	0_Kurban	0.h:a	0	h	a	401	
+sanzhi	kurban	0052	heštːu-r	here-F	other	other				
+sanzhi	kurban	0052	xunul	woman	np.h:p	np	h	p	439	
+sanzhi	kurban	0052	ka-r-iž-ni-la	down-F-be.PFV-MSD-GEN	v:pred	v		pred		
+sanzhi	kurban	0052	=ra	=and	=other	=other				
+sanzhi	kurban	0052	#	#	#cv	#cv				
+sanzhi	kurban	0052	ca-w	REFL-M	refl.h:s_cv	refl	h	s_cv	401	
+sanzhi	kurban	0052	=ra	=and	=other	=other				
+sanzhi	kurban	0052	čar-iχ-ub-le	back-be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	kurban	0052	#	#	#pc	#pc				
+sanzhi	kurban	0052	0	0_they	0.h:s_pc	0	h	s_pc	445	
+sanzhi	kurban	0052	w-it-ag-ur-il	M-thither-go.PFV-PRET-PTCP	rv_v	rv_v				
+sanzhi	kurban	0052	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	kurban	0053	#	#	##	##				
+sanzhi	kurban	0053	il	that	dem_pro:s	dem_pro		s	441	bridging
+sanzhi	kurban	0053	mar	truth	ln	ln				
+sanzhi	kurban	0053	χabar	story	np:pred	np		pred		
+sanzhi	kurban	0053	ca-b	be-N	cop	cop				
+sanzhi	kurban	0053	#	#	#cv	#cv				
+sanzhi	kurban	0053	a-cːe	2SG-IN	pro.2:g	pro	2	g	402	
+sanzhi	kurban	0053	du-l	1SG-ERG	pro.1:a_ds	pro	1	a_ds	400	
+sanzhi	kurban	0053	b-urs-ul-da	N-tell-ICVB-1	v:pred	v		pred		
+sanzhi	kurban	0054	[AUD]	[AUD]	[AUD]	[AUD]				
+sanzhi	kurban	0054	#	#	#nc	#nc				
+sanzhi	kurban	0054	xunul	woman	nc_np.h	nc_np	h		439	
+sanzhi	kurban	0054	r-ič-ib	F-occur.PFV-PRET	nc	nc				
+sanzhi	kurban	0054	ca-r	be-F	nc	nc				
+sanzhi	kurban	0054	zato	but.then	nc	nc				
+sanzhi	kurban	0055	#	#	##	##				
+sanzhi	kurban	0055	xunul	woman	np.h:s	np	h	s	439	
+sanzhi	kurban	0055	te-r	exist-F	other:predex	other		predex		
+sanzhi	kurban	0055	hana	now	other	other				
+sanzhi	kurban	0055	=ra	=and	=other	=other				
+sanzhi	kurban	0056	[AUD]	[AUD]	[AUD]	[AUD]				
+sanzhi	kurban	0056	#	#	#nc	#nc				
+sanzhi	kurban	0056	hel	that	nc	nc				
+sanzhi	kurban	0056	cːilibk'an	Cilibkin	nc_np.h	nc_np	h		439	
+sanzhi	kurban	0056	rigalu	remained[I]	nc	nc				
+sanzhi	kurban	0057	#	#	#nc	#nc				
+sanzhi	kurban	0057	0	0_woman	nc_0.h	nc_0	h		439	
+sanzhi	kurban	0057	rigal	remained[I]	nc	nc				
+sanzhi	kurban	0057	#	#	#nc	#nc				
+sanzhi	kurban	0057	0	0_woman	nc_0.h	nc_0	h		439	
+sanzhi	kurban	0057	rigal	remained[I]	nc	nc				
+sanzhi	kurban	0058	#	#	#	#				
+sanzhi	kurban	0058	amma	but	other	other				
+sanzhi	kurban	0058	0	0_events	0:s	0		s	441	
+sanzhi	kurban	0058	cabi	be<N>	v:pred	v		pred		
+sanzhi	kurban	0058	#	#	#pc	#pc				
+sanzhi	kurban	0058	kiljanus	I.swear	other	other				
+sanzhi	kurban	0058	0	0	0.h:a	0	h	a		
+sanzhi	kurban	0058	hel	that	dem_pro:p	dem_pro		p	441	
+sanzhi	kurban	0058	b-arq'-ib-il	N-do.PFV-PRET-PTCP	v:pred	v		pred		
+sanzhi	kurban	0058	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	kurban	0058	#	#	##	##				
+sanzhi	kurban	0058	0	0	0:s	0		s	441	
+sanzhi	kurban	0058	mar	truth	ln_np	ln_np				
+sanzhi	kurban	0058	χabar	story	np:pred	np		pred		
+sanzhi	kurban	0058	ca-b	be-N	cop	cop				
+sanzhi	kurban	0058	#	#	##neg	##neg				
+sanzhi	kurban	0058	heštːi	these	dem_pro:s	dem_pro		s	441	
+sanzhi	kurban	0058	šutka-la	joke-GEN	ln_np:poss	ln_np		poss		
+sanzhi	kurban	0058	χabur-te	story-PL	np:pred	np		pred		
+sanzhi	kurban	0058	akːu	NEG	cop	cop				

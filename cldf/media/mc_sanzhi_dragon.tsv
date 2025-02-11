@@ -1,0 +1,658 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sanzhi	dragon	0001	#	#	##	##				
+sanzhi	dragon	0001	ca	one	ln_deti	ln_deti				
+sanzhi	dragon	0001	šːi-l-cːe-b	village-OBL-IN-N	np:l	np		l	300	new
+sanzhi	dragon	0001	ca	one	ln_deti	ln_deti				
+sanzhi	dragon	0001	kulpat	family	np.h:s	np	h	s	301	new
+sanzhi	dragon	0001	χula	big	ln_adj	ln_adj				
+sanzhi	dragon	0001	kulpat	family	np.h:appos	np	h	appos	301	
+sanzhi	dragon	0001	b-už-ib	N-stay-PRET	v:pred	v		pred		
+sanzhi	dragon	0001	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	dragon	0001	#	#	##	##				
+sanzhi	dragon	0001	il-tː-a-cːe-r	that-PL-OBL-IN-ABL	dem_pro.h:obl	dem_pro	h	obl	301	
+sanzhi	dragon	0001	ca	one	ln_deti	ln_deti				
+sanzhi	dragon	0001	rursːi	girl	np.h:s	np	h	s	302	bridging
+sanzhi	dragon	0001	r-už-ib	F-be-PRET	v:pred	v		pred		
+sanzhi	dragon	0001	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	dragon	0001	#	#	#rc_pc.neg	#rc_pc.neg				
+sanzhi	dragon	0001	har	every	ln	ln				
+sanzhi	dragon	0001	zamana	time	np:other	np		other		
+sanzhi	dragon	0001	0	0_sister	0.h:s_pc	0	h	s_pc	302	
+sanzhi	dragon	0001	kːuš-le	hungry-ADVZ	other	other				
+sanzhi	dragon	0001	a-luqː-an	NEG-become.full.IPFV-PTCP	v:pred	v		pred		
+sanzhi	dragon	0002	#	#	##ds	##ds				
+sanzhi	dragon	0002	#	#	#rc_pc	#rc_pc				
+sanzhi	dragon	0002	0	0	0.h:a	0	h	a		
+sanzhi	dragon	0002	ču-la	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss		
+sanzhi	dragon	0002	χu-d-a-j	dog-PL-OBL-DAT	np:g	np		g	303	new
+sanzhi	dragon	0002	lukː-an	give.IPFV-PTCP	v:pred	v		pred		
+sanzhi	dragon	0002	0	0_food	rc_f0:p	rc_f0		p	304	new
+sanzhi	dragon	0002	%	%	%	%				
+sanzhi	dragon	0002	χurejg	food	np:dt_p	np		dt_p	304	
+sanzhi	dragon	0002	il-i-l	that-OBL-ERG	dem_pro.h:a	dem_pro	h	a	302	
+sanzhi	dragon	0002	χu-d-a-j	dog-PL-OBL-DAT	np:g	np		g	303	
+sanzhi	dragon	0002	lukː-un-ne-da	give.IPFV-ICVB-PRS.3-1	v:pred	v		pred		
+sanzhi	dragon	0002	#	#	#cv	#cv				
+sanzhi	dragon	0002	0	0_sister	0.h:s_ds_cv	0	h	s_ds_cv	302	
+sanzhi	dragon	0002	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0002	#	#	#cv	#cv				
+sanzhi	dragon	0002	cin-ni	REFL.SG-ERG	refl.h:a	refl	h	a	302	
+sanzhi	dragon	0002	d-uk-un-ne	NPL-eat.IPFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0002	d-už-ib-le	NPL-be-PRET-CVB	rv_aux	rv_aux				
+sanzhi	dragon	0002	hel-tːi	that-PL	dem_pro:p	dem_pro		p	304	
+sanzhi	dragon	0003	#	#	##	##				
+sanzhi	dragon	0003	#	#	#ac	#ac				
+sanzhi	dragon	0003	0	0_sister	0.h:s	0	h	s	302	
+sanzhi	dragon	0003	q'ʷila	a.little	other	other				
+sanzhi	dragon	0003	χula	big	other	other				
+sanzhi	dragon	0003	r-eʁ-ib	F-go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0003	=qːel	=when	=adp	=adp				
+sanzhi	dragon	0003	%	%	%	%				
+sanzhi	dragon	0003	arin	too.much	other	other				
+sanzhi	dragon	0003	kːuš-le	hungry-ADVZ	other	other				
+sanzhi	dragon	0003	0	0_sister	0.h:a	0	h	a	302	
+sanzhi	dragon	0003	χalq'	people	np.h:p	np	h	p	305	new
+sanzhi	dragon	0003	b-ukː-an	N-eat.IPFV-PTCP	v:pred	v		pred		
+sanzhi	dragon	0003	ag-ur	go.PFV-PRET	rv_aux	rv_aux				
+sanzhi	dragon	0003	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	dragon	0003	#	#	##	##				
+sanzhi	dragon	0003	0	0_sister	0.h:s	0	h	s	302	
+sanzhi	dragon	0003	aždaha	monster	np.h:obl	np	h	obl		
+sanzhi	dragon	0003	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0003	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	dragon	0003	hel-i-cːe-r	that-OBL-IN-ABL	dem_pro.h:obl	dem_pro	h	obl	306	bridging
+sanzhi	dragon	0004	#	#	##	##				
+sanzhi	dragon	0004	0	0_sister	0.h:a	0	h	a	302	
+sanzhi	dragon	0004	b-erk-un	HPL-eat.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0004	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	dragon	0004	cin-na	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	302	
+sanzhi	dragon	0004	kulpat	family	np.h:p	np	h	p	301	
+sanzhi	dragon	0004	#	#	##	##				
+sanzhi	dragon	0004	c'il	then	other	other				
+sanzhi	dragon	0004	0	0_sister	0.h:a	0	h	a	302	
+sanzhi	dragon	0004	b-erk-un	HPL-eat.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0004	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	dragon	0004	libil	all<HPL>	ln	ln				
+sanzhi	dragon	0004	šːan-te	fellow.villager-PL	np.h:p	np	h	p	307	new
+sanzhi	dragon	0004	#	#	#cv	#cv				
+sanzhi	dragon	0004	0	0_sister	0.h:a_cv	0	h	a_cv	302	
+sanzhi	dragon	0004	ca	one	ln_num	ln_num				
+sanzhi	dragon	0004	admi	person	np.h:p	np	h	p	308	bridging
+sanzhi	dragon	0004	w-at-ur-re	M-let.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0004	#	#	#pc	#pc				
+sanzhi	dragon	0004	0	0_sister	0.h:a_cpa_pc	0	h	a_cpa_pc	302	
+sanzhi	dragon	0004	0	0_person	0.h:obl	0	h	obl	308	
+sanzhi	dragon	0004	cin-na	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	302	
+sanzhi	dragon	0004	cul-be	tooth-PL	np:p	np		p	309	bridging
+sanzhi	dragon	0004	d-umkːa	NPL-sharp	other:lvc	other		lvc		
+sanzhi	dragon	0004	d-irq'-an	NPL-do.IPFV-PTCP	v:pred	v		pred		
+sanzhi	dragon	0005	#	#	##	##				
+sanzhi	dragon	0005	il	that	ln_dem	ln_dem				
+sanzhi	dragon	0005	rursːi-la	girl-GEN	np.h:obl	np	h	obl	302	
+sanzhi	dragon	0005	už-ib	be-PRET	v:pred	v		pred		
+sanzhi	dragon	0005	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0005	ucːi	brother	np.h:s	np	h	s	310	new
+sanzhi	dragon	0005	ħaˁlt'i-le-w	working-SPR-M	rn	rn				
+sanzhi	dragon	0006	#	#	#cv	#cv				
+sanzhi	dragon	0006	#	#	#rc_pc	#rc_pc				
+sanzhi	dragon	0006	hel	that	dem_pro.h:s_pc	dem_pro	h	s_pc	310	
+sanzhi	dragon	0006	saˁ-q'-aˁn	hither-go-PTCP	v:pred	v		pred		
+sanzhi	dragon	0006	%	%	%	%				
+sanzhi	dragon	0006	zamana	time	np:other	np		other		
+sanzhi	dragon	0006	ču-la	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss	310	
+sanzhi	dragon	0006	šːa	village.ERG	np:g	np		g	300	
+sanzhi	dragon	0006	zunra	neighbour	ln	ln				
+sanzhi	dragon	0006	šːan-te	fellow.villager-PL	np.h:s_ds_cv	np	h	s_ds_cv	311	new
+sanzhi	dragon	0006	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0006	ca-b	be-PL	rv_aux	rv_aux				
+sanzhi	dragon	0006	#	#	##ds	##ds				
+sanzhi	dragon	0006	u	2SG	pro.2:s	pro	2	s	310	
+sanzhi	dragon	0006	abdal-de	fool-2SG	np.h:pred	np	h	pred		
+sanzhi	dragon	0006	=w	=Q	=other	=other				
+sanzhi	dragon	0006	#	#	##ds.neg	##ds.neg				
+sanzhi	dragon	0006	0	0_brother	0.2:s	0	2	s	310	
+sanzhi	dragon	0006	maˁ-q'-aˁtːa	PROH-go-PROH.SG	v:pred	v		pred		
+sanzhi	dragon	0007	#	#	#ds_cv	#ds_cv				
+sanzhi	dragon	0007	ala	2SG.GEN	ln_pro.2:poss	ln_pro	2	poss	310	
+sanzhi	dragon	0007	rucːi	sister	np.h:s_cv	np	h	s_cv	302	
+sanzhi	dragon	0007	aždaha	monster	np:obl	np		obl		
+sanzhi	dragon	0007	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0007	#	#	##ds	##ds				
+sanzhi	dragon	0007	0	0_sister	0.h:a	0	h	a	302	
+sanzhi	dragon	0007	libil	all<HPL>	np.h:p	np	h	p	307	
+sanzhi	dragon	0007	b-erk-un	HPL-eat.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0007	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	dragon	0007	#	#	##ds.neg	##ds.neg				
+sanzhi	dragon	0007	ča-k'al	who-INDEF	intrg_other.h:s	intrg_other	h	s		
+sanzhi	dragon	0007	w-il	M-remain.PFV	v:pred	v		pred		
+sanzhi	dragon	0007	akːu	NEG	rv	rv				
+sanzhi	dragon	0007	#	#	#ds_pc	#ds_pc				
+sanzhi	dragon	0007	0	0_sister	0.h:a_pc	0	h	a_pc	302	
+sanzhi	dragon	0007	u	2SG	pro.2:p	pro	2	p	310	
+sanzhi	dragon	0007	=ra	=and	=other	=other				
+sanzhi	dragon	0007	ukː-an-de	eat.IPFV-PTCP-2SG	v:pred	v		pred		
+sanzhi	dragon	0007	=n	=but	=other	=other				
+sanzhi	dragon	0007	#	#	##ds.neg	##ds.neg				
+sanzhi	dragon	0007	0	0_brother	0.2:s	0	2	s	310	
+sanzhi	dragon	0007	maˁ-q'-aˁtːa	PROH-go-PROH.SG	v:pred	v		pred		
+sanzhi	dragon	0007	#	#	#cv	#cv				
+sanzhi	dragon	0007	0	0_they	0.h:s_ds_cv	0	h	s_ds_cv	311	
+sanzhi	dragon	0007	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0007	ca-b	be-PL	rv_aux	rv_aux				
+sanzhi	dragon	0008	#	#	#cv.neg	#cv.neg				
+sanzhi	dragon	0008	durħuˁ	boy	np.h:s_cps_cv	np	h	s_cps_cv	310	
+sanzhi	dragon	0008	w-iχči	M-believe	other:lvc	other		lvc		
+sanzhi	dragon	0008	a-ag-ur-re	NEG-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0008	#	#	##	##				
+sanzhi	dragon	0008	0	0_brother	0.h:s	0	h	s	310	
+sanzhi	dragon	0008	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0008	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0009	#	#	#cv	#cv				
+sanzhi	dragon	0009	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
+sanzhi	dragon	0009	šːi-l-cːe-w	village-OBL-IN-M	np:l	np		l	300	
+sanzhi	dragon	0009	er	look	other:lvc	other		lvc		
+sanzhi	dragon	0009	ik'-ul	look.at.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0009	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0009	#	#	##neg	##neg				
+sanzhi	dragon	0009	ča-k'al	who-INDEF	intrg_other.h:s	intrg_other	h	s		
+sanzhi	dragon	0009	caʔarah	not.one	ln	ln				
+sanzhi	dragon	0009	admi	person	np.h:other	np	h	other		
+sanzhi	dragon	0009	w-akːu	M-NEG	other:predex	other		predex		
+sanzhi	dragon	0010	#	#	##	##				
+sanzhi	dragon	0010	0	0_brother	0.h:s	0	h	s	310	
+sanzhi	dragon	0010	qili	home	np:g	np		g	312	bridging
+sanzhi	dragon	0010	wi-ag-ur	in(side)-go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0010	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0010	#	#	##	##				
+sanzhi	dragon	0010	le-r	exist-F	other:predex	other		predex		
+sanzhi	dragon	0010	cin-na	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	310	
+sanzhi	dragon	0010	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0010	rucːi	sister	np.h:s	np	h	s	302	
+sanzhi	dragon	0011	#	#	##	##				
+sanzhi	dragon	0011	rucːi	sister	np.h:s	np	h	s	302	
+sanzhi	dragon	0011	=ra	=and	=other	=other				
+sanzhi	dragon	0011	razi	happy	other	other				
+sanzhi	dragon	0011	r-iχ-ub	F-be.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0011	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	dragon	0011	#	#	##	##				
+sanzhi	dragon	0011	il	that	dem_pro.h:s_cpa	dem_pro	h	s_cpa	310	
+sanzhi	dragon	0011	=ra	=and	=other	=other				
+sanzhi	dragon	0011	šak	feel	other:lvc	other		lvc		
+sanzhi	dragon	0011	ič-ib	occur.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0011	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0011	#	#	#cc:p	#cc		p		
+sanzhi	dragon	0011	#	#	#cc_pc:p	#cc_pc		p		
+sanzhi	dragon	0011	itːi	3PL	pro.h:s_ds_pc	pro	h	s_ds_pc	311	
+sanzhi	dragon	0011	χalq'	people	np.h:poss	np	h	poss		
+sanzhi	dragon	0011	b-ik'ʷ-an	HPL-say.IPFV-PTCP	v:pred	v		pred		
+sanzhi	dragon	0011	mar	truth	np:p	np		p		
+sanzhi	dragon	0011	%	%	%	%				
+sanzhi	dragon	0011	0	0_brother	0.h:ncs	0	h	ncs	310	
+sanzhi	dragon	0011	b-urkː-ar	N-find.IPFV-PRS	v:pred	v		pred		
+sanzhi	dragon	0011	#	#	#cv.neg	#cv.neg				
+sanzhi	dragon	0011	#	#	#cv	#cv				
+sanzhi	dragon	0011	0	0_brother	0.h:s_ds_cv	0	h	s_ds_cv	310	
+sanzhi	dragon	0011	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0011	%	%	%	%				
+sanzhi	dragon	0011	0	0_brother	0.h:a_ds	0	h	a_ds	310	
+sanzhi	dragon	0011	il-i-cːe	that-OBL-IN	dem_pro.h:g	dem_pro	h	g	302	
+sanzhi	dragon	0011	cik'al	something	indef_other:p	indef_other		p		
+sanzhi	dragon	0011	ha-ʔ-ib-le-kːu	upwards-say.PFV-PRET-CVB-NEG	v:pred	v		pred		
+sanzhi	dragon	0012	#	#	#cv	#cv				
+sanzhi	dragon	0012	rucːi	sister	np.h:s	np	h	s	302	
+sanzhi	dragon	0012	razi	happy	other:pred	other		pred		
+sanzhi	dragon	0012	r-iχ-ub-le	F-be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0012	#	#	#ds_pc	#ds_pc				
+sanzhi	dragon	0012	hana	now	other	other				
+sanzhi	dragon	0012	du	1SG	pro.1:s_pc	pro	1	s_pc	302	
+sanzhi	dragon	0012	sa-r-irʁ-an-da	hither-F-come.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	dragon	0012	=n	=but	=other	=other				
+sanzhi	dragon	0012	#	#	#cv	#cv				
+sanzhi	dragon	0012	0	0_sister	0.h:s_ds_cv	0	h	s_ds_cv	302	
+sanzhi	dragon	0012	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0012	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	dragon	0012	#	#	##ds	##ds				
+sanzhi	dragon	0012	u	2SG	pro.2:s	pro	2	s	310	
+sanzhi	dragon	0012	ka-jž-ib-le	down-be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0012	už-e	be-IMP	rv_aux	rv_aux				
+sanzhi	dragon	0013	#	#	##	##				
+sanzhi	dragon	0013	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0013	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	dragon	0013	rucːi	sister	np.h:s	np	h	s	302	
+sanzhi	dragon	0013	tːura	outside	other:g	other		g		
+sanzhi	dragon	0014	#	#	##	##				
+sanzhi	dragon	0014	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0014	zamana	time	np:other	np		other		
+sanzhi	dragon	0014	tːura-ha-b-eʁ-ib	outside-upwards-N-go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0014	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	dragon	0014	cin-na	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	313	new
+sanzhi	dragon	0014	qili-r	home-ABL	np:obl	np		obl	314	new
+sanzhi	dragon	0014	waca	mouse	np.d:s	np	d	s	313	
+sanzhi	dragon	0015	#	#	##ds	##ds				
+sanzhi	dragon	0015	abdal-de	fool-2SG	np.h:pred	np	h	pred		
+sanzhi	dragon	0015	=w	=Q	=other	=other				
+sanzhi	dragon	0015	u	2SG	pro.2:s	pro	2	s	310	
+sanzhi	dragon	0015	#	#	#cv	#cv				
+sanzhi	dragon	0015	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0015	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	dragon	0015	waca	mouse	np.h:s_ds_cv	np	h	s_ds_cv	313	
+sanzhi	dragon	0015	=ra	=and	=other	=other				
+sanzhi	dragon	0015	#	#	##ds	##ds				
+sanzhi	dragon	0015	ala	2SG.GEN	ln_pro.2:poss	ln_pro	2	poss	310	
+sanzhi	dragon	0015	rucːi	sister	np.h:s	np	h	s	302	
+sanzhi	dragon	0015	aždaha	monster	np.h:obl	np	h	obl		
+sanzhi	dragon	0015	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0015	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	dragon	0015	#	#	##ds	##ds				
+sanzhi	dragon	0015	0	0_sister	0.h:a	0	h	a	302	
+sanzhi	dragon	0015	libil	all<HPL>	ln	ln				
+sanzhi	dragon	0015	χalq'	people	np.h:p	np	h	p	307	
+sanzhi	dragon	0015	ašːa-la	2PL-GEN	rn_pro.2:poss	rn_pro	2	poss	310	
+sanzhi	dragon	0015	kulpat	family	rn_np.h	rn_np	h		301	
+sanzhi	dragon	0015	b-erkː-un	HPL-eat.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0015	#	#	##	##				
+sanzhi	dragon	0015	0	0_sister	0.h:a	0	h	a	302	
+sanzhi	dragon	0015	libil	all<HPL>	ln	ln				
+sanzhi	dragon	0015	šːan-te	fellow.villager-PL	np.h:p	np	h	p	307	
+sanzhi	dragon	0015	b-erkː-un	HPL-eat.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0015	#	#	#ds_pc	#ds_pc				
+sanzhi	dragon	0015	hana	now	other	other				
+sanzhi	dragon	0015	0	0_sister	0.h:a_pc	0	h	a_pc	302	
+sanzhi	dragon	0015	u	2SG	pro.2:p	pro	2	p	310	
+sanzhi	dragon	0015	=ra	=and	=other	=other				
+sanzhi	dragon	0015	ukː-an-de	eat.IPFV-PTCP-2SG	v:pred	v		pred		
+sanzhi	dragon	0016	#	#	##ds	##ds				
+sanzhi	dragon	0016	#	#	#ac_in	#ac_in				
+sanzhi	dragon	0016	0	0_sister	0.h:a_cpa_in	0	h	a_cpa_in	302	
+sanzhi	dragon	0016	heχ	DEM.down	ln_dem	ln_dem				
+sanzhi	dragon	0016	cin-na	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	302	
+sanzhi	dragon	0016	cul-be	tooth-PL	np:p	np		p	309	
+sanzhi	dragon	0016	d-umkːa	NPL-sharp	other:lvc	other		lvc		
+sanzhi	dragon	0016	d-arq'-ij	NPL-do.PFV-INF1	v:pred	v		pred		
+sanzhi	dragon	0016	%	%	%	%				
+sanzhi	dragon	0016	0	0_sister	0.h:s	0	h	s	302	
+sanzhi	dragon	0016	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0016	#	#	#cv	#cv				
+sanzhi	dragon	0016	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0016	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	dragon	0016	waca	mouse	np.d:s_ds_cv	np	d	s_ds_cv	313	
+sanzhi	dragon	0017	#	#	##	##				
+sanzhi	dragon	0017	#	#	#cv	#cv				
+sanzhi	dragon	0017	na	now	other	other				
+sanzhi	dragon	0017	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
+sanzhi	dragon	0017	il-i-j	that-OBL-DAT	dem_pro:obl	dem_pro		obl	315	bridging
+sanzhi	dragon	0017	w-iχči	M-believe	other:lvc	other		lvc		
+sanzhi	dragon	0017	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0017	%	%	%	%				
+sanzhi	dragon	0017	durħuˁ	boy	np.h:s	np	h	s	310	
+sanzhi	dragon	0017	sa-r-uq-un	hither-ABL-go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0017	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0018	#	#	#cv	#cv				
+sanzhi	dragon	0018	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
+sanzhi	dragon	0018	duc'	run	other:lvc	other		lvc		
+sanzhi	dragon	0018	ik'-ul	move.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0018	#	#	#cv	#cv				
+sanzhi	dragon	0018	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
+sanzhi	dragon	0018	duc'	run	other:lvc	other		lvc		
+sanzhi	dragon	0018	ik'-ul	move.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0018	#	#	#cv	#cv				
+sanzhi	dragon	0018	0	0_brother	0.h:a_cps_cv	0	h	a_cps_cv	310	
+sanzhi	dragon	0018	er	look	other:lvc	other		lvc		
+sanzhi	dragon	0018	=itːi	=after	=lv_adp	=lv_adp				
+sanzhi	dragon	0018	sark'-ul	inspect.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0018	#	#	##	##				
+sanzhi	dragon	0018	le-r	exist-F	other:predex	other		predex		
+sanzhi	dragon	0018	=el	=INDQ	=other	=other				
+sanzhi	dragon	0018	rucːi	sister	np.h:s	np	h	s	302	
+sanzhi	dragon	0018	#	#	##neg	##neg				
+sanzhi	dragon	0018	r-akːu	F-NEG	other:predex	other		predex		
+sanzhi	dragon	0018	=jal	=INDQ	=other	=other				
+sanzhi	dragon	0018	0	0_sister	0.h:s	0	h	s	302	
+sanzhi	dragon	0018	#	#	#cv	#cv				
+sanzhi	dragon	0018	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0018	hel	that	dem_pro.h:s_ds_cv	dem_pro	h	s_ds_cv		
+sanzhi	dragon	0019	#	#	##	##				
+sanzhi	dragon	0019	hek-le	close-ADVZ	other	other				
+sanzhi	dragon	0019	cara	other	ln_adj	ln_adj				
+sanzhi	dragon	0019	šːi	village	np:s	np		s	316	bridging
+sanzhi	dragon	0019	b-už-ib	N-stay-PRET	v:pred	v		pred		
+sanzhi	dragon	0019	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	dragon	0019	#	#	#cv	#cv				
+sanzhi	dragon	0019	heltːu	there	other:g	other		g	316	
+sanzhi	dragon	0019	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
+sanzhi	dragon	0019	duc'	run	other:lvc	other		lvc		
+sanzhi	dragon	0019	ik'-ul	move.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0019	už-ib	be-PRET	rv_aux	rv_aux				
+sanzhi	dragon	0019	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0020	#	#	#cv	#cv				
+sanzhi	dragon	0020	ca	one	ln_deti	ln_deti				
+sanzhi	dragon	0020	zamana	time	np:other	np		other		
+sanzhi	dragon	0020	0	0_brother	0.h:a_cps_cv	0	h	a_cps_cv	310	
+sanzhi	dragon	0020	er	look	other:lvc	other		lvc		
+sanzhi	dragon	0020	=itːi	=after	=lv_adp	=lv_adp				
+sanzhi	dragon	0020	sark'-ul	inspect.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0020	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0020	#	#	#cv	#cv				
+sanzhi	dragon	0020	0	0_sister	0.h:s_cps_cv	0	h	s_cps_cv	302	
+sanzhi	dragon	0020	duc'	run	other:lvc	other		lvc		
+sanzhi	dragon	0020	r-ik'-ul	F-move.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0020	#	#	#cv	#cv				
+sanzhi	dragon	0020	0	0_sister	0.h:s_cps_cv	0	h	s_cps_cv	302	
+sanzhi	dragon	0020	c'a-l	fire-ERG	np:obl	np		obl		
+sanzhi	dragon	0020	purχ	spit	other:lvc	other		lvc		
+sanzhi	dragon	0020	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0020	#	#	#cv	#cv				
+sanzhi	dragon	0020	hitːi-r-uq-un-ne	SPR-F-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0020	rucːi	sister	np.h:s_cv	np	h	s_cv	302	
+sanzhi	dragon	0020	#	#	#cv	#cv				
+sanzhi	dragon	0020	0	0_sister	0.h:s_cv	0	h	s_cv	302	
+sanzhi	dragon	0020	saˁ-q'-uˁn-ne	hither-go-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0021	#	#	#cv	#cv				
+sanzhi	dragon	0021	hati	more	other	other				
+sanzhi	dragon	0021	=ra	=and	other	other				
+sanzhi	dragon	0021	χʷal-le	big-ADVZ	other	other				
+sanzhi	dragon	0021	duc'	run	other:lvc	other		lvc		
+sanzhi	dragon	0021	ik'-ul	move.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0021	il	that	dem_pro.h:s	dem_pro	h	s	310	
+sanzhi	dragon	0021	#	#	##	##				
+sanzhi	dragon	0021	0	0_brother	0.h:ncs	0	h	ncs		
+sanzhi	dragon	0021	či-d-až-ib	SPR-NPL-see.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0021	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	dragon	0021	ʡaˁbal	three	ln_num	ln_num				
+sanzhi	dragon	0021	kːalkːi	tree	np:p	np		p	317	new
+sanzhi	dragon	0021	#	#	#cv	#cv				
+sanzhi	dragon	0021	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
+sanzhi	dragon	0021	hel-tː-a-šːu	that-PL-OBL-ALLAT	dem_pro:g	dem_pro		g	317	
+sanzhi	dragon	0021	duc'	run	other:lvc	other		lvc		
+sanzhi	dragon	0021	ik'-ul	move.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0022	#	#	##	##				
+sanzhi	dragon	0022	#	#	#ac_cv	#ac_cv				
+sanzhi	dragon	0022	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0022	hel	that	dem_pro.h:s_cv	dem_pro	h	s_cv	310	
+sanzhi	dragon	0022	bah	immediately.when	adp	adp				
+sanzhi	dragon	0022	#	#	#pc	#pc				
+sanzhi	dragon	0022	či-sa-r-iʁ-an	SPR-hither-F-come.IPFV-PTCP	v:pred	v		pred		
+sanzhi	dragon	0022	zamana	time	nc	nc				
+sanzhi	dragon	0022	rucːi	sister	np.h:s_pc	np	h	s_pc	302	
+sanzhi	dragon	0022	#	#	##	##				
+sanzhi	dragon	0022	0	0_brother	0.h:s	0	h	s	310	
+sanzhi	dragon	0022	či-ha-w-q-un	SPR-upwards-M-go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0022	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0022	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0022	kːalkːi-l-cːe	tree-OBL-IN	np:g	np		g	318	bridging
+sanzhi	dragon	0023	#	#	##	##				
+sanzhi	dragon	0023	#	#	#cv	#cv				
+sanzhi	dragon	0023	0	0_brother	0.h:s_cv	0	h	s_cv	310	
+sanzhi	dragon	0023	bah	most	other	other				
+sanzhi	dragon	0023	qari	up	other	other				
+sanzhi	dragon	0023	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0023	%	%	%	%				
+sanzhi	dragon	0023	0	0_brother	0.h:s	0	h	s	310	
+sanzhi	dragon	0023	kːalkːi-la	tree-GEN	np:l	np		l	318	
+sanzhi	dragon	0023	ka-jž-ib	down-remain.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0023	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0024	#	#	##	##				
+sanzhi	dragon	0024	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0024	rucːi-l	sister-ERG	np.h:a	np	h	a	302	
+sanzhi	dragon	0024	r-aʔ-r-išː-ib	F-begin-F-become.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0024	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	dragon	0024	#	#	#cc_cv:p	#cc_cv		p		
+sanzhi	dragon	0024	0	0_sister	0.h:a_cv	0	h	a_cv	302	
+sanzhi	dragon	0024	b-ukː-un-ne	N-eat.IPFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0024	kːalkːi	tree	np:p	np		p	318	
+sanzhi	dragon	0024	#	#	#ac_in	#ac_in				
+sanzhi	dragon	0024	0	0_tree	0:s_in	0		s_in	318	
+sanzhi	dragon	0024	ka-b-ik-ar-aj	down-N-occur.PFV-PTCP-INF2.3	v:pred	v		pred		
+sanzhi	dragon	0025	#	#	##	##				
+sanzhi	dragon	0025	durħuˁ	boy	np.h:s	np	h	s	310	
+sanzhi	dragon	0025	w-aʔ-ašː-ib	M-begin-begin.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0025	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0025	#	#	#cc_in:p	#cc_in		p		
+sanzhi	dragon	0025	#	#	#cv	#cv				
+sanzhi	dragon	0025	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
+sanzhi	dragon	0025	xʷit'	whistle	other:lvc	other		lvc		
+sanzhi	dragon	0025	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0025	%	%	%	%				
+sanzhi	dragon	0025	0	0_brother	f0.h:s_cps_in	f0	h	s_cps_in	310	
+sanzhi	dragon	0025	waˁw	cry	other:lvc	other		lvc		
+sanzhi	dragon	0025	ik'ʷ-ij	say.IPFV-INF1	v:pred	v		pred		
+sanzhi	dragon	0025	šːi-l-cːe-d	village-OBL-IN-NPL	ln_np	ln_np			300	
+sanzhi	dragon	0025	χu-d-a-j	dog-PL-OBL-DAT	np:g	np		g	319	bridging
+sanzhi	dragon	0026	#	#	##	##				
+sanzhi	dragon	0026	kːalkːi	tree	np:s	np		s	318	
+sanzhi	dragon	0026	ka-b-ič-aq-ib	down-N-occur.PFV-CAUS-PRET	v:pred	v		pred		
+sanzhi	dragon	0026	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	dragon	0026	#	#	#cv.neg	#cv.neg				
+sanzhi	dragon	0026	t'am	sound	other:lvc	other		lvc		
+sanzhi	dragon	0026	d-aq'-ib-le-kːu	NPL-hear.PFV-PRET-CVB-NEG	v:pred	v		pred		
+sanzhi	dragon	0026	χu-d-a-j	dog-PL-OBL-DAT	np:ncs_cpa_cv	np		ncs_cpa_cv	319	
+sanzhi	dragon	0026	il-i-la	that-OBL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	310	
+sanzhi	dragon	0026	xʷit'	whistle	np:p	np		p	320	bridging
+sanzhi	dragon	0026	=ra	=and	=rn_other	=rn_other				
+sanzhi	dragon	0027	#	#	##	##				
+sanzhi	dragon	0027	il	that	dem_pro.h:s_cps	dem_pro	h	s_cps	310	
+sanzhi	dragon	0027	duc'	run	other:lvc	other		lvc		
+sanzhi	dragon	0027	uq-un	go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0027	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0027	c'il	then	other	other				
+sanzhi	dragon	0027	cara	other	ln_adj	ln_adj				
+sanzhi	dragon	0027	kːalkːi-l-šːu	tree-OBL-ALLAT	np:g	np		g	321	bridging
+sanzhi	dragon	0027	#	#	#ac_in	#ac_in				
+sanzhi	dragon	0027	0	0_brother	0.h:s_in	0	h	s_in	310	
+sanzhi	dragon	0027	w-iteʁ-ar-aj	M-reach.PFV-PRS-INF2.3	v:pred	v		pred		
+sanzhi	dragon	0027	0	0_tree	0:g	0		g	321	
+sanzhi	dragon	0028	#	#	##	##				
+sanzhi	dragon	0028	0	0_brother	0.h:s	0	h	s	310	
+sanzhi	dragon	0028	či-ha-w-q-un	SPR-upwards-M-go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0028	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0028	il	that	ln_dem	ln_dem				
+sanzhi	dragon	0028	kːalkːi-j	tree-DAT	np:obl	np		obl	321	
+sanzhi	dragon	0028	#	#	#cv	#cv				
+sanzhi	dragon	0028	0	0_sister	0.h:s_cv	0	h	s_cv	302	
+sanzhi	dragon	0028	hitːi-r-uq-un-ne	SPR-F-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0029	#	#	##	##				
+sanzhi	dragon	0029	c'il	then	other	other				
+sanzhi	dragon	0029	#	#	#cc_cv:p	#cc_cv		p		
+sanzhi	dragon	0029	0	0_sister	0.h:a_cv	0	h	a_cv	302	
+sanzhi	dragon	0029	il	that	ln_dem	ln_dem				
+sanzhi	dragon	0029	kːalkːi	tree	np:p	np		p	321	
+sanzhi	dragon	0029	=ra	=and	=other	=other				
+sanzhi	dragon	0029	b-ukː-un-ne	N-eat.IPFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0029	%	%	%	%				
+sanzhi	dragon	0029	0	0_sister	0.h:a	0	h	a	302	
+sanzhi	dragon	0029	r-aʔ-ašː-ib	F-begin-begin.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0029	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	dragon	0029	#	#	#cv	#cv				
+sanzhi	dragon	0029	il	that	ln_dem	ln_dem				
+sanzhi	dragon	0029	durħuˁ	boy	np.h:s_cps	np	h	s_cps	310	
+sanzhi	dragon	0029	xʷit'	whistle	other:lvc	other		lvc		
+sanzhi	dragon	0029	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0029	#	#	#cv	#cv				
+sanzhi	dragon	0029	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
+sanzhi	dragon	0029	waˁw	cry	other:lvc	other		lvc		
+sanzhi	dragon	0029	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0029	χu-d-a-j	dog-PL-OBL-DAT	np:obl	np		obl	319	
+sanzhi	dragon	0030	#	#	##	##				
+sanzhi	dragon	0030	#	#	#cv.neg	#cv.neg				
+sanzhi	dragon	0030	c'il	then	other	other				
+sanzhi	dragon	0030	=ra	=and	=other	=other				
+sanzhi	dragon	0030	0	0_sound	0:p	0		p	328	bridging
+sanzhi	dragon	0030	t'am	sound	other:lvc	other		lvc		
+sanzhi	dragon	0030	b-aq'-ib-le-kːu	N-hear.PFV-PRET-CVB-NEG	v:pred	v		pred		
+sanzhi	dragon	0030	iltːi	3PL	ln_dem	ln_dem				
+sanzhi	dragon	0030	χu-d-a-j	dog-PL-OBL-DAT	np:ncs_cpa_pc	np		ncs_cpa_pc	319	
+sanzhi	dragon	0030	%	%	%	%				
+sanzhi	dragon	0030	il	that	ln_dem	ln_dem				
+sanzhi	dragon	0030	kːalkːi	tree	np:p	np		p	321	
+sanzhi	dragon	0030	=ra	=and	=other	=other				
+sanzhi	dragon	0030	ka-b-ič-aq-ib	down-N-occur.PFV-CAUS-PRET	v:pred	v		pred		
+sanzhi	dragon	0030	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	dragon	0030	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0030	aždaha-l	monster-ERG	np.h:a	np	h	a	302	
+sanzhi	dragon	0031	#	#	##	##				
+sanzhi	dragon	0031	0	0_brother	0.h:s	0	h	s	310	
+sanzhi	dragon	0031	cara	other	ln_adj	ln_adj				
+sanzhi	dragon	0031	kːalkːi-li-j	tree-OBL-DAT	np:g	np		g	322	bridging
+sanzhi	dragon	0031	či-ha-w-q-un	SPR-upwards-M-go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0031	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	dragon	0031	#	#	#cv	#cv				
+sanzhi	dragon	0031	il-i-l	that-OBL-ERG	ln_dem	ln_dem				
+sanzhi	dragon	0031	aždaha-l	monster-ERG	np.h:a_cv	np	h	a_cv	302	
+sanzhi	dragon	0031	il	that	ln_dem	ln_dem				
+sanzhi	dragon	0031	kːalkːi	tree	np:p	np		p	322	
+sanzhi	dragon	0031	=ra	=and	=other	=other				
+sanzhi	dragon	0031	b-ukː-un-ne	N-eat.IPFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0031	#	#	#ac_in	#ac_in				
+sanzhi	dragon	0031	0	0_sister	0.h:a_in	0	h	a_in		
+sanzhi	dragon	0031	0	0_tree	0:p	0		p	322	
+sanzhi	dragon	0031	ka-b-ič-aq-ar-aj	down-N-occur.PFV-CAUS-PRS-INF2.3	v:pred	v		pred		
+sanzhi	dragon	0032	#	#	##	##				
+sanzhi	dragon	0032	#	#	#ac.neg	#ac.neg				
+sanzhi	dragon	0032	c'il	then	other	other				
+sanzhi	dragon	0032	arin	too.much	other	other				
+sanzhi	dragon	0032	χʷal-le	big-ADVZ	other	other				
+sanzhi	dragon	0032	na	now	other	other				
+sanzhi	dragon	0032	cara	other	ln_adj	ln_adj				
+sanzhi	dragon	0032	kːalkːi	tree	np:s	np		s		
+sanzhi	dragon	0032	=ra	=and	=other	=other				
+sanzhi	dragon	0032	akːʷ-ar	NEG-PRS	other:predex	other		predex		
+sanzhi	dragon	0032	=qːel	=when	=adp	=adp				
+sanzhi	dragon	0032	#	#	#cv	#cv				
+sanzhi	dragon	0032	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
+sanzhi	dragon	0032	waˁw	cry	other:lvc	other		lvc		
+sanzhi	dragon	0032	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0032	#	#	#cv	#cv				
+sanzhi	dragon	0032	0	0_brother	0.h:s_cps_cv	0	h	s_cps_cv	310	
+sanzhi	dragon	0032	c'aq'-le	very-ADVZ	other	other				
+sanzhi	dragon	0032	waˁw	cry	other:lvc	other		lvc		
+sanzhi	dragon	0032	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0032	#	#	#cv	#cv				
+sanzhi	dragon	0032	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0032	durħuˁ	boy	np.h:s_cps_cv	np	h	s_cps_cv	310	
+sanzhi	dragon	0032	xʷit'	whistle	other:lvc	other		lvc		
+sanzhi	dragon	0032	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0032	#	#	##	##				
+sanzhi	dragon	0032	0	0_boy	0.h:p	0	h	p	310	
+sanzhi	dragon	0032	t'am	sound	other:lvc	other		lvc		
+sanzhi	dragon	0032	d-aq'-ib	NPL-hear.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0032	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	dragon	0032	hel-tːi	that-PL	ln_dem	ln_dem				
+sanzhi	dragon	0032	χu-d-a-j	dog-PL-OBL-DAT	np:ncs_cpa	np		ncs_cpa	319	
+sanzhi	dragon	0033	#	#	##	##				
+sanzhi	dragon	0033	#	#	#rc_pc	#rc_pc				
+sanzhi	dragon	0033	bah	immediately.when	adp	adp				
+sanzhi	dragon	0033	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0033	kːalkːi	tree	np:s_pc	np		s_pc	322	
+sanzhi	dragon	0033	ka-b-irk-an	down-N-occur.IPFV-PTCP	v:pred	v		pred		
+sanzhi	dragon	0033	%	%	%	%				
+sanzhi	dragon	0033	zamana	time	np:other	np		other		
+sanzhi	dragon	0033	či-sa-d-eʁ-ib	SPR-hither-NPL-go.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0033	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	dragon	0033	χu-de	dog-PL	np:s	np		s	319	
+sanzhi	dragon	0034	#	#	#cv	#cv				
+sanzhi	dragon	0034	0	0_dogs	0:s_cv	0		s_cv	319	
+sanzhi	dragon	0034	či-d-uq-un-ne	SPR-NPL-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0034	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0034	aždaha-j	monster-DAT	np.h:obl	np	h	obl	302	
+sanzhi	dragon	0034	#	#	##	##				
+sanzhi	dragon	0034	0	0_dogs	0:a	0		a	319	
+sanzhi	dragon	0034	b-ebč'-aq-ib	N-die.PFV-CAUS-PRET	v:pred	v		pred		
+sanzhi	dragon	0034	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	dragon	0034	aždaha	monster	np:p	np		p	302	
+sanzhi	dragon	0035	#	#	#cv	#cv				
+sanzhi	dragon	0035	razi	happy	other:pred	other		pred		
+sanzhi	dragon	0035	iχ-ub-le	be.PFV-PRET-CVB	cop	cop				
+sanzhi	dragon	0035	il	that	ln_dem	ln_dem				
+sanzhi	dragon	0035	durħuˁ	boy	np.h:s	np	h	s	310	
+sanzhi	dragon	0035	=ra	=and	=other	=other				
+sanzhi	dragon	0035	#	#	#cv	#cv				
+sanzhi	dragon	0035	0	0_brother	0.h:s_cv	0	h	s_cv	310	
+sanzhi	dragon	0035	či-r-ka-w-q-un-ne	SPR-ABL-down-M-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0035	#	#	##	##				
+sanzhi	dragon	0035	0	0_brother	0.h:a_cpa	0	h	a_cpa	310	
+sanzhi	dragon	0035	qaˁš	cut	other:lvc	other		lvc		
+sanzhi	dragon	0035	k-aʁ-ib	down-do.PFV-PRET	v:pred	v		pred		
+sanzhi	dragon	0035	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	dragon	0035	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0035	aždaha	monster	np:p	np		p	302	
+sanzhi	dragon	0036	#	#	##	##				
+sanzhi	dragon	0036	0	0_brother	0.h:a	0	h	a	310	
+sanzhi	dragon	0036	bah	most	ln	ln				
+sanzhi	dragon	0036	nik'a	small	ln_adj	ln_adj				
+sanzhi	dragon	0036	t'up-li-cːe-r	finger-OBL-IN-ABL	np:obl	np		obl	323	bridging
+sanzhi	dragon	0036	cin-na	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	310	
+sanzhi	dragon	0036	atːa	father	np.h:p	np	h	p	324	bridging
+sanzhi	dragon	0036	aba	mother	rn_np.h	rn_np	h		325	bridging
+sanzhi	dragon	0036	tːura-ha-qː-ib	outside-upwards-carry-PRET	v:pred	v		pred		
+sanzhi	dragon	0036	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	dragon	0036	#	#	#cv	#cv				
+sanzhi	dragon	0036	hel	that	other	other				
+sanzhi	dragon	0036	=sat	=as.much	=other	=other				
+sanzhi	dragon	0036	χːula	big	other	other				
+sanzhi	dragon	0036	r-eʁ-ib-le	F-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0036	r-už-ib-le	F-be-PRET-CVB	rv_aux	rv_aux				
+sanzhi	dragon	0036	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0036	rucːi	sister	np:s_cv	np		s_cv	302	
+sanzhi	dragon	0037	#	#	##	##				
+sanzhi	dragon	0037	#	#	#cv	#cv				
+sanzhi	dragon	0037	0	0_brother	0.h:a_cpa_cv	0	h	a_cpa_cv	310	
+sanzhi	dragon	0037	k'ult'a	tummy	np:p	np		p	326	bridging
+sanzhi	dragon	0037	qaˁš	cut	other:lvc	other		lvc		
+sanzhi	dragon	0037	k-aʁ-ib-le	down-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0037	%	%	%	%				
+sanzhi	dragon	0037	0	0_brother	0.h:a	0	h	a	310	
+sanzhi	dragon	0037	libil	all<HPL>	ln	ln				
+sanzhi	dragon	0037	šːan-te	fellow.villager-PL	np.h:p	np	h	p	307	
+sanzhi	dragon	0037	tːura-ha-qː-ib	outside-upwards-carry-PRET	v:pred	v		pred		
+sanzhi	dragon	0037	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	dragon	0038	#	#	##	##				
+sanzhi	dragon	0038	il-i-l	that-OBL-ERG	dem_pro.h:a	dem_pro	h	a	302	
+sanzhi	dragon	0038	#	#	#cv.neg	#cv.neg				
+sanzhi	dragon	0038	0	0_sister	0.h:a_cpa_cv	0	h	a_cpa_cv	302	
+sanzhi	dragon	0038	č'aˁm	chew	other:lvc	other		lvc		
+sanzhi	dragon	0038	b-irq'-ul	N-do.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0038	b-už-ib-le-kːu	N-be-PRET-CVB-NEG	rv_aux	rv_aux				
+sanzhi	dragon	0038	0	0_people	0:p	0		p	305	
+sanzhi	dragon	0038	%	%	%	%				
+sanzhi	dragon	0038	xurt'iʁ-ul	swallow.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0038	b-už-ib	N-stay-PRET	rv_aux	rv_aux				
+sanzhi	dragon	0038	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	dragon	0038	χalq'	people	np.h:p	np	h	p	305	
+sanzhi	dragon	0039	#	#	#cv	#cv				
+sanzhi	dragon	0039	0	0_brother	0.h:a_cv	0	h	a_cv	310	
+sanzhi	dragon	0039	tːura-ha-qː-ib-le	outside-upwards-carry-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0039	hel-tːi	that-PL	ln_dem	ln_dem				
+sanzhi	dragon	0039	šːan-te	fellow.villager-PL	np.h:p	np	h	p	307	
+sanzhi	dragon	0039	=ra	=and	=other	=other				
+sanzhi	dragon	0039	#	#	#ac	#ac				
+sanzhi	dragon	0039	libil	all<HPL>	np.h:s_cps_ds	np	h	s_cps_ds	307	
+sanzhi	dragon	0039	razi-l	happy-ADVZ	other	other				
+sanzhi	dragon	0039	barkalla	thanks	other:lvc	other		lvc		
+sanzhi	dragon	0039	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	dragon	0040	#	#	##	##				
+sanzhi	dragon	0040	#	#	#cv	#cv				
+sanzhi	dragon	0040	0	0_they	0.h:a_cpa_cv	0	h	a_cpa_cv	307	
+sanzhi	dragon	0040	hel	that	ln_dem	ln_dem				
+sanzhi	dragon	0040	durħuˁ-j	boy-DAT	np.h:obl	np	h	obl	310	
+sanzhi	dragon	0040	bah	most	ln	ln				
+sanzhi	dragon	0040	qːuʁa	beautiful	ln_adj	ln_adj				
+sanzhi	dragon	0040	rursːi	girl	np.h:p	np	h	p	327	new
+sanzhi	dragon	0040	=ra	=and	=other	=other				
+sanzhi	dragon	0040	dik'ar	different	other:lvc	other		lvc		
+sanzhi	dragon	0040	r-arq'-ib-le	F-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0040	#	#	##	##				
+sanzhi	dragon	0040	hel-i-j	that-OBL-DAT	dem_pro.h:obl	dem_pro	h	obl	310	
+sanzhi	dragon	0040	c'ikuri	bride	np.h:p	np	h	p		
+sanzhi	dragon	0040	0	0_villagers	0.h:a_cpa	0	h	a_cpa		
+sanzhi	dragon	0040	meq	wedding	other:lvc	other		lvc		
+sanzhi	dragon	0040	b-arq'-ib-le	N-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	dragon	0040	ka-b-iž-ib	down-N-be.PFV-PRET	rv_aux	rv_aux				
+sanzhi	dragon	0040	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	dragon	0041	#	#	#nc	#nc				
+sanzhi	dragon	0041	du	1SG	nc	nc				
+sanzhi	dragon	0041	=ra	=and	nc	nc				
+sanzhi	dragon	0041	het	that	nc	nc				
+sanzhi	dragon	0041	meq-le-w	wedding-SPR-M	nc	nc				
+sanzhi	dragon	0041	kelg-un-da	remain.PFV-PRET-1	nc	nc				
+sanzhi	dragon	0041	učː-ul	drink.IPFV-ICVB	nc	nc				
+sanzhi	dragon	0041	uk-un-ne	eat.IPFV-PRET-CVB	nc	nc				

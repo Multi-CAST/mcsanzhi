@@ -1,0 +1,532 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sanzhi	bazhuk	0001	#	#	#nc	#nc				
+sanzhi	bazhuk	0001	už-ib	be-PRET	nc	nc				
+sanzhi	bazhuk	0001	ca-w	be-M	nc	nc				
+sanzhi	bazhuk	0001	už-ib-le-kːu	be-PRET-CVB-NEG	nc	nc				
+sanzhi	bazhuk	0001	ca	one	nc	nc				
+sanzhi	bazhuk	0001	durħuˁ	boy	nc_np.h	nc_np	h		200	new
+sanzhi	bazhuk	0002	#	#	##	##				
+sanzhi	bazhuk	0002	il-i-la	that-OBL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	200	
+sanzhi	bazhuk	0002	atːa-la	father-GEN	np.h:obl	np	h	obl	201	bridging
+sanzhi	bazhuk	0002	d-už-ib	NPL-be-PRET	other:predex	other		predex		
+sanzhi	bazhuk	0002	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	bazhuk	0002	macːa-la	sheep-GEN	ln_np	ln_np				
+sanzhi	bazhuk	0002	aq'	flock	np:s	np		s	202	new
+sanzhi	bazhuk	0003	#	#	#cv	#cv				
+sanzhi	bazhuk	0003	atːa	father	np.h:s_ds_cv	np	h	s_ds_cv	201	
+sanzhi	bazhuk	0003	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0003	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0003	durħuˁ-cːe	boy-IN	np.h:g	np	h	g	200	
+sanzhi	bazhuk	0003	#	#	##ds	##ds				
+sanzhi	bazhuk	0003	di-la	1SG-GEN	pro.1:obl	pro	1	obl	201	
+sanzhi	bazhuk	0003	ʡaˁč-urbe	work-PL	np:s	np		s		
+sanzhi	bazhuk	0003	le-d	exist-NPL	other:predex	other		predex		
+sanzhi	bazhuk	0003	=nu	=but	=other	=other				
+sanzhi	bazhuk	0003	#	#	##ds	##ds				
+sanzhi	bazhuk	0003	u	2SG	pro.2:s	pro	2	s	200	
+sanzhi	bazhuk	0003	ʡaˁbal	three	ln_num	ln_num				
+sanzhi	bazhuk	0003	bar	day	np:other	np		other		
+sanzhi	bazhuk	0003	uq'-aˁn	go-IMP	v:pred	v		pred		
+sanzhi	bazhuk	0003	macːa-la	sheep-GEN	ln_np:poss	ln_np		poss		
+sanzhi	bazhuk	0003	q'ari	pastures	np:g	np		g		
+sanzhi	bazhuk	0004	#	#	##ds	##ds				
+sanzhi	bazhuk	0004	ca	one	ln_deti	ln_deti				
+sanzhi	bazhuk	0004	musːa-d	place-NPL	np:l	np		l	203	new
+sanzhi	bazhuk	0004	k'e-d	exist.up-NPL	other:predex	other		predex		
+sanzhi	bazhuk	0004	#	#	#cv	#cv				
+sanzhi	bazhuk	0004	0	0_father	0.h:s_ds_cv	0	h	s_ds_cv	201	
+sanzhi	bazhuk	0004	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0004	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0004	%	%	%	%				
+sanzhi	bazhuk	0004	kːalk-me	tree-PL	np:s	np		s	204	new
+sanzhi	bazhuk	0004	#	#	##ds.neg	##ds.neg				
+sanzhi	bazhuk	0004	warilla	no	other	other				
+sanzhi	bazhuk	0004	wari	way	other	other				
+sanzhi	bazhuk	0004	u	2SG	pro.2:s_cps	pro	2	s_cps	200	
+sanzhi	bazhuk	0004	iχ-tː-a-j	DEM.down-PL-OBL-DAT	dem_pro:obl	dem_pro		obl	204	
+sanzhi	bazhuk	0004	er	look	other:lvc	other		lvc		
+sanzhi	bazhuk	0004	či-ma-hark'-utːa	SPR-PROH-look.IPFV-PROH.SG	v:pred	v		pred		
+sanzhi	bazhuk	0005	#	#	#cv	#cv				
+sanzhi	bazhuk	0005	ʡaˁħ-le	good-ADVZ	other	other				
+sanzhi	bazhuk	0005	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0005	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0005	durħuˁ	boy	np.h:s_ds_cv	np	h	s_ds_cv	200	
+sanzhi	bazhuk	0005	#	#	##	##				
+sanzhi	bazhuk	0005	0	0_boy	0.h:s	0	h	s	200	
+sanzhi	bazhuk	0005	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0005	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0005	ca-ibil	one-ORD	ln_adj	ln_adj				
+sanzhi	bazhuk	0005	bar	day	np:other	np		other		
+sanzhi	bazhuk	0005	#	#	##	##				
+sanzhi	bazhuk	0005	#	#	#cv.neg	#cv.neg				
+sanzhi	bazhuk	0005	0	0_boy	0.h:s_cps_cv	0	h	s_cps_cv	200	
+sanzhi	bazhuk	0005	er	look	other:lvc	other		lvc		
+sanzhi	bazhuk	0005	=či	=on	=lv_adp	=lv_adp				
+sanzhi	bazhuk	0005	=ra	=and	=other	=other				
+sanzhi	bazhuk	0005	w-erč'-ib-le-kːu	M-look.PFV-PRET-CVB-NEG	v:pred	v		pred		
+sanzhi	bazhuk	0005	kːalk-m-a-j	tree-PL-OBL-DAT	np:obl	np		obl	204	
+sanzhi	bazhuk	0005	%	%	%	%				
+sanzhi	bazhuk	0005	0	0_boy	0.h:s	0	h	s	200	
+sanzhi	bazhuk	0005	ka-jʁ-ib	down-come.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0005	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0005	qili	home	np:g	np		g	205	bridging
+sanzhi	bazhuk	0006	#	#	##	##				
+sanzhi	bazhuk	0006	k'ʷi-ibil	two-ORD	ln_adj	ln_adj				
+sanzhi	bazhuk	0006	bar	day	np:other	np		other		
+sanzhi	bazhuk	0006	0	0_boy	0.h:s	0	h	s	200	
+sanzhi	bazhuk	0006	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0006	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0006	#	#	##ds	##ds				
+sanzhi	bazhuk	0006	cel	why	other	other				
+sanzhi	bazhuk	0006	atːa-l	father-ERG	np.h:a_ds	np	h	a_ds	201	
+sanzhi	bazhuk	0006	il	that	dem_pro:p	dem_pro		p	206	bridging
+sanzhi	bazhuk	0006	ha-ʔ-ib	upwards-say.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0006	=el	=INDQ	=other	=other				
+sanzhi	bazhuk	0006	#	#	##	##				
+sanzhi	bazhuk	0006	0	0_boy	0.h:s_cps_ds	0	h	s_cps_ds	200	
+sanzhi	bazhuk	0006	ik'-ul	say.IPFV-ICVB	nc	nc				
+sanzhi	bazhuk	0006	pikri	thought	other:lvc	other		lvc		
+sanzhi	bazhuk	0006	ik'-ul	say.IPFV-ICVB	other:pred	other		pred		
+sanzhi	bazhuk	0006	už-ib	be-PRET	rv_aux	rv_aux				
+sanzhi	bazhuk	0006	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0007	#	#	##ds.neg	##ds.neg				
+sanzhi	bazhuk	0007	0	0_boy	0.2:s_cps	0	2	s_cps	200	
+sanzhi	bazhuk	0007	kːalk-m-a-j	tree-PL-OBL-DAT	np:obl	np		obl	204	
+sanzhi	bazhuk	0007	er	look	other:lvc	other		lvc		
+sanzhi	bazhuk	0007	či-ma-urk'-utːa	SPR-PROH-look.IPFV-PROH.SG	v:pred	v		pred		
+sanzhi	bazhuk	0007	#	#	#cv	#cv				
+sanzhi	bazhuk	0007	0	0_boy	0.h:s_ds_cv	0	h	s_ds_cv	200	
+sanzhi	bazhuk	0007	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0007	#	#	#cv.neg	#cv.neg				
+sanzhi	bazhuk	0007	0	0_boy	0.h:s_cps_cv	0	h	s_cps_cv	200	
+sanzhi	bazhuk	0007	er	look	other:lvc	other		lvc		
+sanzhi	bazhuk	0007	či-w-erč'-ib-le-kːu	SPR-M-look.PFV-PRET-CVB-NEG	v:pred	v		pred		
+sanzhi	bazhuk	0007	#	#	#cv	#cv				
+sanzhi	bazhuk	0007	0	0_boy	0.h:a_cps_cv	0	h	a_cps_cv	200	
+sanzhi	bazhuk	0007	jaˁħ	patience	other:lvc	other		lvc		
+sanzhi	bazhuk	0007	b-arq'-ib-le	N-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	bazhuk	0008	#	#	##	##				
+sanzhi	bazhuk	0008	ʡaˁb-il	three-PTCP	ln_adj	ln_adj				
+sanzhi	bazhuk	0008	bar	day	np:other	np		other		
+sanzhi	bazhuk	0008	0	0_boy	0.h:s	0	h	s	200	
+sanzhi	bazhuk	0008	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0008	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0008	#	#	#cv	#cv				
+sanzhi	bazhuk	0008	c'il	then	other	other				
+sanzhi	bazhuk	0008	=ra	=and	=other	=other				
+sanzhi	bazhuk	0008	0	0_boy	0.h:s_cps_cv	0	h	s_cps_cv	200	
+sanzhi	bazhuk	0008	hati	more	other	other				
+sanzhi	bazhuk	0008	=ra	=and	=other	=other				
+sanzhi	bazhuk	0008	χʷal-le	big-ADVZ	other	other				
+sanzhi	bazhuk	0008	pikri	thought	other:lvc	other		lvc		
+sanzhi	bazhuk	0008	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0008	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0009	#	#	#cv	#cv				
+sanzhi	bazhuk	0009	cellij	why	other	other				
+sanzhi	bazhuk	0009	atːa-l	father-ERG	np.h:a_ds_cv	np	h	a_ds_cv	201	
+sanzhi	bazhuk	0009	il	that	dem_pro:p	dem_pro		p	206	
+sanzhi	bazhuk	0009	ha-ʔ-ib-le	upwards-say.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	bazhuk	0009	=l	=PRT	=rv	=rv				
+sanzhi	bazhuk	0009	#	#	#nc	#nc				
+sanzhi	bazhuk	0009	ce	what	nc	nc				
+sanzhi	bazhuk	0009	kːalk-me	tree-PL	nc	nc			204	
+sanzhi	bazhuk	0009	=jal	=INDQ	nc	nc				
+sanzhi	bazhuk	0009	#	#	#cv	#cv				
+sanzhi	bazhuk	0009	0	0_boy	0.h:s_ds_cv	0	h	s_ds_cv	200	
+sanzhi	bazhuk	0009	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0010	#	#	##	##				
+sanzhi	bazhuk	0010	#	#	#cv.neg	#cv.neg				
+sanzhi	bazhuk	0010	0	0_boy	0.h:s_cv	0	h	s_cv	200	
+sanzhi	bazhuk	0010	už-ij	be-INF1	v:pred	v		pred		
+sanzhi	bazhuk	0010	a-jχ-ub-le	NEG-be.able.PFV-PRET-CVB	rv_aux	rv_aux				
+sanzhi	bazhuk	0010	%	%	%	%				
+sanzhi	bazhuk	0010	0	0_boy	0.h:s_cps	0	h	s_cps	200	
+sanzhi	bazhuk	0010	er	look	other:lvc	other		lvc		
+sanzhi	bazhuk	0010	či-w-erč'-ib	SPR-M-look.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0010	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0011	#	#	##	##				
+sanzhi	bazhuk	0011	0	0_boy	0.h:ncs	0	h	ncs	200	
+sanzhi	bazhuk	0011	či-d-až-ib	SPR-NPL-see.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0011	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	bazhuk	0011	#	#	#cc:p	#cc		p		
+sanzhi	bazhuk	0011	χːula	big	ln_adj	ln_adj				
+sanzhi	bazhuk	0011	qːuʁa	beautiful	ln_adj	ln_adj				
+sanzhi	bazhuk	0011	hinc-b-a-lla	apple-PL-OBL-GEN	ln_np	ln_np				
+sanzhi	bazhuk	0011	kːalkːi	tree	np:s	np		s	207	bridging
+sanzhi	bazhuk	0011	b-už-ib	N-stay-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0011	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	bazhuk	0011	#	#	##	##				
+sanzhi	bazhuk	0011	hel	that	dem_pro.h:s	dem_pro	h	s	200	
+sanzhi	bazhuk	0011	či-ha-w-q-un	SPR-upwards-M-go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0011	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0012	#	#	##	##				
+sanzhi	bazhuk	0012	#	#	#ac_in	#ac_in				
+sanzhi	bazhuk	0012	0	0_boy	0.h:s_in	0	h	s_in	200	
+sanzhi	bazhuk	0012	w-elqː-ij	M-sate.PFV-INF1	v:pred	v		pred		
+sanzhi	bazhuk	0012	=sat	=until	=adp	=adp				
+sanzhi	bazhuk	0012	%	%	%	%				
+sanzhi	bazhuk	0012	0	0_boy	0.h:a	0	h	a	200	
+sanzhi	bazhuk	0012	uk-un	eat.IPFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0012	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0012	#	#	#cv	#cv				
+sanzhi	bazhuk	0012	#	#	#cc	#cc				
+sanzhi	bazhuk	0012	c'il	then	other	other				
+sanzhi	bazhuk	0012	0	0_boy	0.h:a_pc	0	h	a_pc	200	
+sanzhi	bazhuk	0012	d-alli	NPL-together	lv	lv				
+sanzhi	bazhuk	0012	d-iqː-an-da	NPL-carry.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	bazhuk	0012	0	0_apples	0:p	0		p	208	bridging
+sanzhi	bazhuk	0012	%	%	%	%				
+sanzhi	bazhuk	0012	0	0_boy	0.h:s_ds_cv	0	h	s_ds_cv		
+sanzhi	bazhuk	0012	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0012	#	#	##	##				
+sanzhi	bazhuk	0012	#	#	#rc_pc	#rc_pc				
+sanzhi	bazhuk	0012	0	0_boy	0.h:a_pc	0	h	a_pc	200	
+sanzhi	bazhuk	0012	dukla	into.apron	np:g	np		g		
+sanzhi	bazhuk	0012	=ra	=and	=other	=other				
+sanzhi	bazhuk	0012	d-irc'-an	NPL-fill.IPFV-PTCP	v:pred	v		pred		
+sanzhi	bazhuk	0012	0	0_apples	0.h:p	0	h	p	208	
+sanzhi	bazhuk	0012	%	%	%	%				
+sanzhi	bazhuk	0012	zamana	time	np:other	np		other		
+sanzhi	bazhuk	0012	sa-r-eʁ-ib	hither-F-go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0012	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0012	baˁžuk	bazhuk	np.h:s	np	h	s	209	new
+sanzhi	bazhuk	0013	#	#	#cv	#cv				
+sanzhi	bazhuk	0013	na	now	other	other				
+sanzhi	bazhuk	0013	0	0_bazhuk	0.h:s_ds_cv	0	h	s_ds_cv	209	
+sanzhi	bazhuk	0013	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0013	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0013	#	#	#ds_pc	#ds_pc				
+sanzhi	bazhuk	0013	hež	this	dem_pro.h:other	dem_pro	h	other	200	
+sanzhi	bazhuk	0013	=uw	=Q	=rn	=rn				
+sanzhi	bazhuk	0013	ij	this	dem_pro.h:a_pc	dem_pro	h	a_pc	200	
+sanzhi	bazhuk	0013	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	209	
+sanzhi	bazhuk	0013	kːalk-me	tree-PL	np:other	np		other	204	
+sanzhi	bazhuk	0013	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	209	
+sanzhi	bazhuk	0013	hinc-be	apple-PL	np:p	np		p	210	bridging
+sanzhi	bazhuk	0013	d-ukː-an	NPL-eat.IPFV-PTCP	v:pred	v		pred		
+sanzhi	bazhuk	0014	#	#	#cv	#cv				
+sanzhi	bazhuk	0014	0	0_bazhuk	0.h:a_cv	0	h	a_cv	209	
+sanzhi	bazhuk	0014	uc-ib-le	catch.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	bazhuk	0014	0	0_boy	0.h:p	0	h	p	200	
+sanzhi	bazhuk	0014	#	#	#cv	#cv				
+sanzhi	bazhuk	0014	0	0_bazhuk	0.h:a	0	h	a	209	
+sanzhi	bazhuk	0014	0	0_boy	0.h:p	0	h	p	200	
+sanzhi	bazhuk	0014	qːap-le	sack-SPR	np:g	np		g	211	new
+sanzhi	bazhuk	0014	wi-ka-jšː-ib	in(side)-down-put.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0014	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	bazhuk	0015	#	#	#cv	#cv				
+sanzhi	bazhuk	0015	c'il	then	other	other				
+sanzhi	bazhuk	0015	0	0_bazhuk	0.h:s_ds_cv	0	h	s_ds_cv	209	
+sanzhi	bazhuk	0015	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0015	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0015	#	#	#ds_pc	#ds_pc				
+sanzhi	bazhuk	0015	0	0_bazhuk	0.1:a_pc	0	1	a_pc	209	
+sanzhi	bazhuk	0015	0	0_boy	0.h:p	0	h	p	200	
+sanzhi	bazhuk	0015	dam	1SG.DAT	pro.1:obl	pro	1	obl	200	
+sanzhi	bazhuk	0015	arilla-li-j	during.day-OBL-DAT	np:other	np		other		
+sanzhi	bazhuk	0015	χurejg-li-j	food-OBL-DAT	np:other	np		other		
+sanzhi	bazhuk	0015	w-iqː-an-da	M-carry.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	bazhuk	0016	#	#	#cv	#cv				
+sanzhi	bazhuk	0016	ca	one	ln_deti	ln_deti				
+sanzhi	bazhuk	0016	musːa	place	np:l	np		l	212	new
+sanzhi	bazhuk	0016	0	0_bazhuk	0.h:s_cps_cv	0	h	s_cps_cv	209	
+sanzhi	bazhuk	0016	hel-i-la	that-OBL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	209	
+sanzhi	bazhuk	0016	dacːi	urine	other:lvc	other		lvc		
+sanzhi	bazhuk	0016	d-ik'ʷ-ij	NPL-move.IPFV-INF1	v:pred	v		pred		
+sanzhi	bazhuk	0016	d-iž-ib-le	NPL-be.PFV-PRET-CVB	rv_aux	rv_aux				
+sanzhi	bazhuk	0016	#	#	#cv	#cv				
+sanzhi	bazhuk	0016	0	0_bazhuk	0.h:a_cv	0	h	a_cv	209	
+sanzhi	bazhuk	0016	či-r-k-asː-ib-le	SPR-ABL-down-take.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	bazhuk	0016	qːap	sack	np:p	np		p	211	
+sanzhi	bazhuk	0016	#	#	##	##				
+sanzhi	bazhuk	0016	0	0_bazhuk	0.h:s	0	h	s	209	
+sanzhi	bazhuk	0016	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0016	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0016	qːʷat'a-gu	bush-SUB	np:g	np		g	213	new
+sanzhi	bazhuk	0016	#	#	#ac_in	#ac_in				
+sanzhi	bazhuk	0016	0	0_bazhuk	0.h:a_cps_in	0	h	a_cps_in	209	
+sanzhi	bazhuk	0016	dacːi	urine	other:lvc	other		lvc		
+sanzhi	bazhuk	0016	d-arq'-ar-aj	NPL-do.PFV-PRS-INF2.3	v:pred	v		pred		
+sanzhi	bazhuk	0017	#	#	##	##				
+sanzhi	bazhuk	0017	il	that	ln_dem	ln_dem				
+sanzhi	bazhuk	0017	durħuˁ	boy	np:s	np		s	200	
+sanzhi	bazhuk	0017	tːura-ha-w-q-un	outside-upwards-M-go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0017	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0017	hel	that	ln_dem	ln_dem				
+sanzhi	bazhuk	0017	zamana	time	np:other	np		other		
+sanzhi	bazhuk	0017	qːap-li-cːe-r	sack-OBL-IN-ABL	np:obl	np		obl	211	
+sanzhi	bazhuk	0017	#	#	##	##				
+sanzhi	bazhuk	0017	0	0_boy	0.h:s_cps	0	h	s_cps	200	
+sanzhi	bazhuk	0017	daˁʡaˁna	secret	other:lvc	other		lvc		
+sanzhi	bazhuk	0017	išː-ib	become.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0017	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0018	#	#	##	##				
+sanzhi	bazhuk	0018	0	0_bazhuk	0.h:s	0	h	s	209	
+sanzhi	bazhuk	0018	ka-r-eʁ-ib	down-F-go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0018	cari	be.F	rv_aux	rv_aux				
+sanzhi	bazhuk	0018	#	#	#cv	#cv				
+sanzhi	bazhuk	0018	ik'	DEM.up	ln_dem	ln_dem				
+sanzhi	bazhuk	0018	0	0_bazhuk	0.h:a_cps_cv	0	h	a_cps_cv	209	
+sanzhi	bazhuk	0018	dacːi	urine	other:lvc	other		lvc		
+sanzhi	bazhuk	0018	či-r-d-arq'-ib-le	SPR-ABL-NPL-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	bazhuk	0018	#	#	##	##				
+sanzhi	bazhuk	0018	0	0_bazhuk	0.h:a	0	h	a	209	
+sanzhi	bazhuk	0018	či-h-asː-ib	SPR-upwards-take.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0018	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	bazhuk	0018	qːap	sack	np:p	np		p	211	
+sanzhi	bazhuk	0018	#	#	#cv	#cv				
+sanzhi	bazhuk	0018	ax	oh	other	other				
+sanzhi	bazhuk	0018	0	0_bazhuk	0.h:s_ds_cv	0	h	s_ds_cv	209	
+sanzhi	bazhuk	0018	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0018	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0018	#	#	#ds_cv	#ds_cv				
+sanzhi	bazhuk	0018	il	that	dem_pro:s	dem_pro		s	200	
+sanzhi	bazhuk	0018	dek'ʷ	heavy	other:pred	other		pred		
+sanzhi	bazhuk	0018	b-iχ-ub-le	N-be.PFV-PRET-CVB	cop	cop				
+sanzhi	bazhuk	0018	le-b	exist-N	rv_aux	rv_aux				
+sanzhi	bazhuk	0018	=q'al	=MOD	=rv	=rv				
+sanzhi	bazhuk	0018	iž	this	nc	nc				
+sanzhi	bazhuk	0019	#	#	##ds	##ds				
+sanzhi	bazhuk	0019	#	#	#cc:p	#cc		p		
+sanzhi	bazhuk	0019	0	0_boy	0.h:s	0	h	s	200	
+sanzhi	bazhuk	0019	cin-na	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	200	
+sanzhi	bazhuk	0019	uruχ-dex-li-j	fear-NMLZ-OBL-DAT	np:obl	np		obl		
+sanzhi	bazhuk	0019	dek'ʷ	heavy	other	other				
+sanzhi	bazhuk	0019	iχ-ub	become.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0019	%	%	%	%				
+sanzhi	bazhuk	0019	0	0_bazhuk	0.h:ncs	0	h	ncs		
+sanzhi	bazhuk	0019	urkː-ar	find.IPFV-PRS	rv_aux	rv_aux				
+sanzhi	bazhuk	0019	#	#	#cv	#cv				
+sanzhi	bazhuk	0019	0	0_bazhuk	0.h:s_ds_cv	0	h	s_ds_cv	209	
+sanzhi	bazhuk	0019	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0019	#	#	##	##				
+sanzhi	bazhuk	0019	0	0_bazhuk	0.h:a	0	h	a	209	
+sanzhi	bazhuk	0019	b-erqː-ib	N-carry.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0019	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	bazhuk	0019	il	that	dem_pro:p	dem_pro		p	211	
+sanzhi	bazhuk	0019	#	#	##	##				
+sanzhi	bazhuk	0019	0	0_bazhuk	0.h:s	0	h	s	209	
+sanzhi	bazhuk	0019	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0019	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0020	#	#	##	##				
+sanzhi	bazhuk	0020	#	#	#cv	#cv				
+sanzhi	bazhuk	0020	0	0_bazhuk	0.h:s_cv	0	h	s_cv	209	
+sanzhi	bazhuk	0020	r-iteʁ-ib-le	F-reach.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	bazhuk	0020	qili	home	np:g	np		g	214	bridging
+sanzhi	bazhuk	0020	%	%	%	%				
+sanzhi	bazhuk	0020	0	0_bazhuk	0.h:a	0	h	a	209	
+sanzhi	bazhuk	0020	či-r-k-asː-ib	SPR-ABL-down-take.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0020	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	bazhuk	0020	qːap	sack	np:p	np		p	211	
+sanzhi	bazhuk	0021	#	#	##	##				
+sanzhi	bazhuk	0021	0	0_bazhuk	0.h:a	0	h	a	209	
+sanzhi	bazhuk	0021	c'a	fire	np:p	np		p		
+sanzhi	bazhuk	0021	gʷa-b-iq'-un	from.down.up-N-raise.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0021	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	bazhuk	0021	#	#	#cv	#cv				
+sanzhi	bazhuk	0021	0	0_bazhuk	0.h:a_cv	0	h	a_cv	209	
+sanzhi	bazhuk	0021	ħaˁšak	pot	np:p	np		p	215	bridging
+sanzhi	bazhuk	0021	če-b-išː-ib-le	SPR-N-put.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	bazhuk	0021	#	#	##	##				
+sanzhi	bazhuk	0021	#	#	#ac_in	#ac_in				
+sanzhi	bazhuk	0021	0	0_pot	0:s_in	0		s_in	215	
+sanzhi	bazhuk	0021	rurčː-ur	boil-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0021	ha-d-ig-ar-aj	upwards-NPL-remain.PFV-PRS-INF2.3	rv_aux	rv_aux				
+sanzhi	bazhuk	0021	=sat	=until	=adp	=adp				
+sanzhi	bazhuk	0021	%	%	%	%				
+sanzhi	bazhuk	0021	0	0_bazhuk	0.h:s	0	h	s	209	
+sanzhi	bazhuk	0021	ka-r-iž-ib	down-F-sit.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0021	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0022	#	#	##	##				
+sanzhi	bazhuk	0022	#	#	#ac	#ac				
+sanzhi	bazhuk	0022	0	0_pot	0:s	0		s	215	
+sanzhi	bazhuk	0022	rurčː-ur	boil-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0022	ha-d-iž-ib	upwards-NPL-sit.PFV-PRET	rv_aux	rv_aux				
+sanzhi	bazhuk	0022	=qːel	=when	=adp	=adp				
+sanzhi	bazhuk	0022	%	%	%	%				
+sanzhi	bazhuk	0022	0	0_bazhuk	0.h:a	0	h	a	209	
+sanzhi	bazhuk	0022	qːap	sack	np:p	np		p	211	
+sanzhi	bazhuk	0022	čar-bi-ka-b-arq'-ib	back-in(side)-down-N-do.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0022	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	bazhuk	0022	ħaˁšukː-a	pot-SPR	np:g	np		g	215	
+sanzhi	bazhuk	0023	#	#	##	##				
+sanzhi	bazhuk	0023	qːap-li-cːe-r	sack-OBL-IN-ABL	np:obl	np		obl	211	
+sanzhi	bazhuk	0023	qːarq-ne	stone-PL	np:s	np		s	216	new
+sanzhi	bazhuk	0023	tːura-ka-d-eʁ-ib	outside-down-NPL-go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0023	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	bazhuk	0024	#	#	#cv	#cv				
+sanzhi	bazhuk	0024	0	0_bazhuk	0.h:s_cv	0	h	s_cv	209	
+sanzhi	bazhuk	0024	ʡaˁsi	angry	other:pred	other		pred		
+sanzhi	bazhuk	0024	r-iχ-ub-le	F-be.PFV-PRET-CVB	cop	cop				
+sanzhi	bazhuk	0024	#	#	#cv	#cv				
+sanzhi	bazhuk	0024	il	that	dem_pro.h:s_cps_ds_cv	dem_pro	h	s_cps_ds_cv	209	
+sanzhi	bazhuk	0024	waˁw	cry	other:lvc	other		lvc		
+sanzhi	bazhuk	0024	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0025	#	#	##ds	##ds				
+sanzhi	bazhuk	0025	čina-w-de	where-M-2SG	intrg_other:pred_l	intrg_other		pred_l		
+sanzhi	bazhuk	0025	u	2SG	pro.2:s	pro	2	s	200	
+sanzhi	bazhuk	0025	#	#	#cv	#cv				
+sanzhi	bazhuk	0025	0	0_bazhuk	0.h:s_ds_cv	0	h	s_ds_cv	209	
+sanzhi	bazhuk	0025	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0025	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0025	#	#	#ds_pc	#ds_pc				
+sanzhi	bazhuk	0025	at	2SG.DAT	pro.2:obl	pro	2	obl	200	
+sanzhi	bazhuk	0025	du-l	1SG-ERG	pro.1:a_pc	pro	1	a_pc	209	
+sanzhi	bazhuk	0025	cik'al	something	indef_other:p	indef_other		p		
+sanzhi	bazhuk	0025	a-b-irq'-an-da	NEG-N-do.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	bazhuk	0025	=n	=but	=other	=other				
+sanzhi	bazhuk	0025	#	#	##ds	##ds				
+sanzhi	bazhuk	0025	durħuˁ-cːe	boy-IN	np.h:s	np	h	s	200	
+sanzhi	bazhuk	0025	w-aš-e	M-go-IMP	v:pred	v		pred		
+sanzhi	bazhuk	0026	#	#	#cv	#cv				
+sanzhi	bazhuk	0026	durħuˁ	boy	np.h:s_ds_cv	np	h	s_ds_cv	200	
+sanzhi	bazhuk	0026	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0026	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0026	#	#	##ds	##ds				
+sanzhi	bazhuk	0026	du	1SG	pro.1:s	pro	1	s	200	
+sanzhi	bazhuk	0026	ala	2SG.GEN	ln_pro.2:poss	ln_pro	2	poss	209	
+sanzhi	bazhuk	0026	sunduq'-le-w	box-SPR-M	np:l	np		l	217	new
+sanzhi	bazhuk	0026	wi-w	in(side)-M	adp	adp				
+sanzhi	bazhuk	0026	le-w-da	exist-M-1	v:pred	v		pred		
+sanzhi	bazhuk	0027	#	#	##	##				
+sanzhi	bazhuk	0027	0	0_bazhuk	0.h:a_cpa	0	h	a_cpa	209	
+sanzhi	bazhuk	0027	ač	open	other:lvc	other		lvc		
+sanzhi	bazhuk	0027	b-arq'-ib	N-do.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0027	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	bazhuk	0027	sunduq'	box	np:p	np		p	217	
+sanzhi	bazhuk	0027	#	#	##neg	##neg				
+sanzhi	bazhuk	0027	#	#	#cv	#cv				
+sanzhi	bazhuk	0027	0	0_bazhuk	0.h:s_cps_cv	0	h	s_cps_cv	209	
+sanzhi	bazhuk	0027	er	look	other:lvc	other		lvc		
+sanzhi	bazhuk	0027	r-ik'-ul	F-look.at.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0027	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0027	%	%	%	%				
+sanzhi	bazhuk	0027	0	0_boy	0.h:s	0	h	s	200	
+sanzhi	bazhuk	0027	w-akːu	M-NEG	other:predex	other		predex		
+sanzhi	bazhuk	0028	#	#	#cv	#cv				
+sanzhi	bazhuk	0028	c'il	then	other	other				
+sanzhi	bazhuk	0028	=ra	=and	other	other				
+sanzhi	bazhuk	0028	0	0_bazhuk	0.h:s_ds_cv	0	h	s_ds_cv	209	
+sanzhi	bazhuk	0028	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0028	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0028	#	#	#ds_pc	#ds_pc				
+sanzhi	bazhuk	0028	wa	hey	other	other				
+sanzhi	bazhuk	0028	durħuˁ	boy	np.h:voc	np	h	voc	200	
+sanzhi	bazhuk	0028	at	2SG.DAT	pro.2:obl	pro	2	obl	200	
+sanzhi	bazhuk	0028	du-l	1SG-ERG	pro.1:a_pc	pro	1	a_pc	209	
+sanzhi	bazhuk	0028	cik'al	something	indef_other:p	indef_other		p		
+sanzhi	bazhuk	0028	a-b-irq'-an-da	NEG-N-do.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	bazhuk	0029	#	#	##ds	##ds				
+sanzhi	bazhuk	0029	0	0_boy	0.2:s	0	2	s	200	
+sanzhi	bazhuk	0029	w-aš-e	M-go-IMP	v:pred	v		pred		
+sanzhi	bazhuk	0029	#	#	##ds	##ds				
+sanzhi	bazhuk	0029	0	0_boy	0.2:s	0	2	s	200	
+sanzhi	bazhuk	0029	tːura-w-aš-e	outside-M-go-IMP	v:pred	v		pred		
+sanzhi	bazhuk	0029	#	#	##ds	##ds				
+sanzhi	bazhuk	0029	#	#	#cc:p	#cc		p		
+sanzhi	bazhuk	0029	čina-w-de	where-M-2SG	intrg_other:pred_l	intrg_other		pred_l		
+sanzhi	bazhuk	0029	=l	=PRT	=rn	=rn				
+sanzhi	bazhuk	0029	u	2SG	pro.2:s	pro	2	s	200	
+sanzhi	bazhuk	0029	%	%	%	%				
+sanzhi	bazhuk	0029	0	0_boy	0.2:a	0	2	a	200	
+sanzhi	bazhuk	0029	b-urs-a	N-tell-IMP	v:pred	v		pred		
+sanzhi	bazhuk	0030	#	#	#cv	#cv				
+sanzhi	bazhuk	0030	durħuˁ	boy	np.h:s_ds_cv	np	h	s_ds_cv	200	
+sanzhi	bazhuk	0030	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0030	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0030	#	#	##	##				
+sanzhi	bazhuk	0030	du	1SG	pro.1:s	pro	1	s	200	
+sanzhi	bazhuk	0030	ala	2SG.GEN	ln_pro.2:poss	ln_pro	2	poss	209	
+sanzhi	bazhuk	0030	nik'a	small	ln_adj	ln_adj				
+sanzhi	bazhuk	0030	t'up-le-w	finger-SPR-M	np:l	np		l	218	bridging
+sanzhi	bazhuk	0030	wi-w-da	in(side)-M-1	adp	adp				
+sanzhi	bazhuk	0031	#	#	##	##				
+sanzhi	bazhuk	0031	0	0_bazhuk	0.h:a_cpa	0	h	a_cpa	209	
+sanzhi	bazhuk	0031	qaˁš	cut	other:lvc	other		lvc		
+sanzhi	bazhuk	0031	k-aʁ-ib	down-do.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0031	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	bazhuk	0031	cin-na	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	209	
+sanzhi	bazhuk	0031	nik'a	small	ln_adj	ln_adj				
+sanzhi	bazhuk	0031	t'up	finger	np:p	np		p	218	
+sanzhi	bazhuk	0031	#	#	##neg	##neg				
+sanzhi	bazhuk	0031	0	0_boy	0.h:s	0	h	s	200	
+sanzhi	bazhuk	0031	w-akːu	M-NEG	other:predex	other		predex		
+sanzhi	bazhuk	0032	#	#	#cv	#cv				
+sanzhi	bazhuk	0032	c'il	then	other	other				
+sanzhi	bazhuk	0032	=ra	=and	other	other				
+sanzhi	bazhuk	0032	0	0_bazhuk	0.h:s_ds_cv	0	h	s_ds_cv	209	
+sanzhi	bazhuk	0032	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0032	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0032	#	#	#cv	#cv				
+sanzhi	bazhuk	0032	0	0_bazhuk	0.h:s_cv	0	h	s_cv	209	
+sanzhi	bazhuk	0032	hati	more	other	other				
+sanzhi	bazhuk	0032	=ra	=and	other	other				
+sanzhi	bazhuk	0032	ʡaˁsi	angry	other:pred	other		pred		
+sanzhi	bazhuk	0032	r-iχ-ub-le	F-be.PFV-PRET-CVB	cop	cop				
+sanzhi	bazhuk	0032	#	#	##ds	##ds				
+sanzhi	bazhuk	0032	#	#	#cc:p	#cc		p		
+sanzhi	bazhuk	0032	čina-w-de	where-M-2SG	intrg_other:pred_l	intrg_other		pred_l		
+sanzhi	bazhuk	0032	=kːʷa	=PRT	=rn	=rn				
+sanzhi	bazhuk	0032	u	2SG	pro.2:s	pro	2	s	200	
+sanzhi	bazhuk	0032	%	%	%	%				
+sanzhi	bazhuk	0032	0	0_boy	pro.2:a	pro	2	a	200	
+sanzhi	bazhuk	0032	b-urs-a	N-tell-IMP	v:pred	v		pred		
+sanzhi	bazhuk	0033	#	#	#cv	#cv				
+sanzhi	bazhuk	0033	durħuˁ	boy	np.h:s_ds_cv	np	h	s_ds_cv	200	
+sanzhi	bazhuk	0033	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0033	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0033	#	#	##ds	##ds				
+sanzhi	bazhuk	0033	0	0_boy	0.1:s	0	1	s	200	
+sanzhi	bazhuk	0033	ala	2SG.GEN	ln_pro.2:poss	ln_pro	2	poss	209	
+sanzhi	bazhuk	0033	ħaˁšukː-a-w	pot-SPR-M	np:l	np		l	215	
+sanzhi	bazhuk	0033	wi-w	in(side)-M	adp	adp				
+sanzhi	bazhuk	0033	le-w-da	exist-M-1	v:pred	v		pred		
+sanzhi	bazhuk	0034	#	#	#cv	#cv				
+sanzhi	bazhuk	0034	0	0_bazhuk	0.h:s_cv	0	h	s_cv	200	
+sanzhi	bazhuk	0034	ħaˁšukː-a	pot-SPR	np:g	np		g	215	
+sanzhi	bazhuk	0034	če-g-ur-re	SPR-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	bazhuk	0034	#	#	#cv	#cv				
+sanzhi	bazhuk	0034	it	that	dem_pro:s_cps_cv	dem_pro		s_cps_cv	200	
+sanzhi	bazhuk	0034	er	look	other:lvc	other		lvc		
+sanzhi	bazhuk	0034	ri-ka-r-urk'-ul	in(side)-down-F-look.IPFV-ICVB	v:pred	v		pred		
+sanzhi	bazhuk	0034	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0034	#	#	##	##				
+sanzhi	bazhuk	0034	0	0_boy	0.h:s	0	h	s	200	
+sanzhi	bazhuk	0034	wi-w	in(side)-M	other:l	other		l		
+sanzhi	bazhuk	0034	χe-w	exist.down-M	other:predex	other		predex		
+sanzhi	bazhuk	0034	=el	=INDQ	=other	=other				
+sanzhi	bazhuk	0035	#	#	##	##				
+sanzhi	bazhuk	0035	#	#	#cv	#cv				
+sanzhi	bazhuk	0035	hel	that	ln_dem	ln_dem				
+sanzhi	bazhuk	0035	zamana	time	np:other	np		other		
+sanzhi	bazhuk	0035	taˁħ	jump	other:lvc	other		lvc		
+sanzhi	bazhuk	0035	sa-uq-un-ne	hither-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	bazhuk	0035	durħuˁ	boy	np.h:s_cps_cv	np	h	s_cps_cv	200	
+sanzhi	bazhuk	0035	%	%	%	%				
+sanzhi	bazhuk	0035	0	0_boy	0.h:a_cpa	0	h	a_cpa	200	
+sanzhi	bazhuk	0035	qːurt	push	other:lvc	other		lvc		
+sanzhi	bazhuk	0035	ri-ka-r-arq'-ib	in(side)-down-F-do.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0035	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0035	hel	that	dem_pro.h:p	dem_pro	h	p	209	
+sanzhi	bazhuk	0035	ħaˁšukː-a	pot-SPR	np:g	np		g	215	
+sanzhi	bazhuk	0035	=ri	=in(side)	=adp	=adp				
+sanzhi	bazhuk	0036	#	#	##	##				
+sanzhi	bazhuk	0036	ħaˁšukː-a-r	pot-SPR-F	ln_np	ln_np			215	
+sanzhi	bazhuk	0036	rurq-aˁn	boil-PTCP	ln	ln				
+sanzhi	bazhuk	0036	hin-ni-cːe-r	water-OBL-IN-F	np:l	np		l	219	bridging
+sanzhi	bazhuk	0036	il	that	dem_pro.h:s	dem_pro	h	s	209	
+sanzhi	bazhuk	0036	r-ebč'-ib	F-die.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0036	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	bazhuk	0037	#	#	##	##				
+sanzhi	bazhuk	0037	#	#	#cv	#cv				
+sanzhi	bazhuk	0037	c'il	then	other	other				
+sanzhi	bazhuk	0037	0	0_boy	0.h:a_cv	0	h	a_cv	200	
+sanzhi	bazhuk	0037	d-erč-ib-le	NPL-lead.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	bazhuk	0037	cin-na	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	200	
+sanzhi	bazhuk	0037	macːa	sheep	np:p	np		p	202	
+sanzhi	bazhuk	0037	=ra	=and	=other	=other				
+sanzhi	bazhuk	0037	%	%	%	%				
+sanzhi	bazhuk	0037	0	0_boy	0.h:s	0	h	s	200	
+sanzhi	bazhuk	0037	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	bazhuk	0037	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	bazhuk	0037	qili	home	np:g	np		g	205	

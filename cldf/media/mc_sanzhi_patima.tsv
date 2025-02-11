@@ -1,0 +1,719 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sanzhi	patima	0001	#	#	#nc	#nc				
+sanzhi	patima	0001	hana	now	nc	nc				
+sanzhi	patima	0001	du-l	1SG-ERG	nc	nc				
+sanzhi	patima	0001	b-urs-ul-da	N-tell-ICVB-1	nc	nc				
+sanzhi	patima	0001	χabar	story	nc	nc				
+sanzhi	patima	0001	qixːunaj-la	qixunaj-GEN	nc	nc				
+sanzhi	patima	0001	b-ik'ʷ-an	N-say.IPFV-PTCP	nc	nc				
+sanzhi	patima	0001	χabar	story	nc	nc				
+sanzhi	patima	0001	ca-b	be-N	nc	nc				
+sanzhi	patima	0002	#	#	#nc	#nc				
+sanzhi	patima	0002	r-iž-ub	F-be.PFV-PRET	nc	nc				
+sanzhi	patima	0002	ca-r	be-F	nc	nc				
+sanzhi	patima	0002	r-už-ib-le-kːu	F-be-PRET-CVB-NEG	nc	nc				
+sanzhi	patima	0002	ca	one	nc	nc				
+sanzhi	patima	0002	qaˁšqaˁr	scab	nc	nc				
+sanzhi	patima	0002	Pat'ima	Patima	nc	nc				
+sanzhi	patima	0002	rursːi	girl	nc_np.h	nc_np	h		600	new
+sanzhi	patima	0003	#	#	##	##				
+sanzhi	patima	0003	il	that	dem_pro.h:s	dem_pro	h	s	600	
+sanzhi	patima	0003	kulpat-li-cːe-r	family-OBL-IN-ABL	np:obl	np		obl	601	bridging
+sanzhi	patima	0003	bah	most	other	other				
+sanzhi	patima	0003	χula-ce	big-ATTR.SG	other:pred	other		pred		
+sanzhi	patima	0003	r-už-ib	F-be-PRET	cop	cop				
+sanzhi	patima	0003	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0004	#	#	##	##				
+sanzhi	patima	0004	caj-na	one-time	other	other				
+sanzhi	patima	0004	marka-la	rain-GEN	np:other	np		other		
+sanzhi	patima	0004	hitːi	after	adp	adp				
+sanzhi	patima	0004	0	0_Patima	0.h:s	0	h	s	600	
+sanzhi	patima	0004	hitːi-če-r-uq-un	SPR-F-go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0004	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0004	#	#	#ac_in	#ac_in				
+sanzhi	patima	0004	qar	up	nc	nc				
+sanzhi	patima	0004	qal-sa	house-ANTE	np:l	np		l	602	new
+sanzhi	patima	0004	0	0_Patima	0.h:a_cps_in	0	h	a_cps_in	600	
+sanzhi	patima	0004	qʷaˁrš	sweep	other:lvc	other		lvc		
+sanzhi	patima	0004	b-arq'-ij	N-do.PFV-INF1	v:pred	v		pred		
+sanzhi	patima	0005	#	#	##	##				
+sanzhi	patima	0005	#	#	#ac_pc	#ac_pc				
+sanzhi	patima	0005	0	0_Patima	0.h:a_cps_pc	0	h	a_cps_pc	600	
+sanzhi	patima	0005	qʷaˁrš	sweep	other:lvc	other		lvc		
+sanzhi	patima	0005	b-irq'-an	N-do.IPFV-PTCP	v:pred	v		pred		
+sanzhi	patima	0005	=qːel	=when	=adp	=adp				
+sanzhi	patima	0005	%	%	%	%				
+sanzhi	patima	0005	0	0_Patima	0.h:ncs	0	h	ncs	600	
+sanzhi	patima	0005	b-arčː-ib	N-find.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0005	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0005	qix	nut	np:p	np		p	603	new
+sanzhi	patima	0006	#	#	##	##				
+sanzhi	patima	0006	#	#	#cv	#cv				
+sanzhi	patima	0006	cin-ni	REFL.SG-ERG	refl.h:a_cv	refl	h	a_cv	600	
+sanzhi	patima	0006	a-b-erkʷ-un-ne	NEG-N-eat.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0006	0	0_nut	0:p	0		p	603	
+sanzhi	patima	0006	%	%	%	%				
+sanzhi	patima	0006	0	0_Patima	0.h:a_cpa	0	h	a_cpa	600	
+sanzhi	patima	0006	turba-le-r	chimney-SPR-ABL	np:obl	np		obl	604	bridging
+sanzhi	patima	0006	lak'	throw	other:lvc	other		lvc		
+sanzhi	patima	0006	bi-ka-b-arq'-ib	in(side)-down-N-do.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0006	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0006	qili	home	np:g	np		g	602	
+sanzhi	patima	0006	hel	that	ln_dem	ln_dem				
+sanzhi	patima	0006	qix	nut	np:p	np		p	603	
+sanzhi	patima	0007	#	#	##	##				
+sanzhi	patima	0007	#	#	#ac	#ac				
+sanzhi	patima	0007	c'il	then	other	other				
+sanzhi	patima	0007	0	0_Patima	0.h:a	0	h	a	600	
+sanzhi	patima	0007	ʡaˁči	work	np:p	np		p		
+sanzhi	patima	0007	ha-b-erχː-ur	upwards-N-fulfil.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0007	=itːi	=after	=adp	=adp				
+sanzhi	patima	0007	#	#	#ac	#ac				
+sanzhi	patima	0007	0	0_Patima	0.h:s	0	h	s	600	
+sanzhi	patima	0007	či-r-ka-r-uq-un	SPR-ABL-down-F-go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0007	=qːel	=when	=adp	=adp				
+sanzhi	patima	0007	%	%	%	%				
+sanzhi	patima	0007	qili-b	home-PL	np:pred_l	np		pred_l	602	
+sanzhi	patima	0007	ruc-be	sister-PL	np.h:s	np	h	s	605	bridging
+sanzhi	patima	0007	#	#	##	##				
+sanzhi	patima	0007	0	0_sisters	0.h:s	0	h	s	605	
+sanzhi	patima	0007	b-iħ-ib-le	HPL-wrestle.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0007	b-už-ib	HPL-stay-PRET	rv_aux	rv_aux				
+sanzhi	patima	0007	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	patima	0007	hel	that	ln_dem	ln_dem				
+sanzhi	patima	0007	qix	nut	np:obl	np		obl	603	
+sanzhi	patima	0007	bahanne	because.of	adp	adp				
+sanzhi	patima	0007	#	#	##ds	##ds				
+sanzhi	patima	0007	dam	1SG.DAT	pro.1:ncs	pro	1	ncs	606	bridging
+sanzhi	patima	0007	b-ikː-i	N-want.IPFV-HAB.PST	v:pred	v		pred		
+sanzhi	patima	0007	0	0_nut	0:p	0		p	603	
+sanzhi	patima	0007	#	#	#cv	#cv				
+sanzhi	patima	0007	caba	one.HPL	np.h:s_ds_cv	np	h	s_ds_cv	606	
+sanzhi	patima	0007	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0007	#	#	##ds	##ds				
+sanzhi	patima	0007	dam	1SG.DAT	pro.1:ncs	pro	1	ncs	607	bridging
+sanzhi	patima	0007	b-ikː-i	N-want.IPFV-HAB.PST	v:pred	v		pred		
+sanzhi	patima	0007	0	0_nut	0:p	0		p	603	
+sanzhi	patima	0007	#	#	#cv	#cv				
+sanzhi	patima	0007	cara	other	np.h:s_ds_cv	np	h	s_ds_cv	607	
+sanzhi	patima	0007	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0008	#	#	#cv	#cv				
+sanzhi	patima	0008	il	that	dem_pro.h:s_ds_cv	dem_pro	h	s_ds_cv	600	
+sanzhi	patima	0008	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0008	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0008	#	#	##ds	##ds				
+sanzhi	patima	0008	0	0_you	0.2:s	0	2	s	605	
+sanzhi	patima	0008	parʁat	quiet	other:pred	other		pred		
+sanzhi	patima	0008	d-iχʷ-aj	1/2PL-be.PFV-IMP.PL	cop	cop				
+sanzhi	patima	0008	#	#	#ds_pc	#ds_pc				
+sanzhi	patima	0008	du-l	1SG-ERG	pro.1:a_pc	pro	1	a_pc	600	
+sanzhi	patima	0008	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0008	wac'a-cːe	forest-IN	np:g	np		g	608	bridging
+sanzhi	patima	0008	#	#	#ds_cv	#ds_cv				
+sanzhi	patima	0008	0	0_Patima	0.1:a_pc	0	1	a_pc	600	
+sanzhi	patima	0008	ka-d-iqː-an-da	down-NPL-carry.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	patima	0008	qix-be	nut-PL	np:p	np		p	609	bridging
+sanzhi	patima	0008	#	#	##ds.neg	##ds.neg				
+sanzhi	patima	0008	0	0_you	0.2:s	0	2	s	605	
+sanzhi	patima	0008	ma-d-isː-utː-aj	PROH-1/2PL-cry-PROH-IMP.PL	v:pred	v		pred		
+sanzhi	patima	0008	#	#	##ds.neg	##ds.neg				
+sanzhi	patima	0008	0	0_you	0.2:s	0	2	s	605	
+sanzhi	patima	0008	ma-d-irħ-utː-aj	PROH-1/2PL-wrestle.IPFV-PROH-IMP.PL	v:pred	v		pred		
+sanzhi	patima	0008	#	#	#cv	#cv				
+sanzhi	patima	0008	0	0_Patima	0.h:s_ds_cv	0	h	s_ds_cv	600	
+sanzhi	patima	0008	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0008	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0009	#	#	##	##				
+sanzhi	patima	0009	c'il	then	other	other				
+sanzhi	patima	0009	iltːi	3PL	dem_pro.h:s	dem_pro	h	s	605	
+sanzhi	patima	0009	=ra	=and	=other	=other				
+sanzhi	patima	0009	razi	happy	other:pred	other		pred		
+sanzhi	patima	0009	b-iχ-ub	HPL-be.PFV-PRET	cop	cop				
+sanzhi	patima	0009	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	patima	0009	#	#	#cv	#cv				
+sanzhi	patima	0009	0	0_sisters	0.h:s_ds_cv	0	h	s_ds_cv	605	
+sanzhi	patima	0009	ʡaˁħ-le	good-ADVZ	other	other				
+sanzhi	patima	0009	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0009	#	#	##	##				
+sanzhi	patima	0009	0	0_they	0.h:s	0	h	s	605	
+sanzhi	patima	0009	qːuʁa-l	beautiful-ADVZ	other	other				
+sanzhi	patima	0009	ka-b-iž-ib	down-HPL-be.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0009	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	patima	0010	#	#	#cv	#cv				
+sanzhi	patima	0010	pat'ima-l	Patima-ERG	pn_np.h:a_cv	pn_np	h	a_cv	600	
+sanzhi	patima	0010	h-asː-ib-le	upwards-take.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0010	qːap	sack	np:p	np		p	610	new
+sanzhi	patima	0010	=ra	=and	=other	=other				
+sanzhi	patima	0010	#	#	##	##				
+sanzhi	patima	0010	0	0_Patima	0.h:s	0	h	s	600	
+sanzhi	patima	0010	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0010	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0010	wac'a-cːe	forest-IN	np:g	np		g	608	
+sanzhi	patima	0010	#	#	##	##				
+sanzhi	patima	0010	i	and	other	other				
+sanzhi	patima	0010	xun-ni-sa-b	road-OBL-ANTE-N	np:l	np		l		
+sanzhi	patima	0010	0	0_Patima	0.h:ncs_cpa	0	h	ncs_cpa	600	
+sanzhi	patima	0010	suk	meet	other:lvc	other		lvc		
+sanzhi	patima	0010	b-ič-ib	N-occur.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0010	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0010	bec'	wolf	np.d:p	np	d	p	611	new
+sanzhi	patima	0011	#	#	#cv	#cv				
+sanzhi	patima	0011	wa	hey	other	other				
+sanzhi	patima	0011	Pat'ima	Patima	pn_np.h:voc	pn_np	h	voc	600	
+sanzhi	patima	0011	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0011	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0011	bec'	wolf	np.d:s_ds_cv	np	d	s_ds_cv	611	
+sanzhi	patima	0011	#	#	#ds_cv	#ds_cv				
+sanzhi	patima	0011	čina	where	intrg_other:g	intrg_other		g		
+sanzhi	patima	0011	0	0_you	0.2:s_cv	0	2	s_cv	600	
+sanzhi	patima	0011	tːura-r-uq-un-ne-de	outside-F-go.PFV-PRET-CVB-2SG	v:pred	v		pred		
+sanzhi	patima	0011	#	#	#ds_cv	#ds_cv				
+sanzhi	patima	0011	čina	where	intrg_other:g	intrg_other		g		
+sanzhi	patima	0011	0	0_you	0.2:s_cv	0	2	s_cv	600	
+sanzhi	patima	0011	arg-ul-de	go.IPFV-ICVB-2SG	v:pred	v		pred		
+sanzhi	patima	0012	#	#	##	##				
+sanzhi	patima	0012	0	0_Patima	0.h:a_ds	0	h	a_ds	600	
+sanzhi	patima	0012	hel-itːe	that-ADVZ	dem_pro:other	dem_pro		other		
+sanzhi	patima	0012	b-urs-ib	N-tell-PRET	v:pred	v		pred		
+sanzhi	patima	0012	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0012	χabar	story	np:p	np		p	612	bridging
+sanzhi	patima	0012	#	#	#ds_cv	#ds_cv				
+sanzhi	patima	0012	ruc-b-a-j	sister-PL-OBL-DAT	np.h:ncs_cv	np	h	ncs_cv	605	
+sanzhi	patima	0012	qix-be	nut-PL	np:p	np		p	609	
+sanzhi	patima	0012	d-ikː-ul	NPL-want.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0012	#	#	#ds_cv	#ds_cv				
+sanzhi	patima	0012	0	0_Patima	0.1:s_cv	0	1	s_cv	600	
+sanzhi	patima	0012	arg-ul-da	go.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	patima	0012	qix-b-a-j	nut-PL-OBL-DAT	np:obl	np		obl	609	
+sanzhi	patima	0013	#	#	#cv	#cv				
+sanzhi	patima	0013	c'il	then	other	other				
+sanzhi	patima	0013	#	#	##ds	##ds				
+sanzhi	patima	0013	u	2SG	pro.2:s	pro	2	s	611	
+sanzhi	patima	0013	čina	where	intrg_other:g	intrg_other		g		
+sanzhi	patima	0013	arg-ul-de	go.IPFV-ICVB-PST	v:pred	v		pred		
+sanzhi	patima	0013	bec'	wolf	np.d:voc	np	d	voc	611	
+sanzhi	patima	0013	%	%	%	%				
+sanzhi	patima	0013	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0013	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0013	Pat'ima	Patima	pn_np.h:s_ds_cv	pn_np	h	s_ds_cv	600	
+sanzhi	patima	0014	#	#	#cv	#cv				
+sanzhi	patima	0014	du	1SG	pro.1:other	pro	1	other	611	
+sanzhi	patima	0014	=ra	=and	=other	=other				
+sanzhi	patima	0014	0	0_wolf	0.d:s_ds_cv	0	d	s_ds_cv	611	
+sanzhi	patima	0014	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0014	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0014	#	#	#nc	#nc				
+sanzhi	patima	0014	il	that	nc	nc				
+sanzhi	patima	0014	le-b-da	exist-N-1	nc	nc				
+sanzhi	patima	0014	#	#	#ds_cv	#ds_cv				
+sanzhi	patima	0014	0	0_I	0.1:s_cv	0	1	s_cv	611	
+sanzhi	patima	0014	tːura-b-uq-un-ne	outside-N-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0014	#	#	##ds	##ds				
+sanzhi	patima	0014	ce	what	intrg_other:s	intrg_other		s		
+sanzhi	patima	0014	b-irk-u	N-occur.IPFV-PRS	v:pred	v		pred		
+sanzhi	patima	0014	=jal	=INDQ	=other	=other				
+sanzhi	patima	0014	#	#	##ds	##ds				
+sanzhi	patima	0014	b-ertː-ib	N-burst.PFV-PRET	ln	ln				
+sanzhi	patima	0014	kaluš	galosh	np:s	np		s		
+sanzhi	patima	0014	b-irk-u	N-occur.IPFV-PRS	v:pred	v		pred		
+sanzhi	patima	0014	=jal	=INDQ	=other	=other				
+sanzhi	patima	0014	#	#	##ds	##ds				
+sanzhi	patima	0014	cara	other	other	other				
+sanzhi	patima	0014	cik'al	something	indef_other:s	indef_other		s		
+sanzhi	patima	0014	b-irk-u	N-occur.IPFV-PRS	v:pred	v		pred		
+sanzhi	patima	0014	=jal	=INDQ	=other	=other				
+sanzhi	patima	0014	#	#	#cv	#cv				
+sanzhi	patima	0014	0	0_wolf	0.h:s_ds_cv	0	h	s_ds_cv	611	
+sanzhi	patima	0014	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0015	#	#	##	##				
+sanzhi	patima	0015	hel-itːe	that-ADVZ	other	other				
+sanzhi	patima	0015	0	0_they	0.h:s_cps	0	h	s_cps	613	bridging
+sanzhi	patima	0015	dik'ar	different	other:lvc	other		lvc		
+sanzhi	patima	0015	b-ič-ib	HPL-occur.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0015	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	patima	0015	#	#	##	##				
+sanzhi	patima	0015	Pat'ima	Patima	pn_np.h:s	pn_np	h	s	600	
+sanzhi	patima	0015	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0015	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0015	wac'a-cːe	forest-IN	np:g	np		g	608	
+sanzhi	patima	0015	#	#	##	##				
+sanzhi	patima	0015	a	but	other	other				
+sanzhi	patima	0015	sːika	bear	np.d:s	np	d	s	611	
+sanzhi	patima	0015	qili-b	home-N	np:g	np		g	602	
+sanzhi	patima	0015	#	#	#rc_cv	#rc_cv				
+sanzhi	patima	0015	ča-k'al	who-INDEF	indef_other.h:s_cv	indef_other	h	s_cv		
+sanzhi	patima	0015	b-ax-ur-re	N-go-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0015	%	%	%	%				
+sanzhi	patima	0015	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0015	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0015	Pat'ima-la	Patima-GEN	ln_pn_np.h:poss	ln_pn_np	h	poss	600	
+sanzhi	patima	0015	qili	home	np:appos	np		appos	602	
+sanzhi	patima	0016	#	#	##	##				
+sanzhi	patima	0016	#	#	#cv	#cv				
+sanzhi	patima	0016	0	0_wolf	0.d:s_cv	0	d	s_cv	611	
+sanzhi	patima	0016	qili	home	np:g	np		g	602	
+sanzhi	patima	0016	beg-ur-re	enter.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0016	%	%	%	%				
+sanzhi	patima	0016	0	0_wolf	0.d:a	0	d	a	611	
+sanzhi	patima	0016	b-erk-un	HPL-eat.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0016	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	patima	0016	libil	all<HPL>	np.h:p	np	h	p	605	
+sanzhi	patima	0016	#	#	#	#				
+sanzhi	patima	0016	0	0_wolf	0.d:a_cpa	0	d	a_cpa	611	
+sanzhi	patima	0016	xurt'	swallow	other:lvc	other		lvc		
+sanzhi	patima	0016	aʁ-ib	do.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0016	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	patima	0016	hel-i-la	that-OBL-GEN	ln_dem_pro.h:poss	ln_dem_pro	h	poss	600	
+sanzhi	patima	0016	ruc-be	sister-PL	np.h:p	np	h	p	605	
+sanzhi	patima	0017	#	#	##neg	##neg				
+sanzhi	patima	0017	#	#	#ac	#ac				
+sanzhi	patima	0017	c'il	then	other	other				
+sanzhi	patima	0017	Pat'ima	Patima	pn_np.h:s	pn_np	h	s	600	
+sanzhi	patima	0017	qili	home	np:g	np		g	602	
+sanzhi	patima	0017	ka-r-eʁ-ib	down-F-go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0017	=qːel	=when	=adp	=adp				
+sanzhi	patima	0017	qix-b-a-l	nut-PL-OBL-ERG	nc_np	nc_np			609	
+sanzhi	patima	0017	qːap-li-cːella	sack-OBL-COMIT	np:obl	np		obl	610	
+sanzhi	patima	0017	#	#	#cv	#cv				
+sanzhi	patima	0017	0	0_Patima	0.h:s_cps_cv	0	h	s_cps_cv	600	
+sanzhi	patima	0017	er	look	other:lvc	other		lvc		
+sanzhi	patima	0017	r-ik'-ul	F-look.at.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0017	ca-r	be-ABL	rv_aux	rv_aux				
+sanzhi	patima	0017	#	#	##neg	##neg				
+sanzhi	patima	0017	uncːa	door	np:other	np		other	629	bridging
+sanzhi	patima	0017	=ra	=and	=rn	=rn				
+sanzhi	patima	0017	ač-le	open-ADVZ	other	other				
+sanzhi	patima	0017	qili-w	home-M	np:l	np		l	602	
+sanzhi	patima	0017	ča-k'al	who-INDEF	indef_other.h:s	indef_other	h	s		
+sanzhi	patima	0017	w-akːu	M-neg	other:predex	other		predex		
+sanzhi	patima	0018	#	#	##	##				
+sanzhi	patima	0018	il	that	dem_pro.h:s_cpa	dem_pro	h	s_cpa	600	
+sanzhi	patima	0018	šak	feel	other:lvc	other		lvc		
+sanzhi	patima	0018	r-ič-ib	F-occur.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0018	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0018	#	#	#cc:p	#cc		p		
+sanzhi	patima	0018	bec'-li	wolf-ERG	np.d:a	np	d	a	611	
+sanzhi	patima	0018	b-erkː-un-ce	HPL-eat.PFV-PRET-ATTR.SG	v:pred	v		pred		
+sanzhi	patima	0018	0	0_sisters	0.h:p	0	h	p	605	
+sanzhi	patima	0019	#	#	##	##				
+sanzhi	patima	0019	#	#	#cv	#cv				
+sanzhi	patima	0019	c'il	then	other	other				
+sanzhi	patima	0019	qal-la	house-GEN	ln_np:poss	ln_np		poss	602	
+sanzhi	patima	0019	burma-sa	threshold-ANTE	np:l	np		l	614	bridging
+sanzhi	patima	0019	0	0_Patima	0.h:s_cv	0	h	s_cv	600	
+sanzhi	patima	0019	ka-r-iž-ib-le	down-F-be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0019	%	%	%	%				
+sanzhi	patima	0019	0	0_Patima	0.h:s	0	h	s	600	
+sanzhi	patima	0019	r-isː-ul	F-cry-ICVB	v:pred	v		pred		
+sanzhi	patima	0019	r-už-ib	F-be-PRET	rv_aux	rv_aux				
+sanzhi	patima	0019	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0019	#	#	#cv	#cv				
+sanzhi	patima	0019	hel-ka	that-down	dem_pro.h:other	dem_pro	h	other	600	
+sanzhi	patima	0019	satːi	as.soon.as	adp	adp				
+sanzhi	patima	0019	#	#	#rc_pc	#rc_pc				
+sanzhi	patima	0019	0	0_fox	rc_f0.d:s_pc	rc_f0	d	s_pc	615	new
+sanzhi	patima	0019	arg-an	go.IPFV-PTCP	v:pred	v		pred		
+sanzhi	patima	0019	%	%	%	%				
+sanzhi	patima	0019	kːurtːa-j	fox-DAT	np.d:ncs_cv	np	d	ncs_cv	615	
+sanzhi	patima	0019	či-r-až-ib-le	SPR-F-see.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0019	hel	that	dem_pro.h:p	dem_pro	h	p	600	
+sanzhi	patima	0020	#	#	#cv	#cv				
+sanzhi	patima	0020	wa	hey	other	other				
+sanzhi	patima	0020	Pat'ima	Patima	pn_np.h:voc	pn_np	h	voc	600	
+sanzhi	patima	0020	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0020	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0020	kːurtːa	fox	np.d:s_ds_cv	np	d	s_ds_cv	615	
+sanzhi	patima	0020	#	#	#ds_cv	#ds_cv				
+sanzhi	patima	0020	cellij	why	other	other				
+sanzhi	patima	0020	0	0_Patima	0.2:s_cv	0	2	s_cv	600	
+sanzhi	patima	0020	r-isː-ul-de	F-cry-ICVB-2SG	v:pred	v		pred		
+sanzhi	patima	0020	#	#	#ds_cv	#ds_cv				
+sanzhi	patima	0020	ce	what	intrg_other:s_cv	intrg_other		s_cv		
+sanzhi	patima	0020	b-iχ-ub-le	N-be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0021	#	#	##	##				
+sanzhi	patima	0021	i	and	other	other				
+sanzhi	patima	0021	Pat'ima	Patima	pn_np.h:a_ds	pn_np	h	a_ds	600	
+sanzhi	patima	0021	r-urs-ib	F-tell-PRET	v:pred	v		pred		
+sanzhi	patima	0021	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0021	hel	that	ln_dem_pro	ln_dem_pro				
+sanzhi	patima	0021	=ʁuna	=EQ	=ln	=ln				
+sanzhi	patima	0021	χabar	story	np:p	np		p	616	bridging
+sanzhi	patima	0021	#	#	##ds	##ds				
+sanzhi	patima	0021	hel-itːe	that-ADVZ	other	other				
+sanzhi	patima	0021	hel-itːe	that-ADVZ	other	other				
+sanzhi	patima	0021	0	0	0:s	0		s	616	
+sanzhi	patima	0021	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0021	#	#	#cv	#cv				
+sanzhi	patima	0021	0	0_Patima	0.h:s_ds_cv	0	h	s_ds_cv	600	
+sanzhi	patima	0021	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0021	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0021	#	#	#ds_cv.neg	#ds_cv.neg				
+sanzhi	patima	0021	#	#	#cc:p	#cc		p		
+sanzhi	patima	0021	ce	what	intrg_other:p	intrg_other		p		
+sanzhi	patima	0021	0	0_I	0.1:a	0	1	a	600	
+sanzhi	patima	0021	b-arq'-idel	N-do.PFV-MODQ	v:pred	v		pred		
+sanzhi	patima	0021	%	%	%	%				
+sanzhi	patima	0021	0	0_I	0.1:ncs_cv	0	1	ncs_cv	600	
+sanzhi	patima	0021	a-b-alχ-ul-da	NEG-N-know.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	patima	0022	#	#	#cv	#cv				
+sanzhi	patima	0022	kːurtːa	fox	np.d:s_ds_cv	np	d	s_ds_cv	615	
+sanzhi	patima	0022	#	#	#ds_pc	#ds_pc				
+sanzhi	patima	0022	du-l	1SG-ERG	pro.1:a_cps_pc	pro	1	a_cps_pc	615	
+sanzhi	patima	0022	at	2SG.DAT	pro.2:obl	pro	2	obl	600	
+sanzhi	patima	0022	kumek	help	other:lvc	other		lvc		
+sanzhi	patima	0022	b-irq'-an-da	N-do.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	patima	0022	%	%	%	%				
+sanzhi	patima	0022	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0022	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0023	#	#	##ds.neg	##ds.neg				
+sanzhi	patima	0023	0	0_you	0.2:s	0	2	s	600	
+sanzhi	patima	0023	ma-r-isː-utː-a	PROH-F-cry-PROH-IMP	v:pred	v		pred		
+sanzhi	patima	0023	#	#	#ds_cv	#ds_cv				
+sanzhi	patima	0023	dam	1SG.DAT	pro.1:ncs_cv	pro	1	ncs_cv	615	
+sanzhi	patima	0023	b-alχ-ul-da	N-know.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	patima	0023	#	#	#ds_cv	#ds_cv				
+sanzhi	patima	0023	0	0_fox	0.1:s_cpa_cv	0	1	s_cpa_cv		
+sanzhi	patima	0023	hel	that	dem_pro:p	dem_pro		p		
+sanzhi	patima	0023	šak	feel	other:lvc	other		lvc		
+sanzhi	patima	0023	b-irk-ul-da	N-occur.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	patima	0023	#	#	#cv	#cv				
+sanzhi	patima	0023	0	0_fox	0.d:s_ds_cv	0	d	s_ds_cv	615	
+sanzhi	patima	0023	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0023	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0023	#	#	#ds_cc:p	#ds_cc		p		
+sanzhi	patima	0023	hi-l	who.OBL-ERG	intrg_other.h:a	intrg_other	h	a		
+sanzhi	patima	0023	b-arq'-ib	N-do.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0023	=el	=INDQ	=other	=other				
+sanzhi	patima	0023	hel	that	ln_dem	ln_dem				
+sanzhi	patima	0023	ʡaˁči	work	np:p	np		p	617	bridging
+sanzhi	patima	0023	#	#	#ds_pc	#ds_pc				
+sanzhi	patima	0023	hana	now	other	other				
+sanzhi	patima	0023	du	1SG	pro.1:s_pc	pro	1	s_pc	615	
+sanzhi	patima	0023	b-ax-an-da	N-go-PTCP-1	v:pred	v		pred		
+sanzhi	patima	0023	#	#	#cv	#cv				
+sanzhi	patima	0023	0	0_fox	0.d:s_ds_cv	0	d	s_ds_cv	615	
+sanzhi	patima	0023	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0023	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0023	#	#	#ds_ac_in	#ds_ac_in				
+sanzhi	patima	0023	0	0_I	0.1:ncs_in	0	1	ncs_in	615	
+sanzhi	patima	0023	bec'	wolf	np.d:p	np	d	p	611	
+sanzhi	patima	0023	b-arčː-ij	N-find.PFV-INF1	v:pred	v		pred		
+sanzhi	patima	0024	#	#	#ds_pc	#ds_pc				
+sanzhi	patima	0024	i	and	other	other				
+sanzhi	patima	0024	du-l	1SG-ERG	pro.1:a_ds_cps_pc	pro	1	a_ds_cps_pc	615	
+sanzhi	patima	0024	waˁw	shout	other:lvc	other		lvc		
+sanzhi	patima	0024	h-erʔ-an-da	upwards-say.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	patima	0024	kːaza	fork	np:other	np		other		
+sanzhi	patima	0024	k'at'a	spade	rn_np	rn_np				
+sanzhi	patima	0024	qixːunaj	qixunaj	rn_np	rn_np				
+sanzhi	patima	0024	#	#	##ds	##ds				
+sanzhi	patima	0024	#	#	#ds_ac	#ds_ac				
+sanzhi	patima	0024	hel	that	ln_dem	ln_dem				
+sanzhi	patima	0024	t'am	sound	np:p	np		p		
+sanzhi	patima	0024	b-aq'-ib	N-hear.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0024	=qːel	=when	=adp	=adp				
+sanzhi	patima	0024	u	2SG	pro.2:s	pro	2	s	600	
+sanzhi	patima	0024	%	%	%	%				
+sanzhi	patima	0024	0	0_Patima	0.2:s	0	2	s		
+sanzhi	patima	0024	halak-le	fast-ADVZ	other	other				
+sanzhi	patima	0024	ha-r-eʁ-e	upwards-F-go.PFV-IMP	v:pred	v		pred		
+sanzhi	patima	0024	#	#	#cv	#cv				
+sanzhi	patima	0024	0	0_fox	0.d:s_ds_cv	0	d	s_ds_cv	615	
+sanzhi	patima	0024	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0024	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0025	#	#	#cv	#cv				
+sanzhi	patima	0025	ʡaˁħ-le	good-ADVZ	other	other				
+sanzhi	patima	0025	0	0_Patima	0.h:s_ds_cv	0	h	s_ds_cv	600	
+sanzhi	patima	0025	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0025	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0025	#	#	##	##				
+sanzhi	patima	0025	Pat'ima	Patima	pn_np.h:s	pn_np	h	s	600	
+sanzhi	patima	0025	=ra	=and	=other	=other				
+sanzhi	patima	0025	razi	happy	other:pred	other		pred		
+sanzhi	patima	0025	r-iχ-ub	F-be.PFV-PRET	cop	cop				
+sanzhi	patima	0025	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0026	#	#	##	##				
+sanzhi	patima	0026	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0026	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0026	kːurtːa	fox	np.d:s	np	d	s	615	
+sanzhi	patima	0026	wac'a-cːe	forest-IN	np:g	np		g	608	
+sanzhi	patima	0026	#	#	##	##				
+sanzhi	patima	0026	0	0_fox	0.d:ncs	0	d	ncs	615	
+sanzhi	patima	0026	b-arčː-ib	N-find.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0026	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0026	bec'	wolf	np.d:p	np	d	p	611	
+sanzhi	patima	0026	#	#	#cv	#cv				
+sanzhi	patima	0026	0	0_fox	0.d:s_ds_cv	0	d	s_ds_cv	615	
+sanzhi	patima	0026	bec'-li-cːe	wolf-OBL-IN	np.d:g	np	d	g	611	
+sanzhi	patima	0026	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0026	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0027	#	#	#ds_pc	#ds_pc				
+sanzhi	patima	0027	dawaj	let's[R]	other	other				
+sanzhi	patima	0027	0	0_we	0.1:s_pc	0	1	s_pc	618	bridging
+sanzhi	patima	0027	d-ax-an-da	1/2PL-go-PTCP-1	v:pred	v		pred		
+sanzhi	patima	0027	#	#	#ac_in	#ac_in				
+sanzhi	patima	0027	0	0_we	0.1:s_cps_in	0	1	s_cps_in	618	
+sanzhi	patima	0027	qus	slip	other:lvc	other		lvc		
+sanzhi	patima	0027	d-ik'ʷ-ij	1/2PL-move.IPFV-INF1	v:pred	v		pred		
+sanzhi	patima	0027	#	#	##ds	##ds				
+sanzhi	patima	0027	dam	1SG.DAT	pro.1:ncs	pro	1	ncs	615	
+sanzhi	patima	0027	ʡaˁħ	good	ln_adj	ln_adj				
+sanzhi	patima	0027	musːa	place	np:p	np		p	619	new
+sanzhi	patima	0027	b-alχ-ad	N-know.IPFV-PRS.1	v:pred	v		pred		
+sanzhi	patima	0028	#	#	##	##				
+sanzhi	patima	0028	bec'	wolf	np.d:s_cps	np	d	s_cps	611	
+sanzhi	patima	0028	razi	happy	other:lvc	other		lvc		
+sanzhi	patima	0028	b-iχ-ub	N-be.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0028	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0028	#	#	#ds_pc	#ds_pc				
+sanzhi	patima	0028	0	0_we	0.1:s_pc	0	1	s_pc	618	
+sanzhi	patima	0028	d-ax-an-da	1/2PL-go-PTCP-1	v:pred	v		pred		
+sanzhi	patima	0028	#	#	#cv	#cv				
+sanzhi	patima	0028	0	0_wolf	0.d:s_ds_cv	0	d	s_ds_cv	611	
+sanzhi	patima	0028	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0028	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0028	#	#	##	##				
+sanzhi	patima	0028	i	and	other	other				
+sanzhi	patima	0028	0	0_they	0.h:s	0	h	s	618	
+sanzhi	patima	0028	ka-b-eʁ-ib	down-N-go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0028	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0028	hel	that	ln_dem	ln_dem				
+sanzhi	patima	0028	musːa	place	np:g	np		g	619	
+sanzhi	patima	0028	qus	slip	ln	ln				
+sanzhi	patima	0028	b-ik'ʷ-an	N-move.IPFV-PTCP	ln_v	ln_v				
+sanzhi	patima	0028	musːa	place	np:appos	np		appos	619	
+sanzhi	patima	0029	#	#	#cv	#cv				
+sanzhi	patima	0029	kːurtːa	fox	np.d:s_ds_cv	np	d	s_ds_cv	615	
+sanzhi	patima	0029	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0029	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0029	#	#	#ds_pc	#ds_pc				
+sanzhi	patima	0029	bahsar	first	other	other				
+sanzhi	patima	0029	du	1SG	pro.1:s_pc	pro	1	s_pc	615	
+sanzhi	patima	0029	ka-b-irg-an-da	down-N-sit.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	patima	0029	u	2SG	pro.2:other	pro	2	other	611	
+sanzhi	patima	0029	hila	behind	np:l	np		l		
+sanzhi	patima	0029	#	#	##ds	##ds				
+sanzhi	patima	0029	0	0_wolf	0.2:s	0	2	s	611	
+sanzhi	patima	0029	hitːi-ka-b-iž-e	SPR-down-N-be.PFV-IMP	v:pred	v		pred		
+sanzhi	patima	0029	caj-na	one-time	other	other				
+sanzhi	patima	0029	#	#	#ds_pc	#ds_pc				
+sanzhi	patima	0029	c'il	then	other	other				
+sanzhi	patima	0029	0	0_we	0.1:s_pc	0	1	s_pc	618	
+sanzhi	patima	0029	d-ars	1/2PL-change	v:pred	v		pred		
+sanzhi	patima	0029	d-irχ-an-da	1/2PL-be.IPFV-PTCP-2PL	rv_aux	rv_aux				
+sanzhi	patima	0029	#	#	#cv	#cv				
+sanzhi	patima	0029	0	0_fox	0.d:s_ds_cv	0	d	s_ds_cv	615	
+sanzhi	patima	0029	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0029	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0030	#	#	#cv	#cv				
+sanzhi	patima	0030	bec'	wolf	np.d:s_ds_cv	np	d	s_ds_cv	611	
+sanzhi	patima	0030	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0030	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0030	ʡaˁħ-le	good-ADVZ	other	other				
+sanzhi	patima	0030	#	#	##	##				
+sanzhi	patima	0030	i	and	other	other				
+sanzhi	patima	0030	kːurtːa	fox	np.d:s	np	d	s	615	
+sanzhi	patima	0030	ca-r	be-F	other	other				
+sanzhi	patima	0030	ka-b-iž-ib	down-N-be.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0030	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0030	bec'	wolf	np.d:l	np	d	l	611	
+sanzhi	patima	0030	hitːi	after	adp	adp				
+sanzhi	patima	0030	hel-itːe	that-ADVZ	other	other				
+sanzhi	patima	0030	#	#	##	##				
+sanzhi	patima	0030	0	0_they	0.h:s_cps	0	h	s_cps	618	
+sanzhi	patima	0030	qus	slip	other:lvc	other		lvc		
+sanzhi	patima	0030	ka-b-iž-ib	down-N-be.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0030	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0030	caj-na	one-time	other	other				
+sanzhi	patima	0031	#	#	#cv	#cv				
+sanzhi	patima	0031	c'il	then	other	other				
+sanzhi	patima	0031	k'ʷi-na-la-li-j	two-time-ORD-OBL-DAT	np:other	np		other		
+sanzhi	patima	0031	hana	now	other	other				
+sanzhi	patima	0031	0	0_fox	0.d:s_ds_cv	0	d	s_ds_cv	615	
+sanzhi	patima	0031	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0031	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0031	#	#	##ds	##ds				
+sanzhi	patima	0031	u	2SG	pro.2:s	pro	2	s	611	
+sanzhi	patima	0031	sala	front	np:l	np		l		
+sanzhi	patima	0031	ka-b-iž-e	down-N-be.PFV-IMP	v:pred	v		pred		
+sanzhi	patima	0031	%	%	%	%				
+sanzhi	patima	0031	bec'-li-cːe	wolf-OBL-IN	np.d:g	np	d	g	611	
+sanzhi	patima	0031	#	#	#ds_pc	#ds_pc				
+sanzhi	patima	0031	du	1SG	pro.1:s_pc	pro	1	s_pc	615	
+sanzhi	patima	0031	hila	behind	np:l	np		l		
+sanzhi	patima	0031	ka-b-irg-an-da	down-N-sit.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	patima	0031	#	#	#cv	#cv				
+sanzhi	patima	0031	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0031	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0031	kːurtːa	fox	np.d:s_ds_cv	np	d	s_ds_cv	615	
+sanzhi	patima	0032	#	#	#cv	#cv				
+sanzhi	patima	0032	ʡaˁħ-le	good-ADVZ	other	other				
+sanzhi	patima	0032	0	0_wolf	0.d:s_ds_cv	0	d	s_ds_cv	611	
+sanzhi	patima	0032	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0032	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0032	#	#	##	##				
+sanzhi	patima	0032	i	and	other	other				
+sanzhi	patima	0032	hel-itːe	that-ADVZ	dem_pro:other	dem_pro		other		
+sanzhi	patima	0032	0	0_they	0.h:s_cps	0	h	s_cps	618	
+sanzhi	patima	0032	qus	slip	other:lvc	other		lvc		
+sanzhi	patima	0032	ka-b-iž-ib	down-N-be.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0032	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0032	q'ʷila	a.little	other	other				
+sanzhi	patima	0033	#	#	##	##				
+sanzhi	patima	0033	c'il	then	other	other				
+sanzhi	patima	0033	kːurtːa-l	fox-ERG	np.d:a_cps	np	d	a_cps	615	
+sanzhi	patima	0033	bec'-li-hara	wolf-OBL-POST	np.d:l	np	d	l	611	
+sanzhi	patima	0033	dacːi	urine	other:lvc	other		lvc		
+sanzhi	patima	0033	hitːi-d-arq'-ib	SPR-NPL-do.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0033	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	patima	0033	#	#	##	##				
+sanzhi	patima	0033	#	#	#cv	#cv				
+sanzhi	patima	0033	0	0_urine	0:s_cv	0		s_cv	620	bridging
+sanzhi	patima	0033	bec'-le-gu	wolf-SPR-SUB	np.d:l	np	d	l	611	
+sanzhi	patima	0033	gu-ag-ur-re	down-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0033	%	%	%	%				
+sanzhi	patima	0033	0	0_wolf	0.d:s	0	d	s	611	
+sanzhi	patima	0033	či-ka-b-asː-un	SPR-down-N-glue.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0033	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0033	mig-li-j	ice-OBL-DAT	np:obl	np		obl	621	bridging
+sanzhi	patima	0034	#	#	##	##				
+sanzhi	patima	0034	c'il	then	other	other				
+sanzhi	patima	0034	#	#	#ac	#ac				
+sanzhi	patima	0034	hel	that	dem_pro.h:s	dem_pro	h	s	611	
+sanzhi	patima	0034	či-ka-b-asː-un	SPR-down-N-glue.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0034	=qːel	=when	=adp	=adp				
+sanzhi	patima	0034	%	%	%	%				
+sanzhi	patima	0034	waˁw	shout	other:lvc	other		lvc		
+sanzhi	patima	0034	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0034	b-aʔ	N-begin	rv_aux	rv_aux				
+sanzhi	patima	0034	ašː-ib	begin.PFV-PRET	rv_aux	rv_aux				
+sanzhi	patima	0034	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0034	kːurtːa	fox	np.d:a_ds_cps	np	d	a_ds_cps	615	
+sanzhi	patima	0035	#	#	#nc	#nc				
+sanzhi	patima	0035	kːaza	fork	nc	nc			615	
+sanzhi	patima	0035	k'at'a	spade	nc	nc				
+sanzhi	patima	0035	qixːunaj	qixunaj	nc	nc				
+sanzhi	patima	0035	kːaza	fork	nc	nc				
+sanzhi	patima	0035	k'at'a	spade	nc	nc				
+sanzhi	patima	0035	qixːunaj	qixunaj	nc	nc				
+sanzhi	patima	0035	#	#	##	##				
+sanzhi	patima	0035	#	#	#cv	#cv				
+sanzhi	patima	0035	c'il	then	other	other				
+sanzhi	patima	0035	0	0_Patima	0.h:s_cps_cv	0	h	s_cps_cv	600	
+sanzhi	patima	0035	hel-ka	that-down	other:g	other		g		
+sanzhi	patima	0035	duc'	run	other:lvc	other		lvc		
+sanzhi	patima	0035	r-ik'-ul	F-move.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0035	%	%	%	%				
+sanzhi	patima	0035	tːura-r-ič-ib	outside-F-occur.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0035	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	patima	0035	Pat'ima	Patima	pn_np.h:s	pn_np	h	s	600	
+sanzhi	patima	0035	#	#	#cv	#cv				
+sanzhi	patima	0035	0	0_Patima	0.h:a_cv	0	h	a_cv	600	
+sanzhi	patima	0035	kːaza	fork	np:p	np		p	622	bridging
+sanzhi	patima	0035	k'at'a	spade	rn_np	rn_np			623	bridging
+sanzhi	patima	0035	=ra	=and	=other	=other				
+sanzhi	patima	0035	h-aqː-ib-le	upwards-carry-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0036	#	#	#cv	#cv				
+sanzhi	patima	0036	i	and	other	other				
+sanzhi	patima	0036	k'ʷel	two	np.h:s_cps_cv	np	h	s_cps_cv	613	
+sanzhi	patima	0036	=ra	=and	=rn	=rn				
+sanzhi	patima	0036	paˁq	strike	other:lvc	other		lvc		
+sanzhi	patima	0036	b-ik'-ul	N-move.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0036	hel-i-j	that-OBL-DAT	dem_pro.h:g	dem_pro	h	g	611	
+sanzhi	patima	0036	#	#	##	##				
+sanzhi	patima	0036	0	0_they	0.h:a	0	h	a	613	
+sanzhi	patima	0036	b-ebč'-aq-ib	N-die.PFV-CAUS-PRET	v:pred	v		pred		
+sanzhi	patima	0036	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0036	bec'	wolf	np.d:p	np	d	p	611	
+sanzhi	patima	0036	#	#	##	##				
+sanzhi	patima	0036	#	#	#cv	#cv				
+sanzhi	patima	0036	0	0_they	0.h:a_cpa_cv	0	h	a_cpa_cv	613	
+sanzhi	patima	0036	k'ult'a	tummy	np:p	np		p	624	bridging
+sanzhi	patima	0036	qaˁš	cut	other:lvc	other		lvc		
+sanzhi	patima	0036	k-aʁ-ib-le	down-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0036	%	%	%	%				
+sanzhi	patima	0036	0	0_they	0.h:a	0	h	a	613	
+sanzhi	patima	0036	tːura-h-aqː-ib	outside-upwards-take.out.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0036	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	patima	0036	cin-na	REFL.SG-GEN	ln_refl.h:poss	ln_refl	h	poss	600	
+sanzhi	patima	0036	ruc-be	sister-PL	np.h:p	np	h	p	605	
+sanzhi	patima	0037	#	#	##	##				
+sanzhi	patima	0037	#	#	#cv	#cv				
+sanzhi	patima	0037	0	0_they	0.h:s_cv	0	h	s_cv	625	bridging
+sanzhi	patima	0037	razi	happy	other:pred	other		pred		
+sanzhi	patima	0037	b-iχ-ub-le	HPL-be.PFV-PRET-CVB	cop	cop				
+sanzhi	patima	0037	%	%	%	%				
+sanzhi	patima	0037	0	0_they	0.h:s_cps	0	h	s_cps	625	
+sanzhi	patima	0037	qaˁb	neck	other:lvc	other		lvc		
+sanzhi	patima	0037	lus-b-ilk-un	around-HPL-embrace.IPFV-PRET	v:pred	v		pred		
+sanzhi	patima	0037	#	#	#cv	#cv				
+sanzhi	patima	0037	0	0_they	0.h:s	0	h	s	605	
+sanzhi	patima	0037	0	0_each_other	0.h:g	0	h	g	605	
+sanzhi	patima	0037	misupː-a-l	mouth.PL-OBL-ERG	np:obl	np		obl		
+sanzhi	patima	0037	lukː-un-ne	give.IPFV-PRET-CVB	v:pred	v		pred		
+sanzhi	patima	0038	#	#	##	##				
+sanzhi	patima	0038	0	0_they	0.h:s	0	h	s	625	
+sanzhi	patima	0038	ag-ur	go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0038	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0038	qili	home	np:g	np		g	602	
+sanzhi	patima	0038	#	#	##	##				
+sanzhi	patima	0038	0	0_they	0.h:a	0	h	a	625	
+sanzhi	patima	0038	kːurtːa	fox	np.d:p	np	d	p	615	
+sanzhi	patima	0038	b-erč-ib	N-lead.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0038	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0038	#	#	##	##				
+sanzhi	patima	0038	0	0_they	0.h:a	0	h	a	625	
+sanzhi	patima	0038	0	0_fox	0.d:p	0	d	p	615	
+sanzhi	patima	0038	ʡaˁħ-le	good-ADVZ	other	other				
+sanzhi	patima	0038	b-aχː-un	N-feed.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0038	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0039	#	#	##	##				
+sanzhi	patima	0039	#	#	#ac	#ac				
+sanzhi	patima	0039	c'il	then	other	other				
+sanzhi	patima	0039	daˁrχːaˁ	evening	np:s	np		s		
+sanzhi	patima	0039	d-eʁ-ib	NPL-go.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0039	=qːel	=when	=adp	=adp				
+sanzhi	patima	0039	%	%	%	%				
+sanzhi	patima	0039	0	0_they	0.h:a	0	h	a	625	
+sanzhi	patima	0039	il-i-j	that-OBL-DAT	dem_pro.h:obl	dem_pro	h	obl	615	
+sanzhi	patima	0039	buruš	mattress	np:p	np		p	626	new
+sanzhi	patima	0039	=ra	=and	=other	=other				
+sanzhi	patima	0039	gu-b-arq'-ib	down-N-do.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0039	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0039	#	#	#ac_in	#ac_in				
+sanzhi	patima	0039	0	0_fox	0.d:s_in	0	d	s_in	615	
+sanzhi	patima	0039	durqaˁ	barn	np:l	np		l	627	bridging
+sanzhi	patima	0039	ka-b-isː-an-aj	down-N-sleep.PFV-PTCP-INF2.3	v:pred	v		pred		
+sanzhi	patima	0040	#	#	#cv	#cv				
+sanzhi	patima	0040	c'il	then	other	other				
+sanzhi	patima	0040	#	#	#ac	#ac				
+sanzhi	patima	0040	0	0_they	0.h:s	0	h	s	625	
+sanzhi	patima	0040	ka-b-isː-un	down-N-sleep.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0040	=qːel	=when	=adp	=adp				
+sanzhi	patima	0040	%	%	%	%				
+sanzhi	patima	0040	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0040	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0040	kːurtːa	fox	np.d:s_ds_cv	np	d	s_ds_cv	615	
+sanzhi	patima	0040	#	#	##ds	##ds				
+sanzhi	patima	0040	dam	1SG.DAT	pro.1:obl	pro	1	obl	615	
+sanzhi	patima	0040	=q'ar	=MOD	=rn	=rn				
+sanzhi	patima	0040	#	#	#cv	#cv				
+sanzhi	patima	0040	0	0_fox	0.d:s_ds_cv	0	d	s_ds_cv	615	
+sanzhi	patima	0040	b-ik'-ul	N-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	patima	0040	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	patima	0040	%	%	%	%				
+sanzhi	patima	0040	0	0_sisters	0.h:a	0	h	a	625	
+sanzhi	patima	0040	nekʷ-la	straw-GEN	ln_np	ln_np				
+sanzhi	patima	0040	buruš	mattress	np:p	np		p	626	
+sanzhi	patima	0040	b-arq'-ib	N-do.PFV-PRET	v:pred	v		pred		
+sanzhi	patima	0040	#	#	##ds	##ds				
+sanzhi	patima	0040	a	but	other	other				
+sanzhi	patima	0040	0	0_they	0.h:ncs	0	h	ncs	625	
+sanzhi	patima	0040	ču-la	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss	625	
+sanzhi	patima	0040	baˁmbag-la	cotton.wool-GEN	np:p	np		p	628	bridging
+sanzhi	patima	0040	b-urkː-ar	N-find.IPFV-PRS	v:pred	v		pred		
+sanzhi	patima	0041	#	#	#nc	#nc				
+sanzhi	patima	0041	hel-itːe	that-ADVZ	nc	nc				
+sanzhi	patima	0041	ha-b-erχː-ur	upwards-N-fulfil.PFV-PRET	nc	nc				
+sanzhi	patima	0041	barkalla	thanks	nc	nc				
+sanzhi	patima	0041	gu-lik'-un-t-a-j	down-listen-PRET-PL-OBL-DAT	nc	nc				

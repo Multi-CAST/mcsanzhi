@@ -1,0 +1,754 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sanzhi	asabali	0001	#	#	##	##				
+sanzhi	asabali	0001	χalq'	people	np.h:s	np	h	s	100	bridging
+sanzhi	asabali	0001	kːuš-le-de	hungry-ADVZ-PST	other:pred	other		pred		
+sanzhi	asabali	0001	#	#	##	##				
+sanzhi	asabali	0001	0	0	0:s	0		s	167	bridging
+sanzhi	asabali	0001	daˁwi-la	war-GEN	ln_np:poss	ln_np		poss	101	unused
+sanzhi	asabali	0001	dus-m-a-cːe-b-de	year-PL-OBL-IN-HPL-PST	np:pred_other	np		pred_other	102	bridging
+sanzhi	asabali	0002	#	#	##neg	##neg				
+sanzhi	asabali	0002	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	103	bridging
+sanzhi	asabali	0002	zu	name	np:s	np		s	104	bridging
+sanzhi	asabali	0002	wabše	at.all	other	other				
+sanzhi	asabali	0002	kiniga-l-cːe-b	book-OBL-IN-N	np:other	np		other	105	bridging
+sanzhi	asabali	0002	selsawet-li-cːe-b	village.head-OBL-IN-N	np.h:other	np	h	other	106	bridging
+sanzhi	asabali	0002	b-elk'-un-ne	N-write.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0002	b-akːʷ-i	N-NEG-HAB.PST	rv_aux	rv_aux				
+sanzhi	asabali	0003	#	#	##	##				
+sanzhi	asabali	0003	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0003	kelg-un-da	remain.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0003	xu-c'a-nu	five-tenth-PRT	ln	ln				
+sanzhi	asabali	0003	ʡaˁb-ra	three-NUM	ln	ln				
+sanzhi	asabali	0003	dus	year	np:other	np		other		
+sanzhi	asabali	0003	di	NA	nc	nc				
+sanzhi	asabali	0003	ʡaˁb-ra	three-NUM	ln	ln				
+sanzhi	asabali	0003	dus-si-cːe-w	year-OBL-IN-M	np:other	np		other	107	unused
+sanzhi	asabali	0004	#	#	#cv	#cv				
+sanzhi	asabali	0004	istalin	Stalin	pn_np.h:s_cv	pn_np	h	s_cv	108	unused
+sanzhi	asabali	0004	w-ebč'-ib-le	M-die.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0004	#	#	#cv	#cv				
+sanzhi	asabali	0004	b-isː-ul	N-cry-ICVB	v:pred	v		pred		
+sanzhi	asabali	0004	χalq'	people	np.h:s_cv	np	h	s_cv	168	bridging
+sanzhi	asabali	0005	#	#	#cv	#cv				
+sanzhi	asabali	0005	w-ebč'-ib-le	M-die.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0005	istalin	Stalin	pn_np.h:s_cv	pn_np	h	s_cv	108	
+sanzhi	asabali	0005	#	#	#cv	#cv				
+sanzhi	asabali	0005	mašin-te	car-PL	np:a_cps_cv	np		a_cps_cv	109	bridging
+sanzhi	asabali	0005	pojezd-e	train-PL	rn_np	rn_np			110	bridging
+sanzhi	asabali	0005	t'aš	stop	other:lvc	other		lvc		
+sanzhi	asabali	0005	aʁ-ib-le	do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0006	#	#	##	##				
+sanzhi	asabali	0006	#	#	#cv	#cv				
+sanzhi	asabali	0006	0	0_trains	0:s_ds_cv	0		s_ds_cv	110	
+sanzhi	asabali	0006	tːuːˁtː	tut	other	other				
+sanzhi	asabali	0006	d-ik'-ul	NPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0006	%	%	%	%				
+sanzhi	asabali	0006	0	0_trains	0:s	0		s	110	
+sanzhi	asabali	0006	d-uč'-ini	NPL-sing.IPFV-HAB.PST	v:pred	v		pred		
+sanzhi	asabali	0006	#	#	##	##				
+sanzhi	asabali	0006	daže	even	other	other				
+sanzhi	asabali	0006	hex-tːi	DEM.up-PL	ln_dem	ln_dem				
+sanzhi	asabali	0006	dubur-t-a-cːe	mountain-PL-OBL-IN	np:g	np		g	111	bridging
+sanzhi	asabali	0006	t'ama	sound	np:s	np		s	112	bridging
+sanzhi	asabali	0006	ha-d-aš-iri	upwards-NPL-go-HAB.PST	v:pred	v		pred		
+sanzhi	asabali	0007	#	#	##	##				
+sanzhi	asabali	0007	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0007	c'il	then	other	other				
+sanzhi	asabali	0007	hel-tːu-w	that-LOC-M	dem_pro:l	dem_pro		l	113	bridging
+sanzhi	asabali	0007	kelg-un-da	remain.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0007	#	#	#cv	#cv				
+sanzhi	asabali	0007	0	0_I	0.1:s_cv	0	1	s_cv	103	
+sanzhi	asabali	0007	macːa-l-sa	sheep-OBL-ANTE	np:obl	np		obl	114	new
+sanzhi	asabali	0007	w-ax-ul	M-go-ICVB	v:pred	v		pred		
+sanzhi	asabali	0007	kalχuz-la	kolkhoz-GEN	rn_np:poss	rn_np		poss	115	new
+sanzhi	asabali	0008	#	#	##	##				
+sanzhi	asabali	0008	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0008	macːa-l-sa	sheep-OBL-ANTE	np:obl	np		obl	114	
+sanzhi	asabali	0008	w-aš-ib-da	M-go-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0008	#	#	##	##				
+sanzhi	asabali	0008	0	0_I	0.1:a_cpa	0	1	a_cpa	103	
+sanzhi	asabali	0008	macːa-lla	sheep-GEN	ln_np:poss	ln_np		poss	114	
+sanzhi	asabali	0008	aq'	flock	np:p	np		p		
+sanzhi	asabali	0008	=ra	=and	=rn	=rn				
+sanzhi	asabali	0008	er	look	other:lvc	other		lvc		
+sanzhi	asabali	0008	d-arq'-ib-da	NPL-do.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0008	#	#	#cv	#cv				
+sanzhi	asabali	0008	c'ili	then	other	other				
+sanzhi	asabali	0008	0	0_I	0.1:ncs_cv	0	1	ncs_cv	103	
+sanzhi	asabali	0008	hel-tːi	that-PL	ln_dem	ln_dem				
+sanzhi	asabali	0008	macːa	sheep	np:p	np		p	114	
+sanzhi	asabali	0008	či-d-et'-ib-le	SPR-NPL-NPL-bore.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0009	#	#	##	##				
+sanzhi	asabali	0009	du	1SG	pro.1:s	pro	1	s	103	
+sanzhi	asabali	0009	dabrawolna	voluntarily[R]	other	other				
+sanzhi	asabali	0009	armija-le	army-SPR	np:g	np		g	116	new
+sanzhi	asabali	0009	ag-ur-da	go.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0009	#	#	#ac_cv	#ac_cv				
+sanzhi	asabali	0009	0	0_I	0.1:s_cv	0	1	s_cv	103	
+sanzhi	asabali	0009	ʁajal	twenty	ln_num	ln_num				
+sanzhi	asabali	0009	dus	year	np:pred	np		pred		
+sanzhi	asabali	0009	w-iχ-ub-le	M-be.PFV-PRET-CVB	cop	cop				
+sanzhi	asabali	0010	xu-c'a-nu	five-tenth-PRT	ln	ln				
+sanzhi	asabali	0010	xu-ra-ib	five-NUM-ORD	ln	ln				
+sanzhi	asabali	0010	dusː-i-cːe-w	year-OBL-IN-M	np:other	np		other		
+sanzhi	asabali	0011	#	#	##	##				
+sanzhi	asabali	0011	xu-c'a-nu	five-tenth-PRT	ln	ln				
+sanzhi	asabali	0011	xu-ra-ib	five-NUM-ORD	ln	ln				
+sanzhi	asabali	0011	dusː-i-cːe-w	year-OBL-IN-M	np:other	np		other		
+sanzhi	asabali	0011	armija-le	army-SPR	np:g	np		g	116	
+sanzhi	asabali	0011	ag-ur-da	go.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0011	du	1SG	pro.1:s	pro	1	s	103	
+sanzhi	asabali	0012	#	#	#cv	#cv				
+sanzhi	asabali	0012	0	0_I	0.1:s_cv	0	1	s_cv	103	
+sanzhi	asabali	0012	wajankumat-le	enlistment.office[R]-SPR	np:g	np		g	117	bridging
+sanzhi	asabali	0012	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0012	#	#	#cv	#cv				
+sanzhi	asabali	0012	0	0_I	0.1:a_cv	0	1	a_cv	103	
+sanzhi	asabali	0012	b-ičː-ib-le	N-give.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0012	zajawka	application[R]	np:p	np		p	118	bridging
+sanzhi	asabali	0012	0	0_them	0.h:g	0	h	g		
+sanzhi	asabali	0013	#	#	##	##				
+sanzhi	asabali	0013	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0013	ag-ur-da	go.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0013	ʡaˁrmija-le	army-SPR	np:g	np		g	116	
+sanzhi	asabali	0013	#	#	##	##				
+sanzhi	asabali	0013	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0013	il-ka	that-down	dem_pro:obl	dem_pro		obl	116	
+sanzhi	asabali	0013	hetːu-w-a	there-M-SPR	dem_pro:g	dem_pro		g	169	bridging
+sanzhi	asabali	0013	w-it-eʁ-ib-da	M-thither-go.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0014	#	#	##	##				
+sanzhi	asabali	0014	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0014	ca	one	ln_num	ln_num				
+sanzhi	asabali	0014	žumaˁʡ	week	np:other	np		other		
+sanzhi	asabali	0014	pojezd-le-w	train-SPR-M	np:l	np		l	119	new
+sanzhi	asabali	0014	kelg-un-da	remain.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0014	ca	one	ln_num	ln_num				
+sanzhi	asabali	0014	žumaˁʡ	week	np:other	np		other		
+sanzhi	asabali	0015	#	#	##	##				
+sanzhi	asabali	0015	0	0_they	0.h:a	0	h	a	120	bridging
+sanzhi	asabali	0015	0	0_us	0.1:p	0	1	p	121	bridging
+sanzhi	asabali	0015	woronež-le	Voronezh-SPR	pn_np:g	pn_np		g	122	new
+sanzhi	asabali	0015	d-erč-ib-da	1/2PL-lead.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0015	#	#	#cv	#cv				
+sanzhi	asabali	0015	0	0_they	0.h:a_cv	0	h	a_cv	120	
+sanzhi	asabali	0015	0	0_us	0.1:p	0	1	p	121	
+sanzhi	asabali	0015	či-r-ka-d-at-ur-re	SPR-ABL-down-1/2PL-let.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0015	woronež-le	Voronezh-SPR	pn_np:l	pn_np		l	122	
+sanzhi	asabali	0016	#	#	##	##				
+sanzhi	asabali	0016	0	0_we	0.1:s	0	1	s	121	
+sanzhi	asabali	0016	woronež-le-d	Voronezh-SPR-1/2PL	pn_np:l	pn_np		l	122	
+sanzhi	asabali	0016	kelg-un-da	remain.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0016	ca	one	ln_num	ln_num				
+sanzhi	asabali	0016	bac-de	moon-PL	np:other	np		other		
+sanzhi	asabali	0016	=l	=PRT	=rn	=rn				
+sanzhi	asabali	0016	k'ʷel	two	rn_num	rn_num				
+sanzhi	asabali	0016	bac-de	moon-PL	rn_np	rn_np				
+sanzhi	asabali	0016	=l	=PRT	=rn	=rn				
+sanzhi	asabali	0016	#	#	##neg	##neg				
+sanzhi	asabali	0016	0	0_I	0.1:ncs	0	1	ncs	103	
+sanzhi	asabali	0016	a-b-alχ-ad	NEG-N-know.IPFV-PRS.1	other	other				
+sanzhi	asabali	0016	#	#	##	##				
+sanzhi	asabali	0016	sa-w-eʁ-ib	hither-M-go.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0016	ca	one	ln_deti	ln_deti				
+sanzhi	asabali	0016	kapitan	captain	np.h:s	np	h	s	123	new
+sanzhi	asabali	0017	#	#	##	##				
+sanzhi	asabali	0017	kapitan	captain	np.h:s	np	h	s	123	
+sanzhi	asabali	0017	sa-jʁ-ib	hither-come.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0017	#	#	##ds	##ds				
+sanzhi	asabali	0017	wallah	by.God	other	other				
+sanzhi	asabali	0017	0	0_captain	0.1:ncs	0	1	ncs	123	
+sanzhi	asabali	0017	saldat	soldier	np:s	np		s	124	bridging
+sanzhi	asabali	0017	ʡaˁʁnil	must	lv_aux	lv_aux				
+sanzhi	asabali	0017	ca-w	be-M	v:predex	v		predex		
+sanzhi	asabali	0017	#	#	##	##				
+sanzhi	asabali	0017	0	0_captain	0.h:s_ds	0	h	s_ds	123	
+sanzhi	asabali	0017	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	asabali	0018	#	#	#cv	#cv				
+sanzhi	asabali	0018	nušːa	1PL	pro.1:s_cv	pro	1	s_cv	121	
+sanzhi	asabali	0018	balnicːa-la	hospital-GEN	ln_np:poss	ln_np		poss	125	new
+sanzhi	asabali	0018	karidor-re	corridor[R]-SPR	np:l	np		l	126	bridging
+sanzhi	asabali	0018	ka-d-icː-ul-le-de	down-1/2PL-stand.PFV-ICVB-CVB-PST	v:pred	v		pred		
+sanzhi	asabali	0018	rjad-li-cːella	row-OBL-COMIT	np:other	np		other		
+sanzhi	asabali	0018	saldat	soldier	rn_np	rn_np				
+sanzhi	asabali	0018	#	#	#ac_in	#ac_in				
+sanzhi	asabali	0018	0	0_we	0.1:s_in	0	1	s_in	121	
+sanzhi	asabali	0018	kamisːija-le	commission[R]-SPR	np:g	np		g	127	new
+sanzhi	asabali	0018	di-d-ij	in(side)-1/2PL-INF1	v:pred	v		pred		
+sanzhi	asabali	0019	#	#	#cv	#cv				
+sanzhi	asabali	0019	0	0_captain	0.h:s_cv	0	h	s_cv	123	
+sanzhi	asabali	0019	sa-ač'-ib-le	hither-come.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0019	#	#	##	##				
+sanzhi	asabali	0019	b-elč'-un	N-read.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0019	il-i-l	that-OBL-ERG	dem_pro.h:a	dem_pro	h	a	123	
+sanzhi	asabali	0019	Gadžimuradow	Gadzhimuradow	pn_np.h:other	pn_np	h	other		
+sanzhi	asabali	0019	takoj	such[R]	other	other				
+sanzhi	asabali	0019	i	and	other	other				
+sanzhi	asabali	0019	takoj	such[R]	other	other				
+sanzhi	asabali	0019	takoj	such[R]	other	other				
+sanzhi	asabali	0020	#	#	##	##				
+sanzhi	asabali	0020	sukːil	all	ln	ln				
+sanzhi	asabali	0020	=ra	=and	=ln	=ln				
+sanzhi	asabali	0020	nušːa	1PL	pro.1:p	pro	1	p	128	bridging
+sanzhi	asabali	0020	hel-tːi	that-PL	rn	rn				
+sanzhi	asabali	0020	darginci	Dargi.people	rn_np.h	rn_np	h			
+sanzhi	asabali	0020	gu-či-d-aˁq-ib-da	down-SPR-1/2PL-assemble.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0020	hel-i-l	that-OBL-ERG	dem_pro.h:a	dem_pro	h	a	123	
+sanzhi	asabali	0021	#	#	#cv	#cv				
+sanzhi	asabali	0021	urč'emal	nine	ln_num	ln_num				
+sanzhi	asabali	0021	saldat	soldier	np.h:s_cv	np	h	s_cv	128	
+sanzhi	asabali	0021	tːura-sa-aʁ-ib-le	outside-hither-come.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0021	#	#	#pc	#pc				
+sanzhi	asabali	0021	čina	where	intrg_other:g	intrg_other		g		
+sanzhi	asabali	0021	0	0_we	0.1:s_pc	0	1	s_pc	128	
+sanzhi	asabali	0021	d-ax-an-te-da	1/2PL-go-PTCP-ATTR.PL-1	v:pred	v		pred		
+sanzhi	asabali	0021	=ja	=Q	=other	=other				
+sanzhi	asabali	0022	#	#	##	##				
+sanzhi	asabali	0022	0	0_captain	0.h:a	0	h	a	123	
+sanzhi	asabali	0022	0	0_us	0.1:p	0	1	p	128	
+sanzhi	asabali	0022	d-erč-ib-da	1/2PL-lead.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0022	astalawaj-le	canteen[R]-SPR	np:g	np		g	129	new
+sanzhi	asabali	0022	#	#	##	##				
+sanzhi	asabali	0022	qara-la	legumes-GEN	ln_np:poss	ln_np		poss		
+sanzhi	asabali	0022	kaš	porridge	np:s	np		s	130	new
+sanzhi	asabali	0022	le-b-de	exist-N-PST	other:predex	other		predex		
+sanzhi	asabali	0022	qara-la	legumes-GEN	ln_np:poss	ln_np		poss		
+sanzhi	asabali	0022	kaš	porridge	np:dt_s	np		dt_s	130	
+sanzhi	asabali	0023	#	#	#cv	#cv				
+sanzhi	asabali	0023	0	0_porridge	0:s_cv	0		s_cv	130	
+sanzhi	asabali	0023	b-uc'-ar-re	N-roast.IPFV-PRS-CVB	v:pred	v		pred		
+sanzhi	asabali	0023	#	#	#cv.neg	#cv.neg				
+sanzhi	asabali	0023	0	0_I	0.1:a_cv	0	1	a_cv	103	
+sanzhi	asabali	0023	hel	that	dem_pro:p	dem_pro		p	130	
+sanzhi	asabali	0023	b-erkʷ-ij	N-eat.PFV-INF1	v:pred	v		pred		
+sanzhi	asabali	0023	a-jχ-ub-le	NEG-be.able.PFV-PRET-CVB	rv_aux	rv_aux				
+sanzhi	asabali	0023	#	#	#cv	#cv				
+sanzhi	asabali	0023	0	0_I	0.1:a_cv	0	1	a_cv	103	
+sanzhi	asabali	0023	b-abq'i	N-half	np:p	np		p	131	bridging
+sanzhi	asabali	0023	b-erkʷ-un-ne	N-eat.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0023	#	#	#cv.neg	#cv.neg				
+sanzhi	asabali	0023	0	0_I	0.1:a_cv	0	1	a_cv	103	
+sanzhi	asabali	0023	b-abq'i	N-half	np:p	np		p	132	bridging
+sanzhi	asabali	0023	a-b-erkʷ-un-ne	NEG-N-eat.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0023	#	#	##	##				
+sanzhi	asabali	0023	0	0_us	0.1:p	0	1	p		
+sanzhi	asabali	0023	gu-r-ha-d-erč'-ib-da	down-ABL-upwards-1/2PL-drive.PFV-PRET-1	v:pred	v		pred	128	
+sanzhi	asabali	0023	hel-i-l	that-OBL-ERG	dem_pro.h:a	dem_pro	h	a	123	
+sanzhi	asabali	0024	#	#	##	##				
+sanzhi	asabali	0024	hel	that	ln_dem	ln_dem				
+sanzhi	asabali	0024	#	#	#rc	#rc				
+sanzhi	asabali	0024	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0024	gu-r-a-jcː-ur	down-ABL-NEG-get.up.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0024	%	%	%	%				
+sanzhi	asabali	0024	zamana	time	np:other	np		other		
+sanzhi	asabali	0024	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	103	
+sanzhi	asabali	0024	ul-be	eye-PL	np:s	np		s	133	bridging
+sanzhi	asabali	0024	het	that	ln_dem	ln_dem				
+sanzhi	asabali	0024	kaš-le-d	porridge-SPR-NPL	np:l	np		l	132	
+sanzhi	asabali	0024	kelg-un	remain.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0025	#	#	#cv.neg	#cv.neg				
+sanzhi	asabali	0025	du	1SG	pro.1:s_cv	pro	1	s_cv	103	
+sanzhi	asabali	0025	w-elqː-un-ne-kːʷi	M-sate.PFV-PRET-CVB-NEG.PST	v:pred	v		pred		
+sanzhi	asabali	0025	=q'al	=MOD	=other	=other				
+sanzhi	asabali	0025	#	#	##	##				
+sanzhi	asabali	0025	nu	well	other	other				
+sanzhi	asabali	0025	vse	all[R]	other	other				
+sanzhi	asabali	0025	rawno	the.same[R]	other	other				
+sanzhi	asabali	0025	0	0_porridge	0.h:s	0	h	s	132	
+sanzhi	asabali	0025	kelg-un	remain.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0026	#	#	#cv	#cv				
+sanzhi	asabali	0026	0	0_captain	0.h:a_cv	0	h	a_cv	123	
+sanzhi	asabali	0026	0	0_us	0.1:p	0	1	p	128	
+sanzhi	asabali	0026	d-erč-ib-le	1/2PL-lead.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0026	pojezd-le	train-SPR	np:g	np		g	134	new
+sanzhi	asabali	0026	#	#	##	##				
+sanzhi	asabali	0026	0	0_captain	0.h:a	0	h	a	123	
+sanzhi	asabali	0026	0	0_us	0.1:p	0	1	p	128	
+sanzhi	asabali	0026	či-ka-d-at-ur-da	SPR-down-1/2PL-let.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0026	daˁrχaˁlla	in.the.evening	other	other				
+sanzhi	asabali	0027	#	#	##	##				
+sanzhi	asabali	0027	0	0_they	0.h:a	0	h	a	135	bridging
+sanzhi	asabali	0027	0	0_us	0.1:a	0	1	a	128	
+sanzhi	asabali	0027	sa-č-ib-da	hither-lead.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0027	daˁrχːaˁ	evening	ln	ln				
+sanzhi	asabali	0027	zamana	time	np:other	np		other		
+sanzhi	asabali	0027	#	#	##	##				
+sanzhi	asabali	0027	sːaˁʡaˁt	hour	np:s	np		s		
+sanzhi	asabali	0027	wec'-nu	ten-tenth	rn	rn				
+sanzhi	asabali	0027	k'ʷi-ra	two-NUM	rn_num	rn_num				
+sanzhi	asabali	0027	le-d-de	exist-NPL-PST	other:predex	other		predex		
+sanzhi	asabali	0027	=l	=PRT	=other	=other				
+sanzhi	asabali	0027	#	#	##neg	##neg				
+sanzhi	asabali	0027	0	0_I	0.1:ncs	0	1	ncs	103	
+sanzhi	asabali	0027	aχːu	not.know	v:pred	v		pred		
+sanzhi	asabali	0027	#	#	#cc:p	#cc		p		
+sanzhi	asabali	0027	ce	what	intrg_other:pred	intrg_other		pred		
+sanzhi	asabali	0027	0	0_time	0:s	0		s		
+sanzhi	asabali	0027	ca-d-de	be-NPL-PST	cop	cop				
+sanzhi	asabali	0027	=l	=PRT	=other	=other				
+sanzhi	asabali	0027	%	%	%	%				
+sanzhi	asabali	0027	Kuriski-le	Kursk-SPR	pn_np:g	pn_np		g	136	new
+sanzhi	asabali	0028	#	#	#cv	#cv				
+sanzhi	asabali	0028	0	0_they	0.h:a_cv	0	h	a_cv	135	
+sanzhi	asabali	0028	0	0_us	0.1:p	0	1	p	128	
+sanzhi	asabali	0028	Kuriski	Kursk	ln_pn_np	ln_pn_np				
+sanzhi	asabali	0028	wokzal-le	station[R]-SPR	np:l	np		l	137	bridging
+sanzhi	asabali	0028	či-r-ka-d-at-ur-re	SPR-ABL-down-1/2PL-let.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0028	#	#	#cv	#cv				
+sanzhi	asabali	0028	0	0_they	0.h:a_cps_cv	0	h	a_cps_cv	135	
+sanzhi	asabali	0028	telepun	telephone	other:lvc	other		lvc		
+sanzhi	asabali	0028	d-aˁq-ib-le	NPL-hit.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0028	#	#	##	##				
+sanzhi	asabali	0028	0	0_they	0.h:a	0	h	a	135	
+sanzhi	asabali	0028	sa-č-ib	hither-lead.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0028	ču-la	REFL.PL-GEN	ln_refl.h:poss	ln_refl	h	poss	135	
+sanzhi	asabali	0028	mašin	car	np:p	np		p	138	new
+sanzhi	asabali	0029	#	#	##	##				
+sanzhi	asabali	0029	0	0_they	0.h:a	0	h	a	135	
+sanzhi	asabali	0029	či-ka-d-at-ur-da	SPR-down-1/2PL-let.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0029	nušːa	1PL	pro.1:p	pro	1	p	128	
+sanzhi	asabali	0029	mašin-ne	car-SPR	np:l	np		l	138	
+sanzhi	asabali	0029	#	#	##	##				
+sanzhi	asabali	0029	0	0_they	0.h:a	0	h	a	135	
+sanzhi	asabali	0029	0	0_us	0.1:p	0	1	p	126	
+sanzhi	asabali	0029	d-erč-ib-da	1/2PL-lead.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0029	kazarma-le	barracks-SPR	np:g	np		g	139	new
+sanzhi	asabali	0030	#	#	#nc	#nc				
+sanzhi	asabali	0030	nu	well	nc	nc				
+sanzhi	asabali	0030	kanišno	NA	nc	nc				
+sanzhi	asabali	0030	di-la	1SG-GEN	nc_pro.1	nc_pro	1		103	
+sanzhi	asabali	0030	gu-b	down-N	nc	nc				
+sanzhi	asabali	0030	kelg-un	remain.PFV-PRET	nc	nc				
+sanzhi	asabali	0030	#	#	##neg	##neg				
+sanzhi	asabali	0030	dam	1SG.DAT	pro.1:ncs	pro	1	ncs	103	
+sanzhi	asabali	0030	heltːu-d	there-NPL	other	other				
+sanzhi	asabali	0030	ʡuˁrus	Russian	ln	ln				
+sanzhi	asabali	0030	ʁaj	language	np:p	np		p	140	bridging
+sanzhi	asabali	0030	d-alχ-ul	NPL-know.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0030	akːʷ-a-di	NEG-HAB.PST-1	rv_aux	rv_aux				
+sanzhi	asabali	0030	sawsem	quite[R]	other	other				
+sanzhi	asabali	0031	#	#	##neg	##neg				
+sanzhi	asabali	0031	0	0_I	0.1:ncs	0	1	ncs	103	
+sanzhi	asabali	0031	ʡuˁrus	Russian	ln	ln				
+sanzhi	asabali	0031	ʁaj	language	np:p	np		p	140	
+sanzhi	asabali	0031	d-alχ-ul	NPL-know.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0031	akːʷ-a-di	NEG-HAB.PST-1	rv_aux	rv_aux				
+sanzhi	asabali	0032	#	#	#cv	#cv				
+sanzhi	asabali	0032	ʁaj	talk	other:lvc	other		lvc		
+sanzhi	asabali	0032	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0032	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	asabali	0032	hel-tːi	that-PL	dem_pro.h:s_cps_cv	dem_pro	h	s_cps_cv	141	bridging
+sanzhi	asabali	0032	#	#	#cv.neg	#cv.neg				
+sanzhi	asabali	0032	dam	1SG.DAT	pro.1:ncs_cv	pro	1	ncs_cv	103	
+sanzhi	asabali	0032	hel-tːi	that-PL	ln_dem	ln_dem				
+sanzhi	asabali	0032	ʁaj-la	word-GEN	ln_np:poss	ln_np		poss		
+sanzhi	asabali	0032	luʁat	language	np:p	np		p	140	
+sanzhi	asabali	0032	irʁ-ul	understand.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0032	akːʷa-di	be.NEG-1	rv_aux	rv_aux				
+sanzhi	asabali	0033	#	#	##	##				
+sanzhi	asabali	0033	0	0_that	0:s	0		s	170	bridging
+sanzhi	asabali	0033	očen	very	other	other				
+sanzhi	asabali	0033	qihin-ne-de	difficult-ADVZ-PST	other:pred	other		pred		
+sanzhi	asabali	0033	dam	1SG.DAT	pro.1:obl	pro	1	obl	103	
+sanzhi	asabali	0033	qihin-ne	difficult-ADVZ	other	other				
+sanzhi	asabali	0033	c'aq'-le	very-ADVZ	other	other				
+sanzhi	asabali	0034	#	#	#cv	#cv				
+sanzhi	asabali	0034	c'il	then	other	other				
+sanzhi	asabali	0034	=ra	=and	=other	=other				
+sanzhi	asabali	0034	0	0_I	0.1:ncs_cv	0	1	ncs_cv	103	
+sanzhi	asabali	0034	hel-tːi	that-PL	ln_dem	ln_dem				
+sanzhi	asabali	0034	bahla-bahlal	NA	nc	nc				
+sanzhi	asabali	0034	ʁaj	language	np:p	np		p	140	
+sanzhi	asabali	0034	=ra	=and	=other	=other				
+sanzhi	asabali	0034	d-aχ-ur-re	NPL-know.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0034	#	#	#cv	#cv				
+sanzhi	asabali	0034	0	0_I	0.1:a	0	1	a	103	
+sanzhi	asabali	0034	bahla-bahlal	NA	nc	nc				
+sanzhi	asabali	0034	islužba	service	np:p	np		p	171	bridging
+sanzhi	asabali	0034	=ra	=and	=other	=other				
+sanzhi	asabali	0034	b-iqː-ul	N-carry.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0035	#	#	##	##				
+sanzhi	asabali	0035	#	#	#ac	#ac				
+sanzhi	asabali	0035	du	1SG	pro.1:s_ds	pro	1	s_ds	103	
+sanzhi	asabali	0035	b-arx-le	N-direct-ADVZ	other	other				
+sanzhi	asabali	0035	b-urs-ille	N-tell-COND.1.PRS	v:pred	v		pred		
+sanzhi	asabali	0035	%	%	%	%				
+sanzhi	asabali	0035	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0035	ʡaˁbal	three	ln_num	ln_num				
+sanzhi	asabali	0035	dus	year	np:other	np		other		
+sanzhi	asabali	0035	kelg-un-da	remain.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0035	#	#	##neg	##neg				
+sanzhi	asabali	0035	du	1SG	pro.1:s	pro	1	s	103	
+sanzhi	asabali	0035	gaupaχt-le	guardhouse[R]-SPR	np:g	np		g	142	bridging
+sanzhi	asabali	0035	a-ka-jč-ib-da	NEG-down-occur.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0035	ca	one	ln_deti	ln_deti				
+sanzhi	asabali	0035	sːaˁʡaˁt	hour	np:other	np		other		
+sanzhi	asabali	0036	#	#	#nc	#nc				
+sanzhi	asabali	0036	du-l	1SG-ERG	nc_pro.1	nc_pro	1		103	
+sanzhi	asabali	0036	islužba	service	nc_np	nc_np			171	
+sanzhi	asabali	0036	#	#	##	##				
+sanzhi	asabali	0036	c'aq'-le	very-ADVZ	ln	ln				
+sanzhi	asabali	0036	paslužanni	obedient[R]	ln_adj	ln_adj				
+sanzhi	asabali	0036	admi-de	person-PST	np.h:pred	np	h	pred		
+sanzhi	asabali	0036	du	1SG	pro.1:s	pro	1	s	103	
+sanzhi	asabali	0037	#	#	##	##				
+sanzhi	asabali	0037	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0037	qːaraʔul-le-w	guard-SPR-M	np:other	np		other	143	new
+sanzhi	asabali	0037	kelg-un-da	remain.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0037	#	#	##	##				
+sanzhi	asabali	0037	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0037	rota	company[R]	ln	ln				
+sanzhi	asabali	0037	aχran-de	guard-PST	np:pred	np		pred	143	
+sanzhi	asabali	0038	#	#	##	##				
+sanzhi	asabali	0038	ca	one	ln_deti	ln_deti				
+sanzhi	asabali	0038	dučːi	night	np:other	np		other		
+sanzhi	asabali	0038	0	0_we	0.1:s	0	1	s	143	
+sanzhi	asabali	0038	kazarma-le-d	barracks-SPR-NPL	np:pred_l	np		pred_l	139	
+sanzhi	asabali	0038	d-irχʷ-a-di	1/2PL-be.IPFV-HAB.PST-1	cop	cop				
+sanzhi	asabali	0038	#	#	##	##				
+sanzhi	asabali	0038	ca	one	ln_deti	ln_deti				
+sanzhi	asabali	0038	dučːi	night	np:other	np		other		
+sanzhi	asabali	0038	0	0_we	0.1:s	0	1	s	143	
+sanzhi	asabali	0038	aχran-ne	guard-SPR	np:pred_l	np		pred_l		
+sanzhi	asabali	0038	#	#	##	##				
+sanzhi	asabali	0038	0	0_we	0.1:s	0	1	s	143	
+sanzhi	asabali	0038	aχranjat	guard[R]	other	other				
+sanzhi	asabali	0038	d-ik'ʷ-a-di	1/2PL-look.at.IPFV-HAB.PST-1	v:pred	v		pred		
+sanzhi	asabali	0039	#	#	##	##				
+sanzhi	asabali	0039	ganilla	in.winter	other	other				
+sanzhi	asabali	0039	c'aq'-le	very-ADVZ	other	other				
+sanzhi	asabali	0039	b-uχːar-re	N-cold-ADVZ	other:pred	other		pred		
+sanzhi	asabali	0039	b-irχʷ-iri	N-become.IPFV-HAB.PST	v:pred	v		pred		
+sanzhi	asabali	0039	#	#	##	##				
+sanzhi	asabali	0039	χːula-ce	big-ATTR.SG	ln_adj	ln_adj				
+sanzhi	asabali	0039	duˁħi	snow	np:s	np		s		
+sanzhi	asabali	0039	b-irq'-iri	N-do.IPFV-HAB.PST	v:pred	v		pred		
+sanzhi	asabali	0039	#	#	##	##				
+sanzhi	asabali	0039	č'an	wind	np:s	np		s		
+sanzhi	asabali	0039	b-irχʷ-iri	N-be.IPFV-HAB.PST	v:predex	v		predex		
+sanzhi	asabali	0039	nu	well	other	other				
+sanzhi	asabali	0040	#	#	##	##				
+sanzhi	asabali	0040	ʡaˁbal	three	ln_num	ln_num				
+sanzhi	asabali	0040	dus	year	np:other	np		other		
+sanzhi	asabali	0040	islužit	serve[R]	other	other				
+sanzhi	asabali	0040	iχ-ub-da	be.PFV-PRET-1	cop	cop				
+sanzhi	asabali	0040	hetːu-w	there-M	other:pred_l	other		pred_l		
+sanzhi	asabali	0040	du	1SG	pro.1:s	pro	1	s	103	
+sanzhi	asabali	0041	#	#	##	##				
+sanzhi	asabali	0041	0	0_they	0.h:s	0	h	s	144	bridging
+sanzhi	asabali	0041	sa-b-eʁ-ib	hither-HPL-come.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0041	#	#	##	##				
+sanzhi	asabali	0041	wallah	by.God	other	other				
+sanzhi	asabali	0041	0	0_they	0.h:s_ds	0	h	s_ds	144	
+sanzhi	asabali	0041	b-ik'ʷ-ar	HPL-say.IPFV-PRS	v:pred	v		pred		
+sanzhi	asabali	0041	#	#	#ds_pc	#ds_pc				
+sanzhi	asabali	0041	šaχta-l-cːe	mine-OBL-IN	np:g	np		g	145	new
+sanzhi	asabali	0041	0	0_volunteers	0.2:s_pc	0	2	s_pc	146	bridging
+sanzhi	asabali	0041	d-ax-an-te	1/2PL-go-PTCP-ATTR.PL	v:pred	v		pred		
+sanzhi	asabali	0041	#	#	##	##				
+sanzhi	asabali	0041	0	0_they	0.h:s_ds	0	h	s_ds	144	
+sanzhi	asabali	0041	b-ik'ʷ-ar	HPL-say.IPFV-PRS	v:pred	v		pred		
+sanzhi	asabali	0041	#	#	#nc	#nc				
+sanzhi	asabali	0041	dabrawulca-be	volunteer[R]-PL	nc	nc				
+sanzhi	asabali	0041	dawaj	let's	nc	nc				
+sanzhi	asabali	0042	#	#	##	##				
+sanzhi	asabali	0042	na	now	other	other				
+sanzhi	asabali	0042	dam	1SG.DAT	pro.1:nca_cpa	pro	1	nca_cpa	103	
+sanzhi	asabali	0042	=ra	=and	=other	=other				
+sanzhi	asabali	0042	han	remember	other:lvc	other		lvc		
+sanzhi	asabali	0042	b-ič-ib	N-occur.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0042	#	#	#cc_pc:p	#cc_pc		p		
+sanzhi	asabali	0042	#	#	#pc	#pc				
+sanzhi	asabali	0042	0	0_I	0.1:s_pc	0	1	s_pc	103	
+sanzhi	asabali	0042	w-ax-an-da	M-go-PTCP-1	v:pred	v		pred		
+sanzhi	asabali	0042	%	%	%	%				
+sanzhi	asabali	0042	0	0_I	0.1:a_pc	0	1	a_pc	103	
+sanzhi	asabali	0042	q'ʷila	a.little	ln	ln				
+sanzhi	asabali	0042	arc	money	np:p	np		p		
+sanzhi	asabali	0042	d-irq'-an-da	NPL-do.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	asabali	0043	#	#	#cv	#cv				
+sanzhi	asabali	0043	#	#	##ds	##ds				
+sanzhi	asabali	0043	r-uqna	F-old	ln_adj	ln_adj				
+sanzhi	asabali	0043	aba	mother	np.h:s	np	h	s	147	bridging
+sanzhi	asabali	0043	le-r-de	exist-F-PST	v:predex	v		predex		
+sanzhi	asabali	0043	di-la	1SG-GEN	rn_pro.1:obl	rn_pro	1	obl	103	
+sanzhi	asabali	0043	#	#	#ds_pc	#ds_pc				
+sanzhi	asabali	0043	0	0_I	0.1:a_pc	0	1	a_pc	103	
+sanzhi	asabali	0043	aba-j	mother-DAT	np.h:obl	np	h	obl	147	
+sanzhi	asabali	0043	d-alli	1/2PL-together	other	other				
+sanzhi	asabali	0043	d-iqː-an-da	1/2PL-carry.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	asabali	0043	%	%	%	%				
+sanzhi	asabali	0043	0	0_I	0.1:s_ds_cv	0	1	s_ds_cv	103	
+sanzhi	asabali	0043	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0044	#	#	#nc	#nc				
+sanzhi	asabali	0044	du	1SG	nc_pro.1	nc_pro	1		103	
+sanzhi	asabali	0044	=ra	=and	nc	nc				
+sanzhi	asabali	0044	hel-tː-a-cːella	that-PL-OBL-COMIT	nc_dem_pro.h	nc_dem_pro	h		144	
+sanzhi	asabali	0044	w-alli	M-together	nc	nc				
+sanzhi	asabali	0045	#	#	##	##				
+sanzhi	asabali	0045	xujal	five	ln_num	ln_num				
+sanzhi	asabali	0045	duˁrħuˁ	boy	np.h:pred	np	h	pred	148	bridging
+sanzhi	asabali	0045	le-d-de	exist-1/2PL-PST	cop	cop				
+sanzhi	asabali	0045	nušːa	1PL	pro.1:s	pro	1	s	148	
+sanzhi	asabali	0045	#	#	##	##				
+sanzhi	asabali	0045	ʡaˁbal	three	ln_num	ln_num				
+sanzhi	asabali	0045	nušːa	1PL	pro.1:s	pro	1	s	149	bridging
+sanzhi	asabali	0045	daʁistan-na-de	Daghestan-GEN-PST	pn_np:pred_other	pn_np		pred_other		
+sanzhi	asabali	0045	#	#	##	##				
+sanzhi	asabali	0045	k'ʷel	two	np.h:s	np	h	s	150	bridging
+sanzhi	asabali	0045	ʡuˁrus	Russian	ln_adj	ln_adj				
+sanzhi	asabali	0045	duˁrħuˁ-de	boy-PST	np.h:other	np	h	other		
+sanzhi	asabali	0046	#	#	##	##				
+sanzhi	asabali	0046	0	0_we	0.1:s	0	1	s	148	
+sanzhi	asabali	0046	ag-ur-da	go.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0046	šaχta-l-cːe	mine-OBL-IN	np:g	np		g	145	
+sanzhi	asabali	0046	#	#	##	##				
+sanzhi	asabali	0046	0	0_we	0.1:a_cv	0	1	a_cv	148	
+sanzhi	asabali	0046	šaχta-cːe-d	mine-IN-1/2PL	np:l	np		l	145	
+sanzhi	asabali	0046	d-irq'-ul	1/2PL-do.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0046	kelg-un-da	remain.PFV-PRET-1	rv_aux	rv_aux				
+sanzhi	asabali	0047	#	#	##	##				
+sanzhi	asabali	0047	#	#	#cv	#cv				
+sanzhi	asabali	0047	ca	one	ln_deti	ln_deti				
+sanzhi	asabali	0047	bar	day	np:other	np		other		
+sanzhi	asabali	0047	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	103	
+sanzhi	asabali	0047	t'up	finger	np:s	np		s	151	bridging
+sanzhi	asabali	0047	mot'or-ri-cːe	engine-OBL-IN	np:g	np		g	152	new
+sanzhi	asabali	0047	bi-b-ič-ib-le	in(side)-N-occur.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0047	#	#	#ac_pc	#ac_pc				
+sanzhi	asabali	0047	0	0_I	0.1:a_cps_pc	0	1	a_cps_pc	103	
+sanzhi	asabali	0047	qːurt	push	other:lvc	other		lvc		
+sanzhi	asabali	0047	b-it-arq'-ib-il	N-thither-do.PFV-PRET-PTCP	v:pred	v		pred		
+sanzhi	asabali	0047	%	%	%	%				
+sanzhi	asabali	0047	0	0_finger	0:a_cps	0		a_cps	151	
+sanzhi	asabali	0047	c'ip	sharp	other:lvc	other		lvc		
+sanzhi	asabali	0047	či-r-aʁ-ib	SPR-ABL-do.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0048	#	#	##	##				
+sanzhi	asabali	0048	il-tːu-w	that-LOC-M	dem_pro:l	dem_pro		l		
+sanzhi	asabali	0048	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0048	kelg-un-da	remain.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0048	aʁʷc'al	forty	ln_adj	ln_adj				
+sanzhi	asabali	0048	bar	day	np:other	np		other		
+sanzhi	asabali	0048	banːični-le-w	hospital[R]-SPR-M	np:l	np		l	153	new
+sanzhi	asabali	0049	#	#	##	##				
+sanzhi	asabali	0049	hetːu-r	there-ABL	other:obl	other		obl	153	
+sanzhi	asabali	0049	c'ili	then	other	other				
+sanzhi	asabali	0049	du	1SG	pro.1:s	pro	1	s	103	
+sanzhi	asabali	0049	gu-r-sa-ač'-ib-da	down-ABL-hither-come.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0049	qili	home	np:g	np		g	154	bridging
+sanzhi	asabali	0050	#	#	##	##				
+sanzhi	asabali	0050	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0050	gu-r-sa-ač'-ib-da	down-ABL-hither-come.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0050	#	#	#cc	#cc				
+sanzhi	asabali	0050	du-l	1SG-ERG	pro.1:a	pro	1	a	103	
+sanzhi	asabali	0050	padjemni	raising[R]	ln	ln				
+sanzhi	asabali	0050	arc	money	np:p	np		p	155	new
+sanzhi	asabali	0050	ha-asː-ib-te-de	upwards-take.PFV-PRET-ATTR.PL-PST	v:pred	v		pred		
+sanzhi	asabali	0051	#	#	##neg	##neg				
+sanzhi	asabali	0051	nu	well	other	other				
+sanzhi	asabali	0051	0	0_I	pro.1:ncs	pro	1	ncs	103	
+sanzhi	asabali	0051	hana	now	other	other				
+sanzhi	asabali	0051	han	remember	other:lvc	other		lvc		
+sanzhi	asabali	0051	d-il-akːu	NPL-remain.PFV-NEG	v:pred	v		pred		
+sanzhi	asabali	0051	#	#	#cc:p	#cc		p		
+sanzhi	asabali	0051	0	0_money	0:s	0		s	155	
+sanzhi	asabali	0051	čum-de	how.many-PST	intrg_other:pred	intrg_other		pred		
+sanzhi	asabali	0051	=l	=PRT	=other	=other				
+sanzhi	asabali	0051	#	#	##	##				
+sanzhi	asabali	0051	0	0_money	0:s	0		s	155	
+sanzhi	asabali	0051	azir	thousand	ln_num	ln_num				
+sanzhi	asabali	0051	qːuruš-de	ruble-PST	np:pred	np		pred		
+sanzhi	asabali	0051	=l	=PRT	=other	=other				
+sanzhi	asabali	0051	#	#	#cc:p	#cc		p		
+sanzhi	asabali	0051	0	0_money	0:s	0		s	155	
+sanzhi	asabali	0051	ce	what	intrg_other:pred	intrg_other		pred		
+sanzhi	asabali	0051	ca-d-de	be-NPL-PST	cop	cop				
+sanzhi	asabali	0051	=l	=PRT	=other	=other				
+sanzhi	asabali	0051	#	#	##	##				
+sanzhi	asabali	0051	0	0_they	0.h:a	0	h	a	156	bridging
+sanzhi	asabali	0051	0	0_I	0.1:g	0	1	g	103	
+sanzhi	asabali	0051	0	0_money	0:p	0		p	155	
+sanzhi	asabali	0051	d-ičː-ib	NPL-give.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0051	#	#	#cv	#cv				
+sanzhi	asabali	0051	padjemni	raising[R]	np:other	np		other		
+sanzhi	asabali	0051	0	0_they	0.h:s_ds_cv	0	h	s_ds_cv	156	
+sanzhi	asabali	0051	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0052	#	#	#cv	#cv				
+sanzhi	asabali	0052	0	0_they	0.h:a_cv	0	h	a_cv	156	
+sanzhi	asabali	0052	hel-tːi	that-PL	dem_pro:p	dem_pro		p	155	
+sanzhi	asabali	0052	0	0_I	0.1:g	0	1	g	103	
+sanzhi	asabali	0052	d-ičː-ib-le	NPL-give.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0052	#	#	##	##				
+sanzhi	asabali	0052	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0052	qili	home	np:g	np		g	154	
+sanzhi	asabali	0052	sa-ač'-ib-da	hither-come.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0053	#	#	##	##				
+sanzhi	asabali	0053	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0053	qili-w	home-M	np:l	np		l	154	
+sanzhi	asabali	0053	kelg-un-da	remain.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0053	#	#	##	##				
+sanzhi	asabali	0053	0	0	0:s	0		s		
+sanzhi	asabali	0053	ca	one	ln_num	ln_num				
+sanzhi	asabali	0053	bac-de	moon-PST	np:pred	np		pred		
+sanzhi	asabali	0053	=l	=PRT	=rn	=rn				
+sanzhi	asabali	0053	#	#	##	##				
+sanzhi	asabali	0053	0	0	0:s	0		s		
+sanzhi	asabali	0053	k'ʷel	two	rn_num	rn_num				
+sanzhi	asabali	0053	bac-de	moon-PST	rn_np	rn_np				
+sanzhi	asabali	0053	=l	=PRT	=rn	=rn				
+sanzhi	asabali	0053	#	#	##neg	##neg				
+sanzhi	asabali	0053	0	0_I	0.1:ncs	0	1	ncs	103	
+sanzhi	asabali	0053	aχːu	not.know	other	other				
+sanzhi	asabali	0054	#	#	##	##				
+sanzhi	asabali	0054	0	0_people	0.h:s	0	h	s	157	new
+sanzhi	asabali	0054	ha-b-eʁ-ib	upwards-HPL-go.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0054	#	#	#cv	#cv				
+sanzhi	asabali	0054	#	#	#cv	#cv				
+sanzhi	asabali	0054	parkuror	procurator[R]	np.h:s_cps_ds_cv	np	h	s_cps_ds_cv	158	new
+sanzhi	asabali	0054	#	#	#ds_cv	#ds_cv				
+sanzhi	asabali	0054	wallah	by.God	other	other				
+sanzhi	asabali	0054	u	2SG	pro.2:s_cv	pro	2	s_cv	103	
+sanzhi	asabali	0054	čina	where	intrg_other:g	intrg_other		g		
+sanzhi	asabali	0054	=jal	=INDQ	=other	=other				
+sanzhi	asabali	0054	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0054	%	%	%	%				
+sanzhi	asabali	0054	waˁw	call	other:lvc	other		lvc		
+sanzhi	asabali	0054	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0054	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	asabali	0054	%	%	%	%				
+sanzhi	asabali	0054	0	0_people	0.h:s_ds_cv	0	h	s_ds_cv	157	
+sanzhi	asabali	0054	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0054	#	#	##	##				
+sanzhi	asabali	0054	Urkaraqar-a-j	Urkaraq-OBL-DAT	pn_np:g	pn_np		g	159	new
+sanzhi	asabali	0054	ag-ur-da	go.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0054	du	1SG	pro.1:s	pro	1	s	103	
+sanzhi	asabali	0055	#	#	##ds	##ds				
+sanzhi	asabali	0055	cellij	why	other	other				
+sanzhi	asabali	0055	sa-r-uq-un-de	hither-ABL-go.PFV-PRET-PST	v:pred	v		pred		
+sanzhi	asabali	0055	u	2SG	pro.2:s	pro	2	s	103	
+sanzhi	asabali	0055	cellij	why	other	other				
+sanzhi	asabali	0056	#	#	##	##				
+sanzhi	asabali	0056	hek'	DEM.up	nc	nc				
+sanzhi	asabali	0056	hek'-tːi	DEM.up-PL	ln_dem	ln_dem				
+sanzhi	asabali	0056	arc	money	np:p	np		p	155	
+sanzhi	asabali	0056	hi-l	who.OBL-ERG	intrg_other.h:a_pc	intrg_other	h	a_pc		
+sanzhi	asabali	0056	lukː-an-te	give.IPFV-PTCP-ATTR.PL	v:pred	v		pred		
+sanzhi	asabali	0056	=ja	=Q	=other	=other				
+sanzhi	asabali	0057	#	#	#pc	#pc				
+sanzhi	asabali	0057	arc	money	np:p	np		p	155	
+sanzhi	asabali	0057	lukː-an-te	give.IPFV-PTCP-ATTR.PL	v:pred	v		pred		
+sanzhi	asabali	0057	=q'al	=MOD	=other	=other				
+sanzhi	asabali	0057	du-l	1SG-ERG	pro.1:a_pc	pro	1	a_pc	103	
+sanzhi	asabali	0058	#	#	#nc	#nc				
+sanzhi	asabali	0058	0	0_money	nc_0	nc_0			155	
+sanzhi	asabali	0058	či-r-lukː-an-te	SPR-ABL-give.IPFV-PTCP-ATTR.PL	nc	nc				
+sanzhi	asabali	0058	ca-d	be-NPL	nc	nc				
+sanzhi	asabali	0059	#	#	##	##				
+sanzhi	asabali	0059	uː	uh	other	other				
+sanzhi	asabali	0059	0	0_I	0.1:s_ds	0	1	s_ds	103	
+sanzhi	asabali	0059	ha-ʔ-ib-da	upwards-say.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0059	#	#	##ds	##ds				
+sanzhi	asabali	0059	di-la	1SG-GEN	ln_pro.1:poss	ln_pro	1	poss	103	
+sanzhi	asabali	0059	qal	house	np:s_cps	np		s_cps	160	bridging
+sanzhi	asabali	0059	ʡuˁt'	fall.to.pieces	other:lvc	other		lvc		
+sanzhi	asabali	0059	b-uq-un	N-go.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0059	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	asabali	0059	#	#	##ds.neg	##ds.neg				
+sanzhi	asabali	0059	qili-w	home-M	np:l	np		l	154	
+sanzhi	asabali	0059	ča-k'al	who-INDEF	indef_other.h:s	indef_other	h	s		
+sanzhi	asabali	0059	w-aːkːu	M-be.NEG	v:predex	v		predex		
+sanzhi	asabali	0059	#	#	#cv	#cv				
+sanzhi	asabali	0059	aba	mother	np.h:s_cv	np	h	s_cv	147	
+sanzhi	asabali	0059	r-ebč'-ib-le	F-die.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0059	ca-r	be-F	rv_aux	rv_aux				
+sanzhi	asabali	0060	#	#	##	##				
+sanzhi	asabali	0060	ladna	alright[R]	other	other				
+sanzhi	asabali	0060	0	0_prosecutor	0.h:s_ds	0	h	s_ds	158	
+sanzhi	asabali	0060	ik'ʷ-ar	say.IPFV-PRS	v:pred	v		pred		
+sanzhi	asabali	0060	#	#	##ds	##ds				
+sanzhi	asabali	0060	0	0_I	0.2:a_cps	0	2	a_cps	103	
+sanzhi	asabali	0060	padpis	signature[R]	other:lvc	other		lvc		
+sanzhi	asabali	0060	b-arq'-a	N-do.PFV-IMP	v:pred	v		pred		
+sanzhi	asabali	0060	heštːu	here	other:l	other		l	161	bridging
+sanzhi	asabali	0060	#	#	##	##				
+sanzhi	asabali	0060	0	0_I	0.1:a_cpa	0	1	a_cpa	103	
+sanzhi	asabali	0060	padpis	signature[R]	other:lvc	other		lvc		
+sanzhi	asabali	0060	b-arq'-ib-da	N-do.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0060	hel-tːi	that-PL	dem_pro:p	dem_pro		p	161	
+sanzhi	asabali	0060	=ra	=and	=other	=other				
+sanzhi	asabali	0060	#	#	##	##				
+sanzhi	asabali	0060	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0060	kelg-un	remain.PFV-PRET	v:pred	v		pred		
+sanzhi	asabali	0060	#	#	#nc	#nc				
+sanzhi	asabali	0060	du	1SG	nc_pro.1	nc_pro	1		103	
+sanzhi	asabali	0060	=ra	=and	nc	nc				
+sanzhi	asabali	0061	#	#	#cv	#cv				
+sanzhi	asabali	0061	xu-c'a-nu	five-tenth-PRT	ln	ln				
+sanzhi	asabali	0061	urč'em-ra	nine-NUM	ln	ln				
+sanzhi	asabali	0061	ʔ-ib-il	say.PFV-PRET-PTCP	other	other				
+sanzhi	asabali	0061	dus-i-cːe-w	year-OBL-IN-M	np:other	np		other		
+sanzhi	asabali	0061	urcegc'al	sixty	np:other	np		other		
+sanzhi	asabali	0061	ʔ-ib-il-li-cːe-w	say.PFV-PRET-PTCP-OBL-IN-M	other	other				
+sanzhi	asabali	0061	ka-r-iž-ib-le	down-F-be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	asabali	0061	=ra	=and	=other	=other				
+sanzhi	asabali	0061	du	1SG	pro.1:s_cv	pro	1	s_cv	103	
+sanzhi	asabali	0061	=ra	=and	=other	=other				
+sanzhi	asabali	0062	#	#	##	##				
+sanzhi	asabali	0062	#	#	#ac_in	#ac_in				
+sanzhi	asabali	0062	hana	now	other	other				
+sanzhi	asabali	0062	0	0_I	0.1:s_in	0	1	s_in	103	
+sanzhi	asabali	0062	ištːu	here	other:g	other		g	162	unused
+sanzhi	asabali	0062	sa-jʁ-ij	hither-come.PFV-INF1	v:pred	v		pred		
+sanzhi	asabali	0062	=satːina	=as.much	=adp	=adp				
+sanzhi	asabali	0062	%	%	%	%				
+sanzhi	asabali	0062	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0062	kelg-un-da	remain.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0063	#	#	##	##				
+sanzhi	asabali	0063	nu	well	other	other				
+sanzhi	asabali	0063	c'ili	then	other	other				
+sanzhi	asabali	0063	ʡaˁħ-le	good-ADVZ	other	other				
+sanzhi	asabali	0063	er	life	other:lvc	other		lvc		
+sanzhi	asabali	0063	iχ-ub-da	be.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0063	du	1SG	pro.1:s_cps	pro	1	s_cps	103	
+sanzhi	asabali	0064	#	#	##	##				
+sanzhi	asabali	0064	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0064	šupira	driver	ln_np	ln_np				
+sanzhi	asabali	0064	kurs	course	np:l	np		l	163	new
+sanzhi	asabali	0064	b-elč'-un-da	N-learn.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0064	šupira	driver	ln	ln				
+sanzhi	asabali	0064	kurs-li-cːella	course-OBL-COMIT	np:obl	np		obl	163	
+sanzhi	asabali	0064	#	#	##neg	##neg				
+sanzhi	asabali	0064	0	0_I	0.1:a	0	1	a		
+sanzhi	asabali	0064	guž	hard	ln_adj	ln_adj				
+sanzhi	asabali	0064	ʡaˁči	work	np:p	np		p		
+sanzhi	asabali	0064	a-b-arq'-ib-da	NEG-N-do.PFV-PRET-1	v:pred	v		pred		
+sanzhi	asabali	0064	#	#	#cv	#cv				
+sanzhi	asabali	0064	0	0_I	0.1:s_cv	0	1	s_cv	103	
+sanzhi	asabali	0064	w-ax-ul	M-go-ICVB	v:pred	v		pred		
+sanzhi	asabali	0064	#	#	#cv	#cv				
+sanzhi	asabali	0064	0	0_I	0.1:a_cv	0	1	a_cv	103	
+sanzhi	asabali	0064	raboči	workers[R]	np.h:p	np	h	p	164	bridging
+sanzhi	asabali	0064	b-ik-ul	N-lead.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0064	#	#	#cv	#cv				
+sanzhi	asabali	0064	0	0_I	0.1:a_cv	0	1	a_cv	103	
+sanzhi	asabali	0064	0	0_workers	0.h:p	0	h	p	164	
+sanzhi	asabali	0064	sa-b-ik-ul	hither-N-lead.IPFV-ICVB	v:pred	v		pred		
+sanzhi	asabali	0065	#	#	##	##				
+sanzhi	asabali	0065	wec'-nu	ten-tenth	ln	ln				
+sanzhi	asabali	0065	k'ʷi-ra	two-NUM	ln_num	ln_num				
+sanzhi	asabali	0065	dus	year	np:other	np		other		
+sanzhi	asabali	0065	zawod-le-r	factory-SPR-ABL	np:obl	np		obl	165	bridging
+sanzhi	asabali	0065	čaˁʁir	wine	rn	rn				
+sanzhi	asabali	0065	0	0_I	0.1:s	0	1	s	103	
+sanzhi	asabali	0065	d-ik-a-di	NPL-lead.IPFV-HAB.PST-1	v:pred	v		pred		
+sanzhi	asabali	0066	#	#	##	##				
+sanzhi	asabali	0066	čaˁʁir-li-cːella	wine-OBL-COMIT	np:obl	np		obl	166	bridging
+sanzhi	asabali	0066	ʡaˁħ-le-de	good-CVB-PST	other:pred	other		pred		
+sanzhi	asabali	0066	#	#	#nc	#nc				
+sanzhi	asabali	0066	wot	well	nc	nc				
+sanzhi	asabali	0066	hel-itːe	that-ADVZ	nc	nc				
+sanzhi	asabali	0066	hana	now	nc	nc				
+sanzhi	asabali	0066	hež	this	nc	nc				
+sanzhi	asabali	0066	=satːina	=as.much	nc	nc				
+sanzhi	asabali	0066	sa-jʁ-ij	hither-come.PFV-INF1	nc	nc				
+sanzhi	asabali	0066	=satːina	=as.much	nc	nc				
+sanzhi	asabali	0066	ag-ur	go.PFV-PRET	nc	nc				

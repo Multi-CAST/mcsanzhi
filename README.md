@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Forker, Diana & Schiborr, Nils N. 2019. Multi-CAST Sanzhi Dargwa. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1907. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#sanzhi) (date accessed)
+  > Forker, Diana & Schiborr, Nils N. 2019. Multi-CAST Sanzhi Dargwa. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1905. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#sanzhi) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -116,9 +116,9 @@ information on all annotated categories, including those not listed here.
 | **⟨0.h⟩** | 199 | 136 | 13 | 20 | 6 | 10 | 0 | 0 | 0 | 0 | 384 |
 | **⟨0.d⟩** | 14 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 18 |
 | **⟨0⟩** | 31 | 5 | 0 | 47 | 1 | 2 | 0 | 0 | 0 | 2 | 88 |
-| **⟨pro.1⟩** | 33 | 19 | 13 | 5 | 10 | 3 | 0 | 0 | 25 | 1 | 109 |
+| **⟨pro.1⟩** | 34 | 19 | 12 | 5 | 10 | 3 | 0 | 0 | 25 | 1 | 109 |
 | **⟨pro.2⟩** | 19 | 12 | 3 | 2 | 6 | 2 | 0 | 0 | 8 | 1 | 53 |
-| **⟨pro.h⟩** | 36 | 18 | 2 | 5 | 9 | 9 | 1 | 0 | 5 | 2 | 87 |
+| **⟨pro.h⟩** | 35 | 18 | 2 | 5 | 9 | 9 | 1 | 0 | 5 | 2 | 86 |
 | **⟨pro.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨pro⟩** | 12 | 0 | 0 | 16 | 6 | 3 | 4 | 1 | 0 | 7 | 49 |
 | **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -131,7 +131,7 @@ information on all annotated categories, including those not listed here.
 | **⟨other.h⟩** | 7 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 11 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other⟩** | 6 | 0 | 0 | 18 | 6 | 26 | 22 | 46 | 0 | 0 | 124 |
-| | 681 | 310 | 53 | 282 | 99 | 126 | 79 | 92 | 84 | 105 | 1911 |
+| | 681 | 310 | 52 | 282 | 99 | 126 | 79 | 92 | 84 | 105 | 1910 |
 
 
 **Clause boundaries**

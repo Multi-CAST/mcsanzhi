@@ -1,0 +1,683 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sanzhi	mill	0001	#	#	##	##				
+sanzhi	mill	0001	nišːa-la	1PL-GEN	pro.1:obl	pro	1	obl		
+sanzhi	mill	0001	sunglan-t-a-lla	Sanzhi-PL-OBL-GEN	pn_np.h:appos	pn_np	h	appos		
+sanzhi	mill	0001	le-b	exist-N	other:predex	other		predex		
+sanzhi	mill	0001	χabar	story	np:s	np		s		
+sanzhi	mill	0002	#	#	##	##				
+sanzhi	mill	0002	χːula	big	ln_adj	ln_adj				
+sanzhi	mill	0002	aq-ce	tall-ATTR.SG	ln_adj	ln_adj				
+sanzhi	mill	0002	muza	summit	np:s	np		s		
+sanzhi	mill	0002	k'e-b	exist.up-N	other:predex	other		predex		
+sanzhi	mill	0002	#	#	##	##				
+sanzhi	mill	0002	aq-ce	tall-ATTR.SG	ln_adj	ln_adj				
+sanzhi	mill	0002	muza	summit	np:obl	np		obl		
+sanzhi	mill	0002	0	0	0.h:s_ds	0	h	s_ds		
+sanzhi	mill	0002	arilla	during.day	ln	ln				
+sanzhi	mill	0002	muza	summit	np:obl	np		obl		
+sanzhi	mill	0002	b-ik'ʷ-ar	HPL-say.IPFV-PRS	v:pred	v		pred		
+sanzhi	mill	0002	cin-i-j	REFL.SG-OBL-DAT	nc	nc				
+sanzhi	mill	0002	=ra	=and	nc	nc				
+sanzhi	mill	0003	#	#	##	##				
+sanzhi	mill	0003	#	#	#ac	#ac				
+sanzhi	mill	0003	ar	noon	np:s	np		s		
+sanzhi	mill	0003	d-eʁ-ib	NPL-go.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0003	=qːella	=when	=adp	=adp				
+sanzhi	mill	0003	#	#	#ac	#ac				
+sanzhi	mill	0003	debʁalla	prayer	np:other	np		other		
+sanzhi	mill	0003	hextːu	there.up	other:g	other		g		
+sanzhi	mill	0003	bari	sun	np:s	np		s		
+sanzhi	mill	0003	ha-b-eʁ-ar-dele	upwards-N-go.PFV-PRS-COND.PST	v:pred	v		pred		
+sanzhi	mill	0003	%	%	%	%				
+sanzhi	mill	0003	0	0_we	0.1:a_cps	0	1	a_cps		
+sanzhi	mill	0003	debʁalla	prayer	other:lvc	other		lvc		
+sanzhi	mill	0003	b-irq'-iri	N-do.IPFV-HAB.PST	v:pred	v		pred		
+sanzhi	mill	0004	#	#	##neg	##neg				
+sanzhi	mill	0004	sːaˁʡaˁt-e	hour-PL	np:s	np		s		
+sanzhi	mill	0004	d-akːʷ-i	NPL-NEG-HAB.PST	other:predex	other		predex		
+sanzhi	mill	0004	it	that	ln_dem	ln_dem				
+sanzhi	mill	0004	zamana	time	np:other	np		other		
+sanzhi	mill	0005	#	#	#cv	#cv				
+sanzhi	mill	0005	#	#	#rc_pc	#rc_pc				
+sanzhi	mill	0005	0	0_we	0.h:a_cps_pc	0	h	a_cps_pc		
+sanzhi	mill	0005	debʁalla	prayer	other:lvc	other		lvc		
+sanzhi	mill	0005	b-irq'-an	N-do.IPFV-PTCP	v:pred	v		pred		
+sanzhi	mill	0005	%	%	%	%				
+sanzhi	mill	0005	arilla	during.day	ln	ln				
+sanzhi	mill	0005	muza	summit	np:obl	np		obl		
+sanzhi	mill	0005	0	0	0.h:s_ds	0	h	s_ds		
+sanzhi	mill	0005	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0005	#	#	##	##				
+sanzhi	mill	0005	nišːa-la	1PL-GEN	pro.1:obl	pro	1	obl		
+sanzhi	mill	0005	musːa	place	np:s	np		s		
+sanzhi	mill	0005	k'e-b	exist.up-N	other:predex	other		predex		
+sanzhi	mill	0006	#	#	#cv.neg	#cv.neg				
+sanzhi	mill	0006	urχːab	mill	np:s	np		s	500	new
+sanzhi	mill	0006	akːʷ-ar-re	NEG-PRS-CVB	other:predex	other		predex		
+sanzhi	mill	0006	ču-la	REFL.PL-GEN	refl.h:obl	refl	h	obl	501	bridging
+sanzhi	mill	0006	#	#	#cv	#cv				
+sanzhi	mill	0006	0	0_people	0.h:s_cv	0	h	s_cv	501	
+sanzhi	mill	0006	bahat'-un-ne	be.anxious-ICVB-CVB	v:pred	v		pred		
+sanzhi	mill	0006	#	#	#ac_in	#ac_in				
+sanzhi	mill	0006	0	0_people	0.h:a_in	0	h	a_in	501	
+sanzhi	mill	0006	deq'a	grain	np:p	np		p	502	bridging
+sanzhi	mill	0006	d-elq'-an-aj	NPL-mill.PFV-PTCP-INF2.3	v:pred	v		pred		
+sanzhi	mill	0006	#	#	#cv	#cv				
+sanzhi	mill	0006	0	0_people	0.h:s_cv	0	h	s_cv	501	
+sanzhi	mill	0006	tːura	outside	other	other				
+sanzhi	mill	0006	b-uq-un-ne	N-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0006	cabi	be<HPL>	rv_aux	rv_aux				
+sanzhi	mill	0006	#	#	#ds_pc	#ds_pc				
+sanzhi	mill	0006	čina-b	where-N	intrg_other:l	intrg_other		l		
+sanzhi	mill	0006	0	0_people	0.1:a_cv	0	1	a_cv	501	
+sanzhi	mill	0006	0	0_mill	0:p	0		p	503	bridging
+sanzhi	mill	0006	b-irq'-an-da	N-do.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	mill	0006	=ja	=Q	=other	=other				
+sanzhi	mill	0006	#	#	#ds_pc	#ds_pc				
+sanzhi	mill	0006	wallah	by.God	other	other				
+sanzhi	mill	0006	heχ-tːu-b	DEM.down-LOC-N	dem_pro:l	dem_pro		l	504	new
+sanzhi	mill	0006	0	0_people	0.1:a_cv	0	1	a_cv	501	
+sanzhi	mill	0006	0	0_mill	0:p	0		p	503	
+sanzhi	mill	0006	b-irq'-an-da	N-do.IPFV-PTCP-1	v:pred	v		pred		
+sanzhi	mill	0006	#	#	#ds_pc	#ds_pc				
+sanzhi	mill	0006	0	0_people	0.1:s_pc	0	1	s_pc	501	
+sanzhi	mill	0006	d-ax-an-da	1/2PL-go-PTCP-1	v:pred	v		pred		
+sanzhi	mill	0007	#	#	#cv	#cv				
+sanzhi	mill	0007	tːura	outside	other	other				
+sanzhi	mill	0007	b-uq-un-ne	HPL-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0007	šːan-te	fellow.villager-PL	np.h:s_cv	np	h	s_cv	501	
+sanzhi	mill	0007	#	#	#cv	#cv				
+sanzhi	mill	0007	0	0_people	0.h:s_cv	0	h	s_cv	501	
+sanzhi	mill	0007	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0007	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	mill	0008	#	#	#cv	#cv				
+sanzhi	mill	0008	0	0_people	0.h:a_cv	0	h	a_cv	501	
+sanzhi	mill	0008	b-irq'-ul	N-do.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0008	0	0_mill	0:p	0		p	503	
+sanzhi	mill	0008	#	#	#nc	#nc				
+sanzhi	mill	0008	0	0_people	nc_0.h	nc_0	h		501	
+sanzhi	mill	0008	b-irq'-ul	N-do.IPFV-ICVB	nc	nc				
+sanzhi	mill	0008	0	0_mill	nc_0	nc_0			503	
+sanzhi	mill	0008	#	#	#nc	#nc				
+sanzhi	mill	0008	0	0_people	nc_0.h	nc_0	h		501	
+sanzhi	mill	0008	b-irq'-ul	HPL-do.IPFV-ICVB	nc	nc				
+sanzhi	mill	0008	0	0_mill	nc_0	nc_0			503	
+sanzhi	mill	0008	#	#	#nc	#nc				
+sanzhi	mill	0008	0	0_people	nc_0.h	nc_0	h		501	
+sanzhi	mill	0008	b-irq'-ul	N-do.IPFV-ICVB	nc	nc				
+sanzhi	mill	0008	0	0_mill	nc_0	nc_0			503	
+sanzhi	mill	0008	#	#	#cv	#cv				
+sanzhi	mill	0008	0	0_people	0.h:a_cv	0	h	a_cv	501	
+sanzhi	mill	0008	rurger	water.channel	np:p	np		p	505	bridging
+sanzhi	mill	0008	b-arq'-ib-le	N-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0008	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0008	#	#	#cv	#cv				
+sanzhi	mill	0008	0	0_people	0.h:a_cv	0	h	a_cv	501	
+sanzhi	mill	0008	qal-la	house-GEN	ln_np:poss	ln_np		poss		
+sanzhi	mill	0008	musːa	place	np:p	np		p	506	bridging
+sanzhi	mill	0008	b-arq'-ib-le	N-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0008	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0009	#	#	#cv	#cv				
+sanzhi	mill	0009	na	now	other	other				
+sanzhi	mill	0009	0	0_people	0.h:a_cv	0	h	a_cv	501	
+sanzhi	mill	0009	0	0_mill	0:p	0		p	503	
+sanzhi	mill	0009	b-arq'-ib-le	N-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0009	#	#	#cv	#cv				
+sanzhi	mill	0009	taman	end	np:s	np		s		
+sanzhi	mill	0009	b-iχ-ub-le	N-be.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0009	#	#	##	##				
+sanzhi	mill	0009	ca	one	ln_deti	ln_deti				
+sanzhi	mill	0009	ʡaˁχːuˁl	guest	np.h:s_cps	np	h	s_cps	507	new
+sanzhi	mill	0009	dak'u	appear	other:lvc	other		lvc		
+sanzhi	mill	0009	uq-un	go.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0009	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0010	#	#	##	##				
+sanzhi	mill	0010	Allah-li	Allah-ERG	np.h:a	np	h	a	508	unused
+sanzhi	mill	0010	w-at	M-let.PFV	v:pred	v		pred		
+sanzhi	mill	0010	k-aʁ-ib-il	down-do.PFV-PRET-PTCP	rv_aux	rv_aux				
+sanzhi	mill	0010	už-ib	be-PRET	rv_aux	rv_aux				
+sanzhi	mill	0010	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0010	il	that	dem_pro.h:p	dem_pro	h	p	507	
+sanzhi	mill	0010	#	#	##ds.neg	##ds.neg				
+sanzhi	mill	0010	heltːu-b	there-N	other:l	other		l	504	
+sanzhi	mill	0010	urχːab	mill	np:s	np		s	504	
+sanzhi	mill	0010	a-arg-an-ne	NEG-go.IPFV-PTCP-PRS.3	v:pred	v		pred		
+sanzhi	mill	0010	#	#	##ds	##ds				
+sanzhi	mill	0010	0	0_people	0.2:s_cps	0	2	s_cps	501	
+sanzhi	mill	0010	laˁk'	away	other:lvc	other		lvc		
+sanzhi	mill	0010	d-ig-aj	NPL-be.PFV-IMP.PL	v:pred	v		pred		
+sanzhi	mill	0010	#	#	#cv	#cv				
+sanzhi	mill	0010	0	0_man	0.h:a_ds_cv	0	h	a_ds_cv	507	
+sanzhi	mill	0010	ha-ʔ-ib-le	upwards-say.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0011	#	#	##	##				
+sanzhi	mill	0011	#	#	#cv.neg	#cv.neg				
+sanzhi	mill	0011	0	0_man	0.h:a_cv	0	h	a_cv	507	
+sanzhi	mill	0011	0	0_people	0.h:g	0	h	g	501	
+sanzhi	mill	0011	salam	greeting	np:p	np		p		
+sanzhi	mill	0011	a-b-ičː-ib-le	NEG-N-give.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0011	%	%	%	%				
+sanzhi	mill	0011	il	that	ln_dem	ln_dem				
+sanzhi	mill	0011	admi	person	np.h:s	np	h	s	507	
+sanzhi	mill	0011	sa-r-ituq-un	ANTE-ABL-cross.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0011	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0012	#	#	#cv	#cv				
+sanzhi	mill	0012	waˁħ	wah	other	other				
+sanzhi	mill	0012	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0012	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0012	ca	one	np.h:s_ds_cv	np	h	s_ds_cv	509	bridging
+sanzhi	mill	0012	#	#	#ds_pc.neg	#ds_pc.neg				
+sanzhi	mill	0012	cellij	why	other	other				
+sanzhi	mill	0012	it-i-l	that-OBL-ERG	dem_pro.h:a	dem_pro	h	a	507	
+sanzhi	mill	0012	salam	greeting	np:p	np		p		
+sanzhi	mill	0012	a-lukː-an	NEG-give.IPFV-PTCP	v:pred	v		pred		
+sanzhi	mill	0012	=e	=Q	=other	=other				
+sanzhi	mill	0012	nišːi-cːe	1PL-IN	pro.1:g	pro	1	g	501	
+sanzhi	mill	0013	#	#	##ds	##ds				
+sanzhi	mill	0013	nušːa	1PL	pro.1:s	pro	1	s	534	bridging
+sanzhi	mill	0013	heštːu-d	here-1/2PL	other:l	other		l		
+sanzhi	mill	0013	d-irq'-ul	1/2PL-do.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0013	le-d-le	exist-1/2PL-CVB	rv_v	rv_v				
+sanzhi	mill	0013	#	#	##ds	##ds				
+sanzhi	mill	0013	0	0_we	0.h:s	0	h	s	534	
+sanzhi	mill	0013	hari	let's!	lv_aux	lv_aux				
+sanzhi	mill	0013	dawaj	let's	lv_aux	lv_aux				
+sanzhi	mill	0013	hitːi	after	other	other				
+sanzhi	mill	0013	d-uq-ene	1/2PL-go.PFV-IMP.PL	v:pred	v		pred		
+sanzhi	mill	0013	#	#	#cv	#cv				
+sanzhi	mill	0013	0	0_people	0.h:s_cv	0	h	s_cv	534	
+sanzhi	mill	0013	hitːi	after	other	other				
+sanzhi	mill	0013	b-uq-un-ne	HPL-go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0013	#	#	##	##				
+sanzhi	mill	0013	ca	one	ln_num	ln_num				
+sanzhi	mill	0013	k'ʷel	two	ln_num	ln_num				
+sanzhi	mill	0013	žahil	young	ln_adj	ln_adj				
+sanzhi	mill	0013	durħuˁ	boy	np.h:s	np	h	s	510	bridging
+sanzhi	mill	0013	0	0_man	0.h:p	0	h	p	507	
+sanzhi	mill	0013	uc-ib	catch.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0013	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0014	#	#	#cv	#cv				
+sanzhi	mill	0014	cellij	why	other	other				
+sanzhi	mill	0014	0	0_boys	0.1:s_ds_cv	0	1	s_ds_cv	510	
+sanzhi	mill	0014	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0014	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	mill	0014	#	#	##ds.neg	##ds.neg				
+sanzhi	mill	0014	u-l	2SG-ERG	pro.2:a	pro	2	a	507	
+sanzhi	mill	0014	nišːi-cːe	1PL-IN	pro.1:g	pro	1	g	534	
+sanzhi	mill	0014	salam	greeting	np:g	np		g		
+sanzhi	mill	0014	a-b-ičː-ib-de	NEG-N-give.PFV-PRET-2SG	v:pred	v		pred		
+sanzhi	mill	0014	#	#	##ds	##ds				
+sanzhi	mill	0014	nušːa	1PL	pro.1:s	pro	1	s	534	
+sanzhi	mill	0014	χalq'	people	np.h:appos	np	h	appos		
+sanzhi	mill	0014	#	#	#rc_pc	#rc_pc				
+sanzhi	mill	0014	0	0_people	rc_f0.1:s	rc_f0	1	s	534	
+sanzhi	mill	0014	ʡaˁči-l	work-ERG	np:obl	np		obl		
+sanzhi	mill	0014	d-irq'-an	1/2PL-do.IPFV-PTCP	v:pred	v		pred		
+sanzhi	mill	0014	%	%	%	%				
+sanzhi	mill	0014	χalq'-de	people-PST	np.h:pred	np	h	pred		
+sanzhi	mill	0014	=q'al	=MOD	=other	=other				
+sanzhi	mill	0015	#	#	#cv	#cv				
+sanzhi	mill	0015	waˁħ	wah	other	other				
+sanzhi	mill	0015	0	0_man	0.h:s_ds_cv	0	h	s_ds_cv	507	
+sanzhi	mill	0015	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0015	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0015	#	#	##ds	##ds				
+sanzhi	mill	0015	du-l	1SG-ERG	pro.1:a	pro	1	a	507	
+sanzhi	mill	0015	b-ičː-ib-da	N-give.PFV-PRET-1	v:pred	v		pred		
+sanzhi	mill	0015	#	#	#cv	#cv				
+sanzhi	mill	0015	0	0_man	0.h:s_ds_cv	0	h	s_ds_cv	507	
+sanzhi	mill	0015	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0015	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0015	%	%	%	%				
+sanzhi	mill	0015	salam	greeting	np:p	np		p		
+sanzhi	mill	0015	#	#	#ds_cv	#ds_cv				
+sanzhi	mill	0015	ašːa-la	2PL-GEN	ln_pro.2:poss	ln_pro	2	poss	501	
+sanzhi	mill	0015	hin-na	water-GEN	ln_np:poss	ln_np		poss	511	new
+sanzhi	mill	0015	t'ama-l	sound-ERG	np:a_ds_cv	np		a_ds_cv	512	bridging
+sanzhi	mill	0015	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0015	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0015	#	#	##ds.neg	##ds.neg				
+sanzhi	mill	0015	t'am	sound	np:p	np		p		
+sanzhi	mill	0015	a-b-aq'-ib-da	NEG-N-hear.PFV-PRET-1	v:pred	v		pred		
+sanzhi	mill	0015	ašːi-j	2PL-DAT	pro.2:ncs	pro	2	ncs	501	
+sanzhi	mill	0016	#	#	#cv	#cv				
+sanzhi	mill	0016	waˁħ	wah	other	other				
+sanzhi	mill	0016	0	0_boys	0.h:s_ds_cv	0	h	s_ds_cv	510	
+sanzhi	mill	0016	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0016	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	mill	0016	#	#	##ds.neg	##ds.neg				
+sanzhi	mill	0016	hin	water	np:s	np		s	511	
+sanzhi	mill	0016	=q'ar	=MOD	=other	=other				
+sanzhi	mill	0016	te-d-akːu	exist-NPL-NEG	other:predex	other		predex		
+sanzhi	mill	0016	itːu-d	there-NPL	other:l	other		l	504	
+sanzhi	mill	0017	#	#	#cv	#cv				
+sanzhi	mill	0017	c'il	then	other	other				
+sanzhi	mill	0017	0	0_man	0.h:s_ds_cv	0	h	s_ds_cv	507	
+sanzhi	mill	0017	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0017	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0017	#	#	#ds.neg	#ds.neg				
+sanzhi	mill	0017	#	#	#ds_rc_pc.neg	#ds_rc_pc.neg				
+sanzhi	mill	0017	0	0_mill	rc_f0.h:obl	rc_f0	h	obl	503	
+sanzhi	mill	0017	hin	water	np:s_pc	np		s_pc		
+sanzhi	mill	0017	akːʷ-ar-il-le-b	NEG-PRS-PTCP-SPR-N	other:predex	other		predex		
+sanzhi	mill	0017	%	%	%	%				
+sanzhi	mill	0017	urχːab	mill	np:s	np		s	503	
+sanzhi	mill	0017	a-b-irχʷ-ni	NEG-N-be.able.IPFV-MSD	v:pred	v		pred		
+sanzhi	mill	0017	=q'al	=MOD	=other	=other				
+sanzhi	mill	0017	#	#	##ds	##ds				
+sanzhi	mill	0017	ašːi-j	2PL-DAT	pro.2:ncs	pro	2	ncs	534	
+sanzhi	mill	0017	0	0_that	0:p	0		p	535	bridging
+sanzhi	mill	0017	b-aχ-ere	N-know.PFV-IMP.PL	v:pred	v		pred		
+sanzhi	mill	0017	#	#	#cv	#cv				
+sanzhi	mill	0017	0	0_man	0.h:s_ds_cv	0	h	s_ds_cv	507	
+sanzhi	mill	0017	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0017	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0017	#	#	#ds_cc.neg:p	#ds_cc.neg		p		
+sanzhi	mill	0017	#	#	#ds_rc_pc.neg	#ds_rc_pc.neg				
+sanzhi	mill	0017	0	0_mill	rc_f0.h:obl	rc_f0	h	obl	503	
+sanzhi	mill	0017	hin	water	np:s	np		s		
+sanzhi	mill	0017	akːʷ-ar-il-le-b	NEG-PRS-PTCP-SPR-N	other:predex	other		predex		
+sanzhi	mill	0017	%	%	%	%				
+sanzhi	mill	0017	urχːab	mill	np:s	np		s	503	
+sanzhi	mill	0017	a-b-uq'-ni	NEG-N-mill.IPFV-MSD	v:pred	v		pred		
+sanzhi	mill	0018	#	#	#ds_cv	#ds_cv				
+sanzhi	mill	0018	wat'	well	other	other				
+sanzhi	mill	0018	hawa-la	air-GEN	ln_np:poss	ln_np		poss		
+sanzhi	mill	0018	urχːab	mill	np:p	np		p	513	bridging
+sanzhi	mill	0018	b-irq'-ul-da	N-do.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	mill	0018	=w	=Q	=other	=other				
+sanzhi	mill	0018	#	#	#cv	#cv				
+sanzhi	mill	0018	0	0_man	0.h:s_ds_cv	0	h	s_ds_cv	507	
+sanzhi	mill	0018	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0018	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0018	%	%	%	%				
+sanzhi	mill	0018	ušːa-li	2PL-ERG	pro.2:a_cv	pro	2	a_cv	534	
+sanzhi	mill	0018	č'an-na	wind-GEN	ln_np:poss	ln_np		poss		
+sanzhi	mill	0018	urχːab	mill	np:other	np		other	513	
+sanzhi	mill	0019	#	#	#ds_cv	#ds_cv				
+sanzhi	mill	0019	akːʷa-di	be.NEG-1	other	other				
+sanzhi	mill	0019	nušːa-l	1PL-ERG	pro.1:a_cv	pro	1	a_cv	534	
+sanzhi	mill	0019	hin-na	water-GEN	ln_np:poss	ln_np		poss		
+sanzhi	mill	0019	urχːab	mill	np:p	np		p		
+sanzhi	mill	0019	b-irq'-ul-da	N-do.IPFV-ICVB-1	v:pred	v		pred		
+sanzhi	mill	0020	#	#	#cv	#cv				
+sanzhi	mill	0020	0	0_boys	0.h:s_ds_cv	0	h	s_ds_cv	510	
+sanzhi	mill	0020	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0020	#	#	##	##				
+sanzhi	mill	0020	b-urs-ib	N-tell-PRET	v:pred	v		pred		
+sanzhi	mill	0020	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0020	itːi	3PL	pro.h:g	pro	h	g	534	
+sanzhi	mill	0020	χːula-t-a-cːe	big-PL-OBL-IN	other	other				
+sanzhi	mill	0020	iltːa-li	3PL-ERG	dem_pro.h:a_ds	dem_pro	h	a_ds	510	
+sanzhi	mill	0020	#	#	##ds	##ds				
+sanzhi	mill	0020	wallah	by.God	other	other				
+sanzhi	mill	0020	hel	that	dem_pro.h:s_ds	dem_pro	h	s_ds	507	
+sanzhi	mill	0020	ik'ʷ-iri	say.IPFV-HAB.PST	v:pred	v		pred		
+sanzhi	mill	0020	#	#	#ds_pc	#ds_pc				
+sanzhi	mill	0020	waˁħ	wah	other	other				
+sanzhi	mill	0020	0	0	0.h:ncs_pc	0	h	ncs_pc	501	
+sanzhi	mill	0020	hin	water	np:p	np		p	536	bridging
+sanzhi	mill	0020	=ra	=and	=other	=other				
+sanzhi	mill	0020	d-ikː-an-te	NPL-want.IPFV-PTCP-ATTR.PL	v:pred	v		pred		
+sanzhi	mill	0020	=w	=Q	=other	=other				
+sanzhi	mill	0020	ištːu	here	other	other			504	
+sanzhi	mill	0020	#	#	#cv	#cv				
+sanzhi	mill	0020	0	0_builders	0.h:s_ds_cv	0	h	s_ds_cv	534	
+sanzhi	mill	0020	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0021	#	#	#cv	#cv				
+sanzhi	mill	0021	0	0_builders	0.h:s_cv	0	h	s_cv	534	
+sanzhi	mill	0021	gu-r-ka-b-ač'-ib-le	down-ABL-down-HPL-come.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0021	#	#	##	##				
+sanzhi	mill	0021	hel-tːi	that-PL	dem_pro:s	dem_pro		s	534	
+sanzhi	mill	0021	b-arq'-ib	N-do.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0021	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0021	χːula	big	nc	nc				
+sanzhi	mill	0021	erk'ʷ-li-cːe-b	river-OBL-IN-N	nc	nc				
+sanzhi	mill	0021	χːula	big	ln_adj	ln_adj				
+sanzhi	mill	0021	erk'ʷ-la	river-GEN	ln_np:poss	ln_np		poss	516	bridging
+sanzhi	mill	0021	šːule-b	at.side-N	np:l	np		l	517	bridging
+sanzhi	mill	0021	urχːab	mill	np:p	np		p	515	new
+sanzhi	mill	0022	#	#	#cv	#cv				
+sanzhi	mill	0022	0	0_builders	0.h:a_cv	0	h	a_cv	534	
+sanzhi	mill	0022	d-arq'-ib-le	NPL-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0022	har	every	ln	ln				
+sanzhi	mill	0022	cik'al	something	indef_other:p	indef_other		p		
+sanzhi	mill	0022	ču-la	REFL.PL-GEN	rn_refl.h:poss	rn_refl	h	poss	534	
+sanzhi	mill	0022	#	#	#cv	#cv				
+sanzhi	mill	0022	b-uq'-un-ne	N-mill.IPFV-ICVB-NC	v:pred	v		pred		
+sanzhi	mill	0022	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0022	urχːab	mill	np:s_cv	np		s_cv	515	
+sanzhi	mill	0022	#	#	#nc	#nc				
+sanzhi	mill	0022	0	0_builders	nc_0.h	nc_0	h		534	
+sanzhi	mill	0022	k'apːa	NC	nc	nc				
+sanzhi	mill	0022	b-arq'-ib	N-do.PFV-PRET	nc	nc				
+sanzhi	mill	0022	cabi	be<N>	nc	nc				
+sanzhi	mill	0023	#	#	##	##				
+sanzhi	mill	0023	0	0_builders	0.h:a	0	h	a	534	
+sanzhi	mill	0023	muq'luq'	channel	np:p	np		p	518	bridging
+sanzhi	mill	0023	b-arq'-ib	N-do.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0023	cabi	be<N>	rv_aux	rv_aux				
+sanzhi	mill	0023	#	#	#cv	#cv				
+sanzhi	mill	0023	hitːi	after	other	other				
+sanzhi	mill	0023	k-aʁ-ib-le	down-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0023	rurger-re-r	water.channel-SPR-ABL	np:obl	np		obl	518	
+sanzhi	mill	0023	gu-d-a	down-NPL-SPR	other:g	other		g		
+sanzhi	mill	0023	hin	water	np:s	np		s	519	bridging
+sanzhi	mill	0023	#	#	#cv	#cv				
+sanzhi	mill	0023	b-uq'-un-ne	N-mill.IPFV-ICVB-CVB	v:pred	v		pred		
+sanzhi	mill	0023	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0023	urχːab	mill	np:s_cv	np		s_cv	515	
+sanzhi	mill	0024	#	#	##	##				
+sanzhi	mill	0024	0	0_mill	0:a	0		a	515	
+sanzhi	mill	0024	šːan-t-a-lla	fellow.villager-PL-OBL-GEN	ln_np.h:poss	ln_np	h	poss	501	
+sanzhi	mill	0024	deq'a	grain	np:p	np		p	502	
+sanzhi	mill	0024	d-elq'-un	NPL-mill.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0024	cadi	be<NPL>	rv_aux	rv_aux				
+sanzhi	mill	0024	#	#	##	##				
+sanzhi	mill	0024	0	0_mill	0:a	0		a	515	
+sanzhi	mill	0024	tːura	outside	other	other				
+sanzhi	mill	0024	šːan-t-a-lla	fellow.villager-PL-OBL-GEN	np:p	np		p	520	new
+sanzhi	mill	0024	d-elq'-un	NPL-mill.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0024	cadi	be<NPL>	rv_aux	rv_aux				
+sanzhi	mill	0024	#	#	#cv.neg	#cv.neg				
+sanzhi	mill	0024	na	now	other	other				
+sanzhi	mill	0024	il	that	dem_pro:s_cps	dem_pro		s_cps	515	
+sanzhi	mill	0024	kʷir	stop	other:lvc	other		lvc		
+sanzhi	mill	0024	ka-b-irg-ul	down-N-be.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0024	akːu	NEG	rv	rv				
+sanzhi	mill	0024	urχːab	mill	np:dt_s	np		dt_s	515	
+sanzhi	mill	0024	#	#	#cv.neg	#cv.neg				
+sanzhi	mill	0024	iltːa-j	3PL-DAT	dem_pro.h:ncs	dem_pro	h	ncs	501	
+sanzhi	mill	0024	b-alχ-ul	N-know.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0024	akːu	NEG	rv	rv				
+sanzhi	mill	0024	#	#	#cc:p	#cc		p		
+sanzhi	mill	0024	0	0_people	0.h:a	0	h	a	501	
+sanzhi	mill	0024	hin	water	np:p	np		p	519	
+sanzhi	mill	0024	čiriʁ-ni	close.IPFV-MSD	v:pred	v		pred		
+sanzhi	mill	0025	#	#	#cv	#cv				
+sanzhi	mill	0025	na	now	other	other				
+sanzhi	mill	0025	iltːi	3PL	dem_pro.h:s	dem_pro	h	s	501	
+sanzhi	mill	0025	q'ad-na-šːu	qadi-PL.OBL-ALLAT	np.h:g	np	h	g	521	new
+sanzhi	mill	0025	mallu-b-na-šːu	mullah-PL-PL.OBL-ALLAT	rn_np.h	rn_np	h		522	new
+sanzhi	mill	0025	b-ax-ul	HPL-go-ICVB	v:pred	v		pred		
+sanzhi	mill	0025	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	mill	0025	#	#	#ds_cv.neg	#ds_cv.neg				
+sanzhi	mill	0025	wallah	by.God	other	other				
+sanzhi	mill	0025	nišːa-la	1PL-GEN	ln_pro.1:poss	ln_pro	1	poss	501	
+sanzhi	mill	0025	urχːab	mill	np:s	np		s	515	
+sanzhi	mill	0025	hež-itːe	this-ADVZ	other:pred	other		pred		
+sanzhi	mill	0025	#	#	#ds_cv.neg	#ds_cv.neg				
+sanzhi	mill	0025	0	0_mill	0:s_cps_cv	0		s_cps_cv	515	
+sanzhi	mill	0025	kʷir	stop	other:lvc	other		lvc		
+sanzhi	mill	0025	ka-b-irg-ul	down-N-be.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0025	akːu	NEG	rv	rv				
+sanzhi	mill	0025	#	#	#ds_pc	#ds_pc				
+sanzhi	mill	0025	0	0_mill	0.h:s_cv	0	h	s_cv	515	
+sanzhi	mill	0025	b-uq'-an	HPL-mill.IPFV-PTCP	v:pred	v		pred		
+sanzhi	mill	0025	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	mill	0025	pastajanna	always	other	other				
+sanzhi	mill	0025	#	#	#cv	#cv				
+sanzhi	mill	0025	0	0_people	0.h:s_ds_cv	0	h	s_ds_cv	501	
+sanzhi	mill	0025	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0026	#	#	#cv	#cv				
+sanzhi	mill	0026	wallah	by.God	other	other				
+sanzhi	mill	0026	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0026	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0026	ca	one	np.h:s_ds_cv	np	h	s_ds_cv	523	bridging
+sanzhi	mill	0026	#	#	##ds	##ds				
+sanzhi	mill	0026	#	#	#ds_ac	#ds_ac				
+sanzhi	mill	0026	#	#	#ds_rc	#ds_rc				
+sanzhi	mill	0026	hana	now	other	other				
+sanzhi	mill	0026	0	0_bride	rc_f0.h:s	rc_f0	h	s	533	new
+sanzhi	mill	0026	ka-r-iž-ib	down-F-sit.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0026	%	%	%	%				
+sanzhi	mill	0026	c'ikuri-li	bride-ERG	np.h:a	np	h	a	533	
+sanzhi	mill	0026	#	#	#cv	#cv				
+sanzhi	mill	0026	0	0_he	0.h:s_ds_cv	0	h	s_ds_cv	523	
+sanzhi	mill	0026	ik'-ul	say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0026	ca-w	be-M	rv_aux	rv_aux				
+sanzhi	mill	0026	%	%	%	%				
+sanzhi	mill	0026	misa	mouth	np:obl	np		obl		
+sanzhi	mill	0026	=či	=on	=adp	=adp				
+sanzhi	mill	0026	b-ikː-ar-re	N-give.PFV-PRS-COND	v:pred	v		pred		
+sanzhi	mill	0026	%	%	%	%				
+sanzhi	mill	0026	urχːab	mill	np:s_cps	np		s_cps	515	
+sanzhi	mill	0026	kʷir	stop	other:lvc	other		lvc		
+sanzhi	mill	0026	ka-b-irg-an-ne	down-N-be.IPFV-PTCP-PRS.3	v:pred	v		pred		
+sanzhi	mill	0027	#	#	##	##				
+sanzhi	mill	0027	wat'	well	other	other				
+sanzhi	mill	0027	na	now	other	other				
+sanzhi	mill	0027	iltːi	3PL	dem_pro.h:s	dem_pro	h	s	501	
+sanzhi	mill	0027	il	that	ln_dem	ln_dem				
+sanzhi	mill	0027	c'ikuri	bride	np.h:p	np	h	p	524	new
+sanzhi	mill	0027	r-arčː-ib	F-find.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0027	cari	be.F	rv_aux	rv_aux				
+sanzhi	mill	0027	#	#	#rc_pc	#rc_pc				
+sanzhi	mill	0027	hana	now	other	other				
+sanzhi	mill	0027	0	0_bride	rc_f0.h:s_cps_pc	rc_f0	h	s_cps_pc	524	
+sanzhi	mill	0027	xadi	married	other:lvc	other		lvc		
+sanzhi	mill	0027	ka-r-iž-ib-il	down-F-be.PFV-PRET-PTCP	v:pred	v		pred		
+sanzhi	mill	0027	#	#	#ds_pc	#ds_pc				
+sanzhi	mill	0027	wallah	by.God	other	other				
+sanzhi	mill	0027	0	0_we	0.1:a_pc	0	1	a_pc	537	bridging
+sanzhi	mill	0027	hež-itːe	this-ADVZ	other	other				
+sanzhi	mill	0027	b-irq'-an	N-do.IPFV-PTCP	v:pred	v		pred		
+sanzhi	mill	0027	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0027	hež-itːe	this-ADVZ	other	other				
+sanzhi	mill	0027	#	#	##ds	##ds				
+sanzhi	mill	0027	0	0_bride	0.2:s	0	2	s	524	
+sanzhi	mill	0027	r-aš-e	F-go-IMP	v:pred	v		pred		
+sanzhi	mill	0028	#	#	#cv.neg	#cv.neg				
+sanzhi	mill	0028	na	now	other	other				
+sanzhi	mill	0028	hel	that	ln_dem	ln_dem				
+sanzhi	mill	0028	rursːi-li-j	girl-OBL-DAT	np.h:ncs	np	h	ncs	524	
+sanzhi	mill	0028	=ra	=and	=other	=other				
+sanzhi	mill	0028	b-alχ-ul	N-know.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0028	akːu	NEG	rv	rv				
+sanzhi	mill	0028	=q'al	=MOD	=other	=other				
+sanzhi	mill	0028	#	#	#cc:p	#cc		p		
+sanzhi	mill	0028	il	that	ln_dem	ln_dem				
+sanzhi	mill	0028	urχːab	mill	np:s	np		s		
+sanzhi	mill	0028	ce	what	intrg_other:pred	intrg_other		pred		
+sanzhi	mill	0028	ca-b	be-N	cop	cop				
+sanzhi	mill	0028	=el	=INDQ	=other	=other				
+sanzhi	mill	0029	#	#	#cv	#cv				
+sanzhi	mill	0029	0	0_bride	0.h:s_ds_cv	0	h	s_ds_cv	524	
+sanzhi	mill	0029	ag-ur-re	go.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0029	#	#	#cv	#cv				
+sanzhi	mill	0029	#	#	#ac_in	#ac_in				
+sanzhi	mill	0029	0	0_bride	0.h:a_cps_in	0	h	a_cps_in	524	
+sanzhi	mill	0029	misa	mouth	other:lvc	other		lvc		
+sanzhi	mill	0029	=či	=on	=adp	=adp				
+sanzhi	mill	0029	b-ičː-ij	N-give.PFV-INF1	v:pred	v		pred		
+sanzhi	mill	0029	%	%	%	%				
+sanzhi	mill	0029	0	0_bride	0.h:s_cv	0	h	s_cv	524	
+sanzhi	mill	0029	r-aˁʡ-čikaq-ib-le	F-bend.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0029	cari	be.F	rv_aux	rv_aux				
+sanzhi	mill	0029	#	#	##	##				
+sanzhi	mill	0029	heltːu	there	other	other				
+sanzhi	mill	0029	qːuˁnqː-uˁpːe	nose-PL	np:p	np		p	525	bridging
+sanzhi	mill	0029	bulan	even	other	other				
+sanzhi	mill	0029	sa-r-d-erqː-ib	ANTE-ABL-NPL-carry.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0029	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	mill	0029	urχːab-li	mill-ERG	np:a	np		a	526	bridging
+sanzhi	mill	0029	#	#	#cv	#cv				
+sanzhi	mill	0029	0	0_mill	0:s_cv	0		s_cv	515	
+sanzhi	mill	0029	b-uq'-un-ne	N-turn.IPFV-ICVB-CVB	v:pred	v		pred		
+sanzhi	mill	0030	#	#	##	##				
+sanzhi	mill	0030	0	0_millstone	0:a	0		a	526	
+sanzhi	mill	0030	sa-r-d-erqː-ib	ANTE-ABL-NPL-carry.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0030	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	mill	0030	hel-tːi	that-PL	ln_dem	ln_dem				
+sanzhi	mill	0030	qːuˁnqː-uˁpːe	nose-PL	np:p	np		p	525	
+sanzhi	mill	0030	#	#	#cv	#cv				
+sanzhi	mill	0030	0	0_bride	0.h:s_cps_cv	0	h	s_cps_cv	524	
+sanzhi	mill	0030	huja	wow	other	other				
+sanzhi	mill	0030	haraj	noise	other:lvc	other		lvc		
+sanzhi	mill	0030	r-isː-ul	F-cry-ICVB	v:pred	v		pred		
+sanzhi	mill	0030	#	#	#cv	#cv				
+sanzhi	mill	0030	0	0_bride	0.h:s_ds_cps_cv	0	h	s_ds_cps_cv	524	
+sanzhi	mill	0030	ʁaˁʁ	scream	other:lvc	other		lvc		
+sanzhi	mill	0030	r-ik'-ul	F-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0031	#	#	#cv	#cv				
+sanzhi	mill	0031	c'ili	then	other	other				
+sanzhi	mill	0031	iltːa-li	3PL-ERG	dem_pro.h:a_cv	dem_pro	h	a_cv	501	
+sanzhi	mill	0031	k-aqː-ib-le	down-carry-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0031	q'uˁq'	hammer	np:p	np		p	527	new
+sanzhi	mill	0031	#	#	#cv	#cv				
+sanzhi	mill	0031	0	0_people	0.h:a_cv	0	h	a_cv	501	
+sanzhi	mill	0031	χːula	big	ln_adj	ln_adj				
+sanzhi	mill	0031	q'uˁq'	hammer	np:p	np		p	527	
+sanzhi	mill	0031	k-aqː-ib-le	down-carry-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0031	#	#	#cv	#cv				
+sanzhi	mill	0031	0	0_people	0.h:s_cpa_cv	0	h	s_cpa_cv	501	
+sanzhi	mill	0031	0	0_mill	0:p	0		p	526	
+sanzhi	mill	0031	paˁq	strike	other:lvc	other		lvc		
+sanzhi	mill	0031	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0031	#	#	#cv	#cv				
+sanzhi	mill	0031	0	0_people	0.h:s_cpa_cv	0	h	s_cpa_cv	501	
+sanzhi	mill	0031	0	0_mill	0:p	0		p	526	
+sanzhi	mill	0031	paˁq	strike	other:lvc	other		lvc		
+sanzhi	mill	0031	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0031	#	#	#cv	#cv				
+sanzhi	mill	0031	0	0_people	0.h:a_cv	0	h	a_cv	501	
+sanzhi	mill	0031	b-elq'-un-ne	N-break.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0031	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0031	hel	that	ln_dem	ln_dem				
+sanzhi	mill	0031	urχːab	mill	np:p	np		p	515	
+sanzhi	mill	0032	#	#	#nc	#nc				
+sanzhi	mill	0032	urχːab-la	mill-GEN	nc_np	nc_np			515	
+sanzhi	mill	0032	maˁχʷaˁra	NC	nc	nc				
+sanzhi	mill	0032	d-už-ib-le	NPL-be-PRET-CVB	nc	nc				
+sanzhi	mill	0032	cadi	be<NPL>	nc	nc				
+sanzhi	mill	0032	d-arq'-ib-te	NPL-do.PFV-PRET-ATTR.PL	nc	nc				
+sanzhi	mill	0032	hitːi	after	nc	nc				
+sanzhi	mill	0032	ka-d-irk-an	down-NPL-occur.IPFV-PTCP	nc	nc				
+sanzhi	mill	0033	#	#	##	##				
+sanzhi	mill	0033	hel	that	dem_pro:s	dem_pro		s	528	bridging
+sanzhi	mill	0033	b-uq'-un-ne	N-turn.IPFV-ICVB-CVB	v:pred	v		pred		
+sanzhi	mill	0033	b-už-ib	HPL-be-PRET	rv_aux	rv_aux				
+sanzhi	mill	0033	cabi	be<HPL>	rv_aux	rv_aux				
+sanzhi	mill	0033	#	#	##ds	##ds				
+sanzhi	mill	0033	urk'i	heart	np:s	np		s	529	bridging
+sanzhi	mill	0033	b-el	N-remain.PFV	v:pred	v		pred		
+sanzhi	mill	0033	=nu	=but	=other	=other				
+sanzhi	mill	0033	#	#	##ds	##ds				
+sanzhi	mill	0033	0	0	0.2:a	0	2	a	501	
+sanzhi	mill	0033	0	0_heart	0:p	0		p	529	
+sanzhi	mill	0033	b-aˁq-aˁjaˁ	N-hit.PFV-IMP.PL	v:pred	v		pred		
+sanzhi	mill	0033	#	#	##ds	##ds				
+sanzhi	mill	0033	urk'i	heart	np:s	np		s	529	
+sanzhi	mill	0033	b-el	N-remain.PFV	v:pred	v		pred		
+sanzhi	mill	0033	=nu	=but	=other	=other				
+sanzhi	mill	0033	#	#	##ds	##ds				
+sanzhi	mill	0033	0	0	0.2:a	0	2	a	501	
+sanzhi	mill	0033	0	0_heart	0:p	0		p	529	
+sanzhi	mill	0033	b-aˁq-aˁjaˁ	N-hit.PFV-IMP.PL	v:pred	v		pred		
+sanzhi	mill	0033	#	#	#cv	#cv				
+sanzhi	mill	0033	0	0_people	0.h:s_ds_cv	0	h	s_ds_cv	501	
+sanzhi	mill	0033	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0033	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	mill	0033	#	#	#cv	#cv				
+sanzhi	mill	0033	0	0_people	0.h:a_cpa_cv	0	h	a_cpa_cv	501	
+sanzhi	mill	0033	hel	that	dem_pro:p	dem_pro		p	528	
+sanzhi	mill	0033	=ra	=and	=other	=other				
+sanzhi	mill	0033	ʁina ʁina	spoil	other:lvc	other		lvc		
+sanzhi	mill	0033	b-arq'-ib-le	N-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0033	#	#	#cv	#cv				
+sanzhi	mill	0033	0	0_people	0.h:a_cpa_cv	0	h	a_cpa_cv	501	
+sanzhi	mill	0033	0	0_mill	0:p	0		p	515	
+sanzhi	mill	0033	zaja	spoil	other:lvc	other		lvc		
+sanzhi	mill	0033	b-arq'-ib-le	N-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0033	#	#	##	##				
+sanzhi	mill	0033	0	0_people	0.h:a_cpa	0	h	a_cpa	501	
+sanzhi	mill	0033	urχːab	mill	np:p	np		p	515	
+sanzhi	mill	0033	zaja	spoil	other:lvc	other		lvc		
+sanzhi	mill	0033	b-arq'-ib	N-do.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0033	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0034	#	#	#ac	#ac				
+sanzhi	mill	0034	wat'	well	other	other				
+sanzhi	mill	0034	0	0_people	0.h:a_cpa	0	h	a_cpa	501	
+sanzhi	mill	0034	urχːab	mill	np:p	np		p	515	
+sanzhi	mill	0034	zaja	spoil	other:lvc	other		lvc		
+sanzhi	mill	0034	b-arq'-ib-la	N-do.PFV-PRET-POST	v:pred	v		pred		
+sanzhi	mill	0034	hitːi	after	adp	adp				
+sanzhi	mill	0034	#	#	##ds	##ds				
+sanzhi	mill	0034	na	now	other	other				
+sanzhi	mill	0034	ce	what	intrg_other:p	intrg_other		p		
+sanzhi	mill	0034	b-irq'-u	N-do.IPFV-PRS	v:pred	v		pred		
+sanzhi	mill	0034	=ja	=Q	=other	=other				
+sanzhi	mill	0034	iltːa-l	3PL-ERG	dem_pro.h:a	dem_pro	h	a	501	
+sanzhi	mill	0034	#	#	#cv	#cv				
+sanzhi	mill	0034	xar	ask	other:lvc	other		lvc		
+sanzhi	mill	0034	b-irʁ-ul	N-ask.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0034	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0034	iltːa-l	3PL-ERG	dem_pro.h:a_ds_cps_cv	dem_pro	h	a_ds_cps_cv	501	
+sanzhi	mill	0035	#	#	##ds	##ds				
+sanzhi	mill	0035	#	#	#ds_cc_in:s	#ds_cc_in		s		
+sanzhi	mill	0035	cet'-le	how-ADVZ	other	other				
+sanzhi	mill	0035	0	0_people	0.h:a	0	h	a	501	
+sanzhi	mill	0035	0	0_that	0:p	0		p		
+sanzhi	mill	0035	b-arq'-ij	N-do.PFV-INF1	v:pred	v		pred		
+sanzhi	mill	0035	%	%	%	%				
+sanzhi	mill	0035	ʡaˁʁuni-le	needed-ADVZ	other:pred	other		pred		
+sanzhi	mill	0035	#	#	#cv	#cv				
+sanzhi	mill	0035	wallah	by.God	other	other				
+sanzhi	mill	0035	0	0_people	0.h:s_ds_cv	0	h	s_ds_cv	501	
+sanzhi	mill	0035	b-ik'-ul	HPL-say.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0035	ca-b	be-HPL	rv_aux	rv_aux				
+sanzhi	mill	0035	#	#	#ds_pc	#ds_pc				
+sanzhi	mill	0035	#	#	#rc_pc	#rc_pc				
+sanzhi	mill	0035	0	0_people	0.1:a_pc	0	1	a_pc	501	
+sanzhi	mill	0035	hin	water	np:p	np		p	530	bridging
+sanzhi	mill	0035	hitːir iʁ-an	turn.off.IPFV-PTCP	v:pred	v		pred		
+sanzhi	mill	0035	%	%	%	%				
+sanzhi	mill	0035	musːa	place	np:l	np		l	531	new
+sanzhi	mill	0035	0	0_people	0.1:a_pc	0	1	a_pc	501	
+sanzhi	mill	0035	0	0_mill	0:p	0		p	532	new
+sanzhi	mill	0035	b-irq'-an	N-do.IPFV-PTCP	v:pred	v		pred		
+sanzhi	mill	0035	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0035	#	#	#ds_ac_in	#ds_ac_in				
+sanzhi	mill	0035	#	#	#ds_cv	#ds_cv				
+sanzhi	mill	0035	deq'a	grain	np:s_cv	np		s_cv	502	
+sanzhi	mill	0035	ha-d-erχː-ur-re	upwards-NPL-fulfil.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0035	%	%	%	%				
+sanzhi	mill	0035	0	0_people	0.1:a_in	0	1	a_in	501	
+sanzhi	mill	0035	hin	water	np:p	np		p	530	
+sanzhi	mill	0035	hitːir aʁ-ij	turn.off.PFV-INF1	v:pred	v		pred		
+sanzhi	mill	0036	#	#	##	##				
+sanzhi	mill	0036	c'il	then	other	other				
+sanzhi	mill	0036	0	0_people	0.h:a	0	h	a	501	
+sanzhi	mill	0036	b-arq'-ib	N-do.PFV-PRET	v:pred	v		pred		
+sanzhi	mill	0036	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0036	hel	that	ln_dem	ln_dem				
+sanzhi	mill	0036	urχːab	mill	np:p	np		p	532	
+sanzhi	mill	0036	#	#	#cv	#cv				
+sanzhi	mill	0036	jangi	new	other	other				
+sanzhi	mill	0036	0	0_people	0.h:a_cv	0	h	a_cv	501	
+sanzhi	mill	0036	0	0_mill	0:p	0		p	532	
+sanzhi	mill	0036	či-b-arq'-ib-le	SPR-N-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0036	#	#	#cv	#cv				
+sanzhi	mill	0036	qar-re-r-ka	up-SPR-ABL-down	other:obl	other		obl		
+sanzhi	mill	0036	0	0_people	0.h:a_cv	0	h	a_cv	501	
+sanzhi	mill	0036	hin	water	np:p	np		p	530	
+sanzhi	mill	0036	hitːir iʁ-ul	turn.off.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0036	#	#	#cv	#cv				
+sanzhi	mill	0036	0	0_people	0.h:a_cv	0	h	a_cv	501	
+sanzhi	mill	0036	0	0	0:p	0		p		
+sanzhi	mill	0036	sa-kabirxː-ul	ANTE-put.IPFV-ICVB	v:pred	v		pred		
+sanzhi	mill	0036	#	#	#cv	#cv				
+sanzhi	mill	0036	0	0_people	0.h:a_cv	0	h	a_cv	501	
+sanzhi	mill	0036	b-arq'-ib-le	N-do.PFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0036	ca-b	be-N	rv_aux	rv_aux				
+sanzhi	mill	0036	urχːab	mill	np:p	np		p	532	
+sanzhi	mill	0037	#	#	#cv	#cv				
+sanzhi	mill	0037	c'il	then	other	other				
+sanzhi	mill	0037	0	0_mill	0:s_cv	0		s_cv	532	
+sanzhi	mill	0037	narmalna	normally[R]	other	other				
+sanzhi	mill	0037	d-uq'-un-ne	NPL-mill.IPFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0037	#	#	##	##				
+sanzhi	mill	0037	deq'a	grain	np:p	np		p	502	
+sanzhi	mill	0037	d-uq'-un-ne	NPL-mill.IPFV-PRET-CVB	v:pred	v		pred		
+sanzhi	mill	0037	d-už-ib	NPL-be-PRET	rv_aux	rv_aux				
+sanzhi	mill	0037	ca-d	be-NPL	rv_aux	rv_aux				
+sanzhi	mill	0037	urχːab-li	mill-ERG	np:a	np		a	532	
