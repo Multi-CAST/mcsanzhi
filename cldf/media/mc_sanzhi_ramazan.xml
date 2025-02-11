@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="1908">
     <corpus c_name="sanzhi">
         <text t_name="ramazan" annotators="Diana Forker, Nils Schiborr" speaker="SD04">
-            <file f_name="mc_sanzhi_ramazan" audio="mc_sanzhi_ramazan.wav" updated="2019-05-13">
+            <file f_name="mc_sanzhi_ramazan" audio="mc_sanzhi_ramazan.wav" updated="2019-08-15">
                 <unit uid="0001" start_time="0" end_time="7388">
                     <utterance_id>sanzhi_ramazan_0001</utterance_id>
                     <utterance>hajʁib caw karispendent kːazatla Tawluj ce barq'ij heχ</utterance>
@@ -2048,7 +2048,7 @@
                         <segment>
                             <gword>ciwilizacija</gword>
                             <gloss>civilization[R]</gloss>
-                            <graid>np:predex</graid>
+                            <graid>np:s</graid>
                         </segment>
                         <segment>
                             <gword>heltːu-b</gword>

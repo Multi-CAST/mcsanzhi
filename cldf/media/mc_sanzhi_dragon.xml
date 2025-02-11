@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="1908">
     <corpus c_name="sanzhi">
         <text t_name="dragon" annotators="Diana Forker, Nils Schiborr" speaker="SD02">
             <file f_name="mc_sanzhi_dragon" audio="mc_sanzhi_dragon.wav" updated="2019-05-26">
